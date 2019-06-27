@@ -1,0 +1,2156 @@
+[2018-11-05 14:00:49] ShadowsocksR started on port 1080
+[2018-11-05 14:00:50] [Info] Connect srv.carbonads.net:443
+[2018-11-05 14:00:54] [Info] Connect cdn4.buysellads.net:443
+[2018-11-05 14:00:58] [Info] Connect pixabay.com:443
+[2018-11-05 14:00:58] [Info] Connect clients1.google.com:443
+[2018-11-05 14:00:59] [Info] Connect raw.githubusercontent.com:443
+[2018-11-05 14:01:03] [Info] Disconnect srv.carbonads.net:443
+[2018-11-05 14:01:08] [Info] Disconnect cdn4.buysellads.net:443
+[2018-11-05 14:01:10] [Info] Connect connect.facebook.net:443
+[2018-11-05 14:01:10] [Info] Connect platform.twitter.com:443
+[2018-11-05 14:01:10] [Info] Connect platform.twitter.com:443
+[2018-11-05 14:01:10] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-11-05 14:01:10] [Info] Connect www.google.com:443
+[2018-11-05 14:01:10] [Info] Connect www.facebook.com:443
+[2018-11-05 14:01:11] [Info] Connect syndication.twitter.com:443
+[2018-11-05 14:01:11] [Info] Connect cdn.syndication.twimg.com:443
+[2018-11-05 14:01:12] [Info] Direct connect www.gstatic.com:443
+[2018-11-05 14:01:14] [Info] Connect staticxx.facebook.com:443
+[2018-11-05 14:01:17] [Info] Connect beacons2.gvt2.com:443
+[2018-11-05 14:01:18] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-05 14:01:18] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-05 14:01:26] [Info] Disconnect platform.twitter.com:443
+[2018-11-05 14:01:26] [Info] Connect srv.carbonads.net:443
+[2018-11-05 14:01:26] [Info] Connect pixabay.com:443
+[2018-11-05 14:01:26] [Info] Connect cdn.carbonads.com:443
+[2018-11-05 14:01:26] [Info] Connect cdn4.buysellads.net:443
+[2018-11-05 14:01:26] [Info] Connect cdn.pixabay.com:443
+[2018-11-05 14:01:26] [Info] Connect image.shutterstock.com:443
+[2018-11-05 14:01:26] [Info] Connect ajax.googleapis.com:443
+[2018-11-05 14:01:36] [Info] Disconnect image.shutterstock.com:443
+[2018-11-05 14:01:37] [Info] Disconnect srv.carbonads.net:443
+[2018-11-05 14:01:41] [Info] Connect www.google.com.hk:443
+[2018-11-05 14:01:41] [Info] Disconnect cdn.pixabay.com:443
+[2018-11-05 14:01:41] [Info] Disconnect cdn.carbonads.com:443
+[2018-11-05 14:01:41] [Info] Disconnect cdn4.buysellads.net:443
+[2018-11-05 14:01:41] [Info] Disconnect ajax.googleapis.com:443
+[2018-11-05 14:01:41] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:01:41] [Info] Direct connect ssl.gstatic.com:443
+[2018-11-05 14:01:42] [Info] Connect clients5.google.com:443
+[2018-11-05 14:01:43] [Info] Connect lh3.googleusercontent.com:443
+[2018-11-05 14:01:43] [Info] Connect accounts.google.com:443
+[2018-11-05 14:01:43] [Info] Connect ogs.google.com:443
+[2018-11-05 14:01:43] [Info] Connect s2.googleusercontent.com:443
+[2018-11-05 14:01:46] [Info] Connect pixabay.com:443
+[2018-11-05 14:01:46] [Info] Connect cdn.pixabay.com:443
+[2018-11-05 14:01:46] [Info] Connect ajax.googleapis.com:443
+[2018-11-05 14:01:46] [Info] Connect cdn4.buysellads.net:443
+[2018-11-05 14:01:46] [Info] Connect srv.carbonads.net:443
+[2018-11-05 14:01:46] [Info] Connect cdn.carbonads.com:443
+[2018-11-05 14:01:48] [Info] Connect pixabay.com:443
+[2018-11-05 14:01:52] [Info] Connect clients4.google.com:443
+[2018-11-05 14:01:57] [Info] Disconnect srv.carbonads.net:443
+[2018-11-05 14:01:57] [Info] Connect pixabay.com:443
+[2018-11-05 14:01:58] [Info] Disconnect cdn.carbonads.com:443
+[2018-11-05 14:01:58] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:01:58] [Info] Disconnect cdn4.buysellads.net:443
+[2018-11-05 14:02:09] [Info] Connect pixabay.com:443
+[2018-11-05 14:02:09] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:02:15] [Info] Disconnect connect.facebook.net:443
+[2018-11-05 14:02:16] [Info] Connect image.shutterstock.com:443
+[2018-11-05 14:02:16] [Info] Connect srv.carbonads.net:443
+[2018-11-05 14:02:17] [Info] Disconnect www.facebook.com:443
+[2018-11-05 14:02:18] [Info] Connect cdn4.buysellads.net:443
+[2018-11-05 14:02:19] [Info] Connect www.facebook.com:443
+[2018-11-05 14:02:20] [Info] Disconnect staticxx.facebook.com:443
+[2018-11-05 14:02:20] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:02:28] [Info] Disconnect srv.carbonads.net:443
+[2018-11-05 14:02:36] [Info] Connect srv.carbonads.net:443
+[2018-11-05 14:02:36] [Info] Connect cdn.carbonads.com:443
+[2018-11-05 14:02:36] [Info] Connect pixabay.com:443
+[2018-11-05 14:02:36] [Info] Connect connect.facebook.net:443
+[2018-11-05 14:02:37] [Info] Connect www.googleapis.com:443
+[2018-11-05 14:02:38] [Info] Connect clients4.google.com:443
+[2018-11-05 14:02:39] [Info] Disconnect raw.githubusercontent.com:443
+[2018-11-05 14:02:47] [Info] Connect google.com:443
+[2018-11-05 14:02:49] [Info] Connect pixabay.com:443
+[2018-11-05 14:02:49] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:02:49] [Info] Disconnect cdn.carbonads.com:443
+[2018-11-05 14:02:49] [Info] Disconnect connect.facebook.net:443
+[2018-11-05 14:02:49] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:02:53] [Info] Disconnect srv.carbonads.net:443
+[2018-11-05 14:02:59] [Info] Disconnect clients1.google.com:443
+[2018-11-05 14:03:03] [Info] Connect pixabay.com:443
+[2018-11-05 14:03:03] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:03:09] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-05 14:03:13] [Info] Disconnect cdn.syndication.twimg.com:443
+[2018-11-05 14:03:19] [Info] Disconnect beacons2.gvt2.com:443
+[2018-11-05 14:03:23] [Info] Connect pixabay.com:443
+[2018-11-05 14:03:23] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:03:24] [Info] Connect srv.carbonads.net:443
+[2018-11-05 14:03:28] [Info] Connect cdn.carbonads.com:443
+[2018-11-05 14:03:28] [Info] Connect connect.facebook.net:443
+[2018-11-05 14:03:35] [Info] Disconnect srv.carbonads.net:443
+[2018-11-05 14:03:42] [Info] Connect pixabay.com:443
+[2018-11-05 14:03:43] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:03:43] [Info] Disconnect cdn.carbonads.com:443
+[2018-11-05 14:03:43] [Info] Disconnect connect.facebook.net:443
+[2018-11-05 14:03:43] [Info] Disconnect clients5.google.com:443
+[2018-11-05 14:03:45] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-11-05 14:03:49] [Info] Disconnect ajax.googleapis.com:443
+[2018-11-05 14:03:51] [Info] Connect srv.carbonads.net:443
+[2018-11-05 14:03:51] [Info] Connect thumb9.shutterstock.com:443
+[2018-11-05 14:03:51] [Info] Connect thumb9.shutterstock.com:443
+[2018-11-05 14:03:51] [Info] Connect thumb9.shutterstock.com:443
+[2018-11-05 14:03:51] [Info] Connect thumb7.shutterstock.com:443
+[2018-11-05 14:03:51] [Info] Connect thumb9.shutterstock.com:443
+[2018-11-05 14:03:52] [Info] Disconnect thumb9.shutterstock.com:443
+[2018-11-05 14:03:52] [Info] Disconnect thumb9.shutterstock.com:443
+[2018-11-05 14:03:52] [Info] Connect thumb7.shutterstock.com:443
+[2018-11-05 14:03:55] [Info] Connect pixabay.com:443
+[2018-11-05 14:03:55] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:03:55] [Info] Disconnect clients4.google.com:443
+[2018-11-05 14:04:02] [Info] Disconnect thumb9.shutterstock.com:443
+[2018-11-05 14:04:02] [Info] Disconnect srv.carbonads.net:443
+[2018-11-05 14:04:02] [Info] Connect impde.tradedoubler.com:443
+[2018-11-05 14:04:02] [Info] Disconnect thumb7.shutterstock.com:443
+[2018-11-05 14:04:04] [Info] Connect img.tradedoubler.com:443
+[2018-11-05 14:04:05] [Info] Connect pixabay.com:443
+[2018-11-05 14:04:05] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:04:15] [Info] Connect srv.carbonads.net:443
+[2018-11-05 14:04:19] [Info] Connect cdn.carbonads.com:443
+[2018-11-05 14:04:25] [Info] Disconnect srv.carbonads.net:443
+[2018-11-05 14:04:27] [Info] Disconnect www.google.com:443
+[2018-11-05 14:04:31] [Info] Disconnect cdn.carbonads.com:443
+[2018-11-05 14:04:38] [Info] Connect srv.carbonads.net:443
+[2018-11-05 14:04:39] [Info] Disconnect www.googleapis.com:443
+[2018-11-05 14:04:41] [Info] Disconnect clients4.google.com:443
+[2018-11-05 14:04:43] [Info] Disconnect accounts.google.com:443
+[2018-11-05 14:04:49] [Info] Disconnect srv.carbonads.net:443
+[2018-11-05 14:04:49] [Info] Connect srv.carbonads.net:443
+[2018-11-05 14:04:55] [Info] Disconnect s2.googleusercontent.com:443
+[2018-11-05 14:04:57] [Info] Disconnect ogs.google.com:443
+[2018-11-05 14:04:57] [Info] Disconnect www.google.com.hk:443
+[2018-11-05 14:05:00] [Info] Disconnect srv.carbonads.net:443
+[2018-11-05 14:05:07] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:05:11] [Info] Connect pixabay.com:443
+[2018-11-05 14:05:11] [Info] Disconnect google.com:443
+[2018-11-05 14:05:12] [Info] Connect srv.carbonads.net:443
+[2018-11-05 14:05:13] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-05 14:05:22] [Info] Disconnect srv.carbonads.net:443
+[2018-11-05 14:05:31] [Info] Connect pixabay.com:443
+[2018-11-05 14:05:31] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:05:46] [Info] Connect beacons5.gvt2.com:443
+[2018-11-05 14:05:48] [Info] Disconnect beacons5.gvt2.com:443
+[2018-11-05 14:05:48] [Info] Connect beacons5.gvt2.com:443
+[2018-11-05 14:05:48] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:05:48] [Info] Disconnect beacons5.gvt2.com:443
+[2018-11-05 14:05:51] [Info] Connect pixabay.com:443
+[2018-11-05 14:05:52] [Info] Connect srv.carbonads.net:443
+[2018-11-05 14:05:59] [Info] Connect raw.githubusercontent.com:443
+[2018-11-05 14:06:03] [Info] Disconnect srv.carbonads.net:443
+[2018-11-05 14:06:04] [Info] Disconnect img.tradedoubler.com:443
+[2018-11-05 14:06:08] [Info] Disconnect impde.tradedoubler.com:443
+[2018-11-05 14:06:15] [Info] Disconnect thumb7.shutterstock.com:443
+[2018-11-05 14:06:15] [Info] Disconnect thumb9.shutterstock.com:443
+[2018-11-05 14:06:43] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:06:45] [Info] Direct connect beacons.gvt2.com:443
+[2018-11-05 14:06:57] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:06:58] [Info] Disconnect www.facebook.com:443
+[2018-11-05 14:07:19] [Info] Connect android.clients.google.com:443
+[2018-11-05 14:07:29] [Info] Connect clients4.google.com:443
+[2018-11-05 14:07:39] [Info] Disconnect raw.githubusercontent.com:443
+[2018-11-05 14:07:44] [Info] Connect beacons4.gvt2.com:443
+[2018-11-05 14:07:52] [Info] Disconnect image.shutterstock.com:443
+[2018-11-05 14:07:54] [Info] Disconnect cdn.pixabay.com:443
+[2018-11-05 14:07:54] [Info] Disconnect cdn4.buysellads.net:443
+[2018-11-05 14:07:58] [Info] Disconnect syndication.twitter.com:443
+[2018-11-05 14:07:58] [Info] Disconnect platform.twitter.com:443
+[2018-11-05 14:08:20] [Info] Connect www.google.com.hk:443
+[2018-11-05 14:08:21] [Info] Connect pixabay.com:443
+[2018-11-05 14:08:21] [Info] Connect pixabay.com:443
+[2018-11-05 14:08:21] [Info] Connect cdn.pixabay.com:443
+[2018-11-05 14:09:21] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:09:21] [Info] Disconnect pixabay.com:443
+[2018-11-05 14:09:22] [Info] Disconnect android.clients.google.com:443
+[2018-11-05 14:09:23] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:09:30] [Info] Connect clients2.google.com:443
+[2018-11-05 14:09:30] [Info] Disconnect cdn.pixabay.com:443
+[2018-11-05 14:09:32] [Info] Disconnect clients4.google.com:443
+[2018-11-05 14:09:42] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:09:42] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:09:48] [Info] Disconnect beacons4.gvt2.com:443
+[2018-11-05 14:10:26] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:10:26] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:10:31] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:10:31] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:10:36] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:10:37] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:10:40] [Info] Disconnect www.google.com.hk:443
+[2018-11-05 14:10:47] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:10:47] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:10:53] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:10:53] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:11:14] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:11:14] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:11:32] [Info] Disconnect clients2.google.com:443
+[2018-11-05 14:11:32] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:11:33] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:11:37] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:11:38] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:11:40] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:11:40] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:11:40] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:12:20] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:12:20] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:12:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:12:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:12:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:12:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:12:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:12:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:12:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:12:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:12:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:12:31] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-05 14:12:32] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-05 14:12:32] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-05 14:12:32] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-05 14:12:33] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:12:33] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:12:34] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:12:34] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:12:35] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:12:35] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:12:35] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:12:35] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:12:36] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:12:37] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:12:42] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-05 14:12:43] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:12:47] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:12:47] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:13:42] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-05 14:14:58] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:14:58] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:15:11] [Info] Connect clients4.google.com:443
+[2018-11-05 14:15:22] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:15:22] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:15:25] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-05 14:15:49] [Info] Direct connect clientservices.googleapis.com:443
+[2018-11-05 14:16:55] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:17:00] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:17:12] [Info] Disconnect clients4.google.com:443
+[2018-11-05 14:18:25] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:18:25] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:18:35] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:18:35] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:18:35] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:18:35] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:18:35] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:18:35] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:18:35] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:18:35] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:18:35] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:18:38] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:18:38] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:18:38] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:18:40] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:18:41] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:18:43] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:18:48] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:19:30] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:19:30] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:19:31] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:20:31] [Info] Connect clients4.google.com:443
+[2018-11-05 14:20:32] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:22:33] [Info] Disconnect clients4.google.com:443
+[2018-11-05 14:22:49] [Info] Direct connect intf-pc.ludashi.com:80
+[2018-11-05 14:24:21] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:24:21] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:24:53] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:25:25] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-05 14:26:23] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:26:23] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:26:23] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:26:38] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-05 14:26:38] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:26:39] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-05 14:26:39] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-05 14:26:40] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-05 14:26:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:26:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:26:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:26:41] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:26:41] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:26:41] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:26:42] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:26:42] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:26:43] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:26:43] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 14:26:49] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:26:49] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:28:22] [Info] Direct connect intf-pc.ludashi.com:80
+[2018-11-05 14:28:48] [Info] Connect www.google.com.hk:443
+[2018-11-05 14:28:49] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:28:49] [Info] Connect s2.googleusercontent.com:443
+[2018-11-05 14:28:49] [Info] Connect www.google.com.hk:443
+[2018-11-05 14:28:49] [Info] Connect ogs.google.com:443
+[2018-11-05 14:28:50] [Info] Connect beacons5.gvt2.com:443
+[2018-11-05 14:28:52] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:28:52] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:28:52] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:28:58] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:29:02] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:29:02] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:29:04] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:29:04] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:29:04] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:29:04] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:29:13] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:29:13] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:29:13] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:29:16] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:29:17] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:29:50] [Info] Direct connect beacons.gvt2.com:443
+[2018-11-05 14:30:05] [Info] Direct connect update.googleapis.com:443
+[2018-11-05 14:30:16] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:30:16] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:30:16] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:30:24] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:30:24] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:30:27] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:30:27] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:30:50] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-11-05 14:30:50] [Info] Connect clients2.google.com:443
+[2018-11-05 14:30:51] [Info] Disconnect s2.googleusercontent.com:443
+[2018-11-05 14:30:51] [Info] Disconnect ogs.google.com:443
+[2018-11-05 14:30:53] [Info] Disconnect beacons5.gvt2.com:443
+[2018-11-05 14:30:57] [Info] Disconnect www.google.com.hk:443
+[2018-11-05 14:31:50] [Info] Connect beacons5.gvt2.com:443
+[2018-11-05 14:31:54] [Info] Disconnect beacons5.gvt2.com:443
+[2018-11-05 14:32:25] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:32:32] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:32:33] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:32:43] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:32:45] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:32:45] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:32:45] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:32:45] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:32:45] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:32:50] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:32:51] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:32:51] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:33:09] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-05 14:33:50] [Info] Connect beacons5.gvt2.com:443
+[2018-11-05 14:33:51] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:33:51] [Info] Disconnect www.google.com.hk:443
+[2018-11-05 14:33:52] [Info] Disconnect beacons5.gvt2.com:443
+[2018-11-05 14:33:52] [Info] Connect beacons5.gvt2.com:443
+[2018-11-05 14:34:51] [Info] Disconnect clients2.google.com:443
+[2018-11-05 14:35:25] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-05 14:35:54] [Info] Disconnect beacons5.gvt2.com:443
+[2018-11-05 14:37:47] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:37:47] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:37:47] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:37:47] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:38:17] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:38:17] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:38:44] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:38:44] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:38:44] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:38:46] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:39:37] [Info] Connect www.google.com.hk:443
+[2018-11-05 14:39:47] [Info] Disconnect www.google.com.hk:443
+[2018-11-05 14:39:48] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:39:50] [Info] Connect www.google.com.hk:443
+[2018-11-05 14:40:10] [Info] Connect clients4.google.com:443
+[2018-11-05 14:41:51] [Info] Connect www.google.com.hk:443
+[2018-11-05 14:41:52] [Info] Disconnect www.google.com.hk:443
+[2018-11-05 14:42:12] [Info] Disconnect clients4.google.com:443
+[2018-11-05 14:42:52] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:43:01] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:43:01] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:43:05] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:43:06] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:43:10] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:43:31] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 101.132.176.203:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-11-05 14:43:52] [Info] Disconnect www.google.com.hk:443
+[2018-11-05 14:43:57] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:44:38] [Info] Connect beacons2.gvt2.com:443
+[2018-11-05 14:44:39] [Info] Connect www.google.com.hk:443
+[2018-11-05 14:44:39] [Info] Connect s2.googleusercontent.com:443
+[2018-11-05 14:44:39] [Info] Connect ogs.google.com:443
+[2018-11-05 14:44:40] [Info] Direct connect ss0.bdstatic.com:443
+[2018-11-05 14:44:40] [Info] Direct connect ss2.bdstatic.com:443
+[2018-11-05 14:45:11] [Info] Connect clients4.google.com:443
+[2018-11-05 14:45:25] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-05 14:45:39] [Info] Direct connect beacons3.gvt2.com:443
+[2018-11-05 14:45:39] [Info] Connect www.google.com.hk:443
+[2018-11-05 14:45:39] [Info] Connect beacons5.gvt3.com:443
+[2018-11-05 14:45:48] [Info] Direct connect clientservices.googleapis.com:443
+[2018-11-05 14:45:54] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:45:54] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:45:54] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:45:56] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:45:56] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:45:59] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:46:03] [Info] Direct connect updatem.360safe.com:80
+[2018-11-05 14:46:03] [Info] Direct connect src.dl.360safe.com:80
+[2018-11-05 14:46:19] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:46:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:46:38] [Info] Connect clients2.google.com:443
+[2018-11-05 14:46:38] [Info] Connect beacons5.gvt2.com:443
+[2018-11-05 14:46:38] [Info] Connect beacons4.gvt2.com:443
+[2018-11-05 14:46:39] [Info] Disconnect beacons5.gvt2.com:443
+[2018-11-05 14:46:39] [Info] Connect beacons5.gvt2.com:443
+[2018-11-05 14:46:40] [Info] Disconnect beacons5.gvt2.com:443
+[2018-11-05 14:46:40] [Info] Disconnect beacons2.gvt2.com:443
+[2018-11-05 14:47:12] [Info] Disconnect clients4.google.com:443
+[2018-11-05 14:47:38] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-11-05 14:47:38] [Info] Connect beacons2.gvt2.com:443
+[2018-11-05 14:47:38] [Info] Connect beacons5.gvt2.com:443
+[2018-11-05 14:47:42] [Info] Disconnect beacons5.gvt2.com:443
+[2018-11-05 14:47:42] [Info] Connect beacons5.gvt2.com:443
+[2018-11-05 14:47:42] [Info] Disconnect beacons5.gvt3.com:443
+[2018-11-05 14:47:43] [Info] Disconnect beacons5.gvt2.com:443
+[2018-11-05 14:47:50] [Info] Disconnect s2.googleusercontent.com:443
+[2018-11-05 14:47:52] [Info] Disconnect ogs.google.com:443
+[2018-11-05 14:47:52] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:47:53] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:47:54] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:47:57] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:47:58] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:02] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:03] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:08] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:09] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:13] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:13] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:18] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:18] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:28] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:29] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:33] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:34] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:40] [Info] Disconnect clients2.google.com:443
+[2018-11-05 14:48:40] [Info] Disconnect beacons4.gvt2.com:443
+[2018-11-05 14:48:49] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:51] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:51] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:48:51] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:48:57] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:48:57] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:49:15] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2018-11-05 14:49:15] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2018-11-05 14:49:15] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2018-11-05 14:49:15] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2018-11-05 14:49:15] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2018-11-05 14:49:16] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2018-11-05 14:49:16] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2018-11-05 14:49:16] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2018-11-05 14:49:16] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2018-11-05 14:49:16] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2018-11-05 14:49:22] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:49:22] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:49:22] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:49:22] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:49:23] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2018-11-05 14:49:36] [Info] Disconnect www.google.com.hk:443
+[2018-11-05 14:49:40] [Info] Disconnect www.google.com.hk:443
+[2018-11-05 14:49:44] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:49:44] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:49:44] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:50:41] [Info] Disconnect beacons2.gvt2.com:443
+[2018-11-05 14:50:44] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:50:44] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:50:44] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:50:47] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:51:45] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:52:25] [Info] Connect www.google.com.hk:443
+[2018-11-05 14:53:13] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:53:22] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:53:22] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:53:27] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:53:28] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:53:28] [Info] Direct connect intf-pc.ludashi.com:80
+[2018-11-05 14:53:31] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:53:32] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:53:36] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:53:37] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:53:40] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:53:41] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:53:45] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:53:47] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:53:55] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:53:56] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:06] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:07] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:15] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:16] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:19] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:19] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:54:19] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 14:54:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:20] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:27] [Info] Disconnect www.google.com.hk:443
+[2018-11-05 14:54:35] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:39] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:47] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:54:47] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:50] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:51] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:51] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:51] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:51] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:51] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:51] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:51] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:51] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:54:51] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:08] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:55:08] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:08] [Info] Connect clients1.google.com:443
+[2018-11-05 14:55:13] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:14] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:14] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:14] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:14] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:14] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:14] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:14] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:14] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:14] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:14] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:15] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:16] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:17] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:19] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:55:19] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:25] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-05 14:55:29] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:29] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:55:30] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:30] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:30] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:31] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:31] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:31] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:31] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:31] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:31] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:31] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:55:32] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 14:56:21] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 14:57:09] [Info] Disconnect clients1.google.com:443
+[2018-11-05 14:58:51] [Info] Connect clients4.google.com:443
+[2018-11-05 14:59:54] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 14:59:54] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:00:36] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 15:00:51] [Info] Disconnect clients4.google.com:443
+[2018-11-05 15:01:23] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 15:01:23] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 15:01:23] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 15:01:23] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 15:01:23] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 15:01:23] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 15:01:23] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 15:01:23] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 15:01:23] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 15:01:24] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 15:01:24] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 15:01:24] [Info] Direct connect demo.dmfly.xin:80
+[2018-11-05 15:02:14] [Info] Connect pixabay.com:443
+[2018-11-05 15:02:14] [Info] Connect pixabay.com:443
+[2018-11-05 15:02:15] [Info] Connect cdn.pixabay.com:443
+[2018-11-05 15:03:04] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-05 15:03:16] [Info] Disconnect pixabay.com:443
+[2018-11-05 15:03:17] [Info] Disconnect pixabay.com:443
+[2018-11-05 15:03:25] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:04:22] [Info] Disconnect cdn.pixabay.com:443
+[2018-11-05 15:05:25] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-05 15:06:59] [Info] Connect www.google.com.hk:443
+[2018-11-05 15:07:37] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-05 15:07:38] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-05 15:07:39] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:07:39] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:07:39] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-05 15:07:39] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-05 15:07:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:07:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:07:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:07:41] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:07:41] [Info] Connect clients1.google.com:443
+[2018-11-05 15:07:41] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:07:41] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:07:42] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:07:42] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-05 15:07:43] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:07:43] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:07:44] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:07:44] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:07:47] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:07:49] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-05 15:07:54] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-05 15:08:35] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2018-11-05 15:08:36] [Info] Direct connect s5.ssl.qhres.com:443
+[2018-11-05 15:08:37] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2018-11-05 15:08:37] [Info] Direct connect s3.ssl.qhres.com:443
+[2018-11-05 15:08:37] [Info] Direct connect beacon.tingyun.com:443
+[2018-11-05 15:08:40] [Info] Direct connect s0.ssl.qhres.com:443
+[2018-11-05 15:08:40] [Info] Direct connect s2.ssl.qhres.com:443
+[2018-11-05 15:08:49] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-05 15:08:51] [Info] Connect clients4.google.com:443
+[2018-11-05 15:09:02] [Info] Disconnect www.google.com.hk:443
+[2018-11-05 15:09:19] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:09:19] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 15:09:44] [Info] Disconnect clients1.google.com:443
+[2018-11-05 15:10:03] [Info] Direct connect s1.milkjpg.com:443
+[2018-11-05 15:10:39] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 15:10:52] [Info] Disconnect clients4.google.com:443
+[2018-11-05 15:11:14] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 15:11:20] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:11:51] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-11-05 15:12:37] [Info] Connect clients2.google.com:443
+[2018-11-05 15:13:37] [Info] Connect beacons4.gvt2.com:443
+[2018-11-05 15:14:40] [Info] Disconnect clients2.google.com:443
+[2018-11-05 15:15:11] [Info] Connect clients4.google.com:443
+[2018-11-05 15:15:25] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-05 15:15:31] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 15:15:31] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:15:40] [Info] Disconnect beacons4.gvt2.com:443
+[2018-11-05 15:15:48] [Info] Direct connect clientservices.googleapis.com:443
+[2018-11-05 15:17:05] [Info] Direct connect fex.bdstatic.com:443
+[2018-11-05 15:17:05] [Info] Direct connect gss0.bdstatic.com:443
+[2018-11-05 15:17:05] [Info] Direct connect gh.bdstatic.com:443
+[2018-11-05 15:17:05] [Info] Direct connect ss1.bdstatic.com:443
+[2018-11-05 15:17:13] [Info] Disconnect clients4.google.com:443
+[2018-11-05 15:17:47] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:19:45] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 15:19:45] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:20:02] [Info] Direct connect ss2.bdstatic.com:443
+[2018-11-05 15:20:02] [Info] Direct connect ss1.bdstatic.com:443
+[2018-11-05 15:20:02] [Info] Direct connect ss0.bdstatic.com:443
+[2018-11-05 15:20:03] [Info] Direct connect img1.bdstatic.com:443
+[2018-11-05 15:20:03] [Info] Direct connect img2.bdstatic.com:443
+[2018-11-05 15:20:03] [Info] Direct connect img0.bdstatic.com:443
+[2018-11-05 15:20:07] [Info] Direct connect ss3.bdstatic.com:443
+[2018-11-05 15:20:11] [Info] Direct connect gss0.bdstatic.com:443
+[2018-11-05 15:21:40] [Info] Connect clients4.google.com:443
+[2018-11-05 15:21:47] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:22:05] [Info] Direct connect ss0.bdstatic.com:443
+[2018-11-05 15:22:05] [Info] Direct connect ss1.bdstatic.com:443
+[2018-11-05 15:22:05] [Info] Direct connect ss2.bdstatic.com:443
+[2018-11-05 15:22:05] [Info] Direct connect img0.bdstatic.com:443
+[2018-11-05 15:22:05] [Info] Direct connect www.googletagservices.com:443
+[2018-11-05 15:22:05] [Info] Connect www.google.com:443
+[2018-11-05 15:22:05] [Info] Direct connect adservice.google.com:443
+[2018-11-05 15:22:05] [Info] Connect www.google.com.hk:443
+[2018-11-05 15:23:41] [Info] Disconnect clients4.google.com:443
+[2018-11-05 15:23:51] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:23:51] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 15:23:51] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-11-05 15:24:05] [Info] Direct connect clientservices.googleapis.com:443
+[2018-11-05 15:24:07] [Info] Disconnect www.google.com.hk:443
+[2018-11-05 15:24:07] [Info] Disconnect www.google.com:443
+[2018-11-05 15:25:25] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-05 15:26:43] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:26:44] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 15:26:44] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:27:28] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 15:30:48] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:30:48] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:33:29] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-05 15:35:37] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-05 15:38:01] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:38:31] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:41:49] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:43:14] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:43:14] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 15:43:52] [Info] Connect clients4.google.com:443
+[2018-11-05 15:44:40] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:44:40] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:45:09] [Info] Direct connect intf-pc.ludashi.com:80
+[2018-11-05 15:45:09] [Info] Direct connect oth.ludashi.com:80
+[2018-11-05 15:45:11] [Info] Connect clients4.google.com:443
+[2018-11-05 15:45:25] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-05 15:45:48] [Info] Direct connect clientservices.googleapis.com:443
+[2018-11-05 15:45:53] [Info] Disconnect clients4.google.com:443
+[2018-11-05 15:45:54] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:45:55] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:45:58] [Info] Connect clients4.google.com:443
+[2018-11-05 15:47:05] [Info] Direct connect updatem.360safe.com:80
+[2018-11-05 15:47:05] [Info] Direct connect src.dl.360safe.com:80
+[2018-11-05 15:48:49] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:48:51] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:48:59] [Info] Disconnect clients4.google.com:443
+[2018-11-05 15:51:00] [Info] Disconnect clients4.google.com:443
+[2018-11-05 15:52:15] [Info] Connect clients4.google.com:443
+[2018-11-05 15:52:56] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:53:49] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:55:25] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-05 15:55:50] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:55:57] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:55:58] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:55:58] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:57:17] [Info] Disconnect clients4.google.com:443
+[2018-11-05 15:58:02] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 15:59:05] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 15:59:05] [Info] Direct connect cdn.bootcss.com:443
+[2018-11-05 16:00:23] [Info] Connect clients4.google.com:443
+[2018-11-05 16:02:12] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 16:02:19] [Info] Connect avatars1.githubusercontent.com:443
+[2018-11-05 16:02:30] [Info] Disconnect clients4.google.com:443
+[2018-11-05 16:02:30] [Info] Connect clients4.google.com:443
+[2018-11-05 16:02:40] [Info] Connect www.googleapis.com:443
+[2018-11-05 16:02:40] [Info] Connect www.google.com.hk:443
+[2018-11-05 16:02:43] [Info] Connect cuscochromeextension-pa.googleapis.com:443
+[2018-11-05 16:03:00] [Info] Disconnect www.google.com.hk:443
+[2018-11-05 16:03:00] [Info] Disconnect clients4.google.com:443
+[2018-11-05 16:03:00] [Info] Disconnect www.googleapis.com:443
+[2018-11-05 16:03:00] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-11-05 16:03:00] [Info] Disconnect cuscochromeextension-pa.googleapis.com:443
+[2018-11-08 14:48:35] ShadowsocksR started on port 1080
+[2018-11-08 14:48:40] [Info] Connect android.clients.google.com:443
+[2018-11-08 14:48:41] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-11-08 14:48:45] [Info] Connect raw.githubusercontent.com:443
+[2018-11-08 14:48:45] [Info] Connect www.google.com.hk:443
+[2018-11-08 14:48:46] [Info] Direct connect ssl.gstatic.com:443
+[2018-11-08 14:48:46] [Info] Direct connect www.gstatic.com:443
+[2018-11-08 14:48:46] [Info] Connect lh3.googleusercontent.com:443
+[2018-11-08 14:48:46] [Info] Connect clients5.google.com:443
+[2018-11-08 14:48:46] [Info] Connect ogs.google.com:443
+[2018-11-08 14:48:46] [Info] Direct connect ss0.bdstatic.com:443
+[2018-11-08 14:48:47] [Info] Direct connect ss3.bdstatic.com:443
+[2018-11-08 14:48:47] [Info] Direct connect ss1.bdstatic.com:443
+[2018-11-08 14:48:47] [Info] Direct connect ssl.gstatic.com:443
+[2018-11-08 14:48:50] [Info] Connect apis.google.com:443
+[2018-11-08 14:48:53] [Info] Connect chrome.en.softonic.com:443
+[2018-11-08 14:48:54] [Info] Connect sc.sftcdn.net:443
+[2018-11-08 14:48:54] [Info] Connect sc.sftcdn.net:443
+[2018-11-08 14:48:54] [Info] Connect chrome.en.softonic.com:443
+[2018-11-08 14:48:54] [Info] Connect sc.sftcdn.net:443
+[2018-11-08 14:48:55] [Info] Disconnect sc.sftcdn.net:443
+[2018-11-08 14:48:57] [Info] Direct connect www.googletagmanager.com:443
+[2018-11-08 14:48:57] [Info] Direct connect adservice.google.com:443
+[2018-11-08 14:48:57] [Info] Connect static.criteo.net:443
+[2018-11-08 14:48:57] [Info] Connect fastlane.rubiconproject.com:443
+[2018-11-08 14:48:57] [Info] Connect en.softonic.com:443
+[2018-11-08 14:48:57] [Info] Connect en.softonic.com:443
+[2018-11-08 14:48:57] [Info] Connect connect.facebook.net:443
+[2018-11-08 14:48:58] [Info] Connect bidder.criteo.com:443
+[2018-11-08 14:48:58] [Info] Connect as-sec.casalemedia.com:443
+[2018-11-08 14:48:58] [Info] Connect www.anrdoezrs.net:443
+[2018-11-08 14:48:58] [Info] Connect cdn.viglink.com:443
+[2018-11-08 14:48:58] [Info] Connect a.optnmstr.com:443
+[2018-11-08 14:48:58] [Info] Connect www.google.com:443
+[2018-11-08 14:48:58] [Info] Direct connect fonts.googleapis.com:443
+[2018-11-08 14:48:58] [Info] Disconnect as-sec.casalemedia.com:443
+[2018-11-08 14:48:58] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-08 14:48:58] [Info] Connect images.sftcdn.net:443
+[2018-11-08 14:48:58] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-08 14:48:58] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-08 14:48:58] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-08 14:48:58] [Info] Disconnect bidder.criteo.com:443
+[2018-11-08 14:48:58] [Info] Disconnect chrome.en.softonic.com:443
+[2018-11-08 14:48:58] [Info] Disconnect en.softonic.com:443
+[2018-11-08 14:48:58] [Info] Disconnect fastlane.rubiconproject.com:443
+[2018-11-08 14:48:58] [Info] Disconnect cdn.viglink.com:443
+[2018-11-08 14:48:58] [Info] Disconnect clients5.google.com:443
+[2018-11-08 14:48:58] [Info] Disconnect www.google.com:443
+[2018-11-08 14:48:58] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-11-08 14:48:58] [Info] Connect images.sftcdn.net:443
+[2018-11-08 14:48:58] [Info] Connect sslwidget.criteo.com:443
+[2018-11-08 14:48:59] [Info] Disconnect apis.google.com:443
+[2018-11-08 14:48:59] [Info] Disconnect chrome.en.softonic.com:443
+[2018-11-08 14:48:59] [Info] Connect connect.facebook.net:443
+[2018-11-08 14:48:59] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-08 14:48:59] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-08 14:48:59] [Info] Connect as-sec.casalemedia.com:443
+[2018-11-08 14:48:59] [Info] Connect cdn.viglink.com:443
+[2018-11-08 14:48:59] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-08 14:48:59] [Info] Connect cdn.viglink.com:443
+[2018-11-08 14:48:59] [Info] Disconnect en.softonic.com:443
+[2018-11-08 14:48:59] [Info] Disconnect connect.facebook.net:443
+[2018-11-08 14:48:59] [Info] Disconnect ogs.google.com:443
+[2018-11-08 14:48:59] [Info] Disconnect android.clients.google.com:443
+[2018-11-08 14:48:59] [Info] Disconnect www.google.com.hk:443
+[2018-11-08 14:48:59] [Info] Connect www.facebook.com:443
+[2018-11-08 14:48:59] [Info] Disconnect images.sftcdn.net:443
+[2018-11-08 14:48:59] [Info] Connect ampcid.google.com:443
+[2018-11-08 14:48:59] [Info] Direct connect fonts.googleapis.com:443
+[2018-11-08 14:48:59] [Info] Connect widget.us.criteo.com:443
+[2018-11-08 14:48:59] [Info] Connect cdns.gigya.com:443
+[2018-11-08 14:48:59] [Info] Connect js.searchlinks.com:443
+[2018-11-08 14:48:59] [Info] Connect www.anrdoezrs.net:443
+[2018-11-08 14:49:00] [Info] Connect ampcid.google.com.hk:443
+[2018-11-08 14:49:00] [Info] Disconnect www.anrdoezrs.net:443
+[2018-11-08 14:49:00] [Info] Direct connect cdn.ampproject.org:443
+[2018-11-08 14:49:00] [Info] Connect b-code.liadm.com:443
+[2018-11-08 14:49:00] [Info] Connect cdns.eu1.gigya.com:443
+[2018-11-08 14:49:00] [Info] Connect www.google.com:443
+[2018-11-08 14:49:00] [Info] Connect www.anrdoezrs.net:443
+[2018-11-08 14:49:00] [Info] Connect www.google.com.hk:443
+[2018-11-08 14:49:00] [Info] Disconnect as-sec.casalemedia.com:443
+[2018-11-08 14:49:00] [Info] Disconnect www.anrdoezrs.net:443
+[2018-11-08 14:49:00] [Info] Disconnect cdn.viglink.com:443
+[2018-11-08 14:49:00] [Info] Connect api.viglink.com:443
+[2018-11-08 14:49:01] [Info] Connect eus.rubiconproject.com:443
+[2018-11-08 14:49:01] [Info] Disconnect cdns.gigya.com:443
+[2018-11-08 14:49:01] [Info] Direct connect match.adsrvr.org:443
+[2018-11-08 14:49:01] [Info] Disconnect sslwidget.criteo.com:443
+[2018-11-08 14:49:01] [Info] Disconnect eus.rubiconproject.com:443
+[2018-11-08 14:49:01] [Info] Disconnect static.criteo.net:443
+[2018-11-08 14:49:01] [Info] Disconnect widget.us.criteo.com:443
+[2018-11-08 14:49:01] [Info] Connect c.liadm.com:443
+[2018-11-08 14:49:01] [Info] Connect token.rubiconproject.com:443
+[2018-11-08 14:49:01] [Info] Disconnect www.google.com.hk:443
+[2018-11-08 14:49:01] [Info] Disconnect www.google.com:443
+[2018-11-08 14:49:01] [Info] Disconnect sc.sftcdn.net:443
+[2018-11-08 14:49:01] [Info] Connect token.rubiconproject.com:443
+[2018-11-08 14:49:01] [Info] Connect token.rubiconproject.com:443
+[2018-11-08 14:49:01] [Info] Disconnect sc.sftcdn.net:443
+[2018-11-08 14:49:01] [Info] Disconnect ampcid.google.com:443
+[2018-11-08 14:49:01] [Info] Disconnect www.facebook.com:443
+[2018-11-08 14:49:01] [Info] Disconnect cdn.viglink.com:443
+[2018-11-08 14:49:01] [Info] Disconnect connect.facebook.net:443
+[2018-11-08 14:49:01] [Info] Disconnect images.sftcdn.net:443
+[2018-11-08 14:49:01] [Info] Disconnect ampcid.google.com.hk:443
+[2018-11-08 14:49:01] [Info] Disconnect b-code.liadm.com:443
+[2018-11-08 14:49:01] [Info] Disconnect www.anrdoezrs.net:443
+[2018-11-08 14:49:01] [Info] Connect c.bing.com:443
+[2018-11-08 14:49:01] [Info] Direct connect match.adsrvr.org:443
+[2018-11-08 14:49:02] [Info] Connect sync-tm.everesttech.net:443
+[2018-11-08 14:49:02] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2018-11-08 14:49:02] [Info] Connect i.w55c.net:443
+[2018-11-08 14:49:02] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2018-11-08 14:49:02] [Info] Direct connect tools.google.com:443
+[2018-11-08 14:49:02] [Info] Connect pixel.rubiconproject.com:443
+[2018-11-08 14:49:02] [Info] Connect pixel.rubiconproject.com:443
+[2018-11-08 14:49:02] [Info] Connect pixel.rubiconproject.com:443
+[2018-11-08 14:49:02] [Info] Connect pixel.rubiconproject.com:443
+[2018-11-08 14:49:02] [Info] Connect ads.yahoo.com:443
+[2018-11-08 14:49:02] [Info] Connect pixel.rubiconproject.com:443
+[2018-11-08 14:49:02] [Info] Connect sync.search.spotxchange.com:443
+[2018-11-08 14:49:02] [Info] Connect p.adsymptotic.com:443
+[2018-11-08 14:49:03] [Info] Connect i.liadm.com:443
+[2018-11-08 14:49:03] [Info] Connect cookiex.ngd.yahoo.com:443
+[2018-11-08 14:49:03] [Info] Direct connect cdn.ampproject.org:443
+[2018-11-08 14:49:03] [Info] Direct connect cdn.ampproject.org:443
+[2018-11-08 14:49:03] [Info] Connect pixel.tapad.com:443
+[2018-11-08 14:49:03] [Info] Connect www.google.com:443
+[2018-11-08 14:49:03] [Info] Connect www.google.com.hk:443
+[2018-11-08 14:49:03] [Info] Connect api.searchlinks.com:443
+[2018-11-08 14:49:03] [Info] Disconnect ads.yahoo.com:443
+[2018-11-08 14:49:04] [Info] Connect c1.adform.net:443
+[2018-11-08 14:49:04] [Info] Disconnect api.viglink.com:443
+[2018-11-08 14:49:04] [Info] Connect dpm.demdex.net:443
+[2018-11-08 14:49:04] [Info] Connect i.liadm.com:443
+[2018-11-08 14:49:04] [Info] Connect x.bidswitch.net:443
+[2018-11-08 14:49:04] [Info] Connect pixel-sync.sitescout.com:443
+[2018-11-08 14:49:04] [Info] Disconnect cdns.eu1.gigya.com:443
+[2018-11-08 14:49:04] [Info] Disconnect cookiex.ngd.yahoo.com:443
+[2018-11-08 14:49:04] [Info] Disconnect i.liadm.com:443
+[2018-11-08 14:49:04] [Info] Disconnect i.w55c.net:443
+[2018-11-08 14:49:04] [Info] Connect i.liadm.com:443
+[2018-11-08 14:49:04] [Info] Connect trc.taboola.com:443
+[2018-11-08 14:49:04] [Info] Disconnect js.searchlinks.com:443
+[2018-11-08 14:49:04] [Info] Connect i.liadm.com:443
+[2018-11-08 14:49:04] [Info] Connect i.liadm.com:443
+[2018-11-08 14:49:04] [Info] Connect pm.w55c.net:443
+[2018-11-08 14:49:04] [Info] Connect i.liadm.com:443
+[2018-11-08 14:49:04] [Info] Disconnect pixel.rubiconproject.com:443
+[2018-11-08 14:49:04] [Info] Disconnect pixel.rubiconproject.com:443
+[2018-11-08 14:49:04] [Info] Disconnect pixel.rubiconproject.com:443
+[2018-11-08 14:49:04] [Info] Disconnect dpm.demdex.net:443
+[2018-11-08 14:49:05] [Info] Connect i.liadm.com:443
+[2018-11-08 14:49:05] [Info] Connect cdns.gigya.com:443
+[2018-11-08 14:49:05] [Info] Disconnect api.searchlinks.com:443
+[2018-11-08 14:49:05] [Info] Connect beacon.searchlinks.com:443
+[2018-11-08 14:49:05] [Info] Disconnect pixel-sync.sitescout.com:443
+[2018-11-08 14:49:05] [Info] Disconnect pixel.rubiconproject.com:443
+[2018-11-08 14:49:05] [Info] Connect login.softonic.com:443
+[2018-11-08 14:49:05] [Info] Connect em.licasd.com:443
+[2018-11-08 14:49:05] [Info] Connect www.facebook.com:443
+[2018-11-08 14:49:05] [Info] Connect chrome.en.softonic.com:443
+[2018-11-08 14:49:06] [Info] Disconnect cdns.gigya.com:443
+[2018-11-08 14:49:06] [Info] Disconnect i.liadm.com:443
+[2018-11-08 14:49:06] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-11-08 14:49:06] [Info] Connect sc.sftcdn.net:443
+[2018-11-08 14:49:06] [Info] Connect fastlane.rubiconproject.com:443
+[2018-11-08 14:49:06] [Info] Connect as-sec.casalemedia.com:443
+[2018-11-08 14:49:06] [Info] Connect static.criteo.net:443
+[2018-11-08 14:49:06] [Info] Connect connect.facebook.net:443
+[2018-11-08 14:49:06] [Info] Direct connect adservice.google.com:443
+[2018-11-08 14:49:06] [Info] Disconnect em.licasd.com:443
+[2018-11-08 14:49:06] [Info] Connect p.rfihub.com:443
+[2018-11-08 14:49:06] [Info] Connect bidder.criteo.com:443
+[2018-11-08 14:49:06] [Info] Connect sslwidget.criteo.com:443
+[2018-11-08 14:49:06] [Info] Disconnect login.softonic.com:443
+[2018-11-08 14:49:06] [Info] Disconnect i.liadm.com:443
+[2018-11-08 14:49:06] [Info] Disconnect i.liadm.com:443
+[2018-11-08 14:49:06] [Info] Disconnect i.liadm.com:443
+[2018-11-08 14:49:06] [Info] Disconnect i.liadm.com:443
+[2018-11-08 14:49:06] [Info] Connect cdn.viglink.com:443
+[2018-11-08 14:49:06] [Info] Disconnect beacon.searchlinks.com:443
+[2018-11-08 14:49:06] [Info] Connect www.anrdoezrs.net:443
+[2018-11-08 14:49:06] [Info] Disconnect i.liadm.com:443
+[2018-11-08 14:49:06] [Info] Disconnect pixel.rubiconproject.com:443
+[2018-11-08 14:49:06] [Info] Connect widget.us.criteo.com:443
+[2018-11-08 14:49:06] [Info] Direct connect www.googletagmanager.com:443
+[2018-11-08 14:49:06] [Info] Disconnect pm.w55c.net:443
+[2018-11-08 14:49:06] [Info] Connect images.sftcdn.net:443
+[2018-11-08 14:49:06] [Info] Disconnect as-sec.casalemedia.com:443
+[2018-11-08 14:49:06] [Info] Connect login.softonic.com:443
+[2018-11-08 14:49:06] [Info] Disconnect bidder.criteo.com:443
+[2018-11-08 14:49:06] [Info] Disconnect fastlane.rubiconproject.com:443
+[2018-11-08 14:49:06] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2018-11-08 14:49:06] [Info] Disconnect sslwidget.criteo.com:443
+[2018-11-08 14:49:06] [Info] Connect api.viglink.com:443
+[2018-11-08 14:49:07] [Info] Connect i.liadm.com:443
+[2018-11-08 14:49:07] [Info] Connect www.anrdoezrs.net:443
+[2018-11-08 14:49:07] [Info] Disconnect p.rfihub.com:443
+[2018-11-08 14:49:07] [Info] Disconnect static.criteo.net:443
+[2018-11-08 14:49:07] [Info] Disconnect www.anrdoezrs.net:443
+[2018-11-08 14:49:07] [Info] Direct connect fonts.googleapis.com:443
+[2018-11-08 14:49:07] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-08 14:49:07] [Info] Connect cdns.eu1.gigya.com:443
+[2018-11-08 14:49:07] [Info] Disconnect sync.search.spotxchange.com:443
+[2018-11-08 14:49:07] [Info] Disconnect login.softonic.com:443
+[2018-11-08 14:49:07] [Info] Disconnect token.rubiconproject.com:443
+[2018-11-08 14:49:07] [Info] Connect idsync.rlcdn.com:443
+[2018-11-08 14:49:07] [Info] Disconnect i.liadm.com:443
+[2018-11-08 14:49:07] [Info] Disconnect token.rubiconproject.com:443
+[2018-11-08 14:49:07] [Info] Disconnect token.rubiconproject.com:443
+[2018-11-08 14:49:07] [Info] Disconnect x.bidswitch.net:443
+[2018-11-08 14:49:07] [Info] Disconnect widget.us.criteo.com:443
+[2018-11-08 14:49:07] [Info] Disconnect www.google.com:443
+[2018-11-08 14:49:07] [Info] Disconnect images.sftcdn.net:443
+[2018-11-08 14:49:07] [Info] Disconnect pixel.tapad.com:443
+[2018-11-08 14:49:08] [Info] Disconnect connect.facebook.net:443
+[2018-11-08 14:49:08] [Info] Disconnect c1.adform.net:443
+[2018-11-08 14:49:08] [Info] Disconnect www.google.com.hk:443
+[2018-11-08 14:49:08] [Info] Disconnect trc.taboola.com:443
+[2018-11-08 14:49:08] [Info] Connect px.powerlinks.com:443
+[2018-11-08 14:49:08] [Info] Disconnect sc.sftcdn.net:443
+[2018-11-08 14:49:08] [Info] Disconnect chrome.en.softonic.com:443
+[2018-11-08 14:49:08] [Info] Disconnect www.facebook.com:443
+[2018-11-08 14:49:08] [Info] Disconnect p.adsymptotic.com:443
+[2018-11-08 14:49:08] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2018-11-08 14:49:08] [Info] Disconnect c.bing.com:443
+[2018-11-08 14:49:08] [Info] Disconnect c.liadm.com:443
+[2018-11-08 14:49:08] [Info] Connect b1sync.zemanta.com:443
+[2018-11-08 14:49:08] [Info] Disconnect sync-tm.everesttech.net:443
+[2018-11-08 14:49:08] [Info] Disconnect cdn.viglink.com:443
+[2018-11-08 14:49:08] [Info] Disconnect www.anrdoezrs.net:443
+[2018-11-08 14:49:08] [Info] Connect aa.agkn.com:443
+[2018-11-08 14:49:08] [Info] Connect i.liadm.com:443
+[2018-11-08 14:49:08] [Info] Connect loadus.exelator.com:443
+[2018-11-08 14:49:08] [Info] Connect d.agkn.com:443
+[2018-11-08 14:49:09] [Info] Connect i.liadm.com:443
+[2018-11-08 14:49:09] [Info] Connect i.liadm.com:443
+[2018-11-08 14:49:09] [Info] Connect pippio.com:443
+[2018-11-08 14:49:09] [Info] Connect i.liadm.com:443
+[2018-11-08 14:49:09] [Info] Disconnect i.liadm.com:443
+[2018-11-08 14:49:09] [Info] Disconnect i.liadm.com:443
+[2018-11-08 14:49:10] [Debug] DNS query fail: bcp.crwdcntrl.net
+[2018-11-08 14:49:10] [Info] Connect bcp.crwdcntrl.net:443
+[2018-11-08 14:49:10] [Info] Direct connect beacons.gvt2.com:443
+[2018-11-08 14:49:11] [Info] Connect login.softonic.com:443
+[2018-11-08 14:49:11] [Info] Connect eus.rubiconproject.com:443
+[2018-11-08 14:49:12] [Info] Connect p.rfihub.com:443
+[2018-11-08 14:49:12] [Info] Connect c1.adform.net:443
+[2018-11-08 14:49:12] [Info] Connect pixel-a.sitescout.com:443
+[2018-11-08 14:49:12] [Info] Connect um.simpli.fi:443
+[2018-11-08 14:49:12] [Info] Disconnect idsync.rlcdn.com:443
+[2018-11-08 14:49:12] [Info] Connect www.facebook.com:443
+[2018-11-08 14:49:12] [Info] Connect login.softonic.com:443
+[2018-11-08 14:49:12] [Info] Connect sync.ipredictive.com:443
+[2018-11-08 14:49:12] [Info] Connect pixel.rubiconproject.com:443
+[2018-11-08 14:49:12] [Info] Connect rbp.mxptint.net:443
+[2018-11-08 14:49:12] [Info] Connect pixel.rubiconproject.com:443
+[2018-11-08 14:49:12] [Info] Connect pixel.rubiconproject.com:443
+[2018-11-08 14:49:12] [Info] Connect sync-tm.everesttech.net:443
+[2018-11-08 14:49:12] [Info] Connect s.amazon-adsystem.com:443
+[2018-11-08 14:49:13] [Info] Disconnect api.viglink.com:443
+[2018-11-08 14:49:13] [Info] Disconnect b1sync.zemanta.com:443
+[2018-11-08 14:49:13] [Info] Connect dis.criteo.com:443
+[2018-11-08 14:49:13] [Info] Connect accounts.google.com:443
+[2018-11-08 14:49:13] [Info] Connect ad.turn.com:443
+[2018-11-08 14:49:13] [Info] Disconnect bcp.crwdcntrl.net:443
+[2018-11-08 14:49:13] [Info] Connect t.wayfair.com:443
+[2018-11-08 14:49:13] [Info] Connect ad.turn.com:443
+[2018-11-08 14:49:13] [Info] Connect cm.adform.net:443
+[2018-11-08 14:49:13] [Info] Direct connect ssl.gstatic.com:443
+[2018-11-08 14:49:13] [Info] Disconnect ad.turn.com:443
+[2018-11-08 14:49:13] [Info] Connect www.google.com:443
+[2018-11-08 14:49:14] [Info] Disconnect ad.turn.com:443
+[2018-11-08 14:49:14] [Info] Disconnect www.google.com:443
+[2018-11-08 14:49:15] [Info] Connect api.optmnstr.com:443
+[2018-11-08 14:49:15] [Debug] DNS query fail: e1.emxdgt.com
+[2018-11-08 14:49:15] [Info] Connect e1.emxdgt.com:443
+[2018-11-08 14:49:15] [Info] Disconnect e1.emxdgt.com:443
+[2018-11-08 14:49:16] [Info] Connect lh3.googleusercontent.com:443
+[2018-11-08 14:49:16] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-08 14:49:16] [Info] Disconnect cdns.eu1.gigya.com:443
+[2018-11-08 14:49:16] [Info] Disconnect d.agkn.com:443
+[2018-11-08 14:49:16] [Info] Connect play.google.com:443
+[2018-11-08 14:49:16] [Info] Connect play.google.com:443
+[2018-11-08 14:49:16] [Info] Disconnect dis.criteo.com:443
+[2018-11-08 14:49:16] [Info] Disconnect eus.rubiconproject.com:443
+[2018-11-08 14:49:16] [Info] Connect accounts.youtube.com:443
+[2018-11-08 14:49:16] [Info] Disconnect i.liadm.com:443
+[2018-11-08 14:49:17] [Info] Disconnect i.liadm.com:443
+[2018-11-08 14:49:17] [Info] Connect dis.us.criteo.com:443
+[2018-11-08 14:49:17] [Info] Connect www.google.com:443
+[2018-11-08 14:49:17] [Info] Disconnect login.softonic.com:443
+[2018-11-08 14:49:18] [Debug] DNS query fail: e1.emxdgt.com
+[2018-11-08 14:49:18] [Info] Connect e1.emxdgt.com:443
+[2018-11-08 14:49:18] [Info] Connect sc.sftcdn.net:443
+[2018-11-08 14:49:18] [Info] Disconnect e1.emxdgt.com:443
+[2018-11-08 14:49:18] [Info] Disconnect sync.ipredictive.com:443
+[2018-11-08 14:49:18] [Info] Disconnect pixel-a.sitescout.com:443
+[2018-11-08 14:49:21] [Info] Direct connect www.gstatic.com:443
+[2018-11-08 14:49:22] [Info] Disconnect p.rfihub.com:443
+[2018-11-08 14:49:31] [Info] Disconnect dis.us.criteo.com:443
+[2018-11-08 14:49:40] [Info] Direct connect tools.google.com:443
+[2018-11-08 14:49:40] [Info] Disconnect pixel.rubiconproject.com:443
+[2018-11-08 14:49:40] [Info] Direct connect dl.google.com:443
+[2018-11-08 14:49:41] [Info] Connect sb-ssl.google.com:443
+[2018-11-08 14:49:41] [Info] Direct connect dl.google.com:443
+[2018-11-08 14:49:45] [Info] Connect ocsp.thawte.com:80
+[2018-11-08 14:49:46] [Info] Disconnect loadus.exelator.com:443
+[2018-11-08 14:49:46] [Info] Disconnect ocsp.thawte.com:80
+[2018-11-08 14:49:46] [Info] Connect th.symcd.com:80
+[2018-11-08 14:49:47] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-08 14:49:47] [Info] Direct connect fonts.googleapis.com:443
+[2018-11-08 14:49:47] [Info] Direct connect www.googletagmanager.com:443
+[2018-11-08 14:49:48] [Info] Connect apis.google.com:443
+[2018-11-08 14:49:48] [Info] Connect google.com:443
+[2018-11-08 14:49:48] [Info] Disconnect login.softonic.com:443
+[2018-11-08 14:49:48] [Info] Disconnect pixel.rubiconproject.com:443
+[2018-11-08 14:49:53] [Info] Disconnect th.symcd.com:80
+[2018-11-08 14:50:08] [Info] Disconnect aa.agkn.com:443
+[2018-11-08 14:50:14] [Info] Disconnect px.powerlinks.com:443
+[2018-11-08 14:50:15] [Info] Disconnect s.amazon-adsystem.com:443
+[2018-11-08 14:50:17] [Info] Disconnect www.facebook.com:443
+[2018-11-08 14:50:18] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-11-08 14:50:25] [Info] Disconnect raw.githubusercontent.com:443
+[2018-11-08 14:50:31] [Info] Connect beacons5.gvt3.com:443
+[2018-11-08 14:50:36] [Info] Disconnect beacons5.gvt3.com:443
+[2018-11-08 14:50:36] [Info] Connect beacons5.gvt3.com:443
+[2018-11-08 14:50:44] [Info] Disconnect beacons5.gvt3.com:443
+[2018-11-08 14:51:08] [Info] Disconnect a.optnmstr.com:443
+[2018-11-08 14:51:10] [Info] Disconnect pippio.com:443
+[2018-11-08 14:51:14] [Info] Disconnect um.simpli.fi:443
+[2018-11-08 14:51:14] [Info] Disconnect sync-tm.everesttech.net:443
+[2018-11-08 14:51:14] [Info] Disconnect t.wayfair.com:443
+[2018-11-08 14:51:14] [Info] Disconnect pixel.rubiconproject.com:443
+[2018-11-08 14:51:14] [Info] Disconnect rbp.mxptint.net:443
+[2018-11-08 14:51:14] [Info] Disconnect c1.adform.net:443
+[2018-11-08 14:51:16] [Info] Disconnect api.optmnstr.com:443
+[2018-11-08 14:51:16] [Info] Disconnect cm.adform.net:443
+[2018-11-08 14:51:18] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-11-08 14:51:18] [Info] Disconnect accounts.youtube.com:443
+[2018-11-08 14:51:20] [Info] Disconnect sc.sftcdn.net:443
+[2018-11-08 14:51:22] [Info] Disconnect play.google.com:443
+[2018-11-08 14:51:22] [Info] Disconnect play.google.com:443
+[2018-11-12 14:28:01] ShadowsocksR started on port 1080
+[2018-11-12 14:28:11] [Info] Connect raw.githubusercontent.com:443
+[2018-11-12 14:28:33] [Info] Connect chrome.google.com:443
+[2018-11-12 14:28:34] [Info] Connect www.google.com:443
+[2018-11-12 14:28:34] [Info] Direct connect www.gstatic.com:443
+[2018-11-12 14:28:35] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-12 14:28:35] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-12 14:28:35] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-12 14:28:35] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-12 14:28:35] [Info] Direct connect ssl.gstatic.com:443
+[2018-11-12 14:28:35] [Info] Direct connect ssl.gstatic.com:443
+[2018-11-12 14:28:39] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-12 14:28:41] [Info] Connect plus.google.com:443
+[2018-11-12 14:28:41] [Info] Connect plus.google.com:443
+[2018-11-12 14:28:41] [Info] Connect plus.google.com:443
+[2018-11-12 14:28:41] [Info] Connect plus.google.com:443
+[2018-11-12 14:28:41] [Info] Connect plus.google.com:443
+[2018-11-12 14:28:41] [Info] Connect plus.google.com:443
+[2018-11-12 14:28:41] [Info] Disconnect plus.google.com:443
+[2018-11-12 14:28:43] [Info] Direct connect csi.gstatic.com:443
+[2018-11-12 14:28:43] [Info] Direct connect csi.gstatic.com:443
+[2018-11-12 14:28:43] [Info] Connect lh3.googleusercontent.com:443
+[2018-11-12 14:28:43] [Info] Direct connect csi.gstatic.com:443
+[2018-11-12 14:28:43] [Info] Direct connect csi.gstatic.com:443
+[2018-11-12 14:28:43] [Info] Connect lh3.googleusercontent.com:443
+[2018-11-12 14:28:43] [Info] Connect lh3.googleusercontent.com:443
+[2018-11-12 14:28:43] [Info] Connect lh3.googleusercontent.com:443
+[2018-11-12 14:28:43] [Info] Connect lh3.googleusercontent.com:443
+[2018-11-12 14:28:43] [Info] Connect clients1.google.com:443
+[2018-11-12 14:28:43] [Info] Connect clients1.google.com:443
+[2018-11-12 14:28:44] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-11-12 14:28:44] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-11-12 14:28:44] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-11-12 14:28:44] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-11-12 14:28:44] [Info] Connect lh3.googleusercontent.com:443
+[2018-11-12 14:28:51] [Info] Connect lh3.googleusercontent.com:443
+[2018-11-12 14:28:51] [Info] Disconnect plus.google.com:443
+[2018-11-12 14:28:51] [Info] Disconnect plus.google.com:443
+[2018-11-12 14:28:51] [Info] Disconnect plus.google.com:443
+[2018-11-12 14:28:51] [Info] Disconnect plus.google.com:443
+[2018-11-12 14:28:55] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-11-12 14:28:56] [Info] Connect clients2.google.com:443
+[2018-11-12 14:28:56] [Info] Connect www.googleapis.com:443
+[2018-11-12 14:28:56] [Info] Connect clients2.googleusercontent.com:443
+[2018-11-12 14:28:57] [Info] Connect sb-ssl.google.com:443
+[2018-11-12 14:29:11] [Info] Disconnect clients1.google.com:443
+[2018-11-12 14:29:15] [Info] Direct connect update.googleapis.com:443
+[2018-11-12 14:29:53] [Info] Disconnect raw.githubusercontent.com:443
+[2018-11-12 14:30:42] [Info] Disconnect plus.google.com:443
+[2018-11-12 14:30:42] [Info] Disconnect www.google.com:443
+[2018-11-12 14:30:44] [Info] Disconnect clients1.google.com:443
+[2018-11-12 14:30:52] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-11-12 14:30:58] [Info] Disconnect clients2.googleusercontent.com:443
+[2018-11-12 14:30:58] [Info] Disconnect clients2.google.com:443
+[2018-11-12 14:30:58] [Info] Disconnect sb-ssl.google.com:443
+[2018-11-12 14:31:12] [Info] Disconnect www.googleapis.com:443
+[2018-11-12 14:31:36] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-11-12 14:31:49] [Info] Connect android.clients.google.com:443
+[2018-11-12 14:31:50] [Info] Connect www.googleapis.com:443
+[2018-11-12 14:31:54] [Info] Connect clients4.google.com:443
+[2018-11-12 14:31:57] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-12 14:33:11] [Info] Connect raw.githubusercontent.com:443
+[2018-11-12 14:33:50] [Info] Disconnect android.clients.google.com:443
+[2018-11-12 14:33:50] [Info] Disconnect www.googleapis.com:443
+[2018-11-12 14:34:37] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-12 14:34:51] [Info] Disconnect raw.githubusercontent.com:443
+[2018-11-12 14:35:06] [Info] Disconnect clients4.google.com:443
+[2018-11-12 14:37:56] [Info] Connect android.clients.google.com:443
+[2018-11-12 14:39:13] [Info] Connect clients4.google.com:443
+[2018-11-12 14:39:57] [Info] Disconnect android.clients.google.com:443
+[2018-11-12 14:40:39] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-12 14:41:15] [Info] Disconnect clients4.google.com:443
+[2018-11-12 14:41:57] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-12 14:51:57] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-12 14:52:42] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-12 14:53:00] [Info] Direct connect updatem.360safe.com:80
+[2018-11-12 14:53:00] [Info] Direct connect src.dl.360safe.com:80
+[2018-11-12 14:53:29] [Info] Connect www.google.com:443
+[2018-11-12 14:53:29] [Info] Direct connect www.gstatic.com:443
+[2018-11-12 14:53:31] [Info] Connect lh3.googleusercontent.com:443
+[2018-11-12 14:53:31] [Info] Direct connect csi.gstatic.com:443
+[2018-11-12 14:53:31] [Info] Connect clients1.google.com:443
+[2018-11-12 14:53:40] [Info] Disconnect www.google.com:443
+[2018-11-12 14:54:32] [Info] Direct connect www.gstatic.com:443
+[2018-11-12 14:54:33] [Info] Connect www.google.com:443
+[2018-11-12 14:54:43] [Info] Disconnect www.google.com:443
+[2018-11-12 14:55:32] [Info] Disconnect clients1.google.com:443
+[2018-11-12 14:56:52] [Info] Connect clients4.google.com:443
+[2018-11-12 14:57:16] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-11-12 14:59:58] [Info] Disconnect clients4.google.com:443
+[2018-11-12 15:01:57] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-12 15:04:36] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-12 15:08:20] [Info] Connect clients4.google.com:443
+[2018-11-12 15:08:40] [Info] Connect www.google.com:443
+[2018-11-12 15:08:43] [Info] Direct connect cdn.ampproject.org:443
+[2018-11-12 15:08:45] [Info] Direct connect www.googletagservices.com:443
+[2018-11-12 15:08:45] [Info] Direct connect adservice.google.com:443
+[2018-11-12 15:08:46] [Info] Direct connect w.segmentfault.com:443
+[2018-11-12 15:08:46] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-12 15:08:46] [Info] Connect github-camo.global.ssl.fastly.net:443
+[2018-11-12 15:08:46] [Info] Connect www.google.com.hk:443
+[2018-11-12 15:08:46] [Info] Direct connect static.segmentfault.com:443
+[2018-11-12 15:08:46] [Info] Connect laike9m.github.io:443
+[2018-11-12 15:08:48] [Info] Direct connect zhihu-card.info:8443
+[2018-11-12 15:10:47] [Info] Disconnect www.google.com:443
+[2018-11-12 15:10:47] [Info] Disconnect github-camo.global.ssl.fastly.net:443
+[2018-11-12 15:10:47] [Info] Disconnect www.google.com.hk:443
+[2018-11-12 15:10:49] [Info] Disconnect laike9m.github.io:443
+[2018-11-12 15:10:51] [Info] Disconnect clients4.google.com:443
+[2018-11-12 15:11:57] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-12 15:12:50] [Info] Connect clients4.google.com:443
+[2018-11-12 15:16:03] [Info] Disconnect clients4.google.com:443
+[2018-11-12 15:20:55] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-12 15:20:59] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:20:59] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:21:00] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:21:00] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 15:21:00] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 15:21:00] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 15:21:01] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:21:01] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:21:01] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:21:01] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:21:02] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:21:02] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:21:03] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:21:05] [Info] Connect clients4.google.com:443
+[2018-11-12 15:21:06] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 15:21:07] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:21:11] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:21:57] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-12 15:22:06] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 15:23:06] [Info] Disconnect clients4.google.com:443
+[2018-11-12 15:28:42] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-12 15:28:42] [Info] Disconnect chrome.google.com:443
+[2018-11-12 15:28:46] [Info] Connect chrome.google.com:443
+[2018-11-12 15:30:33] [Info] Connect www.googleapis.com:443
+[2018-11-12 15:30:37] [Info] Connect clients4.google.com:443
+[2018-11-12 15:30:38] [Info] Connect cuscochromeextension-pa.googleapis.com:443
+[2018-11-12 15:31:57] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-12 15:32:35] [Info] Disconnect www.googleapis.com:443
+[2018-11-12 15:32:41] [Info] Disconnect cuscochromeextension-pa.googleapis.com:443
+[2018-11-12 15:32:45] [Info] Disconnect clients4.google.com:443
+[2018-11-12 15:33:06] [Info] Connect clients4.google.com:443
+[2018-11-12 15:34:43] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-12 15:35:07] [Info] Disconnect clients4.google.com:443
+[2018-11-12 15:40:44] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-12 15:41:57] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-12 15:44:12] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:44:13] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 15:44:13] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 15:44:13] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 15:44:14] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:44:14] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:44:14] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:44:14] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:44:14] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:44:15] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:44:15] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:44:16] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:44:18] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:44:19] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:44:20] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:44:21] [Info] Connect clients4.google.com:443
+[2018-11-12 15:44:23] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 15:44:24] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:44:28] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:45:23] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 15:46:26] [Info] Disconnect clients4.google.com:443
+[2018-11-12 15:49:04] [Info] Connect clients4.google.com:443
+[2018-11-12 15:51:04] [Info] Disconnect clients4.google.com:443
+[2018-11-12 15:51:57] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-12 15:52:45] [Info] Direct connect intf-pc.ludashi.com:80
+[2018-11-12 15:52:46] [Info] Direct connect s.ludashi.com:80
+[2018-11-12 15:52:46] [Info] Direct connect s.ludashi.com:80
+[2018-11-12 15:52:46] [Info] Direct connect s.ludashi.com:80
+[2018-11-12 15:52:48] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-12 15:53:57] [Info] Connect cuscochromeextension-pa.googleapis.com:443
+[2018-11-12 15:54:03] [Info] Direct connect updatem.360safe.com:80
+[2018-11-12 15:54:03] [Info] Direct connect src.dl.360safe.com:80
+[2018-11-12 15:54:04] [Info] Connect clients4.google.com:443
+[2018-11-12 15:54:07] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 15:54:56] [Info] Connect www.google.com:443
+[2018-11-12 15:54:57] [Info] Connect www.google.com.hk:443
+[2018-11-12 15:54:57] [Info] Direct connect ssl.gstatic.com:443
+[2018-11-12 15:54:57] [Info] Connect lh3.googleusercontent.com:443
+[2018-11-12 15:54:58] [Info] Direct connect www.gstatic.com:443
+[2018-11-12 15:54:59] [Info] Connect s2.googleusercontent.com:443
+[2018-11-12 15:56:57] [Info] Disconnect cuscochromeextension-pa.googleapis.com:443
+[2018-11-12 15:56:59] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-11-12 15:56:59] [Info] Disconnect www.google.com:443
+[2018-11-12 15:57:01] [Info] Disconnect s2.googleusercontent.com:443
+[2018-11-12 15:57:11] [Info] Disconnect clients4.google.com:443
+[2018-11-12 15:57:59] [Info] Disconnect www.google.com.hk:443
+[2018-11-12 15:58:20] [Info] Connect www.typora.io:443
+[2018-11-12 15:58:25] [Info] Connect isrg.trustid.ocsp.identrust.com:80
+[2018-11-12 15:58:25] [Info] Disconnect isrg.trustid.ocsp.identrust.com:80
+[2018-11-12 15:58:25] [Info] Connect ocsp.int-x3.letsencrypt.org:80
+[2018-11-12 15:58:26] [Info] Disconnect ocsp.int-x3.letsencrypt.org:80
+[2018-11-12 15:58:49] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-12 15:59:36] [Info] Disconnect www.typora.io:443
+[2018-11-12 16:00:25] [Info] Connect steam-chat.com:443
+[2018-11-12 16:01:57] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-12 16:02:27] [Info] Disconnect steam-chat.com:443
+[2018-11-12 16:04:51] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-12 16:07:25] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:25] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 16:07:25] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 16:07:26] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 16:07:26] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:26] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:26] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:26] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:26] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:27] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:27] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 16:07:27] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:27] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:28] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:29] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:29] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:30] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:33] [Info] Connect clients4.google.com:443
+[2018-11-12 16:07:34] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:34] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:35] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 16:07:36] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:39] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:07:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:08:35] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-12 16:09:34] [Info] Disconnect clients4.google.com:443
+[2018-11-12 16:11:57] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-12 16:13:00] [Info] Direct connect adservice.google.com:443
+[2018-11-12 16:13:00] [Info] Connect www.google.com:443
+[2018-11-12 16:13:01] [Info] Direct connect www.googletagservices.com:443
+[2018-11-12 16:13:01] [Info] Direct connect cdn.ampproject.org:443
+[2018-11-12 16:13:01] [Info] Connect www.google.com.hk:443
+[2018-11-12 16:13:01] [Info] Direct connect w.segmentfault.com:443
+[2018-11-12 16:13:02] [Info] Connect github-camo.global.ssl.fastly.net:443
+[2018-11-12 16:13:02] [Info] Direct connect static.segmentfault.com:443
+[2018-11-12 16:13:04] [Info] Connect laike9m.github.io:443
+[2018-11-12 16:13:10] [Info] Connect clients4.google.com:443
+[2018-11-12 16:13:29] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-12 16:13:29] [Info] Disconnect laike9m.github.io:443
+[2018-11-12 16:13:29] [Info] Disconnect github-camo.global.ssl.fastly.net:443
+[2018-11-12 16:14:26] [Info] Disconnect www.google.com:443
+[2018-11-12 16:14:26] [Info] Disconnect chrome.google.com:443
+[2018-11-12 16:14:26] [Info] Disconnect clients4.google.com:443
+[2018-11-12 16:14:26] [Info] Disconnect www.google.com.hk:443
+[2018-11-12 16:14:45] [Info] Direct connect intf-pc.ludashi.com:80
+[2018-11-12 16:20:09] [Info] Connect www.googleapis.com:443
+[2018-11-12 16:20:09] [Info] Connect android.clients.google.com:443
+[2018-11-12 16:20:09] [Info] Direct connect clientservices.googleapis.com:443
+[2018-11-12 16:20:09] [Info] Connect mtalk.google.com:5228
+[2018-11-12 16:20:09] [Info] Connect accounts.google.com:443
+[2018-11-12 16:20:09] [Info] Connect www.googleapis.com:443
+[2018-11-12 16:20:10] [Info] Connect www.googleapis.com:443
+[2018-11-12 16:20:12] [Info] Connect clients4.google.com:443
+[2018-11-12 16:20:13] [Info] Disconnect www.googleapis.com:443
+[2018-11-12 16:20:13] [Info] Disconnect www.googleapis.com:443
+[2018-11-12 16:20:13] [Info] Connect clients4.google.com:443
+[2018-11-12 16:20:13] [Info] Connect www.google.com:443
+[2018-11-12 16:20:14] [Info] Disconnect clients4.google.com:443
+[2018-11-12 16:20:19] [Info] Direct connect ssl.gstatic.com:443
+[2018-11-12 16:20:19] [Info] Direct connect ssl.gstatic.com:443
+[2018-11-12 16:20:37] [Info] Disconnect mtalk.google.com:5228
+[2018-11-12 16:20:37] [Info] Disconnect www.googleapis.com:443
+[2018-11-12 16:20:37] [Info] Disconnect android.clients.google.com:443
+[2018-11-12 16:20:37] [Info] Disconnect accounts.google.com:443
+[2018-11-12 16:20:37] [Info] Disconnect clients4.google.com:443
+[2018-11-12 16:20:37] [Info] Disconnect www.google.com:443
+[2018-11-12 16:21:57] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-26 20:03:51] ShadowsocksR started on port 1080
+[2018-11-26 20:04:01] [Info] Connect raw.githubusercontent.com:443
+[2018-11-26 20:04:10] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:04:12] [Info] Connect plus.google.com:443
+[2018-11-26 20:04:12] [Info] Connect plus.google.com:443
+[2018-11-26 20:04:12] [Info] Disconnect plus.google.com:443
+[2018-11-26 20:04:12] [Info] Direct connect www.gstatic.com:443
+[2018-11-26 20:04:12] [Info] Direct connect www.gstatic.com:443
+[2018-11-26 20:04:12] [Info] Connect apis.google.com:443
+[2018-11-26 20:04:12] [Info] Direct connect www.gstatic.com:443
+[2018-11-26 20:04:12] [Info] Connect lh3.googleusercontent.com:443
+[2018-11-26 20:04:12] [Info] Direct connect ssl.gstatic.com:443
+[2018-11-26 20:04:12] [Info] Direct connect www.gstatic.com:443
+[2018-11-26 20:04:12] [Info] Direct connect www.gstatic.com:443
+[2018-11-26 20:04:12] [Info] Direct connect ssl.gstatic.com:443
+[2018-11-26 20:04:12] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-26 20:04:12] [Info] Direct connect www.gstatic.com:443
+[2018-11-26 20:04:12] [Info] Connect lh3.googleusercontent.com:443
+[2018-11-26 20:04:12] [Info] Direct connect ssl.gstatic.com:443
+[2018-11-26 20:04:12] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-26 20:04:12] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-26 20:04:13] [Info] Connect clients1.google.com:443
+[2018-11-26 20:04:13] [Info] Connect clients5.google.com:443
+[2018-11-26 20:04:13] [Info] Connect ogs.google.com:443
+[2018-11-26 20:04:13] [Info] Connect play.google.com:443
+[2018-11-26 20:04:14] [Info] Direct connect fonts.gstatic.com:443
+[2018-11-26 20:04:14] [Info] Connect play.google.com:443
+[2018-11-26 20:04:14] [Info] Connect www.google.com:443
+[2018-11-26 20:04:15] [Info] Connect play.google.com:443
+[2018-11-26 20:04:15] [Info] Connect accounts.google.com:443
+[2018-11-26 20:04:18] [Info] Connect clients1.google.com:443
+[2018-11-26 20:04:18] [Info] Connect notifications.google.com:443
+[2018-11-26 20:04:25] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-11-26 20:04:25] [Info] Connect clients4.google.com:443
+[2018-11-26 20:04:29] [Info] Disconnect play.google.com:443
+[2018-11-26 20:04:29] [Info] Connect accounts.youtube.com:443
+[2018-11-26 20:04:32] [Info] Connect accounts.google.com.hk:443
+[2018-11-26 20:04:36] [Info] Connect accounts.google.com.hk:443
+[2018-11-26 20:04:49] [Info] Connect leetcode.com:443
+[2018-11-26 20:04:49] [Info] Connect assets.leetcode.com:443
+[2018-11-26 20:04:49] [Info] Disconnect accounts.google.com.hk:443
+[2018-11-26 20:04:53] [Info] Connect bam.nr-data.net:443
+[2018-11-26 20:05:03] [Info] Connect assets.leetcode.com:443
+[2018-11-26 20:05:03] [Info] Connect www.gravatar.com:443
+[2018-11-26 20:05:03] [Info] Connect www.gravatar.com:443
+[2018-11-26 20:05:03] [Info] Connect www.gravatar.com:443
+[2018-11-26 20:05:03] [Info] Connect www.gravatar.com:443
+[2018-11-26 20:05:03] [Info] Connect assets.leetcode.com:443
+[2018-11-26 20:05:03] [Info] Connect www.gravatar.com:443
+[2018-11-26 20:05:03] [Info] Connect assets.leetcode.com:443
+[2018-11-26 20:05:03] [Info] Connect www.gravatar.com:443
+[2018-11-26 20:05:03] [Info] Disconnect assets.leetcode.com:443
+[2018-11-26 20:05:04] [Info] Disconnect www.gravatar.com:443
+[2018-11-26 20:05:04] [Info] Disconnect www.gravatar.com:443
+[2018-11-26 20:05:13] [Info] Connect mtalk.google.com:443
+[2018-11-26 20:05:38] [Info] Connect android.clients.google.com:443
+[2018-11-26 20:05:38] [Info] Disconnect assets.leetcode.com:443
+[2018-11-26 20:05:38] [Info] Disconnect www.gravatar.com:443
+[2018-11-26 20:05:38] [Info] Disconnect assets.leetcode.com:443
+[2018-11-26 20:05:38] [Info] Disconnect www.gravatar.com:443
+[2018-11-26 20:05:38] [Info] Disconnect www.gravatar.com:443
+[2018-11-26 20:05:43] [Info] Disconnect raw.githubusercontent.com:443
+[2018-11-26 20:06:06] [Info] Connect sockets.leetcode.com:443
+[2018-11-26 20:06:15] [Info] Disconnect clients5.google.com:443
+[2018-11-26 20:06:19] [Info] Disconnect notifications.google.com:443
+[2018-11-26 20:06:19] [Info] Disconnect apis.google.com:443
+[2018-11-26 20:06:27] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:06:28] [Info] Connect s7.addthis.com:443
+[2018-11-26 20:06:30] [Info] Connect s7.addthis.com:443
+[2018-11-26 20:06:30] [Info] Connect m.addthisedge.com:443
+[2018-11-26 20:06:30] [Info] Connect m.addthis.com:443
+[2018-11-26 20:06:31] [Info] Connect graph.facebook.com:443
+[2018-11-26 20:06:31] [Info] Connect api-public.addthis.com:443
+[2018-11-26 20:06:31] [Info] Connect graph.facebook.com:443
+[2018-11-26 20:06:31] [Info] Connect api-public.addthis.com:443
+[2018-11-26 20:06:33] [Info] Disconnect accounts.google.com.hk:443
+[2018-11-26 20:06:35] [Info] Disconnect ogs.google.com:443
+[2018-11-26 20:06:37] [Info] Disconnect plus.google.com:443
+[2018-11-26 20:06:41] [Info] Direct connect translate.googleapis.com:443
+[2018-11-26 20:06:41] [Info] Direct connect translate.googleapis.com:443
+[2018-11-26 20:06:41] [Info] Direct connect translate.googleapis.com:443
+[2018-11-26 20:06:41] [Info] Direct connect translate.googleapis.com:443
+[2018-11-26 20:06:42] [Info] Disconnect api-public.addthis.com:443
+[2018-11-26 20:06:42] [Info] Connect translate.google.com:443
+[2018-11-26 20:06:42] [Info] Disconnect graph.facebook.com:443
+[2018-11-26 20:06:42] [Info] Connect www.googleapis.com:443
+[2018-11-26 20:07:05] [Info] Disconnect www.gravatar.com:443
+[2018-11-26 20:07:15] [Info] Connect clients4.google.com:443
+[2018-11-26 20:07:15] [Info] Disconnect mtalk.google.com:443
+[2018-11-26 20:07:15] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:07:29] [Info] Disconnect sockets.leetcode.com:443
+[2018-11-26 20:07:30] [Info] Connect sockets.leetcode.com:443
+[2018-11-26 20:07:37] [Info] Disconnect graph.facebook.com:443
+[2018-11-26 20:07:39] [Info] Disconnect android.clients.google.com:443
+[2018-11-26 20:07:41] [Info] Disconnect m.addthisedge.com:443
+[2018-11-26 20:07:41] [Info] Disconnect s7.addthis.com:443
+[2018-11-26 20:07:42] [Info] Disconnect s7.addthis.com:443
+[2018-11-26 20:07:42] [Info] Disconnect api-public.addthis.com:443
+[2018-11-26 20:07:55] [Info] Disconnect clients1.google.com:443
+[2018-11-26 20:08:01] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-11-26 20:08:01] [Info] Disconnect play.google.com:443
+[2018-11-26 20:08:01] [Info] Disconnect accounts.youtube.com:443
+[2018-11-26 20:08:01] [Info] Disconnect www.google.com:443
+[2018-11-26 20:08:01] [Info] Disconnect play.google.com:443
+[2018-11-26 20:08:05] [Info] Disconnect accounts.google.com:443
+[2018-11-26 20:08:06] [Info] Disconnect sockets.leetcode.com:443
+[2018-11-26 20:08:06] [Info] Connect sockets.leetcode.com:443
+[2018-11-26 20:08:07] [Info] Disconnect assets.leetcode.com:443
+[2018-11-26 20:08:43] [Info] Disconnect www.googleapis.com:443
+[2018-11-26 20:08:43] [Info] Disconnect translate.google.com:443
+[2018-11-26 20:08:58] [Info] Connect raw.githubusercontent.com:443
+[2018-11-26 20:09:12] [Info] Connect android.clients.google.com:443
+[2018-11-26 20:09:29] [Info] Disconnect m.addthis.com:443
+[2018-11-26 20:09:40] [Info] Disconnect bam.nr-data.net:443
+[2018-11-26 20:10:10] [Info] Disconnect leetcode.com:443
+[2018-11-26 20:10:39] [Info] Disconnect raw.githubusercontent.com:443
+[2018-11-26 20:11:14] [Info] Disconnect android.clients.google.com:443
+[2018-11-26 20:11:18] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:11:18] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:11:18] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:11:31] [Info] Connect clients4.google.com:443
+[2018-11-26 20:11:43] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:11:45] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:11:45] [Info] Connect www.google.com:443
+[2018-11-26 20:11:45] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:11:45] [Info] Connect clients4.google.com:443
+[2018-11-26 20:11:55] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:11:57] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-26 20:12:11] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:12:11] [Info] Disconnect www.google.com:443
+[2018-11-26 20:12:12] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:12:12] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:12:12] [Info] Connect www.google.com:443
+[2018-11-26 20:12:18] [Info] Connect www.google.com:443
+[2018-11-26 20:12:26] [Info] Disconnect www.google.com:443
+[2018-11-26 20:12:27] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:12:27] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:12:27] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:12:27] [Info] Connect www.google.com:443
+[2018-11-26 20:12:28] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:12:34] [Info] Disconnect www.google.com:443
+[2018-11-26 20:12:35] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:12:35] [Info] Connect www.google.com:443
+[2018-11-26 20:12:35] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:12:36] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:12:49] [Info] Disconnect www.google.com:443
+[2018-11-26 20:12:50] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:12:50] [Info] Connect clients4.google.com:443
+[2018-11-26 20:12:50] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:12:50] [Info] Connect www.google.com:443
+[2018-11-26 20:13:02] [Info] Disconnect www.google.com:443
+[2018-11-26 20:13:02] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:13:03] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:13:03] [Info] Connect www.google.com:443
+[2018-11-26 20:13:03] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:13:03] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:13:12] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-26 20:13:17] [Info] Connect leetcode.com:443
+[2018-11-26 20:13:50] [Info] Disconnect leetcode.com:443
+[2018-11-26 20:13:50] [Info] Disconnect www.google.com:443
+[2018-11-26 20:13:51] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:13:51] [Info] Connect www.google.com:443
+[2018-11-26 20:13:51] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:13:51] [Info] Connect clients4.google.com:443
+[2018-11-26 20:13:53] [Info] Connect leetcode.com:443
+[2018-11-26 20:13:57] [Info] Connect www.google.com:443
+[2018-11-26 20:14:06] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:14:06] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:14:06] [Info] Disconnect leetcode.com:443
+[2018-11-26 20:14:06] [Info] Disconnect www.google.com:443
+[2018-11-26 20:14:08] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:14:08] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:14:08] [Info] Connect www.google.com:443
+[2018-11-26 20:14:08] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:14:13] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:14:20] [Info] Disconnect www.google.com:443
+[2018-11-26 20:14:21] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:14:21] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:14:21] [Info] Connect leetcode.com:443
+[2018-11-26 20:14:21] [Info] Connect www.google.com:443
+[2018-11-26 20:14:27] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:14:37] [Info] Disconnect www.google.com:443
+[2018-11-26 20:14:37] [Info] Disconnect leetcode.com:443
+[2018-11-26 20:14:38] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:14:38] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:14:38] [Info] Connect www.google.com:443
+[2018-11-26 20:14:38] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:14:48] [Info] Connect leetcode.com:443
+[2018-11-26 20:14:51] [Info] Disconnect www.google.com:443
+[2018-11-26 20:14:53] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:14:53] [Info] Connect clients4.google.com:443
+[2018-11-26 20:14:53] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:14:53] [Info] Connect www.google.com:443
+[2018-11-26 20:14:58] [Info] Connect www.google.com:443
+[2018-11-26 20:15:03] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:15:03] [Info] Disconnect www.google.com:443
+[2018-11-26 20:15:03] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:15:03] [Info] Disconnect leetcode.com:443
+[2018-11-26 20:15:05] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:15:05] [Info] Connect leetcode.com:443
+[2018-11-26 20:15:05] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:15:05] [Info] Connect www.google.com:443
+[2018-11-26 20:15:10] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:15:10] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:15:10] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:15:10] [Info] Connect clients2.google.com:443
+[2018-11-26 20:15:20] [Info] Disconnect clients2.google.com:443
+[2018-11-26 20:15:20] [Info] Disconnect leetcode.com:443
+[2018-11-26 20:15:20] [Info] Disconnect www.google.com:443
+[2018-11-26 20:15:21] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:15:21] [Info] Connect www.google.com:443
+[2018-11-26 20:15:21] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:15:31] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 114.55.207.244:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-11-26 20:15:39] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:15:39] [Info] Connect translate.google.com:443
+[2018-11-26 20:15:39] [Info] Direct connect translate.googleapis.com:443
+[2018-11-26 20:15:46] [Info] Disconnect www.google.com:443
+[2018-11-26 20:15:46] [Info] Disconnect translate.google.com:443
+[2018-11-26 20:15:47] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:15:47] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:15:47] [Info] Connect www.google.com:443
+[2018-11-26 20:15:52] [Info] Connect leetcode.com:443
+[2018-11-26 20:15:52] [Info] Direct connect translate.googleapis.com:443
+[2018-11-26 20:15:53] [Info] Connect www.gravatar.com:443
+[2018-11-26 20:15:53] [Info] Connect assets.leetcode.com:443
+[2018-11-26 20:15:53] [Info] Connect www.gravatar.com:443
+[2018-11-26 20:15:53] [Info] Connect www.gravatar.com:443
+[2018-11-26 20:15:53] [Info] Connect www.gravatar.com:443
+[2018-11-26 20:15:53] [Info] Connect www.gravatar.com:443
+[2018-11-26 20:15:53] [Info] Connect www.gravatar.com:443
+[2018-11-26 20:15:54] [Info] Disconnect www.gravatar.com:443
+[2018-11-26 20:15:59] [Info] Connect www.gravatar.com:443
+[2018-11-26 20:16:12] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:16:12] [Info] Disconnect www.gravatar.com:443
+[2018-11-26 20:16:12] [Info] Disconnect www.gravatar.com:443
+[2018-11-26 20:16:12] [Info] Disconnect www.gravatar.com:443
+[2018-11-26 20:16:12] [Info] Disconnect www.gravatar.com:443
+[2018-11-26 20:16:33] [Info] Disconnect www.gravatar.com:443
+[2018-11-26 20:16:33] [Info] Disconnect assets.leetcode.com:443
+[2018-11-26 20:16:33] [Info] Disconnect www.google.com:443
+[2018-11-26 20:16:33] [Info] Disconnect leetcode.com:443
+[2018-11-26 20:16:34] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:16:34] [Info] Connect clients4.google.com:443
+[2018-11-26 20:16:34] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:16:34] [Info] Connect www.google.com:443
+[2018-11-26 20:16:34] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:16:54] [Info] Direct connect translate.googleapis.com:443
+[2018-11-26 20:18:36] [Info] Disconnect www.google.com:443
+[2018-11-26 20:18:36] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:18:36] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:18:36] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:20:39] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:20:39] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:21:31] [Info] Connect clients4.google.com:443
+[2018-11-26 20:22:41] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:22:41] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:22:50] [Info] Direct connect translate.googleapis.com:443
+[2018-11-26 20:23:10] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-26 20:23:33] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:23:45] [Info] Connect leetcode.com:443
+[2018-11-26 20:24:43] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:24:43] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:24:45] [Info] Connect assets.leetcode.com:443
+[2018-11-26 20:24:45] [Info] Connect www.gravatar.com:443
+[2018-11-26 20:26:30] [Info] Disconnect www.gravatar.com:443
+[2018-11-26 20:26:45] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:26:45] [Info] Disconnect leetcode.com:443
+[2018-11-26 20:26:45] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:26:49] [Info] Disconnect assets.leetcode.com:443
+[2018-11-26 20:28:47] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:28:47] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:29:12] [Info] Connect leetcode.com:443
+[2018-11-26 20:29:12] [Info] Direct connect translate.googleapis.com:443
+[2018-11-26 20:29:20] [Info] Connect clients4.google.com:443
+[2018-11-26 20:30:49] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:30:49] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:31:21] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:31:32] [Info] Connect clients4.google.com:443
+[2018-11-26 20:32:52] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:32:52] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:32:53] [Info] Connect www.google.com:443
+[2018-11-26 20:32:54] [Info] Connect www.google.com.hk:443
+[2018-11-26 20:32:55] [Info] Connect t0.gstatic.com:443
+[2018-11-26 20:32:55] [Info] Connect t0.gstatic.com:443
+[2018-11-26 20:32:55] [Info] Connect t0.gstatic.com:443
+[2018-11-26 20:33:00] [Info] Disconnect leetcode.com:443
+[2018-11-26 20:33:00] [Info] Direct connect www.runoob.com:80
+[2018-11-26 20:33:00] [Info] Direct connect www.runoob.com:80
+[2018-11-26 20:33:00] [Info] Direct connect www.runoob.com:80
+[2018-11-26 20:33:00] [Info] Direct connect www.runoob.com:80
+[2018-11-26 20:33:01] [Info] Direct connect cdn.staticfile.org:443
+[2018-11-26 20:33:01] [Info] Direct connect www.runoob.com:80
+[2018-11-26 20:33:01] [Info] Direct connect static.runoob.com:80
+[2018-11-26 20:33:01] [Info] Direct connect cdn.staticfile.org:80
+[2018-11-26 20:33:01] [Info] Direct connect cdn.staticfile.org:80
+[2018-11-26 20:33:01] [Info] Direct connect static.runoob.com:80
+[2018-11-26 20:33:01] [Info] Direct connect static.runoob.com:80
+[2018-11-26 20:33:01] [Info] Direct connect cdn.staticfile.org:80
+[2018-11-26 20:33:01] [Info] Direct connect www.runoob.com:80
+[2018-11-26 20:33:01] [Info] Direct connect www.runoob.com:80
+[2018-11-26 20:33:01] [Info] Direct connect static.runoob.com:80
+[2018-11-26 20:33:01] [Info] Direct connect static.runoob.com:80
+[2018-11-26 20:33:02] [Info] Direct connect www.runoob.com:80
+[2018-11-26 20:33:02] [Info] Direct connect static.runoob.com:80
+[2018-11-26 20:33:02] [Info] Direct connect static.runoob.com:80
+[2018-11-26 20:33:02] [Info] Direct connect static.runoob.com:80
+[2018-11-26 20:33:02] [Info] Direct connect static.runoob.com:80
+[2018-11-26 20:33:03] [Info] Direct connect www.googletagmanager.com:443
+[2018-11-26 20:33:04] [Info] Disconnect www.google.com.hk:443
+[2018-11-26 20:33:05] [Info] Direct connect www.runoob.com:80
+[2018-11-26 20:33:05] [Info] Direct connect cdn.staticfile.org:443
+[2018-11-26 20:33:05] [Info] Direct connect www.runoob.com:80
+[2018-11-26 20:33:05] [Info] Direct connect www.runoob.com:80
+[2018-11-26 20:33:05] [Info] Direct connect www.runoob.com:80
+[2018-11-26 20:33:05] [Info] Direct connect adservice.google.com:443
+[2018-11-26 20:33:05] [Info] Direct connect www.runoob.com:80
+[2018-11-26 20:33:05] [Info] Disconnect t0.gstatic.com:443
+[2018-11-26 20:33:05] [Info] Direct connect www.runoob.com:80
+[2018-11-26 20:33:05] [Info] Connect clients1.google.com:443
+[2018-11-26 20:33:06] [Info] Disconnect t0.gstatic.com:443
+[2018-11-26 20:33:10] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-26 20:33:26] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 219.238.20.88:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-11-26 20:33:26] [Info] Direct connect static.runoob.com:80
+[2018-11-26 20:34:44] [Info] Connect www.google.com.hk:443
+[2018-11-26 20:34:44] [Info] Connect www.google.com.hk:443
+[2018-11-26 20:34:50] [Info] Direct connect ss0.bdstatic.com:443
+[2018-11-26 20:34:55] [Info] Disconnect www.google.com.hk:443
+[2018-11-26 20:34:55] [Info] Disconnect www.google.com.hk:443
+[2018-11-26 20:34:56] [Info] Disconnect t0.gstatic.com:443
+[2018-11-26 20:34:56] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:34:56] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:34:58] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-26 20:35:06] [Info] Disconnect clients1.google.com:443
+[2018-11-26 20:35:18] [Info] Connect www.google.com:443
+[2018-11-26 20:35:19] [Info] Connect www.google.com.hk:443
+[2018-11-26 20:35:20] [Info] Direct connect gh.bdstatic.com:443
+[2018-11-26 20:35:20] [Info] Direct connect beacon.tingyun.com:443
+[2018-11-26 20:35:20] [Info] Direct connect s5.ssl.qhres.com:443
+[2018-11-26 20:35:20] [Info] Direct connect s0.ssl.qhres.com:443
+[2018-11-26 20:35:20] [Info] Direct connect s2.ssl.qhres.com:443
+[2018-11-26 20:35:24] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2018-11-26 20:35:24] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2018-11-26 20:35:59] [Info] Direct connect gh.bdstatic.com:443
+[2018-11-26 20:36:46] [Info] Disconnect www.google.com:443
+[2018-11-26 20:36:58] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:36:58] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:36:59] [Info] Direct connect ss0.bdstatic.com:443
+[2018-11-26 20:36:59] [Info] Direct connect ss2.bdstatic.com:443
+[2018-11-26 20:36:59] [Info] Direct connect ss2.bdstatic.com:443
+[2018-11-26 20:37:10] [Info] Direct connect www.googletagservices.com:443
+[2018-11-26 20:37:11] [Info] Direct connect adservice.google.com:443
+[2018-11-26 20:37:11] [Info] Connect clients1.google.com:443
+[2018-11-26 20:37:20] [Info] Disconnect www.google.com.hk:443
+[2018-11-26 20:37:20] [Info] Disconnect www.google.com:443
+[2018-11-26 20:39:00] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:39:00] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:39:12] [Info] Disconnect clients1.google.com:443
+[2018-11-26 20:39:56] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:40:01] [Info] Direct connect beacon.tingyun.com:443
+[2018-11-26 20:40:12] [Info] Connect clients4.google.com:443
+[2018-11-26 20:41:02] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:41:02] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:41:10] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-26 20:41:11] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:41:11] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:41:11] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:41:12] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:41:12] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:41:12] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:41:12] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:41:12] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:41:12] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:41:13] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:41:14] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:41:15] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:41:16] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:41:17] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:41:21] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:41:26] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:42:21] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:42:35] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:42:35] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:42:37] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:42:58] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:42:58] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:42:58] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:05] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:43:05] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:43:10] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-26 20:43:23] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:43:32] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:35] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:43:36] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:43:36] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:43:36] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:36] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:36] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:37] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:37] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:37] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:37] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:38] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:38] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:38] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:39] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:45] [Info] Connect clients4.google.com:443
+[2018-11-26 20:43:46] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:43:51] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:52] [Info] Direct connect update.googleapis.com:443
+[2018-11-26 20:43:52] [Info] Connect storage.googleapis.com:80
+[2018-11-26 20:43:53] [Info] Disconnect storage.googleapis.com:80
+[2018-11-26 20:43:53] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:55] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:55] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:43:55] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:43:55] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:43:56] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:56] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:43:56] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:57] [Info] Direct connect huatuo.weiyun.com:443
+[2018-11-26 20:43:57] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:59] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:59] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 182.254.34.17:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-11-26 20:43:59] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:59] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:59] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:59] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:59] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:59] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:43:59] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:00] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:04] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:44:05] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:44:05] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:44:05] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:06] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:06] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:06] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:06] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:06] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:06] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:07] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:07] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:08] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:09] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:10] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:10] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:12] [Info] Connect storage.googleapis.com:80
+[2018-11-26 20:44:13] [Info] Disconnect storage.googleapis.com:80
+[2018-11-26 20:44:15] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:44:21] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:25] [Info] Connect storage.googleapis.com:80
+[2018-11-26 20:44:25] [Info] Disconnect storage.googleapis.com:80
+[2018-11-26 20:44:36] [Info] Connect storage.googleapis.com:80
+[2018-11-26 20:44:37] [Info] Disconnect storage.googleapis.com:80
+[2018-11-26 20:44:39] [Info] Direct connect huatuo.weiyun.com:443
+[2018-11-26 20:44:39] [Info] Connect storage.googleapis.com:80
+[2018-11-26 20:44:40] [Info] Disconnect storage.googleapis.com:80
+[2018-11-26 20:44:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:44:57] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:45:07] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:45:07] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:45:08] [Info] Connect clients1.google.com:443
+[2018-11-26 20:45:12] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:45:15] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-11-26 20:45:25] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-11-26 20:45:39] [Info] Connect www.google.com.hk:443
+[2018-11-26 20:45:39] [Info] Connect www.google.com:443
+[2018-11-26 20:45:40] [Info] Direct connect ssl.gstatic.com:443
+[2018-11-26 20:45:48] [Info] Direct connect www.douyu.com:443
+[2018-11-26 20:45:50] [Info] Direct connect passport.douyu.com:443
+[2018-11-26 20:45:51] [Info] Direct connect msg.douyu.com:443
+[2018-11-26 20:45:52] [Info] Direct connect static.geetest.com:443
+[2018-11-26 20:45:56] [Info] Direct connect g.wan.douyu.com:443
+[2018-11-26 20:46:05] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:46:05] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:46:05] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:46:05] [Info] Direct connect clientlog.p2p.haplat.net:443
+[2018-11-26 20:46:05] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:46:05] [Info] Direct connect videoad-1255868781.file.myqcloud.com:443
+[2018-11-26 20:46:05] [Info] Direct connect clientlog.p2p.haplat.net:443
+[2018-11-26 20:46:06] [Info] Direct connect h5tk.p2plive.8686c.com:443
+[2018-11-26 20:46:06] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:46:06] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:46:06] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:46:06] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:46:06] [Info] Direct connect marketing.douyu.com:443
+[2018-11-26 20:46:06] [Info] Direct connect 1gradnmttge5nhptofaauqpy.ourdvsss.com:443
+[2018-11-26 20:46:07] [Info] Direct connect wsproxy.douyu.com:6672
+[2018-11-26 20:46:07] [Info] Direct connect vinfo.qvb.qcloud.com:443
+[2018-11-26 20:46:07] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:8090
+[2018-11-26 20:46:07] [Info] Direct connect yuba.douyu.com:443
+[2018-11-26 20:46:07] [Info] Direct connect g.wan.douyu.com:443
+[2018-11-26 20:46:08] [Info] Direct connect clientlog.p2p.haplat.net:443
+[2018-11-26 20:46:08] [Info] Direct connect danmuproxy.douyu.com:8504
+[2018-11-26 20:46:08] [Info] Direct connect www.googletagmanager.com:443
+[2018-11-26 20:46:08] [Info] Direct connect wbstatic.douyu.com:443
+[2018-11-26 20:46:08] [Info] Direct connect wbstatic.douyu.com:443
+[2018-11-26 20:46:08] [Info] Direct connect wbstatic.douyu.com:443
+[2018-11-26 20:46:08] [Info] Direct connect wbstatic.douyu.com:443
+[2018-11-26 20:46:08] [Info] Direct connect wbstatic.douyu.com:443
+[2018-11-26 20:46:08] [Info] Direct connect wbstatic.douyu.com:443
+[2018-11-26 20:46:08] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:51240
+[2018-11-26 20:46:09] [Info] Direct connect 1gradnmttge5nhptofaauqpy.ourdvsss.com:443
+[2018-11-26 20:46:09] [Info] Direct connect p2ptest1.p2p.liveplay.myqcloud.com:443
+[2018-11-26 20:46:23] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:51240
+[2018-11-26 20:46:34] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:443
+[2018-11-26 20:46:38] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:51240
+[2018-11-26 20:46:53] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:51240
+[2018-11-26 20:47:04] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:443
+[2018-11-26 20:47:08] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:51240
+[2018-11-26 20:47:09] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:47:09] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:47:23] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:51240
+[2018-11-26 20:47:38] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:51240
+[2018-11-26 20:47:41] [Info] Disconnect www.google.com.hk:443
+[2018-11-26 20:47:41] [Info] Disconnect www.google.com:443
+[2018-11-26 20:47:53] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:51240
+[2018-11-26 20:48:04] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:443
+[2018-11-26 20:48:08] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:51240
+[2018-11-26 20:48:09] [Info] Disconnect clients1.google.com:443
+[2018-11-26 20:48:12] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.ProxySocketTun.EndReceive(IAsyncResult ar)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.PipeRemoteReceiveCallback(IAsyncResult ar)
+[2018-11-26 20:48:13] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:8090
+[2018-11-26 20:48:13] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:51240
+[2018-11-26 20:48:15] [Info] Direct connect p2ptest1.p2p.liveplay.myqcloud.com:443
+[2018-11-26 20:48:28] [Info] Direct connect p2ptest1.p2p.liveplay.myqcloud.com:443
+[2018-11-26 20:48:28] [Info] Direct connect p2ptest1.p2p.liveplay.myqcloud.com:443
+[2018-11-26 20:48:28] [Info] Direct connect 1gradnmttge5nhptofaauqpy.ourdvsss.com:443
+[2018-11-26 20:48:28] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:51240
+[2018-11-26 20:48:34] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:443
+[2018-11-26 20:48:35] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:48:49] [Info] Direct connect p2ptest1.p2p.liveplay.myqcloud.com:443
+[2018-11-26 20:48:49] [Info] Direct connect p2ptest1.p2p.liveplay.myqcloud.com:443
+[2018-11-26 20:48:49] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:51240
+[2018-11-26 20:48:53] [Info] Direct connect 4gwhnhpjtfaaukcjqge5y.ourdvsss.com:443
+[2018-11-26 20:48:54] [Info] Direct connect clientlog.p2p.haplat.net:443
+[2018-11-26 20:48:54] [Info] Direct connect h5tk.p2plive.8686c.com:443
+[2018-11-26 20:48:54] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:48:54] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:48:54] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:48:54] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:48:54] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:48:54] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:48:54] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:48:55] [Info] Direct connect clientlog.p2p.haplat.net:443
+[2018-11-26 20:48:55] [Info] Direct connect ad.qvb.qcloud.com:443
+[2018-11-26 20:48:55] [Info] Direct connect p2psdk.wscdns.com:443
+[2018-11-26 20:48:56] [Info] Direct connect 1gr3dgmttgy31hcj1gwzdcqe.ourdvsss.com:8090
+[2018-11-26 20:48:56] [Info] Direct connect 4grhdymta8yzdccjq8r5o.ourdvsss.com:443
+[2018-11-26 20:48:56] [Info] Direct connect 4grhdymta8yzdccjq8r5o.ourdvsss.com:443
+[2018-11-26 20:48:56] [Info] Direct connect 1gr3dgmttgy31hcj1gwzdcqe.ourdvsss.com:51240
+[2018-11-26 20:48:56] [Info] Direct connect vinfo.qvb.qcloud.com:443
+[2018-11-26 20:49:11] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:49:14] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:49:15] [Info] Direct connect p2ptest1.p2p.liveplay.myqcloud.com:443
+[2018-11-26 20:49:15] [Info] Direct connect 1gr3dgmttgy31hcj1gwzdcqe.ourdvsss.com:51240
+[2018-11-26 20:49:24] [Info] Direct connect 1gr3dgmttgy31hcj1gwzdcqe.ourdvsss.com:443
+[2018-11-26 20:49:28] [Info] Direct connect 1gr3dgmttgy31hcj1gwzdcqe.ourdvsss.com:51240
+[2018-11-26 20:49:28] [Info] Direct connect p2ptest1.p2p.liveplay.myqcloud.com:443
+[2018-11-26 20:49:28] [Info] Direct connect 1gradnmttge5nhptofaaukco.ourdvsss.com:443
+[2018-11-26 20:49:29] [Info] Direct connect 1gr3dgmttgy31hcj1gwzdcqe.ourdvsss.com:51240
+[2018-11-26 20:49:41] [Info] Direct connect 1gr3dgmttgy31hcj1gwzdcqe.ourdvsss.com:51240
+[2018-11-26 20:49:43] [Info] Direct connect p2ptest1.p2p.liveplay.myqcloud.com:443
+[2018-11-26 20:49:44] [Info] Direct connect ad.qvb.qcloud.com:443
+[2018-11-26 20:49:53] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-11-26 20:49:53] [Info] Direct connect conf.qvb.qcloud.com:443
+[2018-11-26 20:49:53] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-11-26 20:49:54] [Info] Direct connect f238a8e215f25ab68d5e9401c7eca3dd.v.smtcdns.net:443
+[2018-11-26 20:49:54] [Info] Direct connect signal.qvb.qcloud.com:443
+[2018-11-26 20:49:54] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-11-26 20:49:54] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-11-26 20:49:54] [Info] Connect clients1.google.com:443
+[2018-11-26 20:49:55] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-11-26 20:49:55] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-11-26 20:49:55] [Info] Direct connect wsproxy.douyu.com:6674
+[2018-11-26 20:49:55] [Info] Connect clients4.google.com:443
+[2018-11-26 20:49:55] [Info] Direct connect msg.douyu.com:443
+[2018-11-26 20:49:56] [Info] Direct connect danmuproxy.douyu.com:8505
+[2018-11-26 20:49:56] [Info] Direct connect p2ptest1.p2p.liveplay.myqcloud.com:443
+[2018-11-26 20:49:57] [Info] Direct connect g.wan.douyu.com:443
+[2018-11-26 20:49:58] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-11-26 20:49:59] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-11-26 20:50:01] [Info] Direct connect image.wan.douyu.com:443
+[2018-11-26 20:50:06] [Info] Direct connect f238a8e215f25ab68d5e9401c7eca3dd.v.smtcdns.net:443
+[2018-11-26 20:50:07] [Info] Direct connect f238a8e215f25ab68d5e9401c7eca3dd.v.smtcdns.net:443
+[2018-11-26 20:50:08] [Info] Direct connect p2ptest1.p2p.liveplay.myqcloud.com:443
+[2018-11-26 20:50:08] [Info] Direct connect f238a8e215f25ab68d5e9401c7eca3dd.v.smtcdns.net:443
+[2018-11-26 20:50:10] [Info] Direct connect tracker-00.qvb.qcloud.com:443
+[2018-11-26 20:50:28] [Info] Direct connect tracker-00.qvb.qcloud.com:443
+[2018-11-26 20:50:28] [Info] Direct connect f238a8e215f25ab68d5e9401c7eca3dd.v.smtcdns.net:443
+[2018-11-26 20:50:28] [Info] Direct connect p2ptest1.p2p.liveplay.myqcloud.com:443
+[2018-11-26 20:50:28] [Info] Direct connect f238a8e215f25ab68d5e9401c7eca3dd.v.smtcdns.net:443
+[2018-11-26 20:50:28] [Info] Direct connect f238a8e215f25ab68d5e9401c7eca3dd.v.smtcdns.net:443
+[2018-11-26 20:50:28] [Info] Direct connect p2ptest1.p2p.liveplay.myqcloud.com:443
+[2018-11-26 20:50:28] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-11-26 20:50:30] [Info] Direct connect ad.qvb.qcloud.com:443
+[2018-11-26 20:50:36] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-11-26 20:50:36] [Info] Direct connect conf.qvb.qcloud.com:443
+[2018-11-26 20:50:37] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-11-26 20:50:37] [Info] Direct connect signal.qvb.qcloud.com:443
+[2018-11-26 20:50:37] [Info] Direct connect 71b37c5df1a15d727c93dbd6cd5e0fb1.v.smtcdns.net:443
+[2018-11-26 20:50:37] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-11-26 20:50:39] [Info] Direct connect wsproxy.douyu.com:6671
+[2018-11-26 20:50:39] [Info] Direct connect danmuproxy.douyu.com:8504
+[2018-11-26 20:50:45] [Info] Direct connect yuba.douyu.com:443
+[2018-11-26 20:50:45] [Info] Direct connect wbstatic.douyu.com:443
+[2018-11-26 20:50:53] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-11-26 20:50:54] [Info] Direct connect ad.qvb.qcloud.com:443
+[2018-11-26 20:50:55] [Info] Direct connect tracker-00.qvb.qcloud.com:443
+[2018-11-26 20:51:01] [Info] Direct connect ss0.bdstatic.com:443
+[2018-11-26 20:51:03] [Info] Direct connect www.huya.com:443
+[2018-11-26 20:51:03] [Info] Direct connect livewebbs2.msstatic.com:443
+[2018-11-26 20:51:03] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 20:51:03] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 20:51:03] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 20:51:03] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 20:51:03] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 20:51:03] [Info] Direct connect aqyzmedia.yunaq.com:443
+[2018-11-26 20:51:04] [Info] Direct connect live-cover.msstatic.com:443
+[2018-11-26 20:51:04] [Info] Direct connect livewebbs2.msstatic.com:443
+[2018-11-26 20:51:04] [Info] Direct connect livewebbs2.msstatic.com:443
+[2018-11-26 20:51:04] [Info] Direct connect livewebbs2.msstatic.com:443
+[2018-11-26 20:51:04] [Info] Direct connect livewebbs2.msstatic.com:443
+[2018-11-26 20:51:04] [Info] Direct connect livewebbs2.msstatic.com:443
+[2018-11-26 20:51:04] [Info] Direct connect huyaimg.msstatic.com:443
+[2018-11-26 20:51:04] [Info] Direct connect live-cover.msstatic.com:443
+[2018-11-26 20:51:04] [Info] Direct connect live-cover.msstatic.com:443
+[2018-11-26 20:51:04] [Info] Direct connect live-cover.msstatic.com:443
+[2018-11-26 20:51:04] [Info] Direct connect live-cover.msstatic.com:443
+[2018-11-26 20:51:04] [Info] Direct connect live-cover.msstatic.com:443
+[2018-11-26 20:51:04] [Info] Direct connect huyaimg.msstatic.com:443
+[2018-11-26 20:51:04] [Info] Direct connect tx.flv.huya.com:443
+[2018-11-26 20:51:04] [Info] Direct connect 70195e74-ws.va.huya.com:443
+[2018-11-26 20:51:04] [Info] Direct connect user.huya.com:443
+[2018-11-26 20:51:04] [Info] Direct connect 249b0a0f-ws.va.huya.com:443
+[2018-11-26 20:51:04] [Info] Direct connect icon.cecdc.com:80
+[2018-11-26 20:51:04] [Info] Direct connect metric.huya.com:443
+[2018-11-26 20:51:05] [Info] Direct connect bcdbe02a71652284f3d96117d215bff0.v.smtcdns.net:443
+[2018-11-26 20:51:05] [Info] Direct connect statwup.huya.com:443
+[2018-11-26 20:51:06] [Info] Direct connect g.huya.com:443
+[2018-11-26 20:51:06] [Info] Direct connect 249b0a0d-ws.va.huya.com:443
+[2018-11-26 20:51:06] [Info] Direct connect ylog.hiido.com:443
+[2018-11-26 20:51:06] [Info] Direct connect ylog.hiido.com:443
+[2018-11-26 20:51:07] [Info] Direct connect aqyzmedia.yunaq.com:443
+[2018-11-26 20:51:07] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 20:51:07] [Info] Direct connect udbres.huya.com:443
+[2018-11-26 20:51:08] [Info] Direct connect 70195e70-ws.va.huya.com:443
+[2018-11-26 20:51:09] [Info] Direct connect static-jw.msstatic.com:443
+[2018-11-26 20:51:09] [Info] Direct connect ylog.hiido.com:443
+[2018-11-26 20:51:09] [Info] Direct connect ylog.hiido.com:443
+[2018-11-26 20:51:09] [Info] Direct connect ylog.hiido.com:443
+[2018-11-26 20:51:09] [Info] Direct connect ylog.huya.com:443
+[2018-11-26 20:51:09] [Info] Direct connect ylog.huya.com:443
+[2018-11-26 20:51:09] [Info] Direct connect ylog.hiido.com:443
+[2018-11-26 20:51:09] [Info] Direct connect ylog.huya.com:443
+[2018-11-26 20:51:09] [Info] Direct connect ylog.huya.com:443
+[2018-11-26 20:51:09] [Info] Direct connect ylog.huya.com:443
+[2018-11-26 20:51:09] [Info] Direct connect ylog.huya.com:443
+[2018-11-26 20:51:10] [Info] Direct connect upevent.huya.com:443
+[2018-11-26 20:51:12] [Info] Direct connect ylog.hiido.com:443
+[2018-11-26 20:51:13] [Info] Direct connect udbres.huya.com:443
+[2018-11-26 20:51:14] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:51:15] [Info] Direct connect l.web.huya.com:443
+[2018-11-26 20:51:15] [Info] Direct connect imasdk.googleapis.com:443
+[2018-11-26 20:51:15] [Info] Direct connect wup.huya.com:443
+[2018-11-26 20:51:15] [Info] Direct connect 78f161ae-ws.va.huya.com:443
+[2018-11-26 20:51:15] [Info] Direct connect 78f161d0-ws.va.huya.com:443
+[2018-11-26 20:51:15] [Info] Direct connect b7e83085-ws.va.huya.com:443
+[2018-11-26 20:51:15] [Info] Direct connect b7e8308d-ws.va.huya.com:443
+[2018-11-26 20:51:15] [Info] Direct connect ylog.hiido.com:443
+[2018-11-26 20:51:15] [Info] Direct connect ylog.hiido.com:443
+[2018-11-26 20:51:15] [Info] Direct connect ylog.hiido.com:443
+[2018-11-26 20:51:16] [Info] Direct connect ylog.hiido.com:443
+[2018-11-26 20:51:16] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:51:16] [Info] Disconnect clients1.google.com:443
+[2018-11-26 20:51:16] [Info] Direct connect ylog.hiido.com:443
+[2018-11-26 20:51:16] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:51:16] [Info] Direct connect ylog.hiido.com:443
+[2018-11-26 20:51:16] [Info] Direct connect v-api-plus.huya.com:443
+[2018-11-26 20:51:16] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:51:16] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 20:51:16] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 20:51:16] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 20:51:17] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 20:51:17] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 20:51:17] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 20:51:17] [Info] Connect clients1.google.com:443
+[2018-11-26 20:51:17] [Info] Direct connect 613854837-server.va.huya.com:5500
+[2018-11-26 20:51:17] [Info] Direct connect statwup.huya.com:443
+[2018-11-26 20:51:18] [Info] Connect clients4.google.com:443
+[2018-11-26 20:51:18] [Info] Connect clients1.google.com:443
+[2018-11-26 20:51:19] [Info] Direct connect livewebbs2.msstatic.com:443
+[2018-11-26 20:51:19] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-26 20:51:19] [Info] Direct connect api.huya.com:443
+[2018-11-26 20:51:20] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:51:20] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:51:22] [Info] Connect clients1.google.com:443
+[2018-11-26 20:51:23] [Info] Direct connect webpush.huya.com:443
+[2018-11-26 20:51:24] [Info] Direct connect www.nowcoder.com:443
+[2018-11-26 20:51:25] [Info] Direct connect webpush.huya.com:443
+[2018-11-26 20:51:25] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 219.238.20.101:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-11-26 20:51:25] [Info] Direct connect web.huya.com:443
+[2018-11-26 20:51:28] [Info] Direct connect fw.huya.com:443
+[2018-11-26 20:51:32] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:51:40] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:51:40] [Info] Disconnect clients1.google.com:443
+[2018-11-26 20:51:43] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:51:43] [Info] Direct connect ws.stream.huya.com:443
+[2018-11-26 20:51:43] [Info] Direct connect v-cms-img.huya.com:443
+[2018-11-26 20:51:44] [Info] Direct connect v-cms-img.huya.com:443
+[2018-11-26 20:51:48] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 20:51:52] [Info] Direct connect 34249508-server.va.huya.com:4478
+[2018-11-26 20:51:53] [Info] Direct connect 2686333039-server.va.huya.com:5483
+[2018-11-26 20:51:53] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:51:53] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:52:11] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:52:26] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:52:26] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:52:29] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:52:57] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:52:59] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:53:00] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:53:05] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:53:10] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-26 20:53:18] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:53:18] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:53:20] [Info] Disconnect clients1.google.com:443
+[2018-11-26 20:53:25] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 20:53:48] [Info] Disconnect clients4.google.com:443
+[2018-11-26 20:54:23] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 20:55:20] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:55:20] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:56:32] [Info] Direct connect v-cms-img.huya.com:443
+[2018-11-26 20:57:22] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:57:22] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:57:25] [Info] Direct connect huyaimg.msstatic.com:443
+[2018-11-26 20:59:25] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 20:59:25] [Info] Connect mtalk.google.com:5228
+[2018-11-26 20:59:37] [Info] Direct connect a.msstatic.com:443
+[2018-11-26 21:00:26] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 21:00:27] [Info] Direct connect ylog.hiido.com:443
+[2018-11-26 21:00:30] [Info] Connect clients1.google.com:443
+[2018-11-26 21:00:31] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 21:00:31] [Info] Direct connect ws.p2p.huya.com:443
+[2018-11-26 21:00:32] [Info] Direct connect www.huya.com:443
+[2018-11-26 21:00:44] [Info] Connect clients4.google.com:443
+[2018-11-26 21:00:46] [Info] Direct connect fw.huya.com:443
+[2018-11-26 21:00:46] [Info] Direct connect huyaimg.msstatic.com:443
+[2018-11-26 21:00:57] [Info] Connect leetcode.com:443
+[2018-11-26 21:01:01] [Info] Direct connect translate.googleapis.com:443
+[2018-11-26 21:01:24] [Info] Disconnect sockets.leetcode.com:443
+[2018-11-26 21:01:25] [Info] Connect sockets.leetcode.com:443
+[2018-11-26 21:01:25] [Info] Connect bam.nr-data.net:443
+[2018-11-26 21:01:27] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 21:01:27] [Info] Connect mtalk.google.com:5228
+[2018-11-26 21:01:32] [Info] Disconnect sockets.leetcode.com:443
+[2018-11-26 21:01:32] [Info] Connect sockets.leetcode.com:443
+[2018-11-26 21:02:04] [Info] Direct connect updatem.360safe.com:80
+[2018-11-26 21:02:04] [Info] Direct connect src.dl.360safe.com:80
+[2018-11-26 21:02:25] [Info] Connect translate.google.com:443
+[2018-11-26 21:02:25] [Info] Connect www.googleapis.com:443
+[2018-11-26 21:02:31] [Info] Disconnect clients1.google.com:443
+[2018-11-26 21:03:04] [Info] Disconnect bam.nr-data.net:443
+[2018-11-26 21:03:10] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-11-26 21:03:17] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-26 21:03:29] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 21:03:29] [Info] Connect mtalk.google.com:5228
+[2018-11-26 21:03:35] [Info] Disconnect leetcode.com:443
+[2018-11-26 21:04:17] [Info] Connect leetcode.com:443
+[2018-11-26 21:04:27] [Info] Disconnect www.googleapis.com:443
+[2018-11-26 21:04:27] [Info] Disconnect translate.google.com:443
+[2018-11-26 21:05:28] [Info] Connect www.google.com.hk:443
+[2018-11-26 21:05:28] [Info] Connect www.google.com:443
+[2018-11-26 21:05:31] [Info] Connect t0.gstatic.com:443
+[2018-11-26 21:05:31] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 21:05:31] [Info] Connect mtalk.google.com:5228
+[2018-11-26 21:05:41] [Info] Disconnect www.google.com.hk:443
+[2018-11-26 21:05:45] [Info] Direct connect adservice.google.com:443
+[2018-11-26 21:05:45] [Info] Direct connect www.googletagservices.com:443
+[2018-11-26 21:05:46] [Info] Connect clients1.google.com:443
+[2018-11-26 21:07:15] [Info] Disconnect leetcode.com:443
+[2018-11-26 21:07:33] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 21:07:33] [Info] Connect mtalk.google.com:5228
+[2018-11-26 21:07:33] [Info] Disconnect t0.gstatic.com:443
+[2018-11-26 21:07:33] [Info] Disconnect www.google.com:443
+[2018-11-26 21:07:47] [Info] Disconnect clients1.google.com:443
+[2018-11-26 21:08:03] [Info] Disconnect clients4.google.com:443
+[2018-11-26 21:09:35] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 21:09:35] [Info] Connect mtalk.google.com:5228
+[2018-11-26 21:11:31] [Info] Connect clients4.google.com:443
+[2018-11-26 21:11:38] [Info] Disconnect mtalk.google.com:5228
+[2018-11-26 21:11:38] [Info] Connect mtalk.google.com:5228
+[2018-11-26 21:12:29] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-11-26 21:12:44] [Info] Disconnect sockets.leetcode.com:443
+[2018-11-26 21:12:49] [Info] Connect leetcode.com:443
+[2018-11-26 21:12:51] [Info] Connect leetcode.com:443
+[2018-11-26 21:12:54] [Info] Connect leetcode.com:443
+[2018-11-26 21:12:55] [Info] Connect sockets.leetcode.com:443
+[2018-11-26 21:12:56] [Info] Connect bam.nr-data.net:443

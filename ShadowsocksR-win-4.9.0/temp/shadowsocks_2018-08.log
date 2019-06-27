@@ -1,0 +1,1774 @@
+[2018-08-29 15:01:16] ShadowsocksR started on port 1080
+[2018-08-29 15:01:16] [Info] Connect clients1.google.com:443
+[2018-08-29 15:01:16] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:16] [Info] Connect clients1.google.com:443
+[2018-08-29 15:01:16] [Info] Connect clients1.google.com:443
+[2018-08-29 15:01:18] [Info] Connect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:01:19] [Info] Connect clients1.google.com:443
+[2018-08-29 15:01:20] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:21] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:22] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:01:22] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:01:23] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:23] [Info] Connect clients1.google.com:443
+[2018-08-29 15:01:25] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:25] [Info] Connect clients1.google.com:443
+[2018-08-29 15:01:27] [Info] Connect raw.githubusercontent.com:443
+[2018-08-29 15:01:27] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:28] [Info] Connect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:01:29] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:29] [Info] Connect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:01:30] [Info] Connect clients1.google.com:443
+[2018-08-29 15:01:31] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:01:32] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:33] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:01:33] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:01:33] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:34] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:01:36] [Info] Connect clients4.google.com:443
+[2018-08-29 15:01:37] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:39] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:01:41] [Info] Connect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:01:42] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:01:43] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:01:44] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:46] [Info] Connect clients1.google.com:443
+[2018-08-29 15:01:47] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:48] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-08-29 15:01:48] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:50] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:51] [Info] Connect clients1.google.com:443
+[2018-08-29 15:01:51] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:01:52] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:01:53] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:53] [Info] Connect raw.githubusercontent.com:443
+[2018-08-29 15:01:55] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:56] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:57] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:01:58] [Info] Connect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:01:59] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:01] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:01] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:02] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:03] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:03] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:03] [Info] Connect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:02:06] [Info] Disconnect clients1.google.com:443
+[2018-08-29 15:02:07] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:07] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:02:08] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:08] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:08] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:09] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:10] [Info] Connect clients4.google.com:443
+[2018-08-29 15:02:10] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:10] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:11] [Info] Connect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:02:12] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:13] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:14] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:15] [Info] Disconnect clients1.google.com:443
+[2018-08-29 15:02:15] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:16] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:17] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:17] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:18] [Info] Disconnect clients1.google.com:443
+[2018-08-29 15:02:18] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:18] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:19] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:20] [Info] Connect raw.githubusercontent.com:443
+[2018-08-29 15:02:21] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:22] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:23] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:24] [Info] Disconnect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:02:24] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:25] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:26] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:27] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:27] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:27] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:02:28] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:29] [Info] Connect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:02:31] [Info] Connect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:02:33] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:34] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:35] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:36] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:02:37] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect clients4.google.com:443
+[2018-08-29 15:02:37] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:02:37] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 15:02:37] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:02:37] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:48] [Info] Disconnect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:02:49] [Info] Connect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:02:49] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:49] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:49] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:49] [Info] Direct connect www.gstatic.com:80
+[2018-08-29 15:02:50] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:02:55] [Info] Connect www.google.com:443
+[2018-08-29 15:02:56] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:02:56] [Info] Direct connect ssl.gstatic.com:443
+[2018-08-29 15:02:57] [Info] Direct connect www.gstatic.com:443
+[2018-08-29 15:02:57] [Info] Direct connect www.gstatic.com:443
+[2018-08-29 15:02:57] [Info] Direct connect www.gstatic.com:443
+[2018-08-29 15:02:57] [Info] Direct connect fonts.googleapis.com:443
+[2018-08-29 15:02:57] [Info] Direct connect www.gstatic.com:443
+[2018-08-29 15:02:58] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:02:58] [Info] Connect apis.google.com:443
+[2018-08-29 15:02:58] [Info] Connect www.google.com.hk:443
+[2018-08-29 15:02:59] [Info] Direct connect adservice.google.com:443
+[2018-08-29 15:03:16] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:03:23] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:03:23] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:04:02] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:04:08] [Info] Disconnect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:04:18] [Info] Disconnect raw.githubusercontent.com:443
+[2018-08-29 15:04:34] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:04:43] [Info] Connect clients1.google.com:443
+[2018-08-29 15:04:45] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:04:56] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:04:57] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:04:59] [Info] Disconnect apis.google.com:443
+[2018-08-29 15:04:59] [Info] Disconnect www.google.com.hk:443
+[2018-08-29 15:05:00] [Info] Direct connect updatem.360safe.com:80
+[2018-08-29 15:05:00] [Info] Direct connect src.dl.360safe.com:80
+[2018-08-29 15:05:01] [Info] Disconnect www.google.com:443
+[2018-08-29 15:05:31] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:05:45] [Info] Connect www.youtube.com:443
+[2018-08-29 15:06:25] [Info] Connect raw.githubusercontent.com:443
+[2018-08-29 15:06:26] [Info] Connect r1---sn-i3b7kn7s.googlevideo.com:443
+[2018-08-29 15:06:26] [Info] Connect r1---sn-i3b7kn7s.googlevideo.com:443
+[2018-08-29 15:06:29] [Info] Connect s.ytimg.com:443
+[2018-08-29 15:06:29] [Info] Connect s.ytimg.com:443
+[2018-08-29 15:06:29] [Info] Connect s.ytimg.com:443
+[2018-08-29 15:06:29] [Info] Connect s.ytimg.com:443
+[2018-08-29 15:06:29] [Info] Connect s.ytimg.com:443
+[2018-08-29 15:06:29] [Info] Connect s.ytimg.com:443
+[2018-08-29 15:06:29] [Info] Connect s.ytimg.com:443
+[2018-08-29 15:06:29] [Info] Disconnect s.ytimg.com:443
+[2018-08-29 15:06:48] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:06:48] [Info] Disconnect s.ytimg.com:443
+[2018-08-29 15:06:48] [Info] Disconnect s.ytimg.com:443
+[2018-08-29 15:06:48] [Info] Disconnect s.ytimg.com:443
+[2018-08-29 15:06:48] [Info] Disconnect s.ytimg.com:443
+[2018-08-29 15:06:50] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:06:52] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:06:52] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:06:57] [Info] Connect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:06:57] [Info] Disconnect r1---sn-i3b7kn7s.googlevideo.com:443
+[2018-08-29 15:06:57] [Info] Disconnect r1---sn-i3b7kn7s.googlevideo.com:443
+[2018-08-29 15:06:58] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:06:58] [Info] Connect gql.twitch.tv:443
+[2018-08-29 15:07:02] [Info] Disconnect clients1.google.com:443
+[2018-08-29 15:07:04] [Info] Connect clients1.google.com:443
+[2018-08-29 15:07:12] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:07:12] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:07:12] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:07:12] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:07:13] [Info] Connect accounts.google.com:443
+[2018-08-29 15:07:13] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:07:13] [Info] Direct connect fonts.gstatic.com:443
+[2018-08-29 15:07:14] [Info] Connect www.google.com.hk:443
+[2018-08-29 15:07:14] [Info] Connect www.google.com:443
+[2018-08-29 15:07:14] [Info] Connect s2.googleusercontent.com:443
+[2018-08-29 15:07:14] [Info] Connect s2.googleusercontent.com:443
+[2018-08-29 15:07:14] [Info] Connect s2.googleusercontent.com:443
+[2018-08-29 15:07:14] [Info] Connect s2.googleusercontent.com:443
+[2018-08-29 15:07:17] [Info] Connect r1---sn-i3b7kn7s.googlevideo.com:443
+[2018-08-29 15:07:17] [Info] Connect r1---sn-i3b7kn7s.googlevideo.com:443
+[2018-08-29 15:07:17] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:07:17] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:07:17] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:07:17] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:07:17] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:07:17] [Info] Disconnect r1---sn-i3b7kn7s.googlevideo.com:443
+[2018-08-29 15:07:17] [Info] Disconnect r1---sn-i3b7kn7s.googlevideo.com:443
+[2018-08-29 15:07:18] [Info] Connect i1.ytimg.com:443
+[2018-08-29 15:07:20] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:07:24] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:07:24] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:07:25] [Info] Disconnect s2.googleusercontent.com:443
+[2018-08-29 15:07:25] [Info] Disconnect s2.googleusercontent.com:443
+[2018-08-29 15:07:25] [Info] Disconnect s2.googleusercontent.com:443
+[2018-08-29 15:07:27] [Info] Direct connect www.gstatic.com:443
+[2018-08-29 15:07:27] [Info] Connect clients1.google.com:443
+[2018-08-29 15:07:28] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:07:28] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:07:28] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:07:28] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:07:29] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 15:07:33] [Info] Connect r2---sn-i3beln7z.googlevideo.com:443
+[2018-08-29 15:07:33] [Info] Connect r2---sn-i3beln7z.googlevideo.com:443
+[2018-08-29 15:07:33] [Info] Connect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:07:33] [Info] Connect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:07:34] [Info] Direct connect fonts.googleapis.com:443
+[2018-08-29 15:07:35] [Info] Connect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:07:36] [Info] Connect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:07:36] [Info] Connect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:07:36] [Info] Disconnect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:07:36] [Info] Disconnect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:07:36] [Info] Disconnect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:07:37] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 15:07:37] [Info] Connect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:07:37] [Info] Connect gaming.youtube.com:443
+[2018-08-29 15:07:37] [Info] Connect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:07:38] [Info] Connect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:07:43] [Info] Disconnect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:07:46] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:07:48] [Info] Disconnect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:07:56] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:08:03] [Info] Disconnect r2---sn-i3beln7z.googlevideo.com:443
+[2018-08-29 15:08:03] [Info] Disconnect r2---sn-i3beln7z.googlevideo.com:443
+[2018-08-29 15:08:06] [Info] Disconnect raw.githubusercontent.com:443
+[2018-08-29 15:08:21] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:08:25] [Info] Connect youtube.streamlabs.com:443
+[2018-08-29 15:08:25] [Info] Connect youtube.streamlabs.com:443
+[2018-08-29 15:08:26] [Info] Connect streamlabs.com:443
+[2018-08-29 15:08:26] [Info] Connect streamlabs.com:443
+[2018-08-29 15:08:27] [Info] Disconnect streamlabs.com:443
+[2018-08-29 15:08:27] [Info] Disconnect youtube.streamlabs.com:443
+[2018-08-29 15:08:27] [Info] Connect use.fontawesome.com:443
+[2018-08-29 15:08:28] [Info] Connect cdn.streamlabs.com:443
+[2018-08-29 15:08:28] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 15:08:29] [Info] Connect payments.openalerts.com:443
+[2018-08-29 15:08:29] [Info] Connect www.paypalobjects.com:443
+[2018-08-29 15:08:29] [Info] Connect s2.symcb.com:80
+[2018-08-29 15:08:29] [Info] Connect sr.symcd.com:80
+[2018-08-29 15:08:29] [Info] Disconnect s2.symcb.com:80
+[2018-08-29 15:08:30] [Info] Disconnect sr.symcd.com:80
+[2018-08-29 15:08:31] [Info] Connect cdn.heapanalytics.com:443
+[2018-08-29 15:08:32] [Info] Disconnect payments.openalerts.com:443
+[2018-08-29 15:08:32] [Info] Disconnect s.ytimg.com:443
+[2018-08-29 15:08:32] [Info] Connect heapanalytics.com:443
+[2018-08-29 15:08:35] [Info] Connect use.fontawesome.com:443
+[2018-08-29 15:08:35] [Info] Connect scontent.xx.fbcdn.net:443
+[2018-08-29 15:08:35] [Info] Disconnect heapanalytics.com:443
+[2018-08-29 15:08:35] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:08:35] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 15:08:35] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:08:35] [Info] Disconnect clients1.google.com:443
+[2018-08-29 15:08:35] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:08:35] [Info] Disconnect cdn.streamlabs.com:443
+[2018-08-29 15:08:35] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:08:35] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:08:35] [Info] Disconnect s.ytimg.com:443
+[2018-08-29 15:08:35] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:08:35] [Info] Connect thumbs.gfycat.com:443
+[2018-08-29 15:08:35] [Info] Disconnect www.google.com:443
+[2018-08-29 15:08:35] [Info] Disconnect www.google.com.hk:443
+[2018-08-29 15:08:35] [Info] Disconnect i1.ytimg.com:443
+[2018-08-29 15:08:35] [Info] Disconnect s2.googleusercontent.com:443
+[2018-08-29 15:08:36] [Info] Disconnect clients1.google.com:443
+[2018-08-29 15:08:36] [Info] Connect thumbs.gfycat.com:443
+[2018-08-29 15:08:36] [Info] Connect thumbs.gfycat.com:443
+[2018-08-29 15:08:36] [Info] Connect thumbs.gfycat.com:443
+[2018-08-29 15:08:36] [Info] Connect thumbs.gfycat.com:443
+[2018-08-29 15:08:36] [Info] Connect thumbs.gfycat.com:443
+[2018-08-29 15:08:36] [Info] Disconnect gaming.youtube.com:443
+[2018-08-29 15:08:36] [Info] Disconnect youtube.streamlabs.com:443
+[2018-08-29 15:08:36] [Info] Connect use.fontawesome.com:443
+[2018-08-29 15:08:36] [Info] Connect gaming.youtube.com:443
+[2018-08-29 15:08:36] [Info] Disconnect use.fontawesome.com:443
+[2018-08-29 15:08:36] [Info] Disconnect www.paypalobjects.com:443
+[2018-08-29 15:08:36] [Info] Disconnect accounts.google.com:443
+[2018-08-29 15:08:36] [Info] Disconnect cdn.heapanalytics.com:443
+[2018-08-29 15:08:36] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:08:36] [Info] Connect cdn.twitchalerts.com:443
+[2018-08-29 15:08:36] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:08:37] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:08:43] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:08:46] [Info] Disconnect thumbs.gfycat.com:443
+[2018-08-29 15:08:46] [Info] Disconnect thumbs.gfycat.com:443
+[2018-08-29 15:08:46] [Info] Disconnect thumbs.gfycat.com:443
+[2018-08-29 15:08:46] [Info] Disconnect thumbs.gfycat.com:443
+[2018-08-29 15:08:46] [Info] Disconnect thumbs.gfycat.com:443
+[2018-08-29 15:08:48] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:08:48] [Info] Disconnect use.fontawesome.com:443
+[2018-08-29 15:08:50] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:08:50] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:08:53] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:08:57] [Info] Connect gql.twitch.tv:443
+[2018-08-29 15:08:58] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:08:59] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:08:59] [Info] Connect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:09:08] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 15:09:19] [Info] Connect www.google.com:443
+[2018-08-29 15:09:19] [Info] Direct connect ssl.gstatic.com:443
+[2018-08-29 15:09:20] [Info] Direct connect ssl.gstatic.com:443
+[2018-08-29 15:09:21] [Info] Direct connect www.gstatic.com:443
+[2018-08-29 15:09:22] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:09:29] [Info] Connect www.miaosuspeed.com:443
+[2018-08-29 15:09:29] [Info] Connect www.miaosuspeed.com:443
+[2018-08-29 15:09:29] [Info] Connect www.miaosuspeed.com:443
+[2018-08-29 15:09:29] [Info] Connect www.miaosuspeed.com:443
+[2018-08-29 15:09:29] [Info] Connect www.miaosuspeed.com:443
+[2018-08-29 15:09:29] [Info] Connect www.miaosuspeed.com:443
+[2018-08-29 15:09:33] [Info] Disconnect www.miaosuspeed.com:443
+[2018-08-29 15:09:40] [Info] Disconnect www.miaosuspeed.com:443
+[2018-08-29 15:09:41] [Info] Disconnect scontent.xx.fbcdn.net:443
+[2018-08-29 15:10:02] [Info] Connect s.ytimg.com:443
+[2018-08-29 15:10:08] [Info] Disconnect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:10:08] [Info] Disconnect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:10:08] [Info] Disconnect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:10:08] [Info] Disconnect r5---sn-i3beln7k.googlevideo.com:443
+[2018-08-29 15:10:16] [Info] Connect www.aesf.com:443
+[2018-08-29 15:10:16] [Info] Connect www.aesf.com:443
+[2018-08-29 15:10:17] [Info] Direct connect fonts.googleapis.com:443
+[2018-08-29 15:10:17] [Info] Disconnect www.aesf.com:443
+[2018-08-29 15:10:17] [Info] Connect code.jquery.com:443
+[2018-08-29 15:10:23] [Info] Direct connect www.googletagmanager.com:443
+[2018-08-29 15:10:23] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:10:32] [Info] Disconnect code.jquery.com:443
+[2018-08-29 15:10:33] [Info] Disconnect www.miaosuspeed.com:443
+[2018-08-29 15:10:33] [Info] Disconnect www.miaosuspeed.com:443
+[2018-08-29 15:10:33] [Info] Disconnect www.miaosuspeed.com:443
+[2018-08-29 15:10:38] [Info] Disconnect cdn.twitchalerts.com:443
+[2018-08-29 15:10:43] [Info] Connect asiangames2018.id:443
+[2018-08-29 15:10:44] [Info] Connect asiangames2018.id:443
+[2018-08-29 15:10:44] [Info] Connect www.asiangames2018.id:443
+[2018-08-29 15:10:45] [Info] Disconnect www.miaosuspeed.com:443
+[2018-08-29 15:10:45] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:10:45] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 15:10:45] [Info] Connect www.asiangames2018.id:443
+[2018-08-29 15:10:45] [Info] Connect en.asiangames2018.id:443
+[2018-08-29 15:10:45] [Info] Connect en.asiangames2018.id:443
+[2018-08-29 15:10:45] [Info] Connect en.asiangames2018.id:443
+[2018-08-29 15:10:45] [Info] Connect en.asiangames2018.id:443
+[2018-08-29 15:10:45] [Info] Connect en.asiangames2018.id:443
+[2018-08-29 15:10:45] [Info] Connect en.asiangames2018.id:443
+[2018-08-29 15:10:46] [Info] Disconnect en.asiangames2018.id:443
+[2018-08-29 15:10:46] [Info] Disconnect thumbs.gfycat.com:443
+[2018-08-29 15:10:46] [Info] Disconnect streamlabs.com:443
+[2018-08-29 15:10:46] [Info] Connect agp2018.net:443
+[2018-08-29 15:10:47] [Info] Connect s7.addthis.com:443
+[2018-08-29 15:10:47] [Info] Disconnect asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Disconnect en.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Disconnect en.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Disconnect en.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Disconnect en.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Disconnect www.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:10:47] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:10:47] [Info] Disconnect www.google.com:443
+[2018-08-29 15:10:47] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:10:47] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:10:47] [Info] Disconnect www.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Disconnect use.fontawesome.com:443
+[2018-08-29 15:10:47] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:10:47] [Info] Disconnect asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Connect id.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Connect id.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Disconnect gaming.youtube.com:443
+[2018-08-29 15:10:47] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:10:47] [Info] Disconnect www.youtube.com:443
+[2018-08-29 15:10:47] [Info] Connect id.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Connect id.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Connect id.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Connect en.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Connect en.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Disconnect www.aesf.com:443
+[2018-08-29 15:10:47] [Info] Disconnect s.ytimg.com:443
+[2018-08-29 15:10:47] [Info] Connect en.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Connect en.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Connect en.asiangames2018.id:443
+[2018-08-29 15:10:47] [Info] Connect en.asiangames2018.id:443
+[2018-08-29 15:10:48] [Info] Connect www.google.com:443
+[2018-08-29 15:10:48] [Info] Connect connect.facebook.net:443
+[2018-08-29 15:10:48] [Info] Connect az416426.vo.msecnd.net:443
+[2018-08-29 15:10:48] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:10:48] [Info] Connect id.asiangames2018.id:443
+[2018-08-29 15:10:48] [Info] Connect s7.addthis.com:443
+[2018-08-29 15:10:48] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:10:48] [Info] Connect www.google.com.hk:443
+[2018-08-29 15:10:48] [Info] Connect m.addthis.com:443
+[2018-08-29 15:10:49] [Info] Connect m.addthisedge.com:443
+[2018-08-29 15:10:50] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:10:51] [Info] Connect staticxx.facebook.com:443
+[2018-08-29 15:10:52] [Info] Connect staticxx.facebook.com:443
+[2018-08-29 15:10:54] [Info] Connect www.asiangames2018.id:443
+[2018-08-29 15:10:57] [Info] Connect gql.twitch.tv:443
+[2018-08-29 15:10:58] [Info] Disconnect id.asiangames2018.id:443
+[2018-08-29 15:10:58] [Info] Disconnect id.asiangames2018.id:443
+[2018-08-29 15:10:58] [Info] Disconnect id.asiangames2018.id:443
+[2018-08-29 15:10:58] [Info] Disconnect en.asiangames2018.id:443
+[2018-08-29 15:10:58] [Info] Disconnect en.asiangames2018.id:443
+[2018-08-29 15:10:58] [Info] Disconnect en.asiangames2018.id:443
+[2018-08-29 15:10:58] [Info] Disconnect id.asiangames2018.id:443
+[2018-08-29 15:10:58] [Info] Disconnect en.asiangames2018.id:443
+[2018-08-29 15:10:59] [Info] Disconnect id.asiangames2018.id:443
+[2018-08-29 15:10:59] [Info] Disconnect en.asiangames2018.id:443
+[2018-08-29 15:11:02] [Info] Disconnect staticxx.facebook.com:443
+[2018-08-29 15:11:05] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:11:09] [Info] Disconnect agp2018.net:443
+[2018-08-29 15:11:25] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:11:25] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:11:26] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:11:39] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:11:47] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-08-29 15:11:54] [Info] Disconnect connect.facebook.net:443
+[2018-08-29 15:11:57] [Info] Disconnect staticxx.facebook.com:443
+[2018-08-29 15:11:57] [Info] Disconnect en.asiangames2018.id:443
+[2018-08-29 15:11:58] [Info] Disconnect id.asiangames2018.id:443
+[2018-08-29 15:11:58] [Info] Disconnect en.asiangames2018.id:443
+[2018-08-29 15:12:00] [Info] Disconnect s7.addthis.com:443
+[2018-08-29 15:12:00] [Info] Disconnect s7.addthis.com:443
+[2018-08-29 15:12:00] [Info] Disconnect m.addthisedge.com:443
+[2018-08-29 15:12:05] [Info] Disconnect www.asiangames2018.id:443
+[2018-08-29 15:12:26] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:12:50] [Info] Disconnect az416426.vo.msecnd.net:443
+[2018-08-29 15:12:50] [Info] Disconnect www.google.com:443
+[2018-08-29 15:12:52] [Info] Disconnect www.google.com.hk:443
+[2018-08-29 15:12:56] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:13:06] [Info] Disconnect m.addthis.com:443
+[2018-08-29 15:13:27] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:13:47] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 15:14:28] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:14:30] [Info] Connect clients4.google.com:443
+[2018-08-29 15:14:36] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:14:36] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:14:36] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:14:36] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:14:36] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:14:41] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-08-29 15:14:42] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-08-29 15:14:43] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-08-29 15:14:46] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:14:47] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:14:47] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:14:49] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:14:52] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:14:54] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:14:55] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:14:56] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-08-29 15:14:58] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:14:58] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:15:11] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:15:29] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:15:31] [Info] Disconnect clients4.google.com:443
+[2018-08-29 15:15:31] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:15:31] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:31] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:15:31] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 15:15:31] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:31] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:31] [Info] Disconnect video-edge-a66964.sjc02.abs.hls.ttvnw.net:443
+[2018-08-29 15:15:31] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:32] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:32] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:33] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:33] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-08-29 15:15:34] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 15:15:34] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:34] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:34] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:35] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:37] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:37] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:37] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:38] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:42] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:42] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:42] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:42] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:42] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:43] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:43] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:43] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:48] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:49] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:49] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:49] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:49] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:49] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:49] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:50] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:50] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:15:50] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:51] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:51] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-08-29 15:15:51] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:15:51] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:15:51] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:51] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:51] [Info] Connect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:51] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:51] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:15:52] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:52] [Info] Disconnect video-weaver.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:52] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:53] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:53] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:53] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:54] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:54] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:54] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:54] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:54] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:55] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:55] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:55] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:55] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:55] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:56] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:56] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:56] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:56] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:56] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:56] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:56] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:56] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:56] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:56] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:57] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:15:57] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:15:57] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:15:57] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:57] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:15:58] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:15:58] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:15:58] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:58] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:58] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:15:58] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:15:58] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:15:58] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:15:58] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:15:58] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:15:59] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:15:59] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:15:59] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:15:59] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:15:59] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:00] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:00] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:00] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:16:00] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:02] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:03] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:03] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:03] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:03] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:04] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:04] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:04] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:05] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:06] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:06] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:06] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:08] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:09] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:09] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:09] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:09] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:09] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:09] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:09] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:09] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:09] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:09] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:09] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:09] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:09] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:09] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:10] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:21] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:22] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:22] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:22] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:22] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:23] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:23] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:23] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:23] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:23] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:23] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:24] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:16:24] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:16:24] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:16:24] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:16:25] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:16:25] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:16:25] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:16:25] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:16:26] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:16:26] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:16:26] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:16:26] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:16:27] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:16:29] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:16:30] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:16:30] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:16:30] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:16:30] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:16:30] [Info] Connect gql.twitch.tv:443
+[2018-08-29 15:16:31] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 15:16:31] [Info] Connect gql.twitch.tv:443
+[2018-08-29 15:16:31] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 15:16:35] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:36] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:36] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:36] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:50] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:51] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:51] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:51] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:57] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:16:58] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:16:58] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:16:58] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:16:58] [Info] Connect gql.twitch.tv:443
+[2018-08-29 15:16:59] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 15:16:59] [Info] Connect gql.twitch.tv:443
+[2018-08-29 15:16:59] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 15:16:59] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:16:59] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:00] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:00] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:00] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:17:00] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:17:00] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:00] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:00] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:17:01] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:17:01] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:17:01] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:17:02] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:17:03] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:03] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:04] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:04] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:05] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:05] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:05] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:05] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:17:06] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:17:06] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:17:06] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:17:06] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:17:07] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:17:07] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:17:07] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:17:07] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:17:07] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:17:07] [Info] Connect sentinel.twitchsvc.net:443
+[2018-08-29 15:17:08] [Info] Disconnect sentinel.twitchsvc.net:443
+[2018-08-29 15:17:21] [Info] Connect gql.twitch.tv:443
+[2018-08-29 15:17:21] [Info] Connect gql.twitch.tv:443
+[2018-08-29 15:17:21] [Info] Connect gql.twitch.tv:443
+[2018-08-29 15:17:21] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:17:21] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:17:21] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:17:21] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:17:21] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:17:21] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:21] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:17:21] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:17:21] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:21] [Info] Connect api.twitch.tv:443
+[2018-08-29 15:17:21] [Info] Connect s.amazon-adsystem.com:443
+[2018-08-29 15:17:21] [Info] Connect s.amazon-adsystem.com:443
+[2018-08-29 15:17:21] [Info] Connect www.twitch.tv:443
+[2018-08-29 15:17:21] [Info] Connect www.twitch.tv:443
+[2018-08-29 15:17:21] [Info] Connect www.twitch.tv:443
+[2018-08-29 15:17:21] [Info] Connect www.twitch.tv:443
+[2018-08-29 15:17:21] [Info] Connect s.amazon-adsystem.com:443
+[2018-08-29 15:17:21] [Info] Connect player.twitch.tv:443
+[2018-08-29 15:17:21] [Info] Connect cvp.twitch.tv:443
+[2018-08-29 15:17:21] [Info] Direct connect adservice.google.com:443
+[2018-08-29 15:17:21] [Info] Connect pubsub-edge.twitch.tv:443
+[2018-08-29 15:17:21] [Info] Connect r.nexac.com:443
+[2018-08-29 15:17:21] [Info] Connect irc-ws.chat.twitch.tv:443
+[2018-08-29 15:17:22] [Info] Connect player.twitch.tv:443
+[2018-08-29 15:17:22] [Info] Connect spade.twitch.tv:443
+[2018-08-29 15:17:22] [Info] Connect gql.twitch.tv:443
+[2018-08-29 15:17:22] [Info] Connect api.twitch.tv:443
+[2018-08-29 15:17:22] [Info] Connect gql.twitch.tv:443
+[2018-08-29 15:17:22] [Info] Connect gql.twitch.tv:443
+[2018-08-29 15:17:22] [Info] Connect c.amazon-adsystem.com:443
+[2018-08-29 15:17:22] [Info] Direct connect adservice.google.com:443
+[2018-08-29 15:17:23] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:23] [Info] Disconnect cvp.twitch.tv:443
+[2018-08-29 15:17:24] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:17:24] [Info] Connect usher.ttvnw.net:443
+[2018-08-29 15:17:24] [Info] Connect countess.twitch.tv:443
+[2018-08-29 15:17:24] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 15:17:24] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 15:17:24] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 15:17:24] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:17:24] [Info] Disconnect s.amazon-adsystem.com:443
+[2018-08-29 15:17:25] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:25] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:17:25] [Info] Disconnect s.amazon-adsystem.com:443
+[2018-08-29 15:17:25] [Info] Disconnect s.amazon-adsystem.com:443
+[2018-08-29 15:17:25] [Info] Connect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 15:17:26] [Info] Disconnect countess.twitch.tv:443
+[2018-08-29 15:17:26] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:17:26] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:17:26] [Info] Connect aax.amazon-adsystem.com:443
+[2018-08-29 15:17:26] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:17:27] [Info] Direct connect csi.gstatic.com:443
+[2018-08-29 15:17:27] [Info] Connect s.amazon-adsystem.com:443
+[2018-08-29 15:17:27] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:17:27] [Info] Disconnect aax.amazon-adsystem.com:443
+[2018-08-29 15:17:31] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:17:31] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:31] [Info] Disconnect www.twitch.tv:443
+[2018-08-29 15:17:31] [Info] Disconnect www.twitch.tv:443
+[2018-08-29 15:17:32] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:17:32] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:17:34] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:17:34] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 15:17:35] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:17:35] [Info] Disconnect www.twitch.tv:443
+[2018-08-29 15:17:35] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:18:23] [Info] Disconnect spade.twitch.tv:443
+[2018-08-29 15:18:23] [Info] Disconnect r.nexac.com:443
+[2018-08-29 15:18:30] [Info] Disconnect usher.ttvnw.net:443
+[2018-08-29 15:18:32] [Info] Disconnect player.twitch.tv:443
+[2018-08-29 15:18:32] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:18:33] [Info] Disconnect api.twitch.tv:443
+[2018-08-29 15:18:33] [Info] Disconnect player.twitch.tv:443
+[2018-08-29 15:18:34] [Info] Disconnect s.amazon-adsystem.com:443
+[2018-08-29 15:18:36] [Info] Disconnect api.twitch.tv:443
+[2018-08-29 15:19:09] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:19:09] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:19:22] [Info] Disconnect www.twitch.tv:443
+[2018-08-29 15:19:23] [Info] Disconnect c.amazon-adsystem.com:443
+[2018-08-29 15:19:24] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:19:24] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 15:19:26] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:19:28] [Info] Disconnect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 15:19:33] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:19:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:20:34] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:21:08] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 15:21:35] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:21:47] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-08-29 15:21:58] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:22:24] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:22:36] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:23:09] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:23:09] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:23:32] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:23:37] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:24:27] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:24:38] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:24:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:25:06] [Info] Connect m.media-amazon.com:443
+[2018-08-29 15:25:06] [Info] Connect m.media-amazon.com:443
+[2018-08-29 15:25:06] [Info] Connect m.media-amazon.com:443
+[2018-08-29 15:25:06] [Info] Connect m.media-amazon.com:443
+[2018-08-29 15:25:06] [Info] Connect m.media-amazon.com:443
+[2018-08-29 15:25:06] [Info] Connect m.media-amazon.com:443
+[2018-08-29 15:25:17] [Info] Disconnect m.media-amazon.com:443
+[2018-08-29 15:25:17] [Info] Disconnect m.media-amazon.com:443
+[2018-08-29 15:25:17] [Info] Disconnect m.media-amazon.com:443
+[2018-08-29 15:25:19] [Info] Disconnect m.media-amazon.com:443
+[2018-08-29 15:25:19] [Info] Disconnect m.media-amazon.com:443
+[2018-08-29 15:25:39] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:26:40] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:26:59] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:27:09] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 15:27:10] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:27:10] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:27:21] [Info] Disconnect m.media-amazon.com:443
+[2018-08-29 15:27:41] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:28:42] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:28:46] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:29:43] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:29:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:30:09] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:30:09] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:30:44] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:30:49] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:31:45] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:31:47] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-08-29 15:31:59] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:32:13] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:32:14] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:32:24] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:32:46] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:32:57] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:32:58] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:33:07] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:33:07] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:33:07] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:33:08] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:33:47] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:33:48] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:33:48] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:34:07] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:34:07] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:34:07] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:34:09] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:34:26] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:34:29] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:34:29] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:34:35] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:34:35] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:34:48] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:34:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:35:22] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:35:29] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:35:29] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:35:49] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:35:57] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:35:58] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:35:58] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:35:58] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:36:32] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:36:32] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:36:50] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:00] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:37:09] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 15:37:10] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:12] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:12] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:12] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:12] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:12] [Info] Direct connect msgstatic.douyu.com:443
+[2018-08-29 15:37:12] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:13] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:13] [Info] Direct connect g.wan.douyu.com:80
+[2018-08-29 15:37:13] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:13] [Info] Direct connect g.wan.douyu.com:80
+[2018-08-29 15:37:16] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:17] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:17] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:17] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:18] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:18] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-08-29 15:37:18] [Info] Direct connect conf.qvb.qcloud.com:443
+[2018-08-29 15:37:18] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:18] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:18] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:19] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-08-29 15:37:19] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-08-29 15:37:19] [Info] Direct connect 9f538a29b98bc913eb2a32ddf8ea3286.v.smtcdns.net:443
+[2018-08-29 15:37:19] [Info] Direct connect signal.qvb.qcloud.com:443
+[2018-08-29 15:37:19] [Info] Direct connect wsproxy.douyu.com:6672
+[2018-08-29 15:37:19] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-08-29 15:37:19] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:19] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:20] [Info] Direct connect videoad-1255868781.file.myqcloud.com:443
+[2018-08-29 15:37:21] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:21] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:21] [Info] Direct connect yuba.douyu.com:443
+[2018-08-29 15:37:21] [Info] Direct connect yuba.douyu.com:443
+[2018-08-29 15:37:21] [Info] Direct connect yuba.douyu.com:443
+[2018-08-29 15:37:21] [Info] Direct connect yuba.douyu.com:443
+[2018-08-29 15:37:21] [Info] Direct connect yuba.douyu.com:443
+[2018-08-29 15:37:21] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:21] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:22] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:22] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:22] [Info] Direct connect danmuproxy.douyu.com:8502
+[2018-08-29 15:37:22] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:22] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:22] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:23] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:23] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:23] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:24] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:24] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:24] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:24] [Info] Direct connect 9f538a29b98bc913eb2a32ddf8ea3286.v.smtcdns.net:443
+[2018-08-29 15:37:24] [Info] Direct connect 9f538a29b98bc913eb2a32ddf8ea3286.v.smtcdns.net:443
+[2018-08-29 15:37:24] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:25] [Info] Direct connect 9f538a29b98bc913eb2a32ddf8ea3286.v.smtcdns.net:443
+[2018-08-29 15:37:25] [Info] Direct connect 9f538a29b98bc913eb2a32ddf8ea3286.v.smtcdns.net:443
+[2018-08-29 15:37:26] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:26] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:26] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:26] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:26] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:26] [Info] Direct connect g.wan.douyu.com:80
+[2018-08-29 15:37:26] [Info] Direct connect g.wan.douyu.com:80
+[2018-08-29 15:37:26] [Info] Direct connect g.wan.douyu.com:80
+[2018-08-29 15:37:27] [Info] Direct connect g.wan.douyu.com:80
+[2018-08-29 15:37:28] [Info] Direct connect 9f538a29b98bc913eb2a32ddf8ea3286.v.smtcdns.net:443
+[2018-08-29 15:37:28] [Info] Direct connect 9f538a29b98bc913eb2a32ddf8ea3286.v.smtcdns.net:443
+[2018-08-29 15:37:28] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-08-29 15:37:28] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:28] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:28] [Info] Direct connect g.wan.douyu.com:80
+[2018-08-29 15:37:29] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:30] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:30] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:30] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-08-29 15:37:30] [Info] Direct connect conf.qvb.qcloud.com:443
+[2018-08-29 15:37:30] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-08-29 15:37:30] [Info] Direct connect signal.qvb.qcloud.com:443
+[2018-08-29 15:37:31] [Info] Direct connect 453b79d74f2ee0e63408338b3f0c33d8.v.smtcdns.net:443
+[2018-08-29 15:37:31] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-08-29 15:37:31] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:31] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:47] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:47] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:37:48] [Info] Direct connect tracker-00.qvb.qcloud.com:443
+[2018-08-29 15:37:48] [Info] Direct connect 453b79d74f2ee0e63408338b3f0c33d8.v.smtcdns.net:443
+[2018-08-29 15:38:02] [Info] Direct connect tracker-00.qvb.qcloud.com:443
+[2018-08-29 15:38:18] [Info] Direct connect tracker-00.qvb.qcloud.com:443
+[2018-08-29 15:38:24] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:38:28] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:38:29] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:38:30] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-08-29 15:38:34] [Info] Direct connect tracker-00.qvb.qcloud.com:443
+[2018-08-29 15:38:36] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 15:38:50] [Info] Direct connect tracker-00.qvb.qcloud.com:443
+[2018-08-29 15:39:06] [Info] Direct connect tracker-00.qvb.qcloud.com:443
+[2018-08-29 15:39:22] [Info] Direct connect tracker-00.qvb.qcloud.com:443
+[2018-08-29 15:39:24] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:39:30] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-08-29 15:39:38] [Info] Direct connect tracker-00.qvb.qcloud.com:443
+[2018-08-29 15:39:42] [Info] Direct connect 453b79d74f2ee0e63408338b3f0c33d8.v.smtcdns.net:443
+[2018-08-29 15:39:48] [Info] Direct connect log.qvb.qcloud.com:443
+[2018-08-29 15:39:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:40:25] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:40:36] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:41:26] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:41:47] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-08-29 15:42:01] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:42:27] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:43:28] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:43:28] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:44:05] [Info] Connect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 15:44:26] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:44:26] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:44:26] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:44:28] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:44:29] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:44:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:45:20] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:45:20] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:45:20] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:45:20] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:45:30] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:46:08] [Info] Disconnect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 15:46:31] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:47:01] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:47:32] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:47:49] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:48:13] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:48:13] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:48:27] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:48:33] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:49:34] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:49:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:50:09] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:50:09] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:50:35] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:50:59] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:51:36] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:51:47] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-08-29 15:51:59] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:52:15] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:52:15] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:52:18] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:52:37] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:53:19] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:53:19] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:53:21] [Info] Connect www.youtube.com:443
+[2018-08-29 15:53:23] [Info] Connect s.ytimg.com:443
+[2018-08-29 15:53:23] [Info] Direct connect fonts.googleapis.com:443
+[2018-08-29 15:53:23] [Info] Direct connect fonts.gstatic.com:443
+[2018-08-29 15:53:23] [Info] Connect s.ytimg.com:443
+[2018-08-29 15:53:23] [Info] Connect s.ytimg.com:443
+[2018-08-29 15:53:25] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:53:25] [Info] Connect accounts.google.com:443
+[2018-08-29 15:53:25] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:53:25] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:53:25] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:53:25] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:53:25] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:53:25] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:53:25] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:53:27] [Info] Connect www.google.com.hk:443
+[2018-08-29 15:53:27] [Info] Connect www.google.com:443
+[2018-08-29 15:53:30] [Info] Connect www.youtube.com:443
+[2018-08-29 15:53:36] [Info] Disconnect s.ytimg.com:443
+[2018-08-29 15:53:36] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:53:36] [Info] Disconnect s.ytimg.com:443
+[2018-08-29 15:53:37] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:53:37] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:53:37] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:53:38] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:53:38] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:53:40] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:53:40] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:53:40] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:53:40] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:53:40] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:53:47] [Info] Connect clients1.google.com:443
+[2018-08-29 15:53:51] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:53:51] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:53:51] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:53:52] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:54:39] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:54:58] [Info] Connect r4---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:54:58] [Info] Connect r4---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:54:58] [Info] Connect manifest.googlevideo.com:443
+[2018-08-29 15:54:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:54:59] [Info] Connect r4---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:54:59] [Info] Connect r4---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:55:00] [Info] Disconnect r4---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:55:00] [Info] Disconnect r4---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:55:02] [Info] Disconnect r4---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:55:02] [Info] Connect r4---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:55:03] [Info] Disconnect r4---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:55:03] [Info] Connect r4---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:55:04] [Info] Disconnect r4---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:55:06] [Info] Connect i9.ytimg.com:443
+[2018-08-29 15:55:08] [Info] Connect r4---sn-npoe7n7z.googlevideo.com:443
+[2018-08-29 15:55:08] [Info] Disconnect r4---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:55:09] [Info] Disconnect r4---sn-npoe7n7z.googlevideo.com:443
+[2018-08-29 15:55:10] [Info] Connect i1.ytimg.com:443
+[2018-08-29 15:55:11] [Info] Connect r6---sn-i3beln7r.googlevideo.com:443
+[2018-08-29 15:55:12] [Info] Connect r6---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:55:12] [Info] Connect r6---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:55:13] [Info] Connect r6---sn-i3beln7r.googlevideo.com:443
+[2018-08-29 15:55:17] [Info] Connect r3---sn-npoe7nes.googlevideo.com:443
+[2018-08-29 15:55:17] [Info] Disconnect r6---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:55:19] [Info] Connect r6---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:55:22] [Info] Connect r6---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:55:24] [Info] Disconnect r6---sn-i3beln7r.googlevideo.com:443
+[2018-08-29 15:55:27] [Info] Disconnect s.ytimg.com:443
+[2018-08-29 15:55:29] [Info] Disconnect www.google.com.hk:443
+[2018-08-29 15:55:31] [Info] Disconnect accounts.google.com:443
+[2018-08-29 15:55:33] [Info] Disconnect www.youtube.com:443
+[2018-08-29 15:55:35] [Info] Disconnect r6---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:55:37] [Info] Connect tv.youtube.com:443
+[2018-08-29 15:55:38] [Info] Connect tv.youtube.com:443
+[2018-08-29 15:55:40] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:55:42] [Info] Direct connect www.gstatic.com:443
+[2018-08-29 15:55:42] [Info] Direct connect www.googletagmanager.com:443
+[2018-08-29 15:55:42] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-29 15:55:42] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-29 15:55:42] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-29 15:55:43] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-29 15:55:43] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-29 15:55:44] [Info] Disconnect r6---sn-i3beln7r.googlevideo.com:443
+[2018-08-29 15:55:49] [Info] Disconnect tv.youtube.com:443
+[2018-08-29 15:55:49] [Info] Disconnect r3---sn-npoe7nes.googlevideo.com:443
+[2018-08-29 15:55:53] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-29 15:56:00] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-29 15:56:07] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:56:07] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:56:13] [Info] Connect gaming.youtube.com:443
+[2018-08-29 15:56:14] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:56:14] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:56:25] [Info] Connect apis.google.com:443
+[2018-08-29 15:56:26] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:56:26] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:56:26] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 15:56:27] [Info] Connect accounts.google.com:443
+[2018-08-29 15:56:27] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 15:56:28] [Info] Direct connect ssl.gstatic.com:443
+[2018-08-29 15:56:29] [Info] Connect gaming.youtube.com:443
+[2018-08-29 15:56:41] [Info] Direct connect www.douyu.com:443
+[2018-08-29 15:56:43] [Info] Connect s.ytimg.com:443
+[2018-08-29 15:56:43] [Info] Disconnect clients1.google.com:443
+[2018-08-29 15:56:44] [Info] Connect s.ytimg.com:443
+[2018-08-29 15:56:45] [Info] Disconnect r6---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:56:45] [Info] Connect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 15:56:45] [Info] Disconnect www.google.com:443
+[2018-08-29 15:56:52] [Info] Connect r1---sn-i3beln7d.googlevideo.com:443
+[2018-08-29 15:56:52] [Info] Connect r1---sn-i3beln7d.googlevideo.com:443
+[2018-08-29 15:56:52] [Info] Connect r6---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:56:52] [Info] Direct connect translate.googleapis.com:443
+[2018-08-29 15:56:52] [Info] Direct connect translate.googleapis.com:443
+[2018-08-29 15:56:52] [Info] Direct connect translate.googleapis.com:443
+[2018-08-29 15:56:53] [Info] Disconnect s.ytimg.com:443
+[2018-08-29 15:56:53] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:56:53] [Info] Connect translate.google.com:443
+[2018-08-29 15:56:53] [Info] Connect translate.google.com:443
+[2018-08-29 15:56:54] [Info] Disconnect r6---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:56:54] [Info] Disconnect translate.google.com:443
+[2018-08-29 15:56:55] [Info] Connect redirector.googlevideo.com:443
+[2018-08-29 15:56:56] [Info] Disconnect r1---sn-i3beln7d.googlevideo.com:443
+[2018-08-29 15:56:57] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:56:57] [Info] Disconnect r1---sn-i3beln7d.googlevideo.com:443
+[2018-08-29 15:56:57] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:56:58] [Info] Connect r4---sn-i3belnez.googlevideo.com:443
+[2018-08-29 15:56:59] [Info] Connect r4---sn-i3belnez.googlevideo.com:443
+[2018-08-29 15:56:59] [Info] Disconnect manifest.googlevideo.com:443
+[2018-08-29 15:57:02] [Info] Connect r4---sn-npoeene6.googlevideo.com:443
+[2018-08-29 15:57:09] [Info] Disconnect i9.ytimg.com:443
+[2018-08-29 15:57:11] [Info] Disconnect i1.ytimg.com:443
+[2018-08-29 15:57:20] [Info] Connect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:57:20] [Info] Connect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:57:20] [Info] Disconnect r4---sn-i3belnez.googlevideo.com:443
+[2018-08-29 15:57:20] [Info] Disconnect r4---sn-i3belnez.googlevideo.com:443
+[2018-08-29 15:57:20] [Info] Disconnect r4---sn-npoeene6.googlevideo.com:443
+[2018-08-29 15:57:20] [Info] Connect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:57:20] [Info] Connect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:57:21] [Info] Connect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:57:22] [Info] Disconnect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:57:22] [Info] Connect r1---sn-npoeen76.googlevideo.com:443
+[2018-08-29 15:57:24] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:57:24] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:57:24] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:57:24] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:57:24] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:57:24] [Info] Disconnect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:57:24] [Info] Disconnect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:57:24] [Info] Disconnect client-event-reporter.twitch.tv:443
+[2018-08-29 15:57:24] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 15:57:24] [Info] Disconnect s.ytimg.com:443
+[2018-08-29 15:57:24] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:57:24] [Info] Disconnect redirector.googlevideo.com:443
+[2018-08-29 15:57:24] [Info] Disconnect translate.google.com:443
+[2018-08-29 15:57:24] [Info] Disconnect apis.google.com:443
+[2018-08-29 15:57:25] [Info] Disconnect tv.youtube.com:443
+[2018-08-29 15:57:25] [Info] Disconnect accounts.google.com:443
+[2018-08-29 15:57:25] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-29 15:57:25] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:57:25] [Info] Connect yt3.ggpht.com:443
+[2018-08-29 15:57:25] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 15:57:25] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:57:25] [Info] Disconnect gaming.youtube.com:443
+[2018-08-29 15:57:25] [Info] Connect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:57:25] [Info] Connect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:57:25] [Info] Connect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:57:25] [Info] Connect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:57:25] [Info] Connect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:57:25] [Info] Disconnect gaming.youtube.com:443
+[2018-08-29 15:57:25] [Info] Connect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:57:25] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:57:25] [Info] Disconnect www.youtube.com:443
+[2018-08-29 15:57:25] [Info] Disconnect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 15:57:25] [Info] Connect www.youtube.com:443
+[2018-08-29 15:57:25] [Info] Connect gaming.youtube.com:443
+[2018-08-29 15:57:25] [Info] Connect www.youtube.com:443
+[2018-08-29 15:57:25] [Info] Connect www.youtube.com:443
+[2018-08-29 15:57:25] [Info] Connect www.youtube.com:443
+[2018-08-29 15:57:25] [Info] Connect www.youtube.com:443
+[2018-08-29 15:57:25] [Info] Connect www.youtube.com:443
+[2018-08-29 15:57:25] [Info] Connect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:57:26] [Info] Disconnect r1---sn-npoeen76.googlevideo.com:443
+[2018-08-29 15:57:27] [Info] Connect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:57:28] [Info] Connect redirector.googlevideo.com:443
+[2018-08-29 15:57:30] [Info] Connect r2---sn-npoeene7.googlevideo.com:443
+[2018-08-29 15:57:32] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:57:32] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:57:32] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:57:32] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:57:32] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:57:32] [Info] Connect i.ytimg.com:443
+[2018-08-29 15:57:33] [Info] Disconnect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:57:33] [Info] Disconnect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:57:33] [Info] Disconnect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:57:33] [Info] Disconnect r2---sn-npoeene7.googlevideo.com:443
+[2018-08-29 15:57:33] [Info] Connect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:57:34] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:57:34] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 15:57:35] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:57:36] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:57:36] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:57:37] [Info] Disconnect www.youtube.com:443
+[2018-08-29 15:57:37] [Info] Disconnect www.youtube.com:443
+[2018-08-29 15:57:37] [Info] Disconnect www.youtube.com:443
+[2018-08-29 15:57:37] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:57:37] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:57:38] [Info] Disconnect www.youtube.com:443
+[2018-08-29 15:57:39] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 15:57:40] [Info] Disconnect www.youtube.com:443
+[2018-08-29 15:57:40] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 15:57:44] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:57:44] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:57:44] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 15:57:54] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 15:57:57] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 15:58:00] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-29 15:58:00] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-29 15:58:00] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-29 15:58:00] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-29 15:58:00] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-29 15:58:00] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-29 15:58:04] [Info] Connect r6---sn-i3beln7r.googlevideo.com:443
+[2018-08-29 15:58:05] [Info] Disconnect r6---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:58:07] [Info] Connect r6---sn-i3beln7r.googlevideo.com:443
+[2018-08-29 15:58:11] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-29 15:58:11] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-29 15:58:12] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-29 15:58:12] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-29 15:58:12] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-29 15:58:26] [Info] Disconnect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:58:26] [Info] Disconnect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:58:26] [Info] Disconnect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:58:26] [Info] Disconnect r2---sn-i3b7knld.googlevideo.com:443
+[2018-08-29 15:58:26] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 15:58:30] [Info] Connect r2---sn-i3belne6.googlevideo.com:443
+[2018-08-29 15:58:30] [Info] Connect r2---sn-i3belne6.googlevideo.com:443
+[2018-08-29 15:58:37] [Info] Connect r2---sn-i3belnez.googlevideo.com:443
+[2018-08-29 15:58:37] [Info] Connect r2---sn-i3belnez.googlevideo.com:443
+[2018-08-29 15:58:39] [Info] Disconnect r6---sn-i3beln7r.googlevideo.com:443
+[2018-08-29 15:58:42] [Info] Disconnect r2---sn-i3belne6.googlevideo.com:443
+[2018-08-29 15:58:42] [Info] Disconnect r2---sn-i3belne6.googlevideo.com:443
+[2018-08-29 15:58:46] [Info] Connect api.twitch.tv:443
+[2018-08-29 15:58:47] [Info] Connect aax.amazon-adsystem.com:443
+[2018-08-29 15:58:48] [Info] Direct connect adservice.google.com:443
+[2018-08-29 15:58:48] [Info] Disconnect r2---sn-i3belnez.googlevideo.com:443
+[2018-08-29 15:58:49] [Info] Direct connect csi.gstatic.com:443
+[2018-08-29 15:58:49] [Info] Disconnect r2---sn-i3belnez.googlevideo.com:443
+[2018-08-29 15:58:55] [Info] Direct connect ss0.bdstatic.com:443
+[2018-08-29 15:58:55] [Info] Direct connect i-4.yxdown.com:80
+[2018-08-29 15:58:56] [Info] Direct connect i-4-yxdown.715083.com:80
+[2018-08-29 15:58:56] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 15:58:57] [Info] Connect gql.twitch.tv:443
+[2018-08-29 15:58:58] [Info] Direct connect bd.tst.35go.net:80
+[2018-08-29 15:58:59] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 15:58:59] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 15:58:59] [Info] Disconnect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:59:02] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 15:59:03] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 15:59:03] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 15:59:04] [Info] Connect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 15:59:04] [Info] Direct connect fonts.googleapis.com:443
+[2018-08-29 15:59:04] [Info] Direct connect fonts.gstatic.com:443
+[2018-08-29 15:59:04] [Info] Connect accounts.google.com:443
+[2018-08-29 15:59:04] [Info] Connect s.ytimg.com:443
+[2018-08-29 15:59:04] [Info] Connect www.google.com:443
+[2018-08-29 15:59:04] [Info] Disconnect aax.amazon-adsystem.com:443
+[2018-08-29 15:59:04] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 15:59:04] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 15:59:04] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 15:59:05] [Info] Disconnect accounts.google.com:443
+[2018-08-29 15:59:05] [Info] Connect r2---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:59:05] [Info] Connect r2---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:59:06] [Info] Connect www.google.com.hk:443
+[2018-08-29 15:59:14] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 15:59:16] [Info] Disconnect r2---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:59:19] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 114.112.93.149:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-08-29 15:59:20] [Info] Disconnect r6---sn-i3beln7r.googlevideo.com:443
+[2018-08-29 15:59:22] [Info] Connect r6---sn-i3beln7r.googlevideo.com:443
+[2018-08-29 15:59:25] [Info] Connect r6---sn-i3beln7r.googlevideo.com:443
+[2018-08-29 15:59:28] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 15:59:33] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 15:59:34] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 15:59:36] [Info] Disconnect r2---sn-i3b7knlk.googlevideo.com:443
+[2018-08-29 15:59:38] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 15:59:44] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:44] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Direct connect qrcode.yxdown.com:80
+[2018-08-29 15:59:45] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Disconnect r6---sn-i3beln7r.googlevideo.com:443
+[2018-08-29 15:59:45] [Info] Disconnect r6---sn-i3beln7r.googlevideo.com:443
+[2018-08-29 15:59:45] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:45] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:45] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:45] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:45] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:45] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Direct connect m.chuzhaobiao.com:80
+[2018-08-29 15:59:45] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:46] [Info] Direct connect m.chuzhaobiao.com:80
+[2018-08-29 15:59:46] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:46] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:46] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:46] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:46] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:46] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:46] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:46] [Info] Direct connect qrcode.yxdown.com:80
+[2018-08-29 15:59:46] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:46] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:46] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:47] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:47] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:47] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:47] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:47] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:47] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:47] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:47] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:47] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:47] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:47] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:47] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:47] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:47] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:48] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:48] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:48] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:48] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:48] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:48] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:48] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:48] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:48] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:48] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:48] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:48] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:48] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:48] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:48] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:49] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:49] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:49] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:49] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:49] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:49] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:49] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:49] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:49] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:49] [Info] Connect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:49] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:49] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:49] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:49] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:49] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:49] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:50] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:50] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:50] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:50] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:51] [Info] Direct connect i-1-chuzhaobiao.715083.com:80
+[2018-08-29 15:59:51] [Info] Direct connect www.chuzhaobiao.com:80
+[2018-08-29 15:59:51] [Info] Disconnect i-1.chuzhaobiao.com:80
+[2018-08-29 15:59:57] [Info] Disconnect api.twitch.tv:443
+[2018-08-29 15:59:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 16:00:08] [Info] Disconnect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 16:00:08] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:00:09] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 16:00:09] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:00:09] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:00:11] [Info] Connect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 16:00:14] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 16:00:18] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-29 16:00:25] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 16:00:29] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:00:38] [Info] Disconnect i.ytimg.com:443
+[2018-08-29 16:00:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:00:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:00:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:00:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:00:40] [Info] Direct connect yasuo.stat.360safe.com:80
+[2018-08-29 16:00:40] [Info] Direct connect yasuo.stat.360safe.com:80
+[2018-08-29 16:00:40] [Info] Direct connect netmon.stat.360safe.com:80
+[2018-08-29 16:00:41] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:00:43] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 16:00:43] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-08-29 16:00:43] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-08-29 16:00:44] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-08-29 16:00:44] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:00:45] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:00:45] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:00:46] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:00:47] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:00:47] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:00:48] [Info] Connect clients1.google.com:443
+[2018-08-29 16:00:50] [Info] Disconnect gaming.youtube.com:443
+[2018-08-29 16:00:50] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:00:51] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:00:53] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-08-29 16:00:58] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:01:04] [Info] Disconnect redirector.googlevideo.com:443
+[2018-08-29 16:01:06] [Info] Disconnect s.ytimg.com:443
+[2018-08-29 16:01:08] [Info] Disconnect www.google.com.hk:443
+[2018-08-29 16:01:08] [Info] Disconnect www.google.com:443
+[2018-08-29 16:01:08] [Info] Disconnect yt3.ggpht.com:443
+[2018-08-29 16:01:27] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:01:47] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-08-29 16:01:53] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-08-29 16:02:00] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 16:02:02] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:02:42] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:02:43] [Info] Connect redirector.googlevideo.com:443
+[2018-08-29 16:02:43] [Info] Disconnect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 16:02:43] [Info] Connect redirector.googlevideo.com:443
+[2018-08-29 16:02:44] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:02:44] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:02:46] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:02:46] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:02:46] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:02:46] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:02:49] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 16:02:50] [Info] Disconnect clients1.google.com:443
+[2018-08-29 16:02:55] [Info] Disconnect redirector.googlevideo.com:443
+[2018-08-29 16:02:57] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:02:57] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:03:10] [Info] Disconnect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 16:03:11] [Info] Disconnect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 16:03:13] [Info] Disconnect r1---sn-i3b7knl6.googlevideo.com:443
+[2018-08-29 16:03:14] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:04:37] [Info] Connect apis.google.com:443
+[2018-08-29 16:04:37] [Info] Connect www.google.com:443
+[2018-08-29 16:04:37] [Info] Direct connect www.gstatic.com:443
+[2018-08-29 16:04:37] [Info] Direct connect ssl.gstatic.com:443
+[2018-08-29 16:04:40] [Info] Direct connect cdn.bootcss.com:443
+[2018-08-29 16:04:40] [Info] Direct connect cdn.bootcss.com:443
+[2018-08-29 16:04:40] [Info] Direct connect cdn.bootcss.com:443
+[2018-08-29 16:04:40] [Info] Direct connect cdn.bootcss.com:443
+[2018-08-29 16:04:40] [Info] Direct connect cdn.bootcss.com:443
+[2018-08-29 16:04:40] [Info] Direct connect cdn.bootcss.com:443
+[2018-08-29 16:04:40] [Info] Connect clients1.google.com:443
+[2018-08-29 16:04:46] [Info] Disconnect redirector.googlevideo.com:443
+[2018-08-29 16:04:47] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:04:47] [Info] Connect gaming.youtube.com:443
+[2018-08-29 16:04:48] [Info] Disconnect apis.google.com:443
+[2018-08-29 16:04:48] [Info] Direct connect huatuocode.weiyun.com:443
+[2018-08-29 16:04:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 16:05:10] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 16:06:03] [Info] Direct connect updatem.360safe.com:80
+[2018-08-29 16:06:03] [Info] Direct connect src.dl.360safe.com:80
+[2018-08-29 16:06:12] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 16:06:42] [Info] Disconnect www.google.com:443
+[2018-08-29 16:06:42] [Info] Disconnect clients1.google.com:443
+[2018-08-29 16:06:50] [Info] Disconnect gaming.youtube.com:443
+[2018-08-29 16:07:00] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 16:07:00] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:07:01] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:07:02] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:07:11] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 16:07:13] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:07:33] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:07:34] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 16:07:34] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:08:46] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 16:09:07] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 16:09:12] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 16:09:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 16:10:26] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:10:26] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:10:26] [Info] Disconnect irc-ws.chat.twitch.tv:443
+[2018-08-29 16:10:33] [Info] Connect irc-ws.chat.twitch.tv:443
+[2018-08-29 16:10:52] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:10:52] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:11:03] [Info] Direct connect oth.ludashi.com:80
+[2018-08-29 16:11:16] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:11:16] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:11:17] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:11:18] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:11:21] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 16:11:29] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:11:30] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:11:43] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:11:43] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:11:47] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-08-29 16:12:01] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 16:13:43] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:13:43] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:13:48] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:13:49] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:13:49] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:13:49] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:13:49] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:13:49] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:13:49] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:14:00] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:14:00] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:14:00] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:14:01] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:14:01] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 16:14:10] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:14:10] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:14:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 16:15:40] [Info] Direct connect intf-pc.ludashi.com:80
+[2018-08-29 16:15:41] [Info] Direct connect s.ludashi.com:80
+[2018-08-29 16:15:41] [Info] Direct connect s.ludashi.com:80
+[2018-08-29 16:15:41] [Info] Direct connect s.ludashi.com:80
+[2018-08-29 16:17:01] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 16:17:09] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:17:09] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:18:08] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:18:09] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:18:15] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:18:15] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:18:16] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:18:27] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:18:45] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:18:45] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:18:56] [Info] Connect clients4.google.com:443
+[2018-08-29 16:19:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 16:20:25] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 16:20:56] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 16:20:57] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 16:20:59] [Info] Disconnect clients4.google.com:443
+[2018-08-29 16:21:10] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:21:10] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:21:21] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 16:21:47] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-08-29 16:21:59] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 16:22:44] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:22:44] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:23:08] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:23:09] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:24:06] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:24:07] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:24:07] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:24:08] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:24:10] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:24:22] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:24:24] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:24:31] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 16:24:41] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:24:48] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:24:52] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:24:56] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:24:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 16:25:07] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:25:19] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:25:19] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:25:39] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 16:26:23] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:26:23] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:26:31] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:26:31] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 16:26:31] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:26:34] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 16:26:57] [Info] Connect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 16:26:57] [Info] Connect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 16:26:57] [Info] Connect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 16:26:57] [Info] Connect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 16:26:57] [Info] Connect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 16:26:57] [Info] Connect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 16:26:58] [Info] Disconnect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 16:26:58] [Info] Disconnect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 16:27:00] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 16:27:08] [Info] Disconnect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 16:27:08] [Info] Disconnect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 16:27:10] [Info] Disconnect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 16:28:02] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 16:28:15] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 16:28:23] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 16:28:23] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 16:29:04] [Info] Disconnect d3aqoihi2n8ty8.cloudfront.net:443
+[2018-08-29 16:29:20] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 16:29:25] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 16:29:25] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:29:25] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:29:35] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:29:36] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:29:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 16:30:30] [Info] Disconnect static-cdn.jtvnw.net:443
+[2018-08-29 16:30:33] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:30:33] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:31:47] [Info] Direct connect cdn-file.ludashi.com:80
+[2018-08-29 16:32:00] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 16:32:32] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 16:32:43] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2018-08-29 16:32:43] [Info] Direct connect beacon.tingyun.com:443
+[2018-08-29 16:32:44] [Info] Direct connect shared.ydstatic.com:443
+[2018-08-29 16:32:46] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:32:46] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:32:48] [Info] Direct connect shared.ydstatic.com:443
+[2018-08-29 16:32:48] [Info] Direct connect shared.ydstatic.com:443
+[2018-08-29 16:32:49] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 16:32:50] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2018-08-29 16:32:51] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2018-08-29 16:32:51] [Info] Direct connect s4.ssl.qhres.com:443
+[2018-08-29 16:32:51] [Info] Direct connect s1.ssl.qhres.com:443
+[2018-08-29 16:32:51] [Info] Direct connect p18.ssl.qhimgs3.com:443
+[2018-08-29 16:32:52] [Info] Direct connect s0.ssl.qhres.com:443
+[2018-08-29 16:32:52] [Info] Direct connect s2.ssl.qhres.com:443
+[2018-08-29 16:32:52] [Info] Direct connect s5.ssl.qhres.com:443
+[2018-08-29 16:33:30] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:33:30] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:34:33] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:34:33] [Info] Connect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:34:57] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:34:57] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:34:57] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 16:34:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 16:34:59] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 16:35:24] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:35:24] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:36:26] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:36:26] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:36:26] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 16:36:27] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 16:36:28] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:36:29] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:36:30] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:36:31] [Info] Connect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:36:43] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:36:43] [Info] Disconnect r5---sn-npoe7ne6.googlevideo.com:443
+[2018-08-29 16:36:50] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:36:51] [Info] Disconnect r5---sn-npoeen7k.googlevideo.com:443
+[2018-08-29 16:37:03] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 16:37:14] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-29 16:37:58] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:37:58] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:38:18] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:38:19] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:39:22] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:39:22] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 16:39:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 17:34:53] ShadowsocksR started on port 1080
+[2018-08-29 17:34:57] [Info] Connect gql.twitch.tv:443
+[2018-08-29 17:34:57] [Info] Connect client-event-reporter.twitch.tv:443
+[2018-08-29 17:34:58] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 17:35:03] [Info] Connect raw.githubusercontent.com:443
+[2018-08-29 17:35:08] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 17:35:09] [Info] Connect clients4.google.com:443
+[2018-08-29 17:35:11] [Info] Connect api.twitch.tv:443
+[2018-08-29 17:35:12] [Info] Connect aax.amazon-adsystem.com:443
+[2018-08-29 17:35:12] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 17:35:13] [Info] Direct connect csi.gstatic.com:443
+[2018-08-29 17:35:14] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 17:35:23] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 17:35:23] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 17:35:35] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 17:35:35] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 17:35:41] [Info] Connect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 17:35:44] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 17:35:46] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 17:35:47] [Info] Connect static-cdn.jtvnw.net:443
+[2018-08-29 17:35:54] [Info] Disconnect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 17:36:12] [Info] Disconnect video-edge-7e9ff8.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 17:36:18] [Info] Disconnect aax.amazon-adsystem.com:443
+[2018-08-29 17:36:18] [Info] Connect aax.amazon-adsystem.com:443
+[2018-08-29 17:36:45] [Info] Disconnect raw.githubusercontent.com:443
+[2018-08-29 17:36:49] [Info] Direct connect ssl.gstatic.com:443
+[2018-08-29 17:36:49] [Info] Connect www.google.com:443
+[2018-08-29 17:36:50] [Info] Connect www.google.com:443
+[2018-08-29 17:36:50] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-29 17:36:50] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-29 17:36:50] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-29 17:36:50] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-29 17:36:50] [Info] Connect www.google.com:443
+[2018-08-29 17:36:50] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-29 17:36:50] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-29 17:36:51] [Info] Direct connect ss0.bdstatic.com:443
+[2018-08-29 17:36:51] [Info] Direct connect ss0.bdstatic.com:443
+[2018-08-29 17:36:51] [Info] Direct connect ss0.bdstatic.com:443
+[2018-08-29 17:36:51] [Info] Direct connect ss0.bdstatic.com:443
+[2018-08-29 17:36:51] [Info] Direct connect ss0.bdstatic.com:443
+[2018-08-29 17:36:51] [Info] Direct connect ss0.bdstatic.com:443
+[2018-08-29 17:36:52] [Info] Direct connect ss2.bdstatic.com:443
+[2018-08-29 17:36:56] [Info] Connect aax.amazon-adsystem.com:443
+[2018-08-29 17:36:56] [Info] Connect aax.amazon-adsystem.com:443
+[2018-08-29 17:36:56] [Info] Connect api.twitch.tv:443
+[2018-08-29 17:36:56] [Info] Connect gql.twitch.tv:443
+[2018-08-29 17:36:56] [Info] Connect gql.twitch.tv:443
+[2018-08-29 17:36:56] [Info] Connect gql.twitch.tv:443
+[2018-08-29 17:36:56] [Info] Connect gql.twitch.tv:443
+[2018-08-29 17:36:56] [Info] Disconnect aax.amazon-adsystem.com:443
+[2018-08-29 17:36:56] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 17:36:56] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 17:36:56] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 17:36:56] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 17:36:56] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 17:36:56] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 17:36:56] [Info] Connect s.amazon-adsystem.com:443
+[2018-08-29 17:36:56] [Info] Connect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 17:36:56] [Info] Connect s.amazon-adsystem.com:443
+[2018-08-29 17:36:56] [Info] Connect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 17:36:56] [Info] Connect s.amazon-adsystem.com:443
+[2018-08-29 17:36:56] [Info] Connect www.twitch.tv:443
+[2018-08-29 17:37:00] [Info] Connect cvp.twitch.tv:443
+[2018-08-29 17:37:00] [Info] Connect player.twitch.tv:443
+[2018-08-29 17:37:00] [Info] Disconnect aax.amazon-adsystem.com:443
+[2018-08-29 17:37:00] [Info] Direct connect adservice.google.com:443
+[2018-08-29 17:37:00] [Info] Connect pubsub-edge.twitch.tv:443
+[2018-08-29 17:37:00] [Info] Connect player.twitch.tv:443
+[2018-08-29 17:37:00] [Info] Disconnect aax.amazon-adsystem.com:443
+[2018-08-29 17:37:00] [Info] Disconnect api.twitch.tv:443
+[2018-08-29 17:37:00] [Info] Connect spade.twitch.tv:443
+[2018-08-29 17:37:00] [Info] Connect irc-ws.chat.twitch.tv:443
+[2018-08-29 17:37:00] [Info] Connect r.nexac.com:443
+[2018-08-29 17:37:00] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 17:37:00] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 17:37:01] [Info] Connect gql.twitch.tv:443
+[2018-08-29 17:37:01] [Info] Disconnect cvp.twitch.tv:443
+[2018-08-29 17:37:01] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 17:37:01] [Info] Direct connect www.googletagservices.com:443
+[2018-08-29 17:37:01] [Info] Disconnect www.google.com:443
+[2018-08-29 17:37:01] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 17:37:01] [Info] Direct connect adservice.google.com:443
+[2018-08-29 17:37:01] [Info] Direct connect www.gstatic.com:443
+[2018-08-29 17:37:01] [Info] Direct connect imasdk.googleapis.com:443
+[2018-08-29 17:37:01] [Info] Connect www.twitch.tv:443
+[2018-08-29 17:37:02] [Info] Disconnect s.amazon-adsystem.com:443
+[2018-08-29 17:37:02] [Info] Disconnect s.amazon-adsystem.com:443
+[2018-08-29 17:37:02] [Info] Disconnect s.amazon-adsystem.com:443
+[2018-08-29 17:37:02] [Info] Disconnect www.google.com:443
+[2018-08-29 17:37:02] [Info] Disconnect www.twitch.tv:443
+[2018-08-29 17:37:03] [Info] Connect static.twitchcdn.net:443
+[2018-08-29 17:37:03] [Info] Connect api.twitch.tv:443
+[2018-08-29 17:37:05] [Info] Connect usher.ttvnw.net:443
+[2018-08-29 17:37:05] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 17:37:05] [Info] Connect countess.twitch.tv:443
+[2018-08-29 17:37:07] [Info] Connect video-weaver.hkg01.hls.ttvnw.net:443
+[2018-08-29 17:37:07] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 17:37:08] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 17:37:08] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 17:37:08] [Info] Disconnect static.twitchcdn.net:443
+[2018-08-29 17:37:08] [Info] Disconnect video-edge-e703d7.sjc02.hls.ttvnw.net:443
+[2018-08-29 17:37:10] [Info] Disconnect video-edge-b0f2e9.sjc02.hls.ttvnw.net:443
+[2018-08-29 17:37:11] [Info] Connect aax.amazon-adsystem.com:443
+[2018-08-29 17:37:11] [Info] Disconnect clients4.google.com:443
+[2018-08-29 17:37:11] [Info] Connect video-edge-7562d4.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 17:37:11] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 17:37:13] [Info] Connect s.amazon-adsystem.com:443
+[2018-08-29 17:37:29] [Info] Disconnect gql.twitch.tv:443
+[2018-08-29 17:37:31] [Info] Disconnect video-edge-7562d4.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 17:37:31] [Info] Connect video-edge-7562d4.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 17:38:03] [Info] Disconnect spade.twitch.tv:443
+[2018-08-29 17:38:03] [Info] Disconnect r.nexac.com:443
+[2018-08-29 17:38:08] [Info] Disconnect countess.twitch.tv:443
+[2018-08-29 17:38:12] [Info] Disconnect player.twitch.tv:443
+[2018-08-29 17:38:12] [Info] Disconnect usher.ttvnw.net:443
+[2018-08-29 17:38:12] [Info] Disconnect player.twitch.tv:443
+[2018-08-29 17:38:15] [Info] Disconnect api.twitch.tv:443
+[2018-08-29 17:38:18] [Info] Disconnect aax.amazon-adsystem.com:443
+[2018-08-29 17:38:21] [Info] Disconnect video-edge-7562d4.hkg01.abs.hls.ttvnw.net:443
+[2018-08-29 17:38:21] [Info] Disconnect s.amazon-adsystem.com:443
+[2018-08-29 17:38:22] [Info] Connect video-edge-7562d4.hkg01.abs.hls.ttvnw.net:443

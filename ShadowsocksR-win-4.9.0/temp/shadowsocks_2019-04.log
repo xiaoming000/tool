@@ -1,0 +1,1029 @@
+[2019-04-13 10:51:14] ShadowsocksR started on port 1080
+[2019-04-13 10:51:24] [Info] Connect raw.githubusercontent.com:443
+[2019-04-13 10:51:26] [Info] Connect ajax.googleapis.com:443
+[2019-04-13 10:51:26] [Info] Connect pixabay.com:443
+[2019-04-13 10:51:27] [Info] Connect clients1.google.com:443
+[2019-04-13 10:51:27] [Info] Disconnect ajax.googleapis.com:443
+[2019-04-13 10:51:27] [Info] Connect clients1.google.com:443
+[2019-04-13 10:51:28] [Info] Connect cdn.pixabay.com:443
+[2019-04-13 10:51:29] [Info] Connect pixabay.com:443
+[2019-04-13 10:51:43] [Info] Connect ajax.googleapis.com:443
+[2019-04-13 10:51:43] [Info] Direct connect www.googletagmanager.com:443
+[2019-04-13 10:51:43] [Info] Disconnect clients1.google.com:443
+[2019-04-13 10:51:44] [Info] Connect cdn.carbonads.com:443
+[2019-04-13 10:51:45] [Info] Connect connect.facebook.net:443
+[2019-04-13 10:51:45] [Info] Connect t3.ftcdn.net:443
+[2019-04-13 10:51:45] [Info] Connect t4.ftcdn.net:443
+[2019-04-13 10:51:45] [Info] Connect t3.ftcdn.net:443
+[2019-04-13 10:51:45] [Info] Connect t4.ftcdn.net:443
+[2019-04-13 10:51:46] [Info] Connect connect.facebook.net:443
+[2019-04-13 10:51:46] [Info] Connect srv.carbonads.net:443
+[2019-04-13 10:51:47] [Info] Connect t3.ftcdn.net:443
+[2019-04-13 10:51:49] [Info] Connect www.google.com:443
+[2019-04-13 10:51:49] [Info] Connect www.google.com:443
+[2019-04-13 10:51:49] [Info] Connect www.google.com:443
+[2019-04-13 10:51:49] [Info] Connect www.google.com:443
+[2019-04-13 10:51:50] [Info] Disconnect www.google.com:443
+[2019-04-13 10:51:50] [Info] Disconnect cdn.carbonads.com:443
+[2019-04-13 10:51:57] [Info] Disconnect srv.carbonads.net:443
+[2019-04-13 10:51:59] [Info] Disconnect www.google.com:443
+[2019-04-13 10:52:00] [Info] Disconnect www.google.com:443
+[2019-04-13 10:52:06] [Info] Direct connect www.googletagmanager.com:443
+[2019-04-13 10:52:06] [Info] Disconnect t3.ftcdn.net:443
+[2019-04-13 10:52:06] [Info] Disconnect t3.ftcdn.net:443
+[2019-04-13 10:52:06] [Info] Disconnect t4.ftcdn.net:443
+[2019-04-13 10:52:19] [Info] Direct connect www.googletagmanager.com:443
+[2019-04-13 10:52:20] [Info] Connect srv.carbonads.net:443
+[2019-04-13 10:52:20] [Info] Connect image.shutterstock.com:443
+[2019-04-13 10:52:20] [Info] Connect image.shutterstock.com:443
+[2019-04-13 10:52:20] [Info] Connect image.shutterstock.com:443
+[2019-04-13 10:52:20] [Info] Connect image.shutterstock.com:443
+[2019-04-13 10:52:21] [Info] Connect staticxx.facebook.com:443
+[2019-04-13 10:52:21] [Info] Connect ocsp.digicert.com:80
+[2019-04-13 10:52:22] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-13 10:52:22] [Info] Disconnect image.shutterstock.com:443
+[2019-04-13 10:52:22] [Info] Disconnect image.shutterstock.com:443
+[2019-04-13 10:52:22] [Info] Disconnect image.shutterstock.com:443
+[2019-04-13 10:52:22] [Info] Connect cdn4.buysellads.net:443
+[2019-04-13 10:52:24] [Info] Connect www.facebook.com:443
+[2019-04-13 10:52:32] [Info] Disconnect srv.carbonads.net:443
+[2019-04-13 10:52:35] [Info] Direct connect www.gstatic.com:443
+[2019-04-13 10:52:37] [Info] Direct connect fonts.gstatic.com:443
+[2019-04-13 10:52:43] [Info] Connect srv.carbonads.net:443
+[2019-04-13 10:52:43] [Info] Direct connect www.googletagmanager.com:443
+[2019-04-13 10:52:43] [Info] Connect cdn.carbonads.com:443
+[2019-04-13 10:52:51] [Info] Disconnect connect.facebook.net:443
+[2019-04-13 10:52:54] [Info] Disconnect srv.carbonads.net:443
+[2019-04-13 10:53:02] [Info] Disconnect image.shutterstock.com:443
+[2019-04-13 10:53:06] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-13 10:53:25] [Info] Disconnect connect.facebook.net:443
+[2019-04-13 10:53:27] [Info] Disconnect staticxx.facebook.com:443
+[2019-04-13 10:53:31] [Info] Disconnect www.facebook.com:443
+[2019-04-13 10:53:44] [Info] Disconnect cdn.carbonads.com:443
+[2019-04-13 10:54:30] [Info] Connect android.clients.google.com:443
+[2019-04-13 10:54:38] [Info] Connect www.googleapis.com:443
+[2019-04-13 10:54:40] [Info] Connect clients4.google.com:443
+[2019-04-13 10:55:24] [Info] Disconnect cdn4.buysellads.net:443
+[2019-04-13 10:55:44] [Info] Disconnect ajax.googleapis.com:443
+[2019-04-13 10:56:24] [Info] Connect raw.githubusercontent.com:443
+[2019-04-13 10:56:41] [Info] Disconnect www.google.com:443
+[2019-04-13 10:58:05] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-13 10:58:38] [Info] Disconnect android.clients.google.com:443
+[2019-04-13 10:58:40] [Info] Disconnect www.googleapis.com:443
+[2019-04-13 10:59:50] [Info] Direct connect badjs.weixinbridge.com:443
+[2019-04-13 11:00:11] [Info] Disconnect clients1.google.com:443
+[2019-04-13 11:02:01] [Info] Direct connect www.zhihu.com:443
+[2019-04-13 11:02:02] [Info] Direct connect zhihu-web-analytics.zhihu.com:443
+[2019-04-13 11:02:03] [Debug] DNS query fail: stalker.qiniu.com
+[2019-04-13 11:02:03] [Info] Connect stalker.qiniu.com:443
+[2019-04-13 11:02:03] [Info] Disconnect stalker.qiniu.com:443
+[2019-04-13 11:02:03] [Debug] DNS query fail: stalker.qiniu.com
+[2019-04-13 11:02:03] [Info] Connect stalker.qiniu.com:443
+[2019-04-13 11:02:04] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 11:02:04] [Info] Disconnect stalker.qiniu.com:443
+[2019-04-13 11:02:40] [Info] Disconnect pixabay.com:443
+[2019-04-13 11:02:40] [Info] Disconnect cdn.pixabay.com:443
+[2019-04-13 11:02:40] [Info] Disconnect pixabay.com:443
+[2019-04-13 11:02:40] [Info] Disconnect t4.ftcdn.net:443
+[2019-04-13 11:02:40] [Info] Disconnect t3.ftcdn.net:443
+[2019-04-13 11:02:40] [Info] Disconnect clients4.google.com:443
+[2019-04-13 11:13:13] [Info] Connect android.clients.google.com:443
+[2019-04-13 11:13:13] [Info] Connect www.googleapis.com:443
+[2019-04-13 11:13:13] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-13 11:13:13] [Info] Connect accounts.google.com:443
+[2019-04-13 11:13:13] [Info] Connect mtalk.google.com:5228
+[2019-04-13 11:13:14] [Info] Connect www.googleapis.com:443
+[2019-04-13 11:13:15] [Info] Connect clients4.google.com:443
+[2019-04-13 11:13:16] [Info] Connect clients4.google.com:443
+[2019-04-13 11:13:23] [Info] Direct connect ssl.gstatic.com:443
+[2019-04-13 11:13:23] [Info] Direct connect ssl.gstatic.com:443
+[2019-04-13 11:13:36] [Info] Direct connect ss0.bdstatic.com:443
+[2019-04-13 11:13:36] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-04-13 11:13:36] [Info] Disconnect clients4.google.com:443
+[2019-04-13 11:13:36] [Info] Disconnect www.googleapis.com:443
+[2019-04-13 11:13:37] [Info] Connect www.google.com:443
+[2019-04-13 11:13:38] [Info] Connect www.google.com:443
+[2019-04-13 11:13:39] [Info] Connect t0.gstatic.com:443
+[2019-04-13 11:13:39] [Info] Connect clients1.google.com:443
+[2019-04-13 11:13:39] [Info] Connect t0.gstatic.com:443
+[2019-04-13 11:13:39] [Info] Connect t0.gstatic.com:443
+[2019-04-13 11:13:39] [Info] Connect t0.gstatic.com:443
+[2019-04-13 11:13:39] [Info] Connect s2.googleusercontent.com:443
+[2019-04-13 11:13:39] [Info] Connect s2.googleusercontent.com:443
+[2019-04-13 11:13:39] [Info] Connect s2.googleusercontent.com:443
+[2019-04-13 11:13:40] [Info] Direct connect ssl.gstatic.com:443
+[2019-04-13 11:13:40] [Info] Connect lh3.googleusercontent.com:443
+[2019-04-13 11:13:40] [Info] Direct connect www.gstatic.com:443
+[2019-04-13 11:13:40] [Info] Disconnect t0.gstatic.com:443
+[2019-04-13 11:13:40] [Info] Connect apis.google.com:443
+[2019-04-13 11:13:40] [Info] Connect clients5.google.com:443
+[2019-04-13 11:14:34] [Info] Direct connect badjs.weixinbridge.com:443
+[2019-04-13 11:14:34] [Info] Disconnect s2.googleusercontent.com:443
+[2019-04-13 11:14:34] [Info] Disconnect s2.googleusercontent.com:443
+[2019-04-13 11:14:34] [Info] Disconnect t0.gstatic.com:443
+[2019-04-13 11:14:34] [Info] Disconnect t0.gstatic.com:443
+[2019-04-13 11:17:15] [Info] Disconnect android.clients.google.com:443
+[2019-04-13 11:17:39] [Info] Disconnect www.google.com:443
+[2019-04-13 11:17:40] [Info] Disconnect clients1.google.com:443
+[2019-04-13 11:17:40] [Info] Disconnect t0.gstatic.com:443
+[2019-04-13 11:17:41] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-04-13 11:17:42] [Info] Disconnect apis.google.com:443
+[2019-04-13 11:17:43] [Info] Disconnect s2.googleusercontent.com:443
+[2019-04-13 11:17:43] [Info] Disconnect clients5.google.com:443
+[2019-04-13 11:17:44] [Info] Disconnect www.google.com:443
+[2019-04-13 11:17:44] [Info] Disconnect accounts.google.com:443
+[2019-04-13 11:18:11] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 11:19:13] [Info] Direct connect update.googleapis.com:443
+[2019-04-13 11:19:44] [Info] Disconnect clients4.google.com:443
+[2019-04-13 11:28:49] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 11:28:49] [Info] Connect mtalk.google.com:5228
+[2019-04-13 11:29:03] [Info] Direct connect updatem.360safe.com:80
+[2019-04-13 11:29:03] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-13 11:33:31] [Info] Connect clients4.google.com:443
+[2019-04-13 11:37:32] [Info] Disconnect clients4.google.com:443
+[2019-04-13 11:44:27] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 11:44:27] [Info] Connect mtalk.google.com:5228
+[2019-04-13 11:48:12] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 11:49:55] [Info] Connect clients4.google.com:443
+[2019-04-13 11:53:56] [Info] Disconnect clients4.google.com:443
+[2019-04-13 11:59:58] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 11:59:58] [Info] Connect mtalk.google.com:5228
+[2019-04-13 12:03:40] [Info] Connect clients4.google.com:443
+[2019-04-13 12:07:41] [Info] Disconnect clients4.google.com:443
+[2019-04-13 12:12:44] [Info] Connect clients4.google.com:443
+[2019-04-13 12:15:34] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 12:15:34] [Info] Connect mtalk.google.com:5228
+[2019-04-13 12:16:45] [Info] Disconnect clients4.google.com:443
+[2019-04-13 12:18:25] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 12:30:06] [Info] Direct connect updatem.360safe.com:80
+[2019-04-13 12:30:06] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-13 12:31:09] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 12:31:09] [Info] Connect mtalk.google.com:5228
+[2019-04-13 12:35:25] [Info] Connect clients4.google.com:443
+[2019-04-13 12:39:26] [Info] Disconnect clients4.google.com:443
+[2019-04-13 12:46:40] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 12:46:40] [Info] Connect mtalk.google.com:5228
+[2019-04-13 12:48:21] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 12:52:27] [Info] Connect clients4.google.com:443
+[2019-04-13 12:56:24] [Info] Connect raw.githubusercontent.com:443
+[2019-04-13 12:56:28] [Info] Disconnect clients4.google.com:443
+[2019-04-13 12:58:05] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-13 13:02:08] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 13:02:08] [Info] Connect mtalk.google.com:5228
+[2019-04-13 13:13:42] [Info] Connect clients4.google.com:443
+[2019-04-13 13:17:39] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 13:17:39] [Info] Connect mtalk.google.com:5228
+[2019-04-13 13:17:43] [Info] Disconnect clients4.google.com:443
+[2019-04-13 13:18:18] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 13:18:41] [Info] Connect clients4.google.com:443
+[2019-04-13 13:22:42] [Info] Disconnect clients4.google.com:443
+[2019-04-13 13:30:25] [Info] Connect clients4.google.com:443
+[2019-04-13 13:31:09] [Info] Direct connect updatem.360safe.com:80
+[2019-04-13 13:31:09] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-13 13:33:08] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 13:33:08] [Info] Connect mtalk.google.com:5228
+[2019-04-13 13:34:27] [Info] Disconnect clients4.google.com:443
+[2019-04-13 13:48:23] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 13:48:38] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 13:48:38] [Info] Connect mtalk.google.com:5228
+[2019-04-13 13:51:52] [Info] Connect clients4.google.com:443
+[2019-04-13 13:55:53] [Info] Disconnect clients4.google.com:443
+[2019-04-13 14:04:06] [Info] Connect clients2.google.com:443
+[2019-04-13 14:04:07] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 14:04:07] [Info] Connect mtalk.google.com:5228
+[2019-04-13 14:04:13] [Info] Connect clients4.google.com:443
+[2019-04-13 14:08:07] [Info] Disconnect clients2.google.com:443
+[2019-04-13 14:08:15] [Info] Disconnect clients4.google.com:443
+[2019-04-13 14:10:20] [Info] Connect clients4.google.com:443
+[2019-04-13 14:14:21] [Info] Disconnect clients4.google.com:443
+[2019-04-13 14:18:29] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 14:19:36] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 14:19:36] [Info] Connect mtalk.google.com:5228
+[2019-04-13 14:27:02] [Info] Direct connect update.360safe.com:80
+[2019-04-13 14:27:02] [Info] Direct connect ini.update.360safe.com:80
+[2019-04-13 14:27:12] [Info] Direct connect softm.update.360safe.com:80
+[2019-04-13 14:29:56] [Info] Connect clients4.google.com:443
+[2019-04-13 14:32:02] [Info] Direct connect updatem.360safe.com:80
+[2019-04-13 14:32:02] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-13 14:35:06] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 14:35:06] [Info] Connect mtalk.google.com:5228
+[2019-04-13 14:37:49] [Info] Disconnect clients4.google.com:443
+[2019-04-13 14:48:06] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 14:50:36] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 14:50:36] [Info] Connect mtalk.google.com:5228
+[2019-04-13 14:54:27] [Info] Connect clients4.google.com:443
+[2019-04-13 14:56:24] [Info] Connect raw.githubusercontent.com:443
+[2019-04-13 14:58:05] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-13 15:01:12] [Info] Disconnect clients4.google.com:443
+[2019-04-13 15:06:06] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 15:06:06] [Info] Connect mtalk.google.com:5228
+[2019-04-13 15:16:56] [Info] Connect clients4.google.com:443
+[2019-04-13 15:18:24] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 15:20:57] [Info] Disconnect clients4.google.com:443
+[2019-04-13 15:21:36] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 15:21:36] [Info] Connect mtalk.google.com:5228
+[2019-04-13 15:33:05] [Info] Direct connect updatem.360safe.com:80
+[2019-04-13 15:33:05] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-13 15:37:06] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 15:37:06] [Info] Connect mtalk.google.com:5228
+[2019-04-13 15:40:46] [Info] Connect clients4.google.com:443
+[2019-04-13 15:47:57] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 15:48:19] [Info] Disconnect clients4.google.com:443
+[2019-04-13 15:52:36] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 15:52:36] [Info] Connect mtalk.google.com:5228
+[2019-04-13 15:59:47] [Info] Connect clients4.google.com:443
+[2019-04-13 16:03:48] [Info] Disconnect clients4.google.com:443
+[2019-04-13 16:08:05] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 16:08:05] [Info] Connect mtalk.google.com:5228
+[2019-04-13 16:13:07] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 16:13:07] [Info] Connect mtalk.google.com:5228
+[2019-04-13 16:16:34] [Info] Connect clients4.google.com:443
+[2019-04-13 16:17:59] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 16:19:13] [Info] Direct connect update.googleapis.com:443
+[2019-04-13 16:20:35] [Info] Disconnect clients4.google.com:443
+[2019-04-13 16:28:38] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 16:28:38] [Info] Connect mtalk.google.com:5228
+[2019-04-13 16:32:40] [Info] Connect clients4.google.com:443
+[2019-04-13 16:34:08] [Info] Direct connect updatem.360safe.com:80
+[2019-04-13 16:34:08] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-13 16:36:41] [Info] Disconnect clients4.google.com:443
+[2019-04-13 16:44:16] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 16:44:16] [Info] Connect mtalk.google.com:5228
+[2019-04-13 16:47:31] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 16:50:56] [Info] Connect clients4.google.com:443
+[2019-04-13 16:56:24] [Info] Connect raw.githubusercontent.com:443
+[2019-04-13 16:56:57] [Info] Disconnect clients4.google.com:443
+[2019-04-13 16:58:05] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-13 16:59:54] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 16:59:54] [Info] Connect mtalk.google.com:5228
+[2019-04-13 17:13:13] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-13 17:15:24] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 17:15:24] [Info] Connect mtalk.google.com:5228
+[2019-04-13 17:15:36] [Info] Connect clients4.google.com:443
+[2019-04-13 17:17:32] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 17:19:37] [Info] Disconnect clients4.google.com:443
+[2019-04-13 17:30:55] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 17:30:55] [Info] Connect mtalk.google.com:5228
+[2019-04-13 17:35:01] [Info] Direct connect updatem.360safe.com:80
+[2019-04-13 17:35:01] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-13 17:35:52] [Info] Connect clients4.google.com:443
+[2019-04-13 17:35:56] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 17:35:56] [Info] Connect mtalk.google.com:5228
+[2019-04-13 17:39:53] [Info] Disconnect clients4.google.com:443
+[2019-04-13 17:40:58] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 17:40:58] [Info] Connect mtalk.google.com:5228
+[2019-04-13 17:47:23] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 17:49:24] [Info] Connect www.sublimetext.com:443
+[2019-04-13 17:49:37] [Info] Disconnect www.sublimetext.com:443
+[2019-04-13 17:53:58] [Info] Connect clients4.google.com:443
+[2019-04-13 17:56:33] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 17:56:33] [Info] Connect mtalk.google.com:5228
+[2019-04-13 17:57:59] [Info] Disconnect clients4.google.com:443
+[2019-04-13 17:58:26] [Info] Connect clients4.google.com:443
+[2019-04-13 18:02:27] [Info] Disconnect clients4.google.com:443
+[2019-04-13 18:12:15] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 18:12:15] [Info] Connect mtalk.google.com:5228
+[2019-04-13 18:13:52] [Info] Connect clients4.google.com:443
+[2019-04-13 18:17:37] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-13 18:17:53] [Info] Disconnect clients4.google.com:443
+[2019-04-13 18:28:06] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 18:28:06] [Info] Connect mtalk.google.com:5228
+[2019-04-13 18:30:04] [Info] Connect clients4.google.com:443
+[2019-04-13 18:34:05] [Info] Disconnect clients4.google.com:443
+[2019-04-13 18:36:04] [Info] Direct connect updatem.360safe.com:80
+[2019-04-13 18:36:04] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-13 18:40:25] [Info] Disconnect mtalk.google.com:5228
+[2019-04-13 18:40:25] [Info] Disconnect www.googleapis.com:443
+[2019-04-24 09:07:30] ShadowsocksR started on port 1080
+[2019-04-24 09:07:39] [Info] Connect raw.githubusercontent.com:443
+[2019-04-24 09:07:53] [Info] Connect www.google.com:443
+[2019-04-24 09:07:55] [Info] Direct connect www.gstatic.com:80
+[2019-04-24 09:07:58] [Info] Connect pixabay.com:443
+[2019-04-24 09:07:58] [Info] Connect pixabay.com:443
+[2019-04-24 09:07:59] [Info] Disconnect pixabay.com:443
+[2019-04-24 09:07:59] [Info] Connect cdn.pixabay.com:443
+[2019-04-24 09:07:59] [Info] Direct connect www.googletagmanager.com:443
+[2019-04-24 09:07:59] [Info] Connect cdn.pixabay.com:443
+[2019-04-24 09:07:59] [Info] Connect ajax.googleapis.com:443
+[2019-04-24 09:07:59] [Info] Connect cdn.pixabay.com:443
+[2019-04-24 09:07:59] [Info] Connect cdn.pixabay.com:443
+[2019-04-24 09:07:59] [Info] Connect cdn.pixabay.com:443
+[2019-04-24 09:07:59] [Info] Connect cdn.pixabay.com:443
+[2019-04-24 09:08:02] [Info] Connect pixabay.com:443
+[2019-04-24 09:08:08] [Info] Connect clients1.google.com:443
+[2019-04-24 09:08:08] [Info] Connect clients1.google.com:443
+[2019-04-24 09:08:08] [Info] Connect clients1.google.com:443
+[2019-04-24 09:08:08] [Info] Connect clients1.google.com:443
+[2019-04-24 09:08:08] [Info] Connect clients1.google.com:443
+[2019-04-24 09:08:08] [Info] Connect clients1.google.com:443
+[2019-04-24 09:08:09] [Info] Disconnect clients1.google.com:443
+[2019-04-24 09:08:22] [Info] Disconnect cdn.pixabay.com:443
+[2019-04-24 09:08:22] [Info] Disconnect cdn.pixabay.com:443
+[2019-04-24 09:08:22] [Info] Disconnect cdn.pixabay.com:443
+[2019-04-24 09:08:22] [Info] Disconnect clients1.google.com:443
+[2019-04-24 09:08:22] [Info] Disconnect cdn.pixabay.com:443
+[2019-04-24 09:08:22] [Info] Disconnect clients1.google.com:443
+[2019-04-24 09:08:22] [Info] Disconnect cdn.pixabay.com:443
+[2019-04-24 09:08:22] [Info] Disconnect clients1.google.com:443
+[2019-04-24 09:08:22] [Info] Connect android.clients.google.com:443
+[2019-04-24 09:08:22] [Info] Disconnect clients1.google.com:443
+[2019-04-24 09:08:34] [Info] Connect cdn.carbonads.com:443
+[2019-04-24 09:08:34] [Info] Connect connect.facebook.net:443
+[2019-04-24 09:08:34] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:08:34] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:08:34] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:08:34] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:08:35] [Info] Connect ocsp.digicert.com:80
+[2019-04-24 09:08:36] [Info] Connect connect.facebook.net:443
+[2019-04-24 09:08:36] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-24 09:08:36] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:08:36] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:08:36] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:08:36] [Info] Connect srv.carbonads.net:443
+[2019-04-24 09:08:37] [Info] Connect staticxx.facebook.com:443
+[2019-04-24 09:08:38] [Info] Connect cdn4.buysellads.net:443
+[2019-04-24 09:08:38] [Info] Connect t.myvisualiq.net:443
+[2019-04-24 09:08:38] [Info] Connect tapestry.tapad.com:443
+[2019-04-24 09:08:40] [Info] Connect t.myvisualiq.net:443
+[2019-04-24 09:08:40] [Info] Disconnect cdn.carbonads.com:443
+[2019-04-24 09:08:41] [Info] Disconnect t.myvisualiq.net:443
+[2019-04-24 09:08:48] [Info] Disconnect srv.carbonads.net:443
+[2019-04-24 09:08:57] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:09:07] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:09:07] [Info] Disconnect t.myvisualiq.net:443
+[2019-04-24 09:09:07] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:09:07] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:09:07] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:09:07] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:09:07] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:09:18] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:09:18] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:09:18] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:09:18] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:09:18] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:09:21] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-24 09:09:28] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:09:33] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:09:34] [Info] Connect srv.carbonads.net:443
+[2019-04-24 09:09:34] [Info] Connect t3.ftcdn.net:443
+[2019-04-24 09:09:34] [Info] Connect t3.ftcdn.net:443
+[2019-04-24 09:09:34] [Info] Connect t4.ftcdn.net:443
+[2019-04-24 09:09:36] [Info] Connect t4.ftcdn.net:443
+[2019-04-24 09:09:37] [Info] Connect www.facebook.com:443
+[2019-04-24 09:09:41] [Info] Disconnect connect.facebook.net:443
+[2019-04-24 09:09:42] [Info] Disconnect connect.facebook.net:443
+[2019-04-24 09:09:44] [Info] Disconnect staticxx.facebook.com:443
+[2019-04-24 09:09:44] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:09:45] [Info] Connect cdn.carbonads.com:443
+[2019-04-24 09:09:45] [Info] Connect connect.facebook.net:443
+[2019-04-24 09:09:45] [Info] Disconnect t3.ftcdn.net:443
+[2019-04-24 09:09:46] [Info] Disconnect srv.carbonads.net:443
+[2019-04-24 09:09:48] [Info] Connect accounts.google.com:443
+[2019-04-24 09:09:48] [Info] Disconnect t4.ftcdn.net:443
+[2019-04-24 09:09:51] [Info] Connect srv.carbonads.net:443
+[2019-04-24 09:09:51] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:09:51] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:09:51] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:09:51] [Info] Connect image.shutterstock.com:443
+[2019-04-24 09:09:53] [Info] Connect t.myvisualiq.net:443
+[2019-04-24 09:09:53] [Info] Connect t.myvisualiq.net:443
+[2019-04-24 09:09:57] [Info] Disconnect cdn.carbonads.com:443
+[2019-04-24 09:09:57] [Info] Disconnect connect.facebook.net:443
+[2019-04-24 09:10:02] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:10:02] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:10:02] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:10:03] [Info] Disconnect srv.carbonads.net:443
+[2019-04-24 09:10:12] [Info] Disconnect image.shutterstock.com:443
+[2019-04-24 09:10:46] [Info] Direct connect badjs.weixinbridge.com:443
+[2019-04-24 09:10:46] [Info] Disconnect t.myvisualiq.net:443
+[2019-04-24 09:11:01] [Info] Disconnect www.facebook.com:443
+[2019-04-24 09:11:01] [Info] Disconnect t.myvisualiq.net:443
+[2019-04-24 09:12:00] [Info] Disconnect ajax.googleapis.com:443
+[2019-04-24 09:12:04] [Info] Direct connect badjs.weixinbridge.com:443
+[2019-04-24 09:12:24] [Info] Disconnect android.clients.google.com:443
+[2019-04-24 09:12:39] [Info] Connect raw.githubusercontent.com:443
+[2019-04-24 09:12:53] [Info] Disconnect cdn4.buysellads.net:443
+[2019-04-24 09:13:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 09:13:49] [Info] Disconnect accounts.google.com:443
+[2019-04-24 09:13:51] [Info] Direct connect ssl.gstatic.com:443
+[2019-04-24 09:13:52] [Info] Connect github.com:443
+[2019-04-24 09:13:52] [Info] Connect avatars2.githubusercontent.com:443
+[2019-04-24 09:13:52] [Info] Connect avatars1.githubusercontent.com:443
+[2019-04-24 09:13:52] [Info] Connect github.githubassets.com:443
+[2019-04-24 09:13:53] [Info] Connect ocsp.digicert.com:80
+[2019-04-24 09:13:53] [Info] Connect github.com:443
+[2019-04-24 09:13:53] [Info] Disconnect tapestry.tapad.com:443
+[2019-04-24 09:13:54] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-24 09:13:56] [Info] Connect github.githubassets.com:443
+[2019-04-24 09:13:56] [Info] Connect github.githubassets.com:443
+[2019-04-24 09:13:56] [Info] Connect github.githubassets.com:443
+[2019-04-24 09:13:56] [Info] Connect github.githubassets.com:443
+[2019-04-24 09:13:58] [Info] Connect github.com:443
+[2019-04-24 09:13:58] [Info] Connect github.com:443
+[2019-04-24 09:13:58] [Info] Connect live.github.com:443
+[2019-04-24 09:13:58] [Info] Connect github.com:443
+[2019-04-24 09:13:58] [Info] Connect collector.githubapp.com:443
+[2019-04-24 09:13:58] [Info] Connect api.github.com:443
+[2019-04-24 09:14:00] [Info] Connect www.google.com:443
+[2019-04-24 09:14:01] [Info] Disconnect www.google.com:443
+[2019-04-24 09:14:01] [Info] Connect www.google.com:443
+[2019-04-24 09:14:01] [Info] Connect www.google.com:443
+[2019-04-24 09:14:01] [Info] Connect www.google.com:443
+[2019-04-24 09:14:01] [Info] Connect www.google.com:443
+[2019-04-24 09:14:01] [Info] Connect www.google.com:443
+[2019-04-24 09:14:11] [Info] Disconnect www.google.com:443
+[2019-04-24 09:14:11] [Info] Disconnect www.google.com:443
+[2019-04-24 09:14:11] [Info] Disconnect www.google.com:443
+[2019-04-24 09:14:11] [Info] Disconnect www.google.com:443
+[2019-04-24 09:14:12] [Info] Disconnect www.google.com:443
+[2019-04-24 09:14:14] [Info] Disconnect github.com:443
+[2019-04-24 09:14:14] [Info] Disconnect live.github.com:443
+[2019-04-24 09:14:21] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-24 09:14:42] [Info] Connect clients4.google.com:443
+[2019-04-24 09:14:42] [Info] Disconnect github.githubassets.com:443
+[2019-04-24 09:14:42] [Info] Disconnect github.githubassets.com:443
+[2019-04-24 09:14:42] [Info] Disconnect github.githubassets.com:443
+[2019-04-24 09:14:49] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-04-24 09:14:56] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 09:14:56] [Info] Direct connect s3m.milkjpg.com:443
+[2019-04-24 09:14:56] [Info] Direct connect p1.ssl.qhimgs3.com:443
+[2019-04-24 09:14:57] [Info] Direct connect jx.cdn.qhstatic.com:443
+[2019-04-24 09:14:58] [Info] Disconnect github.com:443
+[2019-04-24 09:14:59] [Info] Disconnect github.com:443
+[2019-04-24 09:14:59] [Info] Disconnect github.com:443
+[2019-04-24 09:15:01] [Info] Disconnect api.github.com:443
+[2019-04-24 09:15:01] [Info] Disconnect github.com:443
+[2019-04-24 09:15:02] [Info] Direct connect adservice.google.com:443
+[2019-04-24 09:15:02] [Info] Direct connect www.googletagservices.com:443
+[2019-04-24 09:15:02] [Info] Direct connect pic.rmb.bdstatic.com:443
+[2019-04-24 09:15:02] [Info] Disconnect collector.githubapp.com:443
+[2019-04-24 09:15:10] [Info] Connect lh3.googleusercontent.com:443
+[2019-04-24 09:15:10] [Info] Direct connect www.gstatic.com:443
+[2019-04-24 09:15:10] [Info] Connect apis.google.com:443
+[2019-04-24 09:15:10] [Info] Connect clients5.google.com:443
+[2019-04-24 09:15:40] [Info] Connect android.clients.google.com:443
+[2019-04-24 09:15:46] [Info] Connect accounts.google.com:443
+[2019-04-24 09:15:59] [Info] Connect wp.me:80
+[2019-04-24 09:16:00] [Info] Disconnect wp.me:80
+[2019-04-24 09:16:07] [Info] Direct connect www.googletagservices.com:443
+[2019-04-24 09:17:36] [Info] Connect ocsp.digicert.com:80
+[2019-04-24 09:17:37] [Info] Connect ocsp.digicert.com:80
+[2019-04-24 09:17:37] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-24 09:17:38] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-24 09:18:43] [Info] Disconnect clients4.google.com:443
+[2019-04-24 09:19:11] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-04-24 09:19:41] [Info] Disconnect android.clients.google.com:443
+[2019-04-24 09:19:43] [Info] Disconnect clients1.google.com:443
+[2019-04-24 09:19:55] [Info] Disconnect apis.google.com:443
+[2019-04-24 09:19:58] [Info] Disconnect clients5.google.com:443
+[2019-04-24 09:19:58] [Info] Disconnect www.google.com:443
+[2019-04-24 09:19:59] [Info] Disconnect accounts.google.com:443
+[2019-04-24 09:20:20] [Info] Direct connect img01.sogoucdn.com:443
+[2019-04-24 09:20:20] [Info] Direct connect dlweb.sogoucdn.com:80
+[2019-04-24 09:20:20] [Info] Direct connect dlweb.sogoucdn.com:80
+[2019-04-24 09:20:20] [Info] Direct connect dlweb.sogoucdn.com:80
+[2019-04-24 09:20:21] [Info] Disconnect avatars1.githubusercontent.com:443
+[2019-04-24 09:20:21] [Info] Disconnect avatars2.githubusercontent.com:443
+[2019-04-24 09:20:21] [Info] Direct connect img01.sogoucdn.com:443
+[2019-04-24 09:20:21] [Info] Direct connect img03.sogoucdn.com:443
+[2019-04-24 09:20:21] [Info] Direct connect img01.sogoucdn.com:443
+[2019-04-24 09:20:21] [Info] Direct connect img04.sogoucdn.com:443
+[2019-04-24 09:20:21] [Info] Direct connect dlweb.sogoucdn.com:80
+[2019-04-24 09:20:21] [Info] Direct connect img02.sogoucdn.com:443
+[2019-04-24 09:20:21] [Info] Direct connect dlweb.sogoucdn.com:80
+[2019-04-24 09:20:21] [Info] Direct connect dlweb.sogoucdn.com:80
+[2019-04-24 09:20:21] [Info] Direct connect img04.sogoucdn.com:443
+[2019-04-24 09:20:21] [Info] Direct connect dlweb.sogoucdn.com:80
+[2019-04-24 09:20:21] [Info] Connect clients1.google.com:443
+[2019-04-24 09:20:21] [Info] Direct connect s.account.sogoucdn.com:80
+[2019-04-24 09:20:21] [Info] Direct connect img.sogoucdn.com:80
+[2019-04-24 09:21:01] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-04-24 09:21:01] [Info] Direct connect ss0.bdstatic.com:443
+[2019-04-24 09:21:01] [Info] Direct connect ss3.bdstatic.com:443
+[2019-04-24 09:21:04] [Info] Direct connect maoyan.com:443
+[2019-04-24 09:21:04] [Info] Direct connect maoyan.com:443
+[2019-04-24 09:21:04] [Info] Direct connect www.dpfile.com:443
+[2019-04-24 09:21:06] [Info] Direct connect www.dpfile.com:443
+[2019-04-24 09:21:29] [Info] Direct connect www.gstatic.com:443
+[2019-04-24 09:21:43] [Info] Connect www.googleapis.com:443
+[2019-04-24 09:21:45] [Info] Direct connect maoyan.com:443
+[2019-04-24 09:22:02] [Info] Direct connect www.dpfile.com:443
+[2019-04-24 09:23:37] [Info] Connect clients2.google.com:443
+[2019-04-24 09:25:44] [Info] Disconnect www.googleapis.com:443
+[2019-04-24 09:26:04] [Info] Disconnect clients1.google.com:443
+[2019-04-24 09:26:26] [Info] Direct connect maoyan.com:443
+[2019-04-24 09:26:26] [Info] Direct connect maoyan.com:443
+[2019-04-24 09:26:26] [Info] Direct connect www.dpfile.com:443
+[2019-04-24 09:27:31] [Info] Connect clients1.google.com:443
+[2019-04-24 09:27:31] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:27:32] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-04-24 09:27:32] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-04-24 09:27:32] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-04-24 09:27:32] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:27:33] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:27:33] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:27:33] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:27:33] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:27:33] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:27:34] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:27:35] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:27:35] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:27:36] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:27:37] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:27:39] [Info] Disconnect clients2.google.com:443
+[2019-04-24 09:27:42] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-04-24 09:27:43] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:27:47] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:27:56] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 09:28:42] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-04-24 09:31:32] [Info] Disconnect clients1.google.com:443
+[2019-04-24 09:33:36] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 09:43:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 09:45:08] [Info] Direct connect updatem.360safe.com:80
+[2019-04-24 09:45:08] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-24 10:03:12] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 10:13:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 10:18:32] [Info] Connect clients4.google.com:443
+[2019-04-24 10:22:33] [Info] Disconnect clients4.google.com:443
+[2019-04-24 10:32:47] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 10:43:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 10:46:01] [Info] Direct connect updatem.360safe.com:80
+[2019-04-24 10:46:01] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-24 11:02:18] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 11:12:39] [Info] Connect raw.githubusercontent.com:443
+[2019-04-24 11:13:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 11:14:21] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-24 11:25:34] [Info] Connect clients4.google.com:443
+[2019-04-24 11:29:36] [Info] Disconnect clients4.google.com:443
+[2019-04-24 11:32:08] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 11:43:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 11:47:04] [Info] Direct connect updatem.360safe.com:80
+[2019-04-24 11:47:04] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-24 11:49:45] [Info] Direct connect ocsp.globalsign.com:80
+[2019-04-24 11:49:45] [Info] Direct connect ocsp2.globalsign.com:80
+[2019-04-24 11:49:51] [Info] Direct connect ocsp.globalsign.com:80
+[2019-04-24 11:49:51] [Info] Direct connect ocsp2.globalsign.com:80
+[2019-04-24 11:49:56] [Info] Connect ocsp.digicert.com:80
+[2019-04-24 11:49:56] [Info] Direct connect ocsp2.globalsign.com:80
+[2019-04-24 11:49:56] [Info] Connect ocsp.digicert.com:80
+[2019-04-24 11:49:56] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-24 11:49:57] [Info] Connect ocsp.digicert.com:80
+[2019-04-24 11:49:57] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-24 11:49:58] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-24 11:49:59] [Info] Connect ocsp.digicert.com:80
+[2019-04-24 11:50:00] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-24 11:50:01] [Info] Connect ocsp.digicert.com:80
+[2019-04-24 11:50:02] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-24 11:50:37] [Info] Direct connect ss0.bdstatic.com:443
+[2019-04-24 11:50:38] [Info] Connect clients1.google.com:443
+[2019-04-24 11:50:43] [Info] Direct connect www.baidupcs.com:443
+[2019-04-24 11:50:46] [Debug] DNS query fail: nj.baidupcs.com
+[2019-04-24 11:50:46] [Info] Connect nj.baidupcs.com:443
+[2019-04-24 11:50:47] [Info] Direct connect issuecdn.baidupcs.com:443
+[2019-04-24 11:50:47] [Info] Disconnect nj.baidupcs.com:443
+[2019-04-24 11:50:47] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-24 11:50:49] [Debug] DNS query fail: nj.baidupcs.com
+[2019-04-24 11:50:49] [Info] Connect nj.baidupcs.com:443
+[2019-04-24 11:50:50] [Info] Disconnect nj.baidupcs.com:443
+[2019-04-24 11:50:50] [Info] Direct connect bj.baidupcs.com:443
+[2019-04-24 11:50:50] [Info] Direct connect qd.baidupcs.com:443
+[2019-04-24 11:52:08] [Info] Connect ocsp.digicert.com:80
+[2019-04-24 11:52:09] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-24 11:52:09] [Info] Connect ocsp.digicert.com:80
+[2019-04-24 11:52:10] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-24 11:54:39] [Info] Disconnect clients1.google.com:443
+[2019-04-24 12:02:09] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 12:13:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 12:32:22] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 12:37:17] [Info] Connect clients4.google.com:443
+[2019-04-24 12:41:19] [Info] Disconnect clients4.google.com:443
+[2019-04-24 12:43:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 12:44:02] [Info] Connect www.googleapis.com:443
+[2019-04-24 12:44:04] [Info] Connect clients4.google.com:443
+[2019-04-24 12:48:04] [Info] Disconnect www.googleapis.com:443
+[2019-04-24 12:48:07] [Info] Direct connect updatem.360safe.com:80
+[2019-04-24 12:48:08] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-24 12:55:47] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2019-04-24 12:55:47] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2019-04-24 12:55:47] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2019-04-24 12:55:47] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2019-04-24 12:55:47] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2019-04-24 13:02:02] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 13:05:40] [Info] Connect android.clients.google.com:443
+[2019-04-24 13:09:42] [Info] Disconnect android.clients.google.com:443
+[2019-04-24 13:09:45] [Info] Disconnect clients4.google.com:443
+[2019-04-24 13:12:39] [Info] Connect raw.githubusercontent.com:443
+[2019-04-24 13:13:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 13:14:21] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-24 13:14:36] [Info] Connect clients2.google.com:443
+[2019-04-24 13:17:13] [Info] Connect clients4.google.com:443
+[2019-04-24 13:18:37] [Info] Disconnect clients2.google.com:443
+[2019-04-24 13:27:47] [Info] Disconnect clients4.google.com:443
+[2019-04-24 13:32:14] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 13:34:46] [Info] Connect clients4.google.com:443
+[2019-04-24 13:41:51] [Info] Disconnect clients4.google.com:443
+[2019-04-24 13:43:18] [Info] Direct connect update.googleapis.com:443
+[2019-04-24 13:43:19] [Info] Connect storage.googleapis.com:80
+[2019-04-24 13:43:19] [Info] Disconnect storage.googleapis.com:80
+[2019-04-24 13:43:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 13:43:40] [Info] Connect storage.googleapis.com:80
+[2019-04-24 13:43:41] [Info] Disconnect storage.googleapis.com:80
+[2019-04-24 13:49:01] [Info] Direct connect updatem.360safe.com:80
+[2019-04-24 13:49:01] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-24 13:54:44] [Info] Direct connect mini.flash.2144.com:80
+[2019-04-24 13:54:44] [Info] Direct connect mini.flash.2144.com:80
+[2019-04-24 13:54:44] [Info] Direct connect mini.flash.2144.com:80
+[2019-04-24 13:54:45] [Info] Connect ocsp.digicert.com:80
+[2019-04-24 13:54:45] [Info] Connect ocsp2.digicert.com:80
+[2019-04-24 13:54:45] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-24 13:54:46] [Info] Disconnect ocsp2.digicert.com:80
+[2019-04-24 13:54:46] [Info] Direct connect mini.flash.2144.com:80
+[2019-04-24 13:54:46] [Info] Direct connect mini.flash.2144.com:80
+[2019-04-24 13:54:46] [Info] Direct connect mini.flash.2144.com:80
+[2019-04-24 14:00:20] [Info] Connect clients4.google.com:443
+[2019-04-24 14:02:16] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 14:04:21] [Info] Disconnect clients4.google.com:443
+[2019-04-24 14:13:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 14:18:27] [Info] Connect clients4.google.com:443
+[2019-04-24 14:22:28] [Info] Disconnect clients4.google.com:443
+[2019-04-24 14:31:52] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 14:40:28] [Info] Connect clients4.google.com:443
+[2019-04-24 14:43:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 14:44:03] [Info] Direct connect update.360safe.com:80
+[2019-04-24 14:44:03] [Info] Direct connect ini.update.360safe.com:80
+[2019-04-24 14:44:13] [Info] Direct connect softm.update.360safe.com:80
+[2019-04-24 14:46:39] [Info] Disconnect clients4.google.com:443
+[2019-04-24 14:50:04] [Info] Direct connect updatem.360safe.com:80
+[2019-04-24 14:50:04] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-24 14:56:41] [Info] Connect clients4.google.com:443
+[2019-04-24 15:00:42] [Info] Disconnect clients4.google.com:443
+[2019-04-24 15:01:50] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 15:12:39] [Info] Connect raw.githubusercontent.com:443
+[2019-04-24 15:13:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 15:14:21] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-24 15:19:20] [Info] Connect clients4.google.com:443
+[2019-04-24 15:23:21] [Info] Disconnect clients4.google.com:443
+[2019-04-24 15:31:28] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 15:40:32] [Info] Connect clients4.google.com:443
+[2019-04-24 15:43:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 15:44:33] [Info] Disconnect clients4.google.com:443
+[2019-04-24 15:46:30] [Info] Connect clients4.google.com:443
+[2019-04-24 15:50:31] [Info] Disconnect clients4.google.com:443
+[2019-04-24 15:51:07] [Info] Direct connect updatem.360safe.com:80
+[2019-04-24 15:51:07] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-24 16:01:30] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 16:01:35] [Info] Connect clients4.google.com:443
+[2019-04-24 16:05:37] [Info] Disconnect clients4.google.com:443
+[2019-04-24 16:13:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 16:20:06] [Info] Connect clients4.google.com:443
+[2019-04-24 16:24:08] [Info] Disconnect clients4.google.com:443
+[2019-04-24 16:31:37] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 16:33:15] [Info] Direct connect cc.xtgreat.com:443
+[2019-04-24 16:33:15] [Info] Direct connect cmpp.gentags.net:443
+[2019-04-24 16:41:31] [Info] Connect clients4.google.com:443
+[2019-04-24 16:43:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 16:48:11] [Info] Disconnect clients4.google.com:443
+[2019-04-24 16:52:00] [Info] Direct connect updatem.360safe.com:80
+[2019-04-24 16:52:00] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-24 16:54:06] [Info] Connect clients4.google.com:443
+[2019-04-24 16:58:07] [Info] Disconnect clients4.google.com:443
+[2019-04-24 17:01:18] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 17:04:36] [Info] Connect clients4.google.com:443
+[2019-04-24 17:08:38] [Info] Disconnect clients4.google.com:443
+[2019-04-24 17:12:39] [Info] Connect raw.githubusercontent.com:443
+[2019-04-24 17:13:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 17:14:21] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-24 17:23:23] [Info] Connect clients4.google.com:443
+[2019-04-24 17:27:25] [Info] Disconnect clients4.google.com:443
+[2019-04-24 17:31:37] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 17:43:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 17:45:16] [Info] Connect clients4.google.com:443
+[2019-04-24 17:49:17] [Info] Disconnect clients4.google.com:443
+[2019-04-24 17:53:03] [Info] Direct connect updatem.360safe.com:80
+[2019-04-24 17:53:03] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-24 18:00:01] [Info] Connect clients4.google.com:443
+[2019-04-24 18:01:35] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 18:06:58] [Info] Disconnect clients4.google.com:443
+[2019-04-24 18:10:22] [Info] Connect clients2.google.com:443
+[2019-04-24 18:13:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 18:14:24] [Info] Disconnect clients2.google.com:443
+[2019-04-24 18:19:49] [Info] Connect clients4.google.com:443
+[2019-04-24 18:23:50] [Info] Disconnect clients4.google.com:443
+[2019-04-24 18:31:47] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-24 18:37:14] [Info] Connect clients4.google.com:443
+[2019-04-24 18:41:16] [Info] Disconnect clients4.google.com:443
+[2019-04-24 18:43:18] [Info] Direct connect update.googleapis.com:443
+[2019-04-24 18:43:22] [Info] Direct connect redirector.gvt1.com:80
+[2019-04-24 18:43:22] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-24 18:43:25] [Info] Direct connect r16---sn-2x3eln7l.gvt1.com:80
+[2019-04-24 18:43:48] [Info] Direct connect redirector.gvt1.com:80
+[2019-04-24 18:43:48] [Info] Direct connect r16---sn-2x3eln7l.gvt1.com:80
+[2019-04-24 18:44:02] [Info] Direct connect redirector.gvt1.com:80
+[2019-04-24 18:44:02] [Info] Direct connect r16---sn-2x3eln7l.gvt1.com:80
+[2019-04-24 18:44:05] [Info] Direct connect update.360safe.com:80
+[2019-04-24 18:44:06] [Info] Direct connect ini.update.360safe.com:80
+[2019-04-24 18:44:06] [Info] Direct connect update.360safe.com:443
+[2019-04-24 18:44:07] [Info] Direct connect redirector.gvt1.com:80
+[2019-04-24 18:44:07] [Info] Direct connect r16---sn-2x3eln7l.gvt1.com:80
+[2019-04-24 18:44:07] [Info] Direct connect ini.update.360safe.com:443
+[2019-04-24 18:44:11] [Info] Connect storage.googleapis.com:80
+[2019-04-24 18:44:12] [Info] Disconnect storage.googleapis.com:80
+[2019-04-24 18:44:26] [Info] Connect storage.googleapis.com:80
+[2019-04-24 18:44:27] [Info] Disconnect storage.googleapis.com:80
+[2019-04-24 18:44:37] [Info] Connect storage.googleapis.com:80
+[2019-04-24 18:44:38] [Info] Disconnect storage.googleapis.com:80
+[2019-04-24 18:44:40] [Info] Connect storage.googleapis.com:80
+[2019-04-24 18:44:41] [Info] Disconnect storage.googleapis.com:80
+[2019-04-24 18:54:06] [Info] Direct connect updatem.360safe.com:80
+[2019-04-24 18:54:06] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-24 18:54:24] [Info] Connect clients4.google.com:443
+[2019-04-24 18:58:25] [Info] Disconnect clients4.google.com:443
+[2019-04-24 18:59:55] [Info] Disconnect github.githubassets.com:443
+[2019-04-24 18:59:55] [Info] Disconnect github.githubassets.com:443
+[2019-04-24 18:59:55] [Info] Disconnect t4.ftcdn.net:443
+[2019-04-24 18:59:55] [Info] Disconnect t3.ftcdn.net:443
+[2019-04-24 18:59:55] [Info] Disconnect pixabay.com:443
+[2019-04-24 18:59:55] [Info] Disconnect pixabay.com:443
+[2019-04-24 18:59:55] [Info] Disconnect cdn.pixabay.com:443
+[2019-04-29 15:20:29] ShadowsocksR started on port 1080
+[2019-04-29 15:20:33] [Info] Connect clients1.google.com:443
+[2019-04-29 15:20:35] [Info] Connect www.google.com:443
+[2019-04-29 15:20:35] [Info] Connect www.google.com:443
+[2019-04-29 15:20:38] [Info] Connect raw.githubusercontent.com:443
+[2019-04-29 15:20:46] [Info] Disconnect www.google.com:443
+[2019-04-29 15:20:50] [Info] Connect pixabay.com:443
+[2019-04-29 15:20:50] [Info] Connect t.myvisualiq.net:443
+[2019-04-29 15:20:50] [Info] Connect cdn.pixabay.com:443
+[2019-04-29 15:20:50] [Info] Direct connect www.googletagmanager.com:443
+[2019-04-29 15:20:50] [Info] Connect ajax.googleapis.com:443
+[2019-04-29 15:21:06] [Info] Connect ajax.googleapis.com:443
+[2019-04-29 15:21:06] [Info] Disconnect ajax.googleapis.com:443
+[2019-04-29 15:21:06] [Info] Disconnect t.myvisualiq.net:443
+[2019-04-29 15:21:33] [Info] Connect ajax.googleapis.com:443
+[2019-04-29 15:21:33] [Info] Disconnect ajax.googleapis.com:443
+[2019-04-29 15:21:45] [Info] Connect ajax.googleapis.com:443
+[2019-04-29 15:21:46] [Info] Disconnect ajax.googleapis.com:443
+[2019-04-29 15:21:46] [Info] Connect connect.facebook.net:443
+[2019-04-29 15:21:46] [Info] Connect srv.carbonads.net:443
+[2019-04-29 15:21:47] [Info] Connect connect.facebook.net:443
+[2019-04-29 15:21:48] [Info] Connect cdn4.buysellads.net:443
+[2019-04-29 15:21:50] [Info] Connect www.facebook.com:443
+[2019-04-29 15:21:58] [Info] Disconnect srv.carbonads.net:443
+[2019-04-29 15:22:01] [Info] Connect ajax.googleapis.com:443
+[2019-04-29 15:22:01] [Info] Connect srv.carbonads.net:443
+[2019-04-29 15:22:01] [Info] Connect cdn.carbonads.com:443
+[2019-04-29 15:22:01] [Info] Disconnect ajax.googleapis.com:443
+[2019-04-29 15:22:13] [Info] Disconnect srv.carbonads.net:443
+[2019-04-29 15:22:20] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-29 15:22:48] [Info] Connect www.googleapis.com:443
+[2019-04-29 15:22:48] [Info] Disconnect ajax.googleapis.com:443
+[2019-04-29 15:22:48] [Info] Disconnect cdn.carbonads.com:443
+[2019-04-29 15:22:48] [Info] Direct connect badjs.weixinbridge.com:443
+[2019-04-29 15:22:49] [Info] Connect clients4.google.com:443
+[2019-04-29 15:22:52] [Info] Disconnect connect.facebook.net:443
+[2019-04-29 15:22:55] [Info] Disconnect connect.facebook.net:443
+[2019-04-29 15:22:57] [Info] Disconnect www.facebook.com:443
+[2019-04-29 15:24:50] [Info] Disconnect cdn4.buysellads.net:443
+[2019-04-29 15:25:08] [Info] Disconnect clients1.google.com:443
+[2019-04-29 15:25:26] [Info] Disconnect www.google.com:443
+[2019-04-29 15:25:38] [Info] Connect raw.githubusercontent.com:443
+[2019-04-29 15:26:28] [Info] Direct connect badjs.weixinbridge.com:443
+[2019-04-29 15:26:49] [Info] Disconnect www.googleapis.com:443
+[2019-04-29 15:27:20] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-29 15:28:08] [Info] Direct connect badjs.weixinbridge.com:443
+[2019-04-29 15:28:37] [Info] Connect android.clients.google.com:443
+[2019-04-29 15:32:38] [Info] Disconnect android.clients.google.com:443
+[2019-04-29 15:34:53] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-29 15:40:27] [Info] Connect clients4.google.com:443
+[2019-04-29 15:40:27] [Info] Disconnect clients4.google.com:443
+[2019-04-29 15:44:28] [Info] Disconnect clients4.google.com:443
+[2019-04-29 15:47:10] [Info] Connect clients1.google.com:443
+[2019-04-29 16:00:15] [Info] Connect clients4.google.com:443
+[2019-04-29 16:01:24] [Info] Direct connect cmpp.gentags.net:443
+[2019-04-29 16:01:24] [Info] Direct connect cc.xtgreat.com:443
+[2019-04-29 16:04:16] [Info] Disconnect clients4.google.com:443
+[2019-04-29 16:04:24] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-29 16:05:04] [Info] Direct connect updatem.360safe.com:80
+[2019-04-29 16:05:04] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-29 16:05:56] [Info] Direct connect badjs.weixinbridge.com:443
+[2019-04-29 16:07:52] [Info] Connect clients4.google.com:443
+[2019-04-29 16:15:51] [Info] Disconnect clients4.google.com:443
+[2019-04-29 16:16:37] [Info] Connect clients4.google.com:443
+[2019-04-29 16:16:46] [Info] Direct connect badjs.weixinbridge.com:443
+[2019-04-29 16:22:51] [Info] Disconnect clients4.google.com:443
+[2019-04-29 16:22:53] [Info] Connect clients4.google.com:443
+[2019-04-29 16:26:54] [Info] Disconnect clients4.google.com:443
+[2019-04-29 16:27:59] [Info] Connect clients4.google.com:443
+[2019-04-29 16:32:00] [Info] Disconnect clients4.google.com:443
+[2019-04-29 16:34:33] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-29 16:38:40] [Info] Connect clients4.google.com:443
+[2019-04-29 16:42:41] [Info] Disconnect clients4.google.com:443
+[2019-04-29 17:00:14] [Info] Connect clients4.google.com:443
+[2019-04-29 17:04:15] [Info] Disconnect clients4.google.com:443
+[2019-04-29 17:04:48] [Info] Connect clients2.google.com:443
+[2019-04-29 17:04:50] [Info] Connect clients2.googleusercontent.com:443
+[2019-04-29 17:04:54] [Info] Connect clients4.google.com:443
+[2019-04-29 17:04:56] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-29 17:06:07] [Info] Direct connect updatem.360safe.com:80
+[2019-04-29 17:06:07] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-29 17:06:50] [Info] Direct connect update.googleapis.com:443
+[2019-04-29 17:08:50] [Info] Disconnect clients2.google.com:443
+[2019-04-29 17:08:51] [Info] Disconnect clients2.googleusercontent.com:443
+[2019-04-29 17:08:55] [Info] Disconnect clients4.google.com:443
+[2019-04-29 17:20:15] [Info] Connect clients4.google.com:443
+[2019-04-29 17:24:16] [Info] Disconnect clients4.google.com:443
+[2019-04-29 17:25:38] [Info] Connect raw.githubusercontent.com:443
+[2019-04-29 17:27:20] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-29 17:35:07] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-29 17:36:41] [Info] Connect clients4.google.com:443
+[2019-04-29 17:43:24] [Info] Disconnect clients4.google.com:443
+[2019-04-29 17:54:18] [Info] Connect clients4.google.com:443
+[2019-04-29 17:55:53] [Info] Connect www.googleapis.com:443
+[2019-04-29 17:55:55] [Info] Connect lh4.googleusercontent.com:443
+[2019-04-29 17:59:55] [Info] Disconnect www.googleapis.com:443
+[2019-04-29 17:59:57] [Info] Disconnect clients4.google.com:443
+[2019-04-29 17:59:58] [Info] Disconnect lh4.googleusercontent.com:443
+[2019-04-29 18:00:50] [Info] Direct connect clientservices.googleapis.com:443
+[2019-04-29 18:05:16] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-29 18:07:00] [Info] Direct connect updatem.360safe.com:80
+[2019-04-29 18:07:00] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-29 18:16:09] [Info] Connect clients4.google.com:443
+[2019-04-29 18:20:10] [Info] Disconnect clients4.google.com:443
+[2019-04-29 18:33:34] [Info] Connect clients4.google.com:443
+[2019-04-29 18:35:20] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-29 18:37:35] [Info] Disconnect clients4.google.com:443
+[2019-04-29 18:41:38] [Info] Connect clients4.google.com:443
+[2019-04-29 18:45:39] [Info] Disconnect clients4.google.com:443
+[2019-04-29 18:56:54] [Info] Connect clients4.google.com:443
+[2019-04-29 19:00:12] [Info] Disconnect clients4.google.com:443
+[2019-04-29 19:00:12] [Info] Disconnect clients1.google.com:443
+[2019-04-29 19:00:12] [Info] Disconnect pixabay.com:443
+[2019-04-29 19:00:12] [Info] Disconnect cdn.pixabay.com:443
+[2019-04-29 20:30:46] [Error] connect to update server error
+[2019-04-29 20:30:52] ShadowsocksR started on port 1080
+[2019-04-29 20:30:53] [Info] Connect clients4.google.com:443
+[2019-04-29 20:30:54] [Info] Disconnect clients4.google.com:443
+[2019-04-29 20:30:54] [Info] Connect mtalk.google.com:5228
+[2019-04-29 20:30:55] [Info] Disconnect mtalk.google.com:5228
+[2019-04-29 20:30:56] [Info] Connect mtalk.google.com:443
+[2019-04-29 20:30:56] [Info] Connect clients4.google.com:443
+[2019-04-29 20:31:03] [Info] Direct connect updatem.360safe.com:80
+[2019-04-29 20:31:03] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-29 20:31:05] [Info] Connect ocsp.digicert.com:80
+[2019-04-29 20:31:05] [Info] Connect subca.ocsp-certum.com:80
+[2019-04-29 20:31:06] [Info] Connect subca.ocsp-certum.com:80
+[2019-04-29 20:31:06] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-29 20:31:06] [Info] Disconnect subca.ocsp-certum.com:80
+[2019-04-29 20:31:06] [Info] Direct connect wosign-ovca.ocsp-certum.com:80
+[2019-04-29 20:31:06] [Info] Disconnect subca.ocsp-certum.com:80
+[2019-04-29 20:46:42] [Info] Disconnect mtalk.google.com:443
+[2019-04-29 20:46:42] [Info] Connect mtalk.google.com:5228
+[2019-04-29 20:48:42] [Info] Direct connect www.gstatic.com:443
+[2019-04-29 20:50:43] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-29 21:00:05] [Info] Direct connect update.360safe.com:80
+[2019-04-29 21:00:05] [Info] Direct connect ini.update.360safe.com:80
+[2019-04-29 21:00:15] [Info] Direct connect softm.update.360safe.com:80
+[2019-04-29 21:02:12] [Info] Disconnect mtalk.google.com:5228
+[2019-04-29 21:02:12] [Info] Connect mtalk.google.com:5228
+[2019-04-29 21:05:51] [Info] Connect www.googleapis.com:443
+[2019-04-29 21:09:33] [Info] Connect clients4.google.com:443
+[2019-04-29 21:09:33] [Info] Disconnect clients4.google.com:443
+[2019-04-29 21:09:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-29 21:09:40] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-04-29 21:09:40] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-04-29 21:09:41] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-04-29 21:09:41] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-29 21:09:41] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-29 21:09:41] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-29 21:09:42] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-29 21:09:42] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-29 21:09:42] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-29 21:09:43] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-29 21:09:44] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-29 21:09:45] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-29 21:09:45] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-29 21:09:47] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-29 21:09:50] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-04-29 21:09:52] [Info] Disconnect www.googleapis.com:443
+[2019-04-29 21:09:56] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-29 21:10:05] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-04-29 21:15:54] [Info] Disconnect clients4.google.com:443
+[2019-04-29 21:17:43] [Info] Disconnect mtalk.google.com:5228
+[2019-04-29 21:17:43] [Info] Connect mtalk.google.com:5228
+[2019-04-29 21:20:58] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-29 21:28:37] [Info] Connect clients4.google.com:443
+[2019-04-29 21:32:06] [Info] Direct connect updatem.360safe.com:80
+[2019-04-29 21:32:06] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-29 21:32:38] [Info] Disconnect clients4.google.com:443
+[2019-04-29 21:33:13] [Info] Disconnect mtalk.google.com:5228
+[2019-04-29 21:33:13] [Info] Connect mtalk.google.com:5228
+[2019-04-29 21:41:47] [Info] Connect clients4.google.com:443
+[2019-04-29 21:45:48] [Info] Disconnect clients4.google.com:443
+[2019-04-29 21:48:43] [Info] Disconnect mtalk.google.com:5228
+[2019-04-29 21:48:43] [Info] Connect mtalk.google.com:5228
+[2019-04-29 21:50:43] [Info] Connect clients4.google.com:443
+[2019-04-29 21:51:00] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-29 21:54:44] [Info] Disconnect clients4.google.com:443
+[2019-04-29 22:04:13] [Info] Disconnect mtalk.google.com:5228
+[2019-04-29 22:04:13] [Info] Connect mtalk.google.com:5228
+[2019-04-29 22:06:50] [Info] Direct connect update.googleapis.com:443
+[2019-04-29 22:06:51] [Info] Connect storage.googleapis.com:80
+[2019-04-29 22:06:52] [Info] Disconnect storage.googleapis.com:80
+[2019-04-29 22:07:13] [Info] Connect storage.googleapis.com:80
+[2019-04-29 22:07:13] [Info] Disconnect storage.googleapis.com:80
+[2019-04-29 22:07:15] [Info] Connect storage.googleapis.com:80
+[2019-04-29 22:07:16] [Info] Disconnect storage.googleapis.com:80
+[2019-04-29 22:07:22] [Info] Connect storage.googleapis.com:80
+[2019-04-29 22:07:22] [Info] Disconnect storage.googleapis.com:80
+[2019-04-29 22:07:26] [Info] Connect storage.googleapis.com:80
+[2019-04-29 22:07:27] [Info] Disconnect storage.googleapis.com:80
+[2019-04-29 22:07:30] [Info] Connect storage.googleapis.com:80
+[2019-04-29 22:07:30] [Info] Disconnect storage.googleapis.com:80
+[2019-04-29 22:09:03] [Info] Direct connect mini.flash.2144.com:80
+[2019-04-29 22:09:03] [Info] Direct connect mini.flash.2144.com:80
+[2019-04-29 22:09:03] [Info] Direct connect mini.flash.2144.com:80
+[2019-04-29 22:09:03] [Info] Connect ocsp.digicert.com:80
+[2019-04-29 22:09:04] [Info] Connect ocsp2.digicert.com:80
+[2019-04-29 22:09:06] [Info] Disconnect ocsp.digicert.com:80
+[2019-04-29 22:09:07] [Info] Disconnect ocsp2.digicert.com:80
+[2019-04-29 22:09:07] [Info] Direct connect mini.flash.2144.com:80
+[2019-04-29 22:09:07] [Info] Direct connect mini.flash.2144.com:80
+[2019-04-29 22:09:07] [Info] Direct connect mini.flash.2144.com:80
+[2019-04-29 22:10:51] [Info] Connect clients4.google.com:443
+[2019-04-29 22:11:44] [Info] Connect clients2.google.com:443
+[2019-04-29 22:14:53] [Info] Disconnect clients4.google.com:443
+[2019-04-29 22:15:45] [Info] Disconnect clients2.google.com:443
+[2019-04-29 22:19:07] [Info] Connect www.google.com:443
+[2019-04-29 22:19:07] [Info] Connect www.google.com:443
+[2019-04-29 22:19:08] [Info] Direct connect ss1.bdstatic.com:443
+[2019-04-29 22:19:09] [Info] Connect t0.gstatic.com:443
+[2019-04-29 22:19:09] [Info] Connect t0.gstatic.com:443
+[2019-04-29 22:19:09] [Info] Connect t0.gstatic.com:443
+[2019-04-29 22:19:10] [Info] Connect clients4.google.com:443
+[2019-04-29 22:19:10] [Info] Disconnect t0.gstatic.com:443
+[2019-04-29 22:19:31] [Info] Disconnect t0.gstatic.com:443
+[2019-04-29 22:19:32] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-04-29 22:19:32] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-04-29 22:19:32] [Info] Direct connect ss0.bdstatic.com:443
+[2019-04-29 22:19:32] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-04-29 22:19:33] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-04-29 22:19:44] [Info] Disconnect mtalk.google.com:5228
+[2019-04-29 22:19:44] [Info] Connect mtalk.google.com:5228
+[2019-04-29 22:20:40] [Info] Direct connect www.googletagservices.com:443
+[2019-04-29 22:20:41] [Info] Connect adservice.google.ru:443
+[2019-04-29 22:20:41] [Info] Direct connect adservice.google.com:443
+[2019-04-29 22:20:42] [Info] Direct connect cdn.ampproject.org:443
+[2019-04-29 22:20:55] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-29 22:23:08] [Info] Disconnect www.google.com:443
+[2019-04-29 22:23:11] [Info] Disconnect t0.gstatic.com:443
+[2019-04-29 22:24:42] [Info] Disconnect www.google.com:443
+[2019-04-29 22:24:43] [Info] Disconnect adservice.google.ru:443
+[2019-04-29 22:30:43] [Info] Connect raw.githubusercontent.com:443
+[2019-04-29 22:32:27] [Info] Disconnect raw.githubusercontent.com:443
+[2019-04-29 22:32:51] [Info] Connect clients4.google.com:443
+[2019-04-29 22:32:52] [Info] Disconnect clients4.google.com:443
+[2019-04-29 22:33:09] [Info] Direct connect updatem.360safe.com:80
+[2019-04-29 22:33:09] [Info] Direct connect src.dl.360safe.com:80
+[2019-04-29 22:35:54] [Info] Connect mtalk.google.com:5228
+[2019-04-29 22:35:54] [Info] Disconnect mtalk.google.com:5228
+[2019-04-29 22:36:53] [Info] Disconnect clients4.google.com:443
+[2019-04-29 22:49:03] [Info] Connect clients4.google.com:443
+[2019-04-29 22:50:46] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-04-29 22:51:41] [Info] Disconnect mtalk.google.com:5228
+[2019-04-29 22:51:41] [Info] Connect mtalk.google.com:5228
+[2019-04-29 22:51:46] [Info] Connect mtalk.google.com:5228
+[2019-04-29 22:53:34] [Info] Disconnect clients4.google.com:443
+[2019-04-29 23:07:17] [Info] Disconnect mtalk.google.com:5228
+[2019-04-29 23:07:17] [Info] Connect mtalk.google.com:5228
+[2019-04-29 23:08:45] [Info] Connect clients4.google.com:443
+[2019-04-29 23:12:46] [Info] Disconnect clients4.google.com:443
+[2019-04-29 23:13:00] [Info] Connect www.google.com:443
+[2019-04-29 23:13:00] [Info] Connect www.google.com:443
+[2019-04-29 23:13:00] [Info] Connect s2.googleusercontent.com:443
+[2019-04-29 23:13:00] [Info] Connect s2.googleusercontent.com:443
+[2019-04-29 23:13:00] [Info] Connect s2.googleusercontent.com:443
+[2019-04-29 23:13:01] [Info] Disconnect s2.googleusercontent.com:443
+[2019-04-29 23:13:01] [Info] Connect lh3.googleusercontent.com:443
+[2019-04-29 23:13:03] [Info] Connect clients4.google.com:443
+[2019-04-29 23:13:20] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-04-29 23:13:21] [Info] Disconnect s2.googleusercontent.com:443
+[2019-04-29 23:13:24] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-04-29 23:13:24] [Info] Direct connect s1.shucaixiaoshuo.com:443
+[2019-04-29 23:13:24] [Info] Direct connect adservice.google.com:443
+[2019-04-29 23:13:24] [Info] Direct connect shared.ydstatic.com:443
+[2019-04-29 23:13:24] [Info] Direct connect s3m.milkjpg.com:443
+[2019-04-29 23:13:24] [Info] Direct connect gh.bdstatic.com:443
+[2019-04-29 23:13:25] [Info] Direct connect www.googletagservices.com:443
+[2019-04-29 23:13:25] [Info] Direct connect jx.cdn.qhstatic.com:443
+[2019-04-29 23:13:25] [Info] Direct connect jx.cdn.qhstatic.com:443
+[2019-04-29 23:13:25] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-04-29 23:13:25] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-04-29 23:13:25] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-04-29 23:14:38] [Info] Disconnect mtalk.google.com:5228
+[2019-04-29 23:14:38] [Info] Disconnect www.google.com:443
+[2019-04-29 23:14:38] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-04-29 23:14:38] [Info] Disconnect www.google.com:443
+[2019-04-29 23:14:38] [Info] Disconnect s2.googleusercontent.com:443
+[2019-04-29 23:14:38] [Info] Disconnect clients4.google.com:443
+[2019-04-29 23:34:02] [Info] Direct connect updatem.360safe.com:80
+[2019-04-29 23:34:02] [Info] Direct connect src.dl.360safe.com:80

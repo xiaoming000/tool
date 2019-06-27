@@ -1,0 +1,58 @@
+{
+	"configs" : [
+		{
+			"remarks" : "",
+			"id" : "D62CFE7B6686ED8D96B10D448FD0D6B0",
+			"server" : "139.180.138.124",
+			"server_port" : 20709,
+			"server_udp_port" : 0,
+			"password" : "SHADOW1*3*socks",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "FreeSSR-public",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : false,
+	"sysProxyMode" : 2,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "gTAAb3aP2YwabsYPWi1S",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"balanceAlgorithm" : "LowException",
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}

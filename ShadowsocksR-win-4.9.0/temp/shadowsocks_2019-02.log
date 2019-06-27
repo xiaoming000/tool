@@ -1,0 +1,1824 @@
+[2019-02-18 13:50:59] ShadowsocksR started on port 1080
+[2019-02-18 13:51:02] [Info] Direct connect updatem.360safe.com:80
+[2019-02-18 13:51:03] [Info] Direct connect src.dl.360safe.com:80
+[2019-02-18 13:51:09] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:51:12] [Info] Connect android.clients.google.com:443
+[2019-02-18 13:51:15] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:51:18] [Info] Connect android.clients.google.com:443
+[2019-02-18 13:51:20] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:51:22] [Info] Connect www.google.com:443
+[2019-02-18 13:51:23] [Info] Connect android.clients.google.com:443
+[2019-02-18 13:51:23] [Info] Connect www.google.com:443
+[2019-02-18 13:51:23] [Info] Connect www.google.com:443
+[2019-02-18 13:51:23] [Info] Connect www.google.com:443
+[2019-02-18 13:51:24] [Info] Connect www.google.com:443
+[2019-02-18 13:51:25] [Info] Connect www.google.com:443
+[2019-02-18 13:51:26] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-18 13:51:26] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:51:28] [Info] Connect www.google.com:443
+[2019-02-18 13:51:28] [Info] Disconnect android.clients.google.com:443
+[2019-02-18 13:51:28] [Info] Connect www.google.com:443
+[2019-02-18 13:51:28] [Info] Connect www.google.com:443
+[2019-02-18 13:51:28] [Info] Connect www.google.com:443
+[2019-02-18 13:51:29] [Info] Connect www.google.com:443
+[2019-02-18 13:51:30] [Info] Connect www.google.com:443
+[2019-02-18 13:51:31] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:51:33] [Info] Connect www.google.com:443
+[2019-02-18 13:51:33] [Info] Connect www.google.com:443
+[2019-02-18 13:51:33] [Info] Connect www.google.com:443
+[2019-02-18 13:51:34] [Info] Connect www.google.com:443
+[2019-02-18 13:51:34] [Info] Connect www.google.com:443
+[2019-02-18 13:51:35] [Info] Connect www.google.com:443
+[2019-02-18 13:51:36] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:51:38] [Info] Disconnect www.google.com:443
+[2019-02-18 13:51:38] [Info] Connect www.google.com:443
+[2019-02-18 13:51:39] [Info] Disconnect www.google.com:443
+[2019-02-18 13:51:39] [Info] Connect www.google.com:443
+[2019-02-18 13:51:39] [Info] Disconnect www.google.com:443
+[2019-02-18 13:51:39] [Info] Connect www.google.com:443
+[2019-02-18 13:51:39] [Info] Disconnect www.google.com:443
+[2019-02-18 13:51:39] [Info] Connect www.google.com:443
+[2019-02-18 13:51:40] [Info] Disconnect www.google.com:443
+[2019-02-18 13:51:40] [Info] Connect www.google.com:443
+[2019-02-18 13:51:40] [Info] Disconnect www.google.com:443
+[2019-02-18 13:51:40] [Info] Connect www.google.com:443
+[2019-02-18 13:51:41] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-18 13:51:41] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:51:43] [Info] Connect www.google.com:443
+[2019-02-18 13:51:43] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:51:43] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:51:44] [Info] Connect www.google.com:443
+[2019-02-18 13:51:44] [Info] Connect www.google.com:443
+[2019-02-18 13:51:44] [Info] Connect www.google.com:443
+[2019-02-18 13:51:45] [Info] Connect www.google.com:443
+[2019-02-18 13:51:46] [Info] Connect www.google.com:443
+[2019-02-18 13:51:46] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:51:48] [Info] Connect www.google.com:443
+[2019-02-18 13:51:49] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:51:49] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:51:49] [Info] Connect www.google.com:443
+[2019-02-18 13:51:49] [Info] Connect www.google.com:443
+[2019-02-18 13:51:50] [Info] Connect www.google.com:443
+[2019-02-18 13:51:50] [Info] Connect www.google.com:443
+[2019-02-18 13:51:50] [Info] Connect android.clients.google.com:443
+[2019-02-18 13:51:51] [Info] Connect www.google.com:443
+[2019-02-18 13:51:52] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:51:54] [Info] Disconnect www.google.com:443
+[2019-02-18 13:51:54] [Info] Connect www.google.com:443
+[2019-02-18 13:51:54] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:51:54] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:51:54] [Info] Disconnect www.google.com:443
+[2019-02-18 13:51:54] [Info] Connect www.google.com:443
+[2019-02-18 13:51:54] [Info] Disconnect www.google.com:443
+[2019-02-18 13:51:55] [Info] Disconnect www.google.com:443
+[2019-02-18 13:51:55] [Info] Disconnect www.google.com:443
+[2019-02-18 13:51:56] [Info] Connect android.clients.google.com:443
+[2019-02-18 13:51:56] [Info] Disconnect www.google.com:443
+[2019-02-18 13:51:57] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-18 13:51:57] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:51:59] [Info] Connect www.google.com:443
+[2019-02-18 13:51:59] [Info] Disconnect www.socks2u.net:443
+[2019-02-18 13:51:59] [Info] Disconnect www.socks2u.net:443
+[2019-02-18 13:51:59] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:51:59] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:51:59] [Info] Connect www.google.com:443
+[2019-02-18 13:52:01] [Info] Connect android.clients.google.com:443
+[2019-02-18 13:52:02] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:52:04] [Info] Connect www.google.com:443
+[2019-02-18 13:52:04] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:52:04] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:52:05] [Info] Connect www.google.com:443
+[2019-02-18 13:52:06] [Info] Disconnect android.clients.google.com:443
+[2019-02-18 13:52:07] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:52:09] [Info] Disconnect www.google.com:443
+[2019-02-18 13:52:09] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:52:09] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:52:10] [Info] Disconnect www.google.com:443
+[2019-02-18 13:52:12] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-18 13:52:12] [Error] connect to update server error
+[2019-02-18 13:52:15] [Info] Disconnect www.socks2u.net:443
+[2019-02-18 13:52:15] [Info] Disconnect www.socks2u.net:443
+[2019-02-18 13:52:20] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:52:20] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:52:25] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:52:25] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:52:30] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:52:30] [Info] Connect www.socks2u.net:443
+[2019-02-18 13:52:35] [Info] Disconnect www.socks2u.net:443
+[2019-02-18 13:52:35] [Info] Disconnect www.socks2u.net:443
+[2019-02-18 13:54:25] ShadowsocksR started on port 1080
+[2019-02-18 13:54:29] [Info] Connect clients1.google.com:443
+[2019-02-18 13:54:34] [Info] Connect clients1.google.com:443
+[2019-02-18 13:54:34] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:54:39] [Info] Connect clients1.google.com:443
+[2019-02-18 13:54:40] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:54:45] [Info] Disconnect clients1.google.com:443
+[2019-02-18 13:54:45] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:54:47] [Info] Connect clients1.google.com:443
+[2019-02-18 13:54:50] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-18 13:54:50] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:54:52] [Info] Connect clients1.google.com:443
+[2019-02-18 13:54:55] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:54:57] [Info] Connect clients1.google.com:443
+[2019-02-18 13:55:00] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:55:02] [Info] Disconnect clients1.google.com:443
+[2019-02-18 13:55:06] [Info] Connect clients1.google.com:443
+[2019-02-18 13:55:06] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-18 13:55:06] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:55:11] [Info] Connect clients1.google.com:443
+[2019-02-18 13:55:11] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:55:16] [Info] Connect clients1.google.com:443
+[2019-02-18 13:55:16] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:55:21] [Info] Disconnect clients1.google.com:443
+[2019-02-18 13:55:21] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-18 13:55:21] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:55:26] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:55:28] [Info] Connect clients1.google.com:443
+[2019-02-18 13:55:32] [Info] Connect raw.githubusercontent.com:443
+[2019-02-18 13:55:33] [Info] Connect clients1.google.com:443
+[2019-02-18 13:55:37] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-18 13:55:37] [Error] connect to update server error
+[2019-02-18 13:55:37] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-18 13:55:37] [Info] Connect clients1.google.com:443
+[2019-02-18 13:55:42] [Info] Connect www.google.com:443
+[2019-02-18 13:55:43] [Info] Direct connect www.gstatic.com:443
+[2019-02-18 13:55:43] [Info] Direct connect ssl.gstatic.com:443
+[2019-02-18 13:55:43] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-18 13:55:43] [Info] Connect id.google.com:443
+[2019-02-18 13:55:43] [Info] Connect apis.google.com:443
+[2019-02-18 13:55:43] [Info] Connect clients5.google.com:443
+[2019-02-18 13:55:43] [Info] Connect ogs.google.com:443
+[2019-02-18 13:55:44] [Info] Direct connect adservice.google.com:443
+[2019-02-18 13:55:45] [Info] Connect accounts.google.com:443
+[2019-02-18 13:55:49] [Info] Connect notifications.google.com:443
+[2019-02-18 13:55:53] [Info] Connect play.google.com:443
+[2019-02-18 13:56:06] [Info] Connect android.clients.google.com:443
+[2019-02-18 13:56:07] [Info] Connect www.googleapis.com:443
+[2019-02-18 13:56:08] [Info] Connect chrome.google.com:443
+[2019-02-18 13:56:08] [Info] Connect chrome.google.com:443
+[2019-02-18 13:56:08] [Info] Connect clients4.google.com:443
+[2019-02-18 13:56:08] [Info] Disconnect chrome.google.com:443
+[2019-02-18 13:56:11] [Info] Direct connect fonts.gstatic.com:443
+[2019-02-18 13:56:21] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-18 13:56:25] [Info] Connect www.googleapis.com:443
+[2019-02-18 13:56:25] [Info] Connect clients2.google.com:443
+[2019-02-18 13:56:25] [Info] Connect clients2.googleusercontent.com:443
+[2019-02-18 13:56:27] [Info] Connect sb-ssl.google.com:443
+[2019-02-24 08:06:31] ShadowsocksR started on port 1080
+[2019-02-24 08:06:32] [Info] Connect clients4.google.com:443
+[2019-02-24 08:06:38] [Info] Connect raw.githubusercontent.com:443
+[2019-02-24 08:06:42] [Info] Connect www.pornhub.com:80
+[2019-02-24 08:06:42] [Info] Connect www.pornhub.com:443
+[2019-02-24 08:06:42] [Info] Disconnect www.pornhub.com:80
+[2019-02-24 08:06:44] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:06:44] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:06:44] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:06:44] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:06:45] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:06:45] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:06:45] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:06:45] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:06:45] [Info] Connect hubt.pornhub.com:443
+[2019-02-24 08:06:45] [Info] Connect cdn.doublepimpssl.com:443
+[2019-02-24 08:06:45] [Info] Direct connect fonts.googleapis.com:443
+[2019-02-24 08:06:45] [Info] Connect media.trafficjunky.net:443
+[2019-02-24 08:06:45] [Info] Direct connect fonts.gstatic.com:443
+[2019-02-24 08:06:45] [Info] Connect ci.phncdn.com:443
+[2019-02-24 08:06:46] [Info] Connect ci.phncdn.com:443
+[2019-02-24 08:06:46] [Info] Direct connect fonts.googleapis.com:443
+[2019-02-24 08:06:46] [Info] Connect ads.trafficjunky.net:443
+[2019-02-24 08:06:46] [Info] Connect cdn1.smallimg.phcdn.com:443
+[2019-02-24 08:06:46] [Info] Connect ci.phncdn.com:443
+[2019-02-24 08:06:46] [Info] Connect ci.phncdn.com:443
+[2019-02-24 08:06:46] [Info] Connect ci.phncdn.com:443
+[2019-02-24 08:06:46] [Info] Connect ci.phncdn.com:443
+[2019-02-24 08:06:47] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:06:47] [Info] Connect a.adtng.com:443
+[2019-02-24 08:06:47] [Info] Connect www.pornhub.com:443
+[2019-02-24 08:06:47] [Info] Connect www.pornhub.com:443
+[2019-02-24 08:06:47] [Info] Connect clients1.google.com:443
+[2019-02-24 08:06:48] [Info] Connect doublepimpssl.com:443
+[2019-02-24 08:06:48] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-02-24 08:06:48] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-02-24 08:06:48] [Info] Connect vz-cdn.trafficjunky.net:443
+[2019-02-24 08:06:48] [Info] Connect ads.trafficjunky.net:443
+[2019-02-24 08:06:48] [Info] Disconnect ads.trafficjunky.net:443
+[2019-02-24 08:06:48] [Info] Connect vz-cdn.trafficjunky.net:443
+[2019-02-24 08:06:48] [Info] Connect vz-cdn.trafficjunky.net:443
+[2019-02-24 08:06:48] [Info] Disconnect a.adtng.com:443
+[2019-02-24 08:06:48] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:06:48] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:06:49] [Info] Disconnect vz-cdn.trafficjunky.net:443
+[2019-02-24 08:06:49] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-02-24 08:06:50] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:06:50] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:06:50] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:06:50] [Info] Disconnect ads.trafficjunky.net:443
+[2019-02-24 08:06:51] [Info] Connect cv.phncdn.com:443
+[2019-02-24 08:06:51] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:06:51] [Info] Connect cdn1-smallimg.phncdn.com:443
+[2019-02-24 08:06:51] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:06:54] [Info] Disconnect www.pornhub.com:443
+[2019-02-24 08:06:54] [Info] Disconnect www.pornhub.com:443
+[2019-02-24 08:06:55] [Info] Disconnect cdn1-smallimg.phncdn.com:443
+[2019-02-24 08:06:58] [Info] Disconnect media.trafficjunky.net:443
+[2019-02-24 08:07:00] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-02-24 08:07:01] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:07:01] [Info] Disconnect hubt.pornhub.com:443
+[2019-02-24 08:07:01] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:07:02] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:02] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:02] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:02] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:02] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:02] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:06] [Info] Disconnect www.pornhub.com:443
+[2019-02-24 08:07:06] [Info] Disconnect ci.phncdn.com:443
+[2019-02-24 08:07:06] [Info] Disconnect ci.phncdn.com:443
+[2019-02-24 08:07:06] [Info] Disconnect ci.phncdn.com:443
+[2019-02-24 08:07:07] [Info] Disconnect ci.phncdn.com:443
+[2019-02-24 08:07:09] [Info] Disconnect vz-cdn.trafficjunky.net:443
+[2019-02-24 08:07:12] [Info] Connect www.pornhub.com:443
+[2019-02-24 08:07:12] [Info] Disconnect ci.phncdn.com:443
+[2019-02-24 08:07:16] [Info] Disconnect cdn1.smallimg.phcdn.com:443
+[2019-02-24 08:07:17] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:07:17] [Info] Connect media.trafficjunky.net:443
+[2019-02-24 08:07:17] [Info] Connect hubt.pornhub.com:443
+[2019-02-24 08:07:17] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:07:17] [Info] Connect www.pornhub.com:443
+[2019-02-24 08:07:17] [Info] Connect cdn1.smallimg.phcdn.com:443
+[2019-02-24 08:07:17] [Info] Direct connect fonts.googleapis.com:443
+[2019-02-24 08:07:17] [Info] Connect ads.trafficjunky.net:443
+[2019-02-24 08:07:18] [Info] Direct connect fonts.gstatic.com:443
+[2019-02-24 08:07:18] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:07:18] [Info] Connect a.adtng.com:443
+[2019-02-24 08:07:19] [Info] Connect www.pornhub.com:443
+[2019-02-24 08:07:19] [Info] Connect hw-cdn.trafficjunky.net:443
+[2019-02-24 08:07:19] [Info] Connect hw-cdn.trafficjunky.net:443
+[2019-02-24 08:07:19] [Info] Connect hw-cdn.trafficjunky.net:443
+[2019-02-24 08:07:20] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-02-24 08:07:20] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-02-24 08:07:21] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-02-24 08:07:22] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:07:22] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:07:22] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:07:22] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:07:22] [Info] Connect m2.nsimg.net:443
+[2019-02-24 08:07:22] [Info] Connect m2.nsimg.net:443
+[2019-02-24 08:07:22] [Info] Connect m1.nsimg.net:443
+[2019-02-24 08:07:22] [Info] Disconnect a.adtng.com:443
+[2019-02-24 08:07:22] [Info] Connect m1.nsimg.net:443
+[2019-02-24 08:07:22] [Info] Disconnect ads.trafficjunky.net:443
+[2019-02-24 08:07:22] [Info] Connect ew.phncdn.com:443
+[2019-02-24 08:07:23] [Info] Disconnect www.pornhub.com:443
+[2019-02-24 08:07:23] [Info] Connect ads.trafficjunky.net:443
+[2019-02-24 08:07:23] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:23] [Info] Connect cdn.mxpnl.com:443
+[2019-02-24 08:07:23] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:24] [Info] Connect ads.trafficjunky.net:443
+[2019-02-24 08:07:24] [Info] Connect ads.trafficjunky.net:443
+[2019-02-24 08:07:24] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:07:24] [Info] Connect ads.trafficjunky.net:443
+[2019-02-24 08:07:24] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:24] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:24] [Info] Connect ads.trafficjunky.net:443
+[2019-02-24 08:07:24] [Info] Connect www.3dgamepromo.com:443
+[2019-02-24 08:07:24] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:24] [Info] Connect www.3dgamepromo.com:443
+[2019-02-24 08:07:24] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:25] [Info] Connect api.mixpanel.com:443
+[2019-02-24 08:07:25] [Info] Disconnect ew.phncdn.com:443
+[2019-02-24 08:07:25] [Info] Connect api.mixpanel.com:443
+[2019-02-24 08:07:25] [Info] Disconnect hubt.pornhub.com:443
+[2019-02-24 08:07:25] [Info] Disconnect hw-cdn.trafficjunky.net:443
+[2019-02-24 08:07:25] [Info] Disconnect www.3dgamepromo.com:443
+[2019-02-24 08:07:25] [Info] Connect x4i6u4n6.ssl.hwcdn.net:443
+[2019-02-24 08:07:25] [Info] Connect x4i6u4n6.ssl.hwcdn.net:443
+[2019-02-24 08:07:25] [Info] Connect offaces-butional.com:443
+[2019-02-24 08:07:25] [Info] Disconnect ads.trafficjunky.net:443
+[2019-02-24 08:07:25] [Info] Disconnect ads.trafficjunky.net:443
+[2019-02-24 08:07:25] [Info] Disconnect ads.trafficjunky.net:443
+[2019-02-24 08:07:25] [Info] Disconnect ads.trafficjunky.net:443
+[2019-02-24 08:07:25] [Info] Connect x4i6u4n6.ssl.hwcdn.net:443
+[2019-02-24 08:07:25] [Info] Connect offaces-butional.com:443
+[2019-02-24 08:07:25] [Info] Connect vz-cdn2.contentabc.com:443
+[2019-02-24 08:07:26] [Info] Disconnect ads.trafficjunky.net:443
+[2019-02-24 08:07:26] [Info] Connect vz-cdn2.contentabc.com:443
+[2019-02-24 08:07:26] [Info] Connect www.pornhub.com:443
+[2019-02-24 08:07:26] [Info] Disconnect api.mixpanel.com:443
+[2019-02-24 08:07:26] [Info] Connect www.pornhub.com:443
+[2019-02-24 08:07:26] [Info] Disconnect www.pornhub.com:443
+[2019-02-24 08:07:26] [Info] Disconnect vz-cdn2.contentabc.com:443
+[2019-02-24 08:07:27] [Info] Disconnect media.trafficjunky.net:443
+[2019-02-24 08:07:28] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:07:28] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:07:28] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:07:28] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:07:28] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:07:28] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:07:28] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:07:29] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:07:29] [Info] Disconnect hw-cdn.trafficjunky.net:443
+[2019-02-24 08:07:29] [Info] Disconnect hw-cdn.trafficjunky.net:443
+[2019-02-24 08:07:29] [Info] Connect di.phncdn.com:443
+[2019-02-24 08:07:29] [Info] Connect services.pornhub.com:443
+[2019-02-24 08:07:29] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-02-24 08:07:29] [Info] Disconnect m1.nsimg.net:443
+[2019-02-24 08:07:31] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-24 08:07:33] [Info] Disconnect www.pornhub.com:443
+[2019-02-24 08:07:33] [Debug] DNS query fail: p.purple6401.com
+[2019-02-24 08:07:33] [Info] Connect p.purple6401.com:443
+[2019-02-24 08:07:33] [Info] Disconnect www.pornhub.com:443
+[2019-02-24 08:07:33] [Info] Disconnect p.purple6401.com:443
+[2019-02-24 08:07:35] [Info] Disconnect x4i6u4n6.ssl.hwcdn.net:443
+[2019-02-24 08:07:36] [Info] Disconnect x4i6u4n6.ssl.hwcdn.net:443
+[2019-02-24 08:07:36] [Info] Disconnect offaces-butional.com:443
+[2019-02-24 08:07:36] [Info] Disconnect offaces-butional.com:443
+[2019-02-24 08:07:36] [Info] Disconnect x4i6u4n6.ssl.hwcdn.net:443
+[2019-02-24 08:07:37] [Info] Connect offaces-butional.com:443
+[2019-02-24 08:07:37] [Info] Connect offaces-butional.com:443
+[2019-02-24 08:07:38] [Info] Connect mediagameland.com:80
+[2019-02-24 08:07:38] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:39] [Info] Connect mediagameland.com:80
+[2019-02-24 08:07:39] [Info] Connect mediagameland.com:80
+[2019-02-24 08:07:39] [Info] Connect mediagameland.com:80
+[2019-02-24 08:07:39] [Info] Disconnect mediagameland.com:80
+[2019-02-24 08:07:39] [Info] Connect cdn.onesignal.com:443
+[2019-02-24 08:07:39] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:39] [Info] Connect mediagameland.com:80
+[2019-02-24 08:07:39] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:39] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:39] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:39] [Info] Disconnect mediagameland.com:80
+[2019-02-24 08:07:39] [Info] Disconnect mediagameland.com:80
+[2019-02-24 08:07:39] [Info] Disconnect di.phncdn.com:443
+[2019-02-24 08:07:39] [Info] Connect mediagameland.com:80
+[2019-02-24 08:07:40] [Info] Disconnect mediagameland.com:80
+[2019-02-24 08:07:40] [Info] Connect onesignal.com:443
+[2019-02-24 08:07:41] [Info] Disconnect www.pornhub.com:443
+[2019-02-24 08:07:41] [Info] Disconnect mediagameland.com:80
+[2019-02-24 08:07:41] [Info] Connect mediagameland.com:80
+[2019-02-24 08:07:42] [Info] Disconnect mediagameland.com:80
+[2019-02-24 08:07:42] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-02-24 08:07:47] [Info] Connect www.google.com:443
+[2019-02-24 08:07:47] [Info] Disconnect offaces-butional.com:443
+[2019-02-24 08:07:48] [Info] Disconnect cdn1.smallimg.phcdn.com:443
+[2019-02-24 08:07:49] [Info] Disconnect offaces-butional.com:443
+[2019-02-24 08:07:50] [Info] Connect offaces-butional.com:80
+[2019-02-24 08:07:51] [Info] Disconnect offaces-butional.com:80
+[2019-02-24 08:07:52] [Info] Connect vrfuckdolls.com:443
+[2019-02-24 08:07:52] [Info] Connect code.jquery.com:443
+[2019-02-24 08:07:53] [Info] Disconnect mediagameland.com:80
+[2019-02-24 08:07:53] [Info] Connect country.yepshare.com:443
+[2019-02-24 08:07:55] [Info] Connect secureldrpath.com:443
+[2019-02-24 08:07:58] [Info] Connect join.joinourwebsite.com:443
+[2019-02-24 08:07:59] [Info] Connect join.joinourwebsite.com:443
+[2019-02-24 08:07:59] [Info] Connect join.joinourwebsite.com:443
+[2019-02-24 08:07:59] [Info] Connect join.joinourwebsite.com:443
+[2019-02-24 08:07:59] [Info] Connect join.joinourwebsite.com:443
+[2019-02-24 08:07:59] [Info] Connect join.joinourwebsite.com:443
+[2019-02-24 08:07:59] [Info] Direct connect fonts.gstatic.com:443
+[2019-02-24 08:08:03] [Info] Disconnect code.jquery.com:443
+[2019-02-24 08:08:09] [Info] Disconnect join.joinourwebsite.com:443
+[2019-02-24 08:08:09] [Info] Disconnect join.joinourwebsite.com:443
+[2019-02-24 08:08:09] [Info] Disconnect join.joinourwebsite.com:443
+[2019-02-24 08:08:12] [Info] Disconnect join.joinourwebsite.com:443
+[2019-02-24 08:08:12] [Info] Disconnect join.joinourwebsite.com:443
+[2019-02-24 08:08:12] [Info] Disconnect join.joinourwebsite.com:443
+[2019-02-24 08:08:19] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-24 08:08:34] [Info] Disconnect m2.nsimg.net:443
+[2019-02-24 08:08:34] [Info] Disconnect m1.nsimg.net:443
+[2019-02-24 08:08:34] [Info] Disconnect m2.nsimg.net:443
+[2019-02-24 08:09:20] [Info] Disconnect cdn.doublepimpssl.com:443
+[2019-02-24 08:09:25] [Info] Disconnect cdn.mxpnl.com:443
+[2019-02-24 08:09:27] [Info] Disconnect vz-cdn.trafficjunky.net:443
+[2019-02-24 08:09:27] [Info] Disconnect doublepimpssl.com:443
+[2019-02-24 08:09:27] [Info] Disconnect api.mixpanel.com:443
+[2019-02-24 08:09:27] [Info] Disconnect www.3dgamepromo.com:443
+[2019-02-24 08:09:29] [Info] Disconnect vz-cdn2.contentabc.com:443
+[2019-02-24 08:09:41] [Info] Disconnect onesignal.com:443
+[2019-02-24 08:09:41] [Info] Disconnect cdn.onesignal.com:443
+[2019-02-24 08:09:50] [Info] Disconnect www.google.com:443
+[2019-02-24 08:09:55] [Info] Disconnect country.yepshare.com:443
+[2019-02-24 08:09:57] [Info] Disconnect secureldrpath.com:443
+[2019-02-24 08:10:01] [Info] Disconnect vrfuckdolls.com:443
+[2019-02-24 08:10:01] [Info] Disconnect clients1.google.com:443
+[2019-02-24 08:10:49] [Info] Connect www.googleapis.com:443
+[2019-02-24 08:10:50] [Info] Connect android.clients.google.com:443
+[2019-02-24 08:10:53] [Info] Disconnect ci.phncdn.com:443
+[2019-02-24 08:11:24] [Info] Connect ads.trafficjunky.net:443
+[2019-02-24 08:11:24] [Info] Connect ads.trafficjunky.net:443
+[2019-02-24 08:11:24] [Info] Connect a.adtng.com:443
+[2019-02-24 08:11:25] [Info] Connect a.adtng.com:443
+[2019-02-24 08:11:25] [Info] Connect vz-cdn2.contentabc.com:443
+[2019-02-24 08:11:27] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-02-24 08:11:28] [Info] Disconnect ads.trafficjunky.net:443
+[2019-02-24 08:11:28] [Info] Disconnect ads.trafficjunky.net:443
+[2019-02-24 08:11:38] [Info] Connect raw.githubusercontent.com:443
+[2019-02-24 08:11:38] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-02-24 08:11:38] [Info] Disconnect a.adtng.com:443
+[2019-02-24 08:11:38] [Info] Disconnect a.adtng.com:443
+[2019-02-24 08:12:35] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-24 08:12:51] [Info] Disconnect www.googleapis.com:443
+[2019-02-24 08:12:53] [Info] Disconnect android.clients.google.com:443
+[2019-02-24 08:13:18] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-24 08:13:31] [Info] Disconnect vz-cdn2.contentabc.com:443
+[2019-02-24 08:13:33] [Info] Disconnect clients4.google.com:443
+[2019-02-24 08:14:24] [Info] Connect android.clients.google.com:443
+[2019-02-24 08:15:21] [Info] Connect ci.phncdn.com:443
+[2019-02-24 08:15:24] [Info] Connect ads.trafficjunky.net:443
+[2019-02-24 08:15:25] [Info] Connect ads.trafficjunky.net:443
+[2019-02-24 08:15:26] [Info] Connect a.adtng.com:443
+[2019-02-24 08:15:26] [Info] Connect vz-cdn.trafficjunky.net:443
+[2019-02-24 08:15:27] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-02-24 08:15:30] [Info] Disconnect ads.trafficjunky.net:443
+[2019-02-24 08:15:30] [Info] Disconnect ads.trafficjunky.net:443
+[2019-02-24 08:15:38] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-02-24 08:15:40] [Info] Disconnect a.adtng.com:443
+[2019-02-24 08:16:27] [Info] Disconnect android.clients.google.com:443
+[2019-02-24 08:17:13] [Info] Disconnect services.pornhub.com:443
+[2019-02-24 08:17:13] [Info] Connect services.pornhub.com:443
+[2019-02-24 08:17:24] [Info] Connect services.pornhub.com:443
+[2019-02-24 08:17:24] [Info] Disconnect services.pornhub.com:443
+[2019-02-24 08:17:29] [Info] Disconnect vz-cdn.trafficjunky.net:443
+[2019-02-24 08:17:31] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-24 08:18:56] [Info] Disconnect ci.phncdn.com:443
+[2019-02-24 08:19:43] [Info] Disconnect services.pornhub.com:443
+[2019-02-24 08:19:43] [Info] Connect services.pornhub.com:443
+[2019-02-24 08:20:03] [Info] Disconnect services.pornhub.com:443
+[2019-02-24 08:20:03] [Info] Connect services.pornhub.com:443
+[2019-02-24 08:20:13] [Info] Connect services.pornhub.com:443
+[2019-02-24 08:20:14] [Info] Disconnect services.pornhub.com:443
+[2019-02-24 08:21:42] [Info] Connect ads.trafficjunky.net:443
+[2019-02-24 08:21:42] [Info] Connect ci.phncdn.com:443
+[2019-02-24 08:21:43] [Info] Connect hw-cdn.trafficjunky.net:443
+[2019-02-24 08:21:46] [Info] Disconnect ads.trafficjunky.net:443
+[2019-02-24 08:21:48] [Info] Disconnect services.pornhub.com:443
+[2019-02-24 08:21:48] [Info] Connect services.pornhub.com:443
+[2019-02-24 08:21:55] [Info] Disconnect hw-cdn.trafficjunky.net:443
+[2019-02-24 08:22:43] [Info] Connect dv.phncdn.com:443
+[2019-02-24 08:22:58] [Info] Disconnect dv.phncdn.com:443
+[2019-02-24 08:23:27] [Info] Connect ads.trafficjunky.net:443
+[2019-02-24 08:23:28] [Info] Connect hw-cdn-ap.trafficjunky.net:443
+[2019-02-24 08:23:31] [Info] Disconnect ads.trafficjunky.net:443
+[2019-02-24 08:23:33] [Info] Disconnect services.pornhub.com:443
+[2019-02-24 08:23:40] [Info] Disconnect hw-cdn-ap.trafficjunky.net:443
+[2019-02-24 08:23:44] [Info] Disconnect ci.phncdn.com:443
+[2019-02-24 08:23:59] [Info] Connect www.pornhub.com:443
+[2019-02-24 08:24:06] [Info] Disconnect www.pornhub.com:443
+[2019-02-24 08:24:11] [Info] Connect clients4.google.com:443
+[2019-02-24 08:26:14] [Info] Disconnect clients4.google.com:443
+[2019-02-24 08:27:31] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-24 08:28:01] [Info] Connect clients4.google.com:443
+[2019-02-24 08:31:02] [Info] Disconnect clients4.google.com:443
+[2019-02-24 08:32:57] [Info] Disconnect cv.phncdn.com:443
+[2019-02-24 08:32:59] [Info] Connect clients4.google.com:443
+[2019-02-24 08:33:01] [Info] Connect mtalk.google.com:5228
+[2019-02-24 08:33:27] [Info] Direct connect ocsp2.globalsign.com:80
+[2019-02-24 08:33:57] [Info] Direct connect ctldl.windowsupdate.com:80
+[2019-02-24 08:34:28] [Info] Direct connect st.cache.qcloudcdn.com:80
+[2019-02-24 08:34:30] [Info] Direct connect live-cover.msstatic.com:80
+[2019-02-24 08:34:30] [Info] Direct connect live-cover.msstatic.com:80
+[2019-02-24 08:34:30] [Info] Direct connect live-cover.msstatic.com:80
+[2019-02-24 08:35:02] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 08:35:02] [Info] Disconnect clients4.google.com:443
+[2019-02-24 08:35:02] [Info] Connect mtalk.google.com:5228
+[2019-02-24 08:36:24] [Info] Direct connect partnerdownload.xunyou.com:80
+[2019-02-24 08:36:24] [Info] Direct connect partnerdownload.xunyou.com:80
+[2019-02-24 08:36:59] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 08:36:59] [Info] Connect mtalk.google.com:5228
+[2019-02-24 08:36:59] [Info] Connect clients4.google.com:443
+[2019-02-24 08:37:31] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-24 08:39:03] [Info] Disconnect clients4.google.com:443
+[2019-02-24 08:39:03] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 08:39:03] [Info] Connect mtalk.google.com:5228
+[2019-02-24 08:41:06] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 08:41:06] [Info] Connect mtalk.google.com:5228
+[2019-02-24 08:42:26] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-24 08:43:09] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 08:43:09] [Info] Connect mtalk.google.com:5228
+[2019-02-24 08:45:10] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 08:45:10] [Info] Connect mtalk.google.com:5228
+[2019-02-24 08:47:13] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 08:47:13] [Info] Connect mtalk.google.com:5228
+[2019-02-24 08:47:31] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-24 08:48:01] [Info] Connect clients4.google.com:443
+[2019-02-24 08:49:14] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 08:49:14] [Info] Connect mtalk.google.com:5228
+[2019-02-24 08:50:38] [Info] Disconnect clients4.google.com:443
+[2019-02-24 08:51:18] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 08:51:18] [Info] Connect mtalk.google.com:5228
+[2019-02-24 08:52:20] [Info] Connect clients4.google.com:443
+[2019-02-24 08:53:10] [Info] Direct connect updatem.360safe.com:80
+[2019-02-24 08:53:10] [Info] Direct connect src.dl.360safe.com:80
+[2019-02-24 08:53:20] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 08:53:20] [Info] Connect mtalk.google.com:5228
+[2019-02-24 08:54:22] [Info] Disconnect clients4.google.com:443
+[2019-02-24 08:55:22] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 08:55:22] [Info] Connect mtalk.google.com:5228
+[2019-02-24 08:57:25] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 08:57:25] [Info] Connect mtalk.google.com:5228
+[2019-02-24 08:57:31] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-24 08:59:26] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 08:59:26] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:01:29] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:01:29] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:03:31] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:03:31] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:05:32] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:05:32] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:07:31] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-24 09:07:36] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:07:36] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:09:39] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:09:39] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:11:41] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:11:41] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:12:01] [Info] Connect clients4.google.com:443
+[2019-02-24 09:12:10] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-24 09:13:43] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:13:43] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:14:04] [Info] Disconnect clients4.google.com:443
+[2019-02-24 09:15:46] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:15:46] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:17:31] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-24 09:17:48] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:17:48] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:19:50] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:19:50] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:21:52] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:21:52] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:23:54] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:23:54] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:25:56] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:25:56] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:27:31] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-24 09:27:58] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:27:58] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:30:01] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:30:01] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:32:03] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:32:03] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:34:01] [Info] Connect clients4.google.com:443
+[2019-02-24 09:34:07] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:34:07] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:36:03] [Info] Disconnect clients4.google.com:443
+[2019-02-24 09:36:09] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:36:09] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:37:31] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-24 09:38:12] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:38:12] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:40:15] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:40:15] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:41:55] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-24 09:42:19] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:42:19] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:44:22] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:44:22] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:46:23] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:46:23] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:46:51] [Info] Direct connect oth.ludashi.com:80
+[2019-02-24 09:47:31] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-24 09:48:25] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:48:25] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:50:28] [Info] Disconnect mtalk.google.com:5228
+[2019-02-24 09:50:28] [Info] Connect mtalk.google.com:5228
+[2019-02-24 09:50:52] [Info] Connect clients4.google.com:443
+[2019-02-28 15:58:56] ShadowsocksR started on port 1080
+[2019-02-28 15:58:56] [Info] Connect clients4.google.com:443
+[2019-02-28 15:59:05] [Info] Connect www.google.com:443
+[2019-02-28 15:59:05] [Info] Connect raw.githubusercontent.com:443
+[2019-02-28 16:00:25] [Info] Connect android.clients.google.com:443
+[2019-02-28 16:00:26] [Info] Connect www.google.com:443
+[2019-02-28 16:00:26] [Info] Connect id.google.com:443
+[2019-02-28 16:00:26] [Info] Direct connect www.gstatic.com:443
+[2019-02-28 16:00:26] [Info] Direct connect ssl.gstatic.com:443
+[2019-02-28 16:00:26] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 16:00:27] [Info] Connect t0.gstatic.com:443
+[2019-02-28 16:00:27] [Info] Connect t0.gstatic.com:443
+[2019-02-28 16:00:27] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 16:00:28] [Info] Connect apis.google.com:443
+[2019-02-28 16:00:28] [Info] Disconnect t0.gstatic.com:443
+[2019-02-28 16:00:28] [Info] Connect clients5.google.com:443
+[2019-02-28 16:00:28] [Info] Connect ogs.google.com:443
+[2019-02-28 16:00:29] [Info] Connect accounts.google.com:443
+[2019-02-28 16:00:33] [Info] Connect notifications.google.com:443
+[2019-02-28 16:00:35] [Info] Connect play.google.com:443
+[2019-02-28 16:00:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 16:00:38] [Info] Connect id.google.com:443
+[2019-02-28 16:00:38] [Info] Disconnect id.google.com:443
+[2019-02-28 16:00:39] [Info] Connect www.goo.ne.jp:443
+[2019-02-28 16:00:39] [Info] Connect www.goo.ne.jp:443
+[2019-02-28 16:00:39] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:00:39] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:00:39] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:00:39] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:00:39] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:00:40] [Info] Connect ocsp.omniroot.com:80
+[2019-02-28 16:00:40] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:00:40] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:00:40] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:00:40] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:00:40] [Info] Connect ocsp.digicert.com:80
+[2019-02-28 16:00:40] [Info] Direct connect adservice.google.com:443
+[2019-02-28 16:00:40] [Info] Disconnect ocsp.omniroot.com:80
+[2019-02-28 16:00:41] [Info] Disconnect ocsp.digicert.com:80
+[2019-02-28 16:00:41] [Info] Connect sureseries-ocsp.cybertrust.ne.jp:80
+[2019-02-28 16:00:42] [Info] Disconnect sureseries-ocsp.cybertrust.ne.jp:80
+[2019-02-28 16:00:43] [Info] Connect www2.public-trust.com:80
+[2019-02-28 16:00:44] [Info] Disconnect www2.public-trust.com:80
+[2019-02-28 16:00:47] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-28 16:01:08] [Info] Disconnect clients4.google.com:443
+[2019-02-28 16:01:08] [Info] Disconnect www.google.com:443
+[2019-02-28 16:01:08] [Info] Disconnect clients5.google.com:443
+[2019-02-28 16:01:08] [Info] Disconnect www.google.com:443
+[2019-02-28 16:01:08] [Info] Disconnect android.clients.google.com:443
+[2019-02-28 16:01:08] [Info] Disconnect www.goo.ne.jp:443
+[2019-02-28 16:01:08] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 16:01:08] [Info] Disconnect t0.gstatic.com:443
+[2019-02-28 16:01:08] [Info] Disconnect play.google.com:443
+[2019-02-28 16:01:08] [Info] Disconnect accounts.google.com:443
+[2019-02-28 16:01:08] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 16:01:08] [Info] Disconnect notifications.google.com:443
+[2019-02-28 16:01:08] [Info] Disconnect id.google.com:443
+[2019-02-28 16:01:08] [Info] Disconnect ogs.google.com:443
+[2019-02-28 16:01:08] [Info] Disconnect apis.google.com:443
+[2019-02-28 16:01:08] [Info] Disconnect www.goo.ne.jp:443
+[2019-02-28 16:01:08] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:01:11] [Info] Connect www.google.com:443
+[2019-02-28 16:01:11] [Info] Connect id.google.com:443
+[2019-02-28 16:01:11] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 16:01:11] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:01:12] [Info] Connect www.google.com:443
+[2019-02-28 16:01:12] [Info] Connect www.google.com:443
+[2019-02-28 16:01:12] [Info] Connect id.google.com:443
+[2019-02-28 16:01:12] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 16:01:12] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:01:12] [Info] Connect www.google.com:443
+[2019-02-28 16:01:13] [Info] Connect www.google.com:443
+[2019-02-28 16:01:13] [Info] Connect id.google.com:443
+[2019-02-28 16:01:13] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 16:01:13] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:01:13] [Info] Connect www.google.com:443
+[2019-02-28 16:01:13] [Info] Disconnect www.google.com:443
+[2019-02-28 16:01:13] [Info] Connect www.google.com:443
+[2019-02-28 16:01:13] [Info] Disconnect id.google.com:443
+[2019-02-28 16:01:13] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 16:01:13] [Info] Connect id.google.com:443
+[2019-02-28 16:01:13] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 16:01:14] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:01:14] [Info] Disconnect www.google.com:443
+[2019-02-28 16:01:14] [Info] Connect www.google.com:443
+[2019-02-28 16:01:14] [Info] Connect www.google.com:443
+[2019-02-28 16:01:14] [Info] Connect id.google.com:443
+[2019-02-28 16:01:14] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 16:01:14] [Info] Connect www.google.com:443
+[2019-02-28 16:01:14] [Info] Connect www.google.com:443
+[2019-02-28 16:01:14] [Info] Connect id.google.com:443
+[2019-02-28 16:01:14] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 16:01:14] [Info] Connect www.google.com:443
+[2019-02-28 16:01:14] [Info] Disconnect www.google.com:443
+[2019-02-28 16:01:14] [Info] Disconnect id.google.com:443
+[2019-02-28 16:01:14] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 16:01:14] [Info] Disconnect www.google.com:443
+[2019-02-28 16:01:24] [Info] Connect clients4.google.com:443
+[2019-02-28 16:01:25] [Info] Connect clients4.google.com:443
+[2019-02-28 16:01:25] [Info] Connect clients4.google.com:443
+[2019-02-28 16:01:25] [Info] Disconnect clients4.google.com:443
+[2019-02-28 16:01:47] [Info] Connect www.google.com:443
+[2019-02-28 16:01:47] [Info] Connect id.google.com:443
+[2019-02-28 16:01:47] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 16:01:48] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:01:48] [Info] Connect www.google.com:443
+[2019-02-28 16:01:48] [Info] Connect id.google.com:443
+[2019-02-28 16:01:48] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 16:01:48] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:01:49] [Info] Connect www.google.com:443
+[2019-02-28 16:01:49] [Info] Connect id.google.com:443
+[2019-02-28 16:01:49] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 16:01:49] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:01:49] [Info] Disconnect www.google.com:443
+[2019-02-28 16:01:49] [Info] Disconnect id.google.com:443
+[2019-02-28 16:01:49] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 16:01:50] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:02:10] [Info] Connect id.google.com:443
+[2019-02-28 16:02:10] [Info] Connect www.google.com:443
+[2019-02-28 16:02:10] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:02:10] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 16:02:11] [Info] Connect ogs.google.com:443
+[2019-02-28 16:02:14] [Info] Connect www.googoodolls.com:443
+[2019-02-28 16:02:14] [Info] Connect www.googoodolls.com:443
+[2019-02-28 16:02:15] [Info] Connect www.googoodolls.com:443
+[2019-02-28 16:02:15] [Info] Connect www.googoodolls.com:443
+[2019-02-28 16:02:15] [Info] Connect www.googoodolls.com:443
+[2019-02-28 16:02:15] [Info] Connect www.googoodolls.com:443
+[2019-02-28 16:02:15] [Info] Direct connect assets.adobedtm.com:443
+[2019-02-28 16:02:16] [Info] Connect fast.fonts.com:443
+[2019-02-28 16:02:16] [Info] Connect cdn.livefyre.com:443
+[2019-02-28 16:02:16] [Info] Connect libraries.wmgartistservices.com:443
+[2019-02-28 16:02:16] [Info] Connect play.google.com:443
+[2019-02-28 16:02:16] [Info] Connect clients4.google.com:443
+[2019-02-28 16:02:24] [Info] Connect github.com:443
+[2019-02-28 16:02:24] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 16:02:24] [Info] Disconnect id.google.com:443
+[2019-02-28 16:02:25] [Info] Connect avatars0.githubusercontent.com:443
+[2019-02-28 16:02:27] [Info] Disconnect libraries.wmgartistservices.com:443
+[2019-02-28 16:03:25] [Info] Disconnect github.com:443
+[2019-02-28 16:04:05] [Info] Connect raw.githubusercontent.com:443
+[2019-02-28 16:04:12] [Info] Disconnect ogs.google.com:443
+[2019-02-28 16:04:12] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 16:04:16] [Info] Disconnect cdn.livefyre.com:443
+[2019-02-28 16:04:16] [Info] Disconnect www.googoodolls.com:443
+[2019-02-28 16:04:16] [Info] Disconnect www.googoodolls.com:443
+[2019-02-28 16:04:16] [Info] Disconnect www.googoodolls.com:443
+[2019-02-28 16:04:16] [Info] Disconnect www.googoodolls.com:443
+[2019-02-28 16:04:16] [Info] Disconnect www.googoodolls.com:443
+[2019-02-28 16:04:16] [Info] Disconnect www.googoodolls.com:443
+[2019-02-28 16:04:18] [Info] Disconnect fast.fonts.com:443
+[2019-02-28 16:04:18] [Info] Disconnect play.google.com:443
+[2019-02-28 16:04:24] [Info] Disconnect www.google.com:443
+[2019-02-28 16:04:26] [Info] Disconnect avatars0.githubusercontent.com:443
+[2019-02-28 16:04:54] [Info] Disconnect clients4.google.com:443
+[2019-02-28 16:05:46] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-28 16:09:21] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-28 16:09:40] [Info] Connect android.clients.google.com:443
+[2019-02-28 16:10:06] [Info] Connect github.com:443
+[2019-02-28 16:10:08] [Info] Connect collector.githubapp.com:443
+[2019-02-28 16:10:08] [Info] Connect github.com:443
+[2019-02-28 16:10:08] [Info] Connect github.githubassets.com:443
+[2019-02-28 16:10:08] [Info] Connect camo.githubusercontent.com:443
+[2019-02-28 16:10:08] [Info] Connect avatars2.githubusercontent.com:443
+[2019-02-28 16:10:09] [Info] Connect avatars2.githubusercontent.com:443
+[2019-02-28 16:10:09] [Info] Connect avatars0.githubusercontent.com:443
+[2019-02-28 16:10:09] [Info] Connect github.githubassets.com:443
+[2019-02-28 16:10:09] [Info] Disconnect github.com:443
+[2019-02-28 16:10:09] [Info] Connect github.githubassets.com:443
+[2019-02-28 16:10:10] [Info] Connect collector.githubapp.com:443
+[2019-02-28 16:10:10] [Info] Connect clients1.google.com:443
+[2019-02-28 16:10:10] [Info] Connect live.github.com:443
+[2019-02-28 16:10:10] [Info] Connect api.github.com:443
+[2019-02-28 16:10:13] [Info] Connect github.com:443
+[2019-02-28 16:10:13] [Info] Connect github.com:443
+[2019-02-28 16:10:13] [Info] Connect github.com:443
+[2019-02-28 16:10:13] [Info] Connect github.com:443
+[2019-02-28 16:10:13] [Info] Connect github.com:443
+[2019-02-28 16:10:15] [Info] Connect avatars1.githubusercontent.com:443
+[2019-02-28 16:10:15] [Info] Disconnect live.github.com:443
+[2019-02-28 16:10:15] [Info] Connect live.github.com:443
+[2019-02-28 16:10:20] [Info] Connect clients4.google.com:443
+[2019-02-28 16:10:20] [Info] Disconnect github.githubassets.com:443
+[2019-02-28 16:10:20] [Info] Disconnect avatars2.githubusercontent.com:443
+[2019-02-28 16:10:20] [Info] Disconnect camo.githubusercontent.com:443
+[2019-02-28 16:10:20] [Info] Disconnect github.githubassets.com:443
+[2019-02-28 16:10:31] [Info] Connect github.githubassets.com:443
+[2019-02-28 16:10:31] [Info] Connect live.github.com:443
+[2019-02-28 16:10:31] [Info] Disconnect live.github.com:443
+[2019-02-28 16:10:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 16:10:38] [Info] Connect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-02-28 16:11:02] [Info] Disconnect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-02-28 16:11:11] [Info] Connect live.github.com:443
+[2019-02-28 16:11:11] [Info] Disconnect live.github.com:443
+[2019-02-28 16:11:14] [Info] Disconnect github.com:443
+[2019-02-28 16:11:14] [Info] Disconnect github.com:443
+[2019-02-28 16:11:14] [Info] Disconnect github.com:443
+[2019-02-28 16:11:14] [Info] Disconnect github.com:443
+[2019-02-28 16:11:15] [Info] Disconnect github.com:443
+[2019-02-28 16:11:17] [Info] Disconnect collector.githubapp.com:443
+[2019-02-28 16:11:17] [Info] Connect github.com:443
+[2019-02-28 16:11:31] [Info] Connect github.com:443
+[2019-02-28 16:11:31] [Info] Disconnect github.com:443
+[2019-02-28 16:11:32] [Info] Connect live.github.com:443
+[2019-02-28 16:11:32] [Info] Disconnect live.github.com:443
+[2019-02-28 16:11:42] [Info] Disconnect android.clients.google.com:443
+[2019-02-28 16:11:42] [Info] Disconnect github.com:443
+[2019-02-28 16:11:43] [Info] Connect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-02-28 16:11:50] [Info] Connect github.com:443
+[2019-02-28 16:11:51] [Info] Disconnect live.github.com:443
+[2019-02-28 16:11:52] [Info] Connect live.github.com:443
+[2019-02-28 16:11:53] [Info] Disconnect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-02-28 16:11:56] [Info] Connect live.github.com:443
+[2019-02-28 16:11:57] [Info] Disconnect live.github.com:443
+[2019-02-28 16:12:05] [Info] Disconnect github.com:443
+[2019-02-28 16:12:06] [Info] Connect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-02-28 16:12:11] [Info] Disconnect avatars2.githubusercontent.com:443
+[2019-02-28 16:12:17] [Info] Disconnect avatars1.githubusercontent.com:443
+[2019-02-28 16:12:24] [Info] Connect github.com:443
+[2019-02-28 16:12:24] [Info] Connect avatars2.githubusercontent.com:443
+[2019-02-28 16:12:25] [Info] Connect live.github.com:443
+[2019-02-28 16:12:25] [Info] Disconnect live.github.com:443
+[2019-02-28 16:12:26] [Info] Disconnect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-02-28 16:12:29] [Info] Connect github.com:443
+[2019-02-28 16:12:29] [Info] Connect live.github.com:443
+[2019-02-28 16:12:29] [Info] Disconnect live.github.com:443
+[2019-02-28 16:12:33] [Info] Disconnect avatars0.githubusercontent.com:443
+[2019-02-28 16:12:33] [Info] Disconnect github.githubassets.com:443
+[2019-02-28 16:12:45] [Info] Disconnect github.com:443
+[2019-02-28 16:13:20] [Info] Disconnect clients1.google.com:443
+[2019-02-28 16:13:29] [Info] Disconnect api.github.com:443
+[2019-02-28 16:13:29] [Info] Disconnect github.com:443
+[2019-02-28 16:13:30] [Info] Disconnect github.com:443
+[2019-02-28 16:13:35] [Info] Disconnect collector.githubapp.com:443
+[2019-02-28 16:13:57] [Info] Disconnect github.githubassets.com:443
+[2019-02-28 16:14:17] [Info] Connect clients2.google.com:443
+[2019-02-28 16:14:17] [Info] Disconnect avatars2.githubusercontent.com:443
+[2019-02-28 16:14:37] [Info] Disconnect clients4.google.com:443
+[2019-02-28 16:15:30] [Info] Connect clients4.google.com:443
+[2019-02-28 16:16:20] [Info] Disconnect clients2.google.com:443
+[2019-02-28 16:17:32] [Info] Disconnect clients4.google.com:443
+[2019-02-28 16:20:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 16:23:01] [Info] Connect clients4.google.com:443
+[2019-02-28 16:25:05] [Info] Disconnect clients4.google.com:443
+[2019-02-28 16:25:12] [Info] Connect github.com:443
+[2019-02-28 16:26:13] [Info] Disconnect github.com:443
+[2019-02-28 16:29:21] [Info] Connect www.teamviewer.com:80
+[2019-02-28 16:29:21] [Info] Connect www.teamviewer.com:80
+[2019-02-28 16:29:22] [Info] Connect www.teamviewer.com:443
+[2019-02-28 16:29:22] [Info] Connect www.teamviewer.com:443
+[2019-02-28 16:29:22] [Info] Disconnect www.teamviewer.com:80
+[2019-02-28 16:29:22] [Info] Disconnect www.teamviewer.com:80
+[2019-02-28 16:29:22] [Info] Connect ocsp.usertrust.com:80
+[2019-02-28 16:29:23] [Info] Connect ocsp.comodoca.com:80
+[2019-02-28 16:29:23] [Info] Disconnect ocsp.usertrust.com:80
+[2019-02-28 16:29:24] [Info] Disconnect ocsp.comodoca.com:80
+[2019-02-28 16:29:24] [Info] Connect client.teamviewer.com:443
+[2019-02-28 16:29:26] [Info] Connect client.teamviewer.com:443
+[2019-02-28 16:29:26] [Info] Connect client.teamviewer.com:443
+[2019-02-28 16:29:26] [Info] Direct connect www.googletagmanager.com:443
+[2019-02-28 16:29:26] [Info] Disconnect www.teamviewer.com:443
+[2019-02-28 16:29:26] [Info] Disconnect www.teamviewer.com:443
+[2019-02-28 16:29:26] [Info] Direct connect ocsp.pki.goog:80
+[2019-02-28 16:29:27] [Info] Direct connect ocsp.pki.goog:80
+[2019-02-28 16:29:27] [Info] Connect client.teamviewer.com:443
+[2019-02-28 16:29:27] [Info] Direct connect ocsp.pki.goog:80
+[2019-02-28 16:29:30] [Info] Direct connect ocsp.pki.goog:80
+[2019-02-28 16:29:33] [Info] Disconnect client.teamviewer.com:443
+[2019-02-28 16:29:33] [Info] Disconnect client.teamviewer.com:443
+[2019-02-28 16:29:33] [Info] Disconnect client.teamviewer.com:443
+[2019-02-28 16:29:33] [Info] Disconnect client.teamviewer.com:443
+[2019-02-28 16:30:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 16:39:15] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-28 16:40:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 16:44:24] [Info] Connect clients4.google.com:443
+[2019-02-28 16:46:29] [Info] Disconnect clients4.google.com:443
+[2019-02-28 16:50:06] [Info] Direct connect updatem.360safe.com:80
+[2019-02-28 16:50:06] [Info] Direct connect src.dl.360safe.com:80
+[2019-02-28 16:50:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 17:00:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 17:03:30] [Info] Connect clients4.google.com:443
+[2019-02-28 17:05:33] [Info] Disconnect clients4.google.com:443
+[2019-02-28 17:08:56] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-28 17:10:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 17:20:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 17:23:01] [Info] Connect clients4.google.com:443
+[2019-02-28 17:25:03] [Info] Disconnect clients4.google.com:443
+[2019-02-28 17:30:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 17:37:04] [Info] Connect clients4.google.com:443
+[2019-02-28 17:38:34] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-28 17:39:07] [Info] Disconnect clients4.google.com:443
+[2019-02-28 17:40:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 17:44:18] [Info] Connect clients4.google.com:443
+[2019-02-28 17:44:59] [Info] Connect www.google.com:443
+[2019-02-28 17:44:59] [Info] Connect www.google.com:443
+[2019-02-28 17:44:59] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 17:44:59] [Info] Connect id.google.com:443
+[2019-02-28 17:44:59] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 17:44:59] [Info] Direct connect ssl.gstatic.com:443
+[2019-02-28 17:44:59] [Info] Direct connect www.gstatic.com:443
+[2019-02-28 17:44:59] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 17:44:59] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 17:45:00] [Info] Connect ogs.google.com:443
+[2019-02-28 17:45:29] [Info] Direct connect ss1.bdstatic.com:443
+[2019-02-28 17:45:29] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-02-28 17:45:29] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-02-28 17:45:29] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 17:45:29] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 17:45:29] [Info] Disconnect id.google.com:443
+[2019-02-28 17:45:29] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 17:45:32] [Info] Connect android.clients.google.com:443
+[2019-02-28 17:45:32] [Info] Direct connect s3m.milkjpg.com:443
+[2019-02-28 17:45:32] [Info] Direct connect s3m.milkjpg.com:443
+[2019-02-28 17:47:01] [Info] Disconnect www.google.com:443
+[2019-02-28 17:47:01] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 17:47:01] [Info] Disconnect ogs.google.com:443
+[2019-02-28 17:47:22] [Info] Disconnect www.google.com:443
+[2019-02-28 17:47:33] [Info] Disconnect android.clients.google.com:443
+[2019-02-28 17:47:52] [Info] Direct connect oth.ludashi.com:80
+[2019-02-28 17:48:05] [Info] Disconnect clients4.google.com:443
+[2019-02-28 17:49:29] [Info] Connect www.google.com:443
+[2019-02-28 17:49:30] [Info] Connect www.google.com:443
+[2019-02-28 17:49:32] [Info] Disconnect www.google.com:443
+[2019-02-28 17:49:36] [Info] Connect clients4.google.com:443
+[2019-02-28 17:49:42] [Debug] DNS query fail: dev.xiaoxiaoming.net
+[2019-02-28 17:49:42] [Info] Connect dev.xiaoxiaoming.net:80
+[2019-02-28 17:49:43] [Info] Disconnect dev.xiaoxiaoming.net:80
+[2019-02-28 17:50:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 17:50:38] [Info] Direct connect intf-pc.ludashi.com:80
+[2019-02-28 17:50:38] [Info] Direct connect s.ludashi.com:80
+[2019-02-28 17:50:38] [Info] Direct connect s.ludashi.com:80
+[2019-02-28 17:50:39] [Info] Direct connect s.ludashi.com:80
+[2019-02-28 17:50:39] [Info] Direct connect s.ludashi.com:80
+[2019-02-28 17:51:09] [Info] Direct connect updatem.360safe.com:80
+[2019-02-28 17:51:09] [Info] Direct connect src.dl.360safe.com:80
+[2019-02-28 17:51:17] [Info] Connect dev.xiaoxiaoming.net:80
+[2019-02-28 17:51:17] [Info] Disconnect dev.xiaoxiaoming.net:80
+[2019-02-28 17:51:44] [Info] Disconnect www.google.com:443
+[2019-02-28 17:52:09] [Info] Connect www.google.com:443
+[2019-02-28 17:52:09] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 17:52:09] [Info] Connect id.google.com:443
+[2019-02-28 17:52:09] [Info] Connect www.google.com:443
+[2019-02-28 17:52:09] [Info] Direct connect www.gstatic.com:443
+[2019-02-28 17:52:09] [Info] Direct connect ssl.gstatic.com:443
+[2019-02-28 17:52:09] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 17:52:10] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 17:52:10] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 17:52:11] [Info] Connect ogs.google.com:443
+[2019-02-28 17:53:28] [Info] Direct connect cdn.bootcss.com:443
+[2019-02-28 17:53:28] [Info] Disconnect id.google.com:443
+[2019-02-28 17:53:28] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 17:53:28] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 17:53:28] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 17:53:44] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-02-28 17:53:47] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-02-28 17:53:50] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-02-28 17:53:50] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-02-28 17:54:07] [Info] Direct connect s3m.milkjpg.com:443
+[2019-02-28 17:54:07] [Info] Direct connect gh.bdstatic.com:443
+[2019-02-28 17:54:07] [Info] Direct connect shared.ydstatic.com:443
+[2019-02-28 17:54:07] [Info] Direct connect bl.gtags.net:443
+[2019-02-28 17:54:07] [Info] Direct connect s.zampdsp.com:443
+[2019-02-28 17:54:08] [Info] Direct connect cdn.zampdsp.com:443
+[2019-02-28 17:54:08] [Info] Direct connect cdn.zampdsp.com:443
+[2019-02-28 17:54:08] [Info] Direct connect cdn.zampdsp.com:443
+[2019-02-28 17:54:08] [Info] Direct connect cdn.zampdsp.com:443
+[2019-02-28 17:54:08] [Info] Direct connect ut.gtags.net:443
+[2019-02-28 17:54:09] [Info] Direct connect track-ipg.kingwam.com:80
+[2019-02-28 17:54:09] [Info] Direct connect cms.gtags.net:80
+[2019-02-28 17:54:09] [Info] Direct connect ut.gtags.net:443
+[2019-02-28 17:54:09] [Info] Direct connect track-ipg.kingwam.com:80
+[2019-02-28 17:54:11] [Info] Disconnect www.google.com:443
+[2019-02-28 17:54:11] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 17:54:13] [Info] Disconnect ogs.google.com:443
+[2019-02-28 17:54:51] [Info] Direct connect s1.shucaixiaoshuo.com:443
+[2019-02-28 17:55:29] [Info] Disconnect www.google.com:443
+[2019-02-28 17:55:46] [Info] Direct connect gh.bdstatic.com:443
+[2019-02-28 17:55:46] [Info] Direct connect shared.ydstatic.com:443
+[2019-02-28 17:55:46] [Info] Direct connect oimageb5.ydstatic.com:443
+[2019-02-28 17:55:46] [Info] Direct connect s1.shucaixiaoshuo.com:443
+[2019-02-28 17:56:51] [Info] Connect ocsp.usertrust.com:80
+[2019-02-28 17:56:52] [Info] Connect ocsp.usertrust.com:80
+[2019-02-28 17:56:53] [Info] Disconnect ocsp.usertrust.com:80
+[2019-02-28 17:56:54] [Info] Disconnect ocsp.usertrust.com:80
+[2019-02-28 17:57:59] [Info] Disconnect clients4.google.com:443
+[2019-02-28 17:59:00] [Info] Connect clients4.google.com:443
+[2019-02-28 17:59:28] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 17:59:29] [Info] Direct connect fonts.googleapis.com:443
+[2019-02-28 17:59:29] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 17:59:29] [Info] Direct connect fonts.gstatic.com:443
+[2019-02-28 17:59:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 17:59:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 17:59:37] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 17:59:37] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 18:00:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 18:03:02] [Info] Disconnect clients4.google.com:443
+[2019-02-28 18:04:05] [Info] Connect raw.githubusercontent.com:443
+[2019-02-28 18:05:46] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-28 18:08:58] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-28 18:10:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 18:20:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 18:21:34] [Info] Connect clients4.google.com:443
+[2019-02-28 18:23:37] [Info] Disconnect clients4.google.com:443
+[2019-02-28 18:30:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 18:38:33] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-28 18:40:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 18:44:40] [Info] Connect clients4.google.com:443
+[2019-02-28 18:47:27] [Info] Disconnect clients4.google.com:443
+[2019-02-28 18:50:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 18:52:02] [Info] Direct connect updatem.360safe.com:80
+[2019-02-28 18:52:02] [Info] Direct connect src.dl.360safe.com:80
+[2019-02-28 19:00:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 19:03:43] [Info] Connect clients4.google.com:443
+[2019-02-28 19:05:44] [Info] Disconnect clients4.google.com:443
+[2019-02-28 19:08:05] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-28 19:08:26] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 203.208.43.104:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-02-28 19:09:13] [Info] Disconnect live.github.com:443
+[2019-02-28 19:10:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 19:10:57] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 119.147.111.230:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-02-28 19:10:57] [Info] Direct connect s.ludashi.com:80
+[2019-02-28 19:11:18] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 118.190.126.180:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-02-28 19:16:02] [Debug] DNS query fail: mtalk.google.com
+[2019-02-28 19:16:02] [Info] Connect mtalk.google.com:5228
+[2019-02-28 19:16:17] [Info] Connect mtalk.google.com:5228
+[2019-02-28 19:16:32] [Info] Connect mtalk.google.com:5228
+[2019-02-28 19:16:47] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 19:17:08] [Debug] DNS query fail: mtalk.google.com
+[2019-02-28 19:17:08] [Info] Connect mtalk.google.com:443
+[2019-02-28 19:17:23] [Info] Connect mtalk.google.com:443
+[2019-02-28 19:17:38] [Info] Connect mtalk.google.com:443
+[2019-02-28 19:17:54] [Info] Disconnect mtalk.google.com:443
+[2019-02-28 19:18:39] [Debug] DNS query fail: mtalk.google.com
+[2019-02-28 19:18:39] [Info] Connect mtalk.google.com:5228
+[2019-02-28 19:18:55] [Info] Connect mtalk.google.com:5228
+[2019-02-28 19:18:55] [Info] Connect clients4.google.com:443
+[2019-02-28 19:19:10] [Info] Connect mtalk.google.com:5228
+[2019-02-28 19:19:20] [Info] Connect clients4.google.com:443
+[2019-02-28 19:19:30] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 19:19:40] [Info] Connect clients4.google.com:443
+[2019-02-28 19:19:55] [Info] Disconnect clients4.google.com:443
+[2019-02-28 19:20:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 19:20:52] [Info] Connect clients4.google.com:443
+[2019-02-28 19:20:57] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 119.147.111.230:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-02-28 19:20:57] [Info] Direct connect s.ludashi.com:80
+[2019-02-28 19:20:57] [Debug] DNS query fail: mtalk.google.com
+[2019-02-28 19:20:57] [Info] Connect mtalk.google.com:443
+[2019-02-28 19:20:58] [Info] Connect clients4.google.com:443
+[2019-02-28 19:21:07] [Info] Connect clients4.google.com:443
+[2019-02-28 19:21:17] [Info] Connect mtalk.google.com:443
+[2019-02-28 19:21:18] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 118.190.126.180:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-02-28 19:21:27] [Info] Disconnect clients4.google.com:443
+[2019-02-28 19:21:27] [Info] Disconnect mtalk.google.com:443
+[2019-02-28 19:21:27] [Info] Connect clients4.google.com:443
+[2019-02-28 19:23:29] [Info] Disconnect clients4.google.com:443
+[2019-02-28 19:24:26] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-28 19:24:34] [Info] Connect clients4.google.com:443
+[2019-02-28 19:28:01] [Info] Disconnect clients4.google.com:443
+[2019-02-28 19:30:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 19:37:22] [Info] Connect clients4.google.com:443
+[2019-02-28 19:39:25] [Info] Disconnect clients4.google.com:443
+[2019-02-28 19:40:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 19:45:51] [Info] Connect clients4.google.com:443
+[2019-02-28 19:47:52] [Info] Direct connect oth.ludashi.com:80
+[2019-02-28 19:47:52] [Info] Disconnect clients4.google.com:443
+[2019-02-28 19:50:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 19:50:38] [Info] Direct connect intf-pc.ludashi.com:80
+[2019-02-28 19:53:05] [Info] Direct connect updatem.360safe.com:80
+[2019-02-28 19:53:05] [Info] Direct connect src.dl.360safe.com:80
+[2019-02-28 19:53:44] [Info] Connect clients4.google.com:443
+[2019-02-28 19:54:02] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-28 19:55:47] [Info] Disconnect clients4.google.com:443
+[2019-02-28 19:58:51] [Info] Connect www.typora.io:443
+[2019-02-28 19:58:52] [Info] Connect ocsp.trust-provider.com:80
+[2019-02-28 19:58:53] [Info] Connect ocsp.comodoca4.com:80
+[2019-02-28 19:58:53] [Info] Disconnect ocsp.trust-provider.com:80
+[2019-02-28 19:58:53] [Info] Disconnect ocsp.comodoca4.com:80
+[2019-02-28 19:58:56] [Info] Connect typora.io:443
+[2019-02-28 19:59:31] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-02-28 19:59:31] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-02-28 19:59:32] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-02-28 19:59:32] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:32] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:32] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:32] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:33] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:33] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:34] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:35] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:36] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:36] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:36] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:37] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:40] [Info] Connect clients4.google.com:443
+[2019-02-28 19:59:41] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:41] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:41] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-02-28 19:59:42] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:45] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:47] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 19:59:49] [Info] Connect clients1.google.com:443
+[2019-02-28 20:00:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 20:00:42] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-02-28 20:00:51] [Info] Disconnect typora.io:443
+[2019-02-28 20:00:51] [Info] Disconnect www.typora.io:443
+[2019-02-28 20:01:43] [Info] Disconnect clients4.google.com:443
+[2019-02-28 20:01:51] [Info] Disconnect clients1.google.com:443
+[2019-02-28 20:02:53] [Info] Direct connect castatic.fengkongcloud.com:443
+[2019-02-28 20:02:58] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 20:03:03] [Info] Connect clients4.google.com:443
+[2019-02-28 20:03:07] [Info] Direct connect s1.shucaixiaoshuo.com:443
+[2019-02-28 20:03:08] [Info] Direct connect s3m.milkjpg.com:443
+[2019-02-28 20:03:08] [Info] Direct connect adservice.google.com:443
+[2019-02-28 20:03:09] [Info] Direct connect www.googletagservices.com:443
+[2019-02-28 20:03:25] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 20:03:30] [Info] Connect www.google.com:443
+[2019-02-28 20:03:30] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 20:03:30] [Info] Connect id.google.com:443
+[2019-02-28 20:03:30] [Info] Connect www.google.com:443
+[2019-02-28 20:03:30] [Info] Direct connect www.gstatic.com:443
+[2019-02-28 20:03:30] [Info] Direct connect ssl.gstatic.com:443
+[2019-02-28 20:03:30] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 20:03:30] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 20:03:31] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 20:03:31] [Info] Connect ogs.google.com:443
+[2019-02-28 20:03:32] [Info] Connect clients5.google.com:443
+[2019-02-28 20:03:32] [Info] Connect accounts.google.com:443
+[2019-02-28 20:04:05] [Info] Connect raw.githubusercontent.com:443
+[2019-02-28 20:04:06] [Info] Direct connect update.360safe.com:80
+[2019-02-28 20:04:06] [Info] Direct connect ini.update.360safe.com:80
+[2019-02-28 20:04:07] [Info] Direct connect update.360safe.com:443
+[2019-02-28 20:04:07] [Info] Direct connect ini.update.360safe.com:443
+[2019-02-28 20:05:31] [Info] Disconnect id.google.com:443
+[2019-02-28 20:05:31] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 20:05:31] [Info] Disconnect www.google.com:443
+[2019-02-28 20:05:31] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 20:05:33] [Info] Disconnect clients5.google.com:443
+[2019-02-28 20:05:33] [Info] Disconnect ogs.google.com:443
+[2019-02-28 20:05:33] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 20:05:33] [Info] Disconnect accounts.google.com:443
+[2019-02-28 20:05:33] [Info] Disconnect www.google.com:443
+[2019-02-28 20:05:33] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 20:05:37] [Info] Disconnect clients4.google.com:443
+[2019-02-28 20:05:46] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-28 20:10:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 20:10:41] [Info] Direct connect update.googleapis.com:443
+[2019-02-28 20:10:42] [Info] Connect storage.googleapis.com:80
+[2019-02-28 20:10:42] [Info] Disconnect storage.googleapis.com:80
+[2019-02-28 20:11:09] [Info] Connect storage.googleapis.com:80
+[2019-02-28 20:11:09] [Info] Disconnect storage.googleapis.com:80
+[2019-02-28 20:11:14] [Info] Connect storage.googleapis.com:80
+[2019-02-28 20:11:15] [Info] Disconnect storage.googleapis.com:80
+[2019-02-28 20:11:19] [Info] Connect storage.googleapis.com:80
+[2019-02-28 20:11:20] [Info] Disconnect storage.googleapis.com:80
+[2019-02-28 20:11:23] [Info] Connect storage.googleapis.com:80
+[2019-02-28 20:11:24] [Info] Disconnect storage.googleapis.com:80
+[2019-02-28 20:11:27] [Info] Connect storage.googleapis.com:80
+[2019-02-28 20:11:27] [Info] Disconnect storage.googleapis.com:80
+[2019-02-28 20:11:39] [Info] Connect www.google.com:443
+[2019-02-28 20:11:39] [Info] Connect www.google.com:443
+[2019-02-28 20:11:39] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 20:11:39] [Info] Connect id.google.com:443
+[2019-02-28 20:11:39] [Info] Direct connect ssl.gstatic.com:443
+[2019-02-28 20:11:39] [Info] Direct connect www.gstatic.com:443
+[2019-02-28 20:11:39] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 20:11:39] [Info] Connect apis.google.com:443
+[2019-02-28 20:11:39] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 20:11:40] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 20:11:40] [Info] Connect ogs.google.com:443
+[2019-02-28 20:11:42] [Info] Connect clients4.google.com:443
+[2019-02-28 20:12:07] [Info] Direct connect ss0.bdstatic.com:443
+[2019-02-28 20:12:07] [Info] Disconnect apis.google.com:443
+[2019-02-28 20:12:07] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 20:12:07] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 20:12:07] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 20:12:07] [Info] Disconnect id.google.com:443
+[2019-02-28 20:13:42] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 20:13:42] [Info] Disconnect www.google.com:443
+[2019-02-28 20:13:42] [Info] Disconnect ogs.google.com:443
+[2019-02-28 20:13:44] [Info] Disconnect www.google.com:443
+[2019-02-28 20:14:22] [Info] Disconnect clients4.google.com:443
+[2019-02-28 20:14:24] [Info] Connect clients4.google.com:443
+[2019-02-28 20:16:25] [Info] Disconnect clients4.google.com:443
+[2019-02-28 20:20:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 20:24:20] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-28 20:30:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 20:33:31] [Info] Connect clients4.google.com:443
+[2019-02-28 20:35:32] [Info] Disconnect clients4.google.com:443
+[2019-02-28 20:40:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 20:50:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 20:51:10] [Info] Connect clients4.google.com:443
+[2019-02-28 20:51:49] [Info] Connect mtalk.google.com:5228
+[2019-02-28 20:53:51] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 20:53:51] [Info] Connect mtalk.google.com:5228
+[2019-02-28 20:54:08] [Info] Direct connect updatem.360safe.com:80
+[2019-02-28 20:54:09] [Info] Direct connect src.dl.360safe.com:80
+[2019-02-28 20:54:21] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-28 20:54:31] [Info] Disconnect clients4.google.com:443
+[2019-02-28 20:55:54] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 20:55:54] [Info] Connect mtalk.google.com:5228
+[2019-02-28 20:56:05] [Info] Connect www.google.com:443
+[2019-02-28 20:56:05] [Info] Connect id.google.com:443
+[2019-02-28 20:56:05] [Info] Connect www.google.com:443
+[2019-02-28 20:56:05] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 20:56:06] [Info] Direct connect www.gstatic.com:443
+[2019-02-28 20:56:06] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 20:56:06] [Info] Direct connect ssl.gstatic.com:443
+[2019-02-28 20:56:06] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 20:56:06] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 20:56:07] [Info] Connect ogs.google.com:443
+[2019-02-28 20:56:12] [Info] Connect apis.google.com:443
+[2019-02-28 20:56:13] [Info] Connect play.google.com:443
+[2019-02-28 20:56:42] [Info] Connect px.moatads.com:443
+[2019-02-28 20:56:42] [Info] Direct connect adservice.google.com:443
+[2019-02-28 20:56:42] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 20:56:42] [Info] Disconnect id.google.com:443
+[2019-02-28 20:56:42] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 20:56:42] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 20:56:42] [Info] Connect clients4.google.com:443
+[2019-02-28 20:56:43] [Info] Direct connect www.googletagservices.com:443
+[2019-02-28 20:57:03] [Info] Disconnect px.moatads.com:443
+[2019-02-28 20:57:27] [Info] Direct connect laravelacademy.org:443
+[2019-02-28 20:57:27] [Info] Direct connect laravelacademy.org:443
+[2019-02-28 20:57:27] [Info] Connect cdnjs.cloudflare.com:443
+[2019-02-28 20:57:28] [Info] Connect www.gravatar.com:443
+[2019-02-28 20:57:28] [Info] Connect www.gravatar.com:443
+[2019-02-28 20:57:28] [Info] Connect www.gravatar.com:443
+[2019-02-28 20:57:28] [Info] Connect www.gravatar.com:443
+[2019-02-28 20:57:28] [Info] Connect www.gravatar.com:443
+[2019-02-28 20:57:28] [Info] Connect www.gravatar.com:443
+[2019-02-28 20:57:28] [Info] Connect id.rlcdn.com:443
+[2019-02-28 20:57:29] [Info] Direct connect fonts.gstatic.com:443
+[2019-02-28 20:57:30] [Info] Connect fcmatch.google.com:443
+[2019-02-28 20:57:30] [Info] Connect fcmatch.youtube.com:443
+[2019-02-28 20:57:31] [Info] Connect adman.henghost.com:443
+[2019-02-28 20:57:33] [Info] Disconnect id.rlcdn.com:443
+[2019-02-28 20:57:33] [Info] Disconnect adman.henghost.com:443
+[2019-02-28 20:57:55] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 20:57:55] [Info] Connect mtalk.google.com:5228
+[2019-02-28 20:58:07] [Info] Disconnect www.google.com:443
+[2019-02-28 20:58:07] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 20:58:10] [Info] Disconnect ogs.google.com:443
+[2019-02-28 20:58:12] [Info] Disconnect www.google.com:443
+[2019-02-28 20:58:14] [Info] Disconnect apis.google.com:443
+[2019-02-28 20:58:14] [Info] Disconnect play.google.com:443
+[2019-02-28 20:59:30] [Info] Disconnect www.gravatar.com:443
+[2019-02-28 20:59:30] [Info] Disconnect www.gravatar.com:443
+[2019-02-28 20:59:30] [Info] Disconnect www.gravatar.com:443
+[2019-02-28 20:59:30] [Info] Disconnect www.gravatar.com:443
+[2019-02-28 20:59:30] [Info] Disconnect www.gravatar.com:443
+[2019-02-28 20:59:30] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-02-28 20:59:30] [Info] Disconnect www.gravatar.com:443
+[2019-02-28 20:59:32] [Info] Disconnect fcmatch.google.com:443
+[2019-02-28 20:59:32] [Info] Disconnect fcmatch.youtube.com:443
+[2019-02-28 20:59:40] [Info] Disconnect clients4.google.com:443
+[2019-02-28 20:59:57] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 20:59:57] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:00:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 21:01:13] [Info] Connect notifications.google.com:443
+[2019-02-28 21:01:14] [Info] Connect play.google.com:443
+[2019-02-28 21:02:00] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:02:00] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:03:14] [Info] Disconnect notifications.google.com:443
+[2019-02-28 21:03:16] [Info] Disconnect play.google.com:443
+[2019-02-28 21:04:02] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:04:02] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:04:41] [Info] Direct connect clientservices.googleapis.com:443
+[2019-02-28 21:06:03] [Info] Connect clients2.google.com:443
+[2019-02-28 21:06:04] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:06:04] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:06:40] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-02-28 21:06:40] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-02-28 21:06:40] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-02-28 21:06:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 21:06:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 21:06:40] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 21:06:41] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 21:06:41] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 21:06:41] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 21:06:43] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 21:06:43] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-02-28 21:06:44] [Info] Connect www.google.com:443
+[2019-02-28 21:06:49] [Info] Connect clients4.google.com:443
+[2019-02-28 21:08:06] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:08:06] [Info] Disconnect clients2.google.com:443
+[2019-02-28 21:08:06] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:08:37] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:08:37] [Info] Direct connect fonts.googleapis.com:443
+[2019-02-28 21:08:37] [Info] Direct connect fonts.gstatic.com:443
+[2019-02-28 21:08:37] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:08:49] [Info] Disconnect www.google.com:443
+[2019-02-28 21:10:08] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:10:08] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:10:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 21:10:40] [Info] Disconnect clients4.google.com:443
+[2019-02-28 21:12:09] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:12:09] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:14:10] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:14:10] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:14:53] [Info] Connect clients4.google.com:443
+[2019-02-28 21:15:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:15:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:15:28] [Info] Connect www.google.com:443
+[2019-02-28 21:15:28] [Info] Connect www.google.com:443
+[2019-02-28 21:15:28] [Info] Connect id.google.com:443
+[2019-02-28 21:15:28] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 21:15:28] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 21:15:28] [Info] Direct connect www.gstatic.com:443
+[2019-02-28 21:15:28] [Info] Direct connect ssl.gstatic.com:443
+[2019-02-28 21:15:28] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 21:15:29] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 21:15:29] [Info] Connect ogs.google.com:443
+[2019-02-28 21:15:34] [Info] Connect play.google.com:443
+[2019-02-28 21:15:36] [Info] Direct connect www.runoob.com:80
+[2019-02-28 21:15:36] [Info] Direct connect www.runoob.com:80
+[2019-02-28 21:15:36] [Info] Direct connect www.runoob.com:80
+[2019-02-28 21:15:36] [Info] Direct connect www.runoob.com:80
+[2019-02-28 21:15:36] [Info] Direct connect www.runoob.com:80
+[2019-02-28 21:15:36] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 21:15:36] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 21:15:36] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 21:15:36] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 21:15:36] [Info] Direct connect www.runoob.com:80
+[2019-02-28 21:15:36] [Info] Direct connect www.googletagmanager.com:443
+[2019-02-28 21:15:36] [Info] Direct connect www.runoob.com:80
+[2019-02-28 21:15:36] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 21:15:36] [Info] Direct connect www.runoob.com:80
+[2019-02-28 21:15:37] [Info] Direct connect adservice.google.com:443
+[2019-02-28 21:15:37] [Info] Direct connect www.runoob.com:80
+[2019-02-28 21:15:37] [Info] Direct connect www.runoob.com:80
+[2019-02-28 21:15:37] [Info] Direct connect translate.googleapis.com:443
+[2019-02-28 21:15:37] [Info] Direct connect www.googletagservices.com:80
+[2019-02-28 21:15:38] [Info] Direct connect static.runoob.com:80
+[2019-02-28 21:16:14] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:16:14] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:17:31] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 21:17:31] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 21:17:31] [Info] Disconnect www.google.com:443
+[2019-02-28 21:17:31] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 21:17:31] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 21:17:31] [Info] Disconnect id.google.com:443
+[2019-02-28 21:17:31] [Info] Disconnect ogs.google.com:443
+[2019-02-28 21:17:33] [Info] Disconnect www.google.com:443
+[2019-02-28 21:17:36] [Info] Disconnect play.google.com:443
+[2019-02-28 21:17:46] [Info] Disconnect clients4.google.com:443
+[2019-02-28 21:18:15] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:18:15] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:18:44] [Info] Connect www.google.com:443
+[2019-02-28 21:18:44] [Info] Connect www.google.com:443
+[2019-02-28 21:18:44] [Info] Connect id.google.com:443
+[2019-02-28 21:18:44] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 21:18:44] [Info] Direct connect www.gstatic.com:443
+[2019-02-28 21:18:44] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 21:18:44] [Info] Direct connect ssl.gstatic.com:443
+[2019-02-28 21:18:44] [Info] Connect apis.google.com:443
+[2019-02-28 21:18:44] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 21:18:45] [Info] Connect ogs.google.com:443
+[2019-02-28 21:18:46] [Info] Direct connect ss0.bdstatic.com:443
+[2019-02-28 21:18:46] [Info] Direct connect ss2.bdstatic.com:443
+[2019-02-28 21:18:46] [Info] Direct connect ss1.bdstatic.com:443
+[2019-02-28 21:18:48] [Info] Connect clients4.google.com:443
+[2019-02-28 21:18:53] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:18:53] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:18:54] [Info] Direct connect qiniu.cuiqingcai.com:443
+[2019-02-28 21:18:54] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:18:56] [Info] Disconnect id.google.com:443
+[2019-02-28 21:18:56] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 21:18:56] [Info] Disconnect apis.google.com:443
+[2019-02-28 21:18:56] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 21:19:11] [Info] Connect id.google.com:443
+[2019-02-28 21:19:11] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 21:19:11] [Info] Direct connect www.gstatic.com:443
+[2019-02-28 21:19:11] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 21:19:11] [Info] Connect apis.google.com:443
+[2019-02-28 21:19:11] [Info] Direct connect ssl.gstatic.com:443
+[2019-02-28 21:19:12] [Info] Direct connect www.xiaoxiaoming.net:80
+[2019-02-28 21:19:12] [Info] Direct connect cdn.bootcss.com:443
+[2019-02-28 21:19:12] [Info] Direct connect cdn.bootcss.com:443
+[2019-02-28 21:19:12] [Info] Connect avatars1.githubusercontent.com:443
+[2019-02-28 21:19:13] [Info] Direct connect www.xiaoxiaoming.net:80
+[2019-02-28 21:19:20] [Info] Direct connect cdn.bootcss.com:443
+[2019-02-28 21:20:19] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:20:19] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:20:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 21:21:13] [Info] Disconnect avatars1.githubusercontent.com:443
+[2019-02-28 21:21:13] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 21:21:13] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 21:21:13] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 21:21:13] [Info] Disconnect ogs.google.com:443
+[2019-02-28 21:21:13] [Info] Disconnect apis.google.com:443
+[2019-02-28 21:21:13] [Info] Disconnect id.google.com:443
+[2019-02-28 21:21:13] [Info] Disconnect www.google.com:443
+[2019-02-28 21:21:17] [Info] Disconnect www.google.com:443
+[2019-02-28 21:21:25] [Info] Disconnect clients4.google.com:443
+[2019-02-28 21:22:11] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:22:12] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:22:12] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:22:12] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:22:12] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:22:12] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:22:21] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:22:21] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:22:43] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:22:43] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:22:44] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:22:45] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:22:54] [Info] Connect clients4.google.com:443
+[2019-02-28 21:23:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:23:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:23:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:23:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:23:16] [Info] Connect chrome-devtools-frontend.appspot.com:443
+[2019-02-28 21:23:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:23:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:23:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:24:18] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-28 21:24:25] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:24:25] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:25:01] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:25:01] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:25:19] [Info] Disconnect chrome-devtools-frontend.appspot.com:443
+[2019-02-28 21:25:26] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:25:26] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:26:27] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:26:27] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:27:38] [Info] Disconnect clients4.google.com:443
+[2019-02-28 21:28:30] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:28:30] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:30:30] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:30:30] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:30:32] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:30:32] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:30:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 21:30:38] [Info] Connect clients4.google.com:443
+[2019-02-28 21:30:49] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:30:49] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:31:06] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:31:07] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:32:34] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:32:34] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:33:20] [Info] Disconnect clients4.google.com:443
+[2019-02-28 21:33:46] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:33:46] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:33:57] [Info] Connect clients4.google.com:443
+[2019-02-28 21:34:03] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:34:03] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:34:35] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:34:35] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:36:13] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:36:14] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:36:16] [Info] Disconnect clients4.google.com:443
+[2019-02-28 21:36:25] [Info] Connect clients4.google.com:443
+[2019-02-28 21:36:38] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:36:38] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:36:38] [Info] Direct connect qiniu.cuiqingcai.com:443
+[2019-02-28 21:38:35] [Info] Disconnect clients4.google.com:443
+[2019-02-28 21:38:41] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:38:41] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:40:16] [Info] Connect www.google.com:443
+[2019-02-28 21:40:16] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 21:40:16] [Info] Connect id.google.com:443
+[2019-02-28 21:40:16] [Info] Connect www.google.com:443
+[2019-02-28 21:40:16] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 21:40:16] [Info] Direct connect www.gstatic.com:443
+[2019-02-28 21:40:16] [Info] Direct connect ssl.gstatic.com:443
+[2019-02-28 21:40:16] [Info] Connect apis.google.com:443
+[2019-02-28 21:40:16] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 21:40:17] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 21:40:17] [Info] Connect ogs.google.com:443
+[2019-02-28 21:40:19] [Info] Connect clients4.google.com:443
+[2019-02-28 21:40:20] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-02-28 21:40:28] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 21:40:28] [Info] Disconnect id.google.com:443
+[2019-02-28 21:40:28] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 21:40:28] [Info] Disconnect apis.google.com:443
+[2019-02-28 21:40:28] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 21:40:36] [Info] Direct connect ss2.bdstatic.com:443
+[2019-02-28 21:40:36] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-02-28 21:40:36] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-02-28 21:40:36] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-02-28 21:40:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 21:40:42] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:40:42] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:40:42] [Info] Direct connect sofire.bdstatic.com:443
+[2019-02-28 21:40:42] [Info] Direct connect gss0.bdstatic.com:443
+[2019-02-28 21:40:42] [Info] Direct connect fex.bdstatic.com:443
+[2019-02-28 21:40:43] [Info] Direct connect gh.bdstatic.com:443
+[2019-02-28 21:41:19] [Info] Direct connect sofire.bdstatic.com:443
+[2019-02-28 21:41:19] [Info] Direct connect gss0.bdstatic.com:443
+[2019-02-28 21:41:19] [Info] Direct connect fex.bdstatic.com:443
+[2019-02-28 21:41:19] [Info] Direct connect gh.bdstatic.com:443
+[2019-02-28 21:42:17] [Info] Disconnect www.google.com:443
+[2019-02-28 21:42:19] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 21:42:19] [Info] Disconnect www.google.com:443
+[2019-02-28 21:42:19] [Info] Disconnect ogs.google.com:443
+[2019-02-28 21:42:43] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:42:43] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:43:28] [Info] Direct connect qiniu.cuiqingcai.com:443
+[2019-02-28 21:43:31] [Info] Disconnect clients4.google.com:443
+[2019-02-28 21:44:45] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:44:45] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:45:01] [Info] Direct connect update.360safe.com:80
+[2019-02-28 21:45:01] [Info] Direct connect ini.update.360safe.com:80
+[2019-02-28 21:45:11] [Info] Direct connect softm.update.360safe.com:80
+[2019-02-28 21:46:48] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:46:48] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:47:52] [Info] Direct connect oth.ludashi.com:80
+[2019-02-28 21:48:46] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:48:47] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:48:47] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:48:47] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:48:47] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:48:47] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 21:48:47] [Info] Connect cdn.mathjax.org:443
+[2019-02-28 21:48:48] [Info] Connect cdnjs.cloudflare.com:443
+[2019-02-28 21:48:49] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:48:49] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:48:58] [Info] Connect clients4.google.com:443
+[2019-02-28 21:50:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 21:50:38] [Info] Direct connect intf-pc.ludashi.com:80
+[2019-02-28 21:50:48] [Info] Disconnect cdn.mathjax.org:443
+[2019-02-28 21:50:50] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:50:50] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-02-28 21:50:50] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:51:01] [Info] Disconnect clients4.google.com:443
+[2019-02-28 21:52:53] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:52:53] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:54:17] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-28 21:54:55] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:54:55] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:55:02] [Info] Direct connect updatem.360safe.com:80
+[2019-02-28 21:55:02] [Info] Direct connect src.dl.360safe.com:80
+[2019-02-28 21:56:56] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:56:56] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:57:52] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:57:52] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:58:03] [Info] Connect clients4.google.com:443
+[2019-02-28 21:59:00] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 21:59:00] [Info] Connect mtalk.google.com:5228
+[2019-02-28 21:59:31] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:59:31] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 21:59:38] [Info] Connect www.google.com:443
+[2019-02-28 21:59:38] [Info] Connect id.google.com:443
+[2019-02-28 21:59:38] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 21:59:38] [Info] Connect www.google.com:443
+[2019-02-28 21:59:38] [Info] Direct connect www.gstatic.com:443
+[2019-02-28 21:59:38] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 21:59:38] [Info] Direct connect ssl.gstatic.com:443
+[2019-02-28 21:59:39] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 21:59:39] [Info] Connect s2.googleusercontent.com:443
+[2019-02-28 21:59:40] [Info] Connect ogs.google.com:443
+[2019-02-28 21:59:45] [Info] Connect apis.google.com:443
+[2019-02-28 21:59:45] [Info] Connect play.google.com:443
+[2019-02-28 21:59:58] [Info] Direct connect s1.shucaixiaoshuo.com:443
+[2019-02-28 21:59:58] [Info] Direct connect adservice.google.com:443
+[2019-02-28 21:59:58] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 21:59:58] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 21:59:58] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 21:59:58] [Info] Disconnect id.google.com:443
+[2019-02-28 21:59:59] [Info] Direct connect s3m.milkjpg.com:443
+[2019-02-28 22:00:02] [Info] Connect id.google.com:443
+[2019-02-28 22:00:02] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-02-28 22:00:02] [Info] Direct connect www.gstatic.com:443
+[2019-02-28 22:00:02] [Info] Direct connect ssl.gstatic.com:443
+[2019-02-28 22:00:02] [Info] Connect lh3.googleusercontent.com:443
+[2019-02-28 22:00:06] [Info] Direct connect www.yangfan.cc:80
+[2019-02-28 22:00:06] [Info] Direct connect www.yangfan.cc:80
+[2019-02-28 22:00:07] [Info] Direct connect www.yangfan.cc:80
+[2019-02-28 22:00:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 22:01:02] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:01:02] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:01:11] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:01:11] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:01:40] [Info] Disconnect s2.googleusercontent.com:443
+[2019-02-28 22:01:43] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:01:43] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:01:47] [Info] Disconnect play.google.com:443
+[2019-02-28 22:01:47] [Info] Disconnect apis.google.com:443
+[2019-02-28 22:01:59] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:01:59] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:01:59] [Info] Direct connect www.googletagmanager.com:443
+[2019-02-28 22:01:59] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:01:59] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:01:59] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:01:59] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:01:59] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:01:59] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-02-28 22:01:59] [Info] Disconnect id.google.com:443
+[2019-02-28 22:01:59] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-02-28 22:01:59] [Info] Direct connect adservice.google.com:443
+[2019-02-28 22:01:59] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:01:59] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:01:59] [Info] Direct connect www.googletagservices.com:443
+[2019-02-28 22:02:04] [Info] Disconnect www.google.com:443
+[2019-02-28 22:02:04] [Info] Disconnect ogs.google.com:443
+[2019-02-28 22:02:06] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:02:06] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:02:06] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:02:06] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:02:06] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:02:06] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:02:06] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:02:06] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:02:06] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:02:06] [Info] Disconnect www.google.com:443
+[2019-02-28 22:02:06] [Info] Direct connect dn-coding-net-production-pp.qbox.me:443
+[2019-02-28 22:02:06] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:02:06] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:02:06] [Info] Direct connect dn-coding-net-production-pp.qbox.me:443
+[2019-02-28 22:02:06] [Info] Direct connect dn-coding-net-production-pp.qbox.me:443
+[2019-02-28 22:02:06] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:02:06] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:02:06] [Info] Direct connect dn-coding-net-production-pp.qbox.me:443
+[2019-02-28 22:03:05] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:03:05] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:03:31] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:03:31] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 22:03:32] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:03:45] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:45] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:45] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:45] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:45] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:45] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:45] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:45] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:45] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:45] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:50] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:50] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:50] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:50] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:50] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:50] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:50] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:50] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:50] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:50] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 22:03:50] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:54] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:54] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:54] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:54] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:54] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:54] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:54] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:54] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:54] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:54] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:56] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:03:56] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:56] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:56] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:56] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:56] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:03:56] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:05] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:04:05] [Info] Connect raw.githubusercontent.com:443
+[2019-02-28 22:04:05] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:05] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:05] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:05] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:15] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:04:15] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:15] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:04:15] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:15] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:15] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:04:15] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:04:15] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:04:15] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:04:15] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:04:23] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:04:23] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:23] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:23] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:23] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:55] [Info] Direct connect www.runoob.com:80
+[2019-02-28 22:04:56] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:56] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:56] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:04:56] [Info] Direct connect cdn.staticfile.org:80
+[2019-02-28 22:05:07] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:05:07] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:05:46] [Info] Disconnect raw.githubusercontent.com:443
+[2019-02-28 22:05:50] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:05:50] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:05:55] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:05:56] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:07:09] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:07:09] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:08:02] [Info] Disconnect clients4.google.com:443
+[2019-02-28 22:09:12] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:09:12] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:10:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 22:11:13] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:11:13] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:12:55] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:12:55] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 22:12:55] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:12:57] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:12:57] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:12:57] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:12:57] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:12:57] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:12:57] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:13:06] [Info] Connect clients4.google.com:443
+[2019-02-28 22:13:16] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:13:16] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:13:17] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 22:13:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:13:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:14:26] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 22:14:26] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:14:26] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:14:52] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 22:14:52] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:14:52] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:15:17] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:15:17] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:15:39] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 22:15:39] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:15:39] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:15:41] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:15:41] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:15:41] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:15:41] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:15:41] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:15:41] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:16:01] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 22:16:01] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:16:01] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:16:13] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 22:16:13] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:16:13] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:16:38] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 22:16:38] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:16:38] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:17:18] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:17:18] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:19:22] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:19:22] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:19:24] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:19:24] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 22:19:25] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:20:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:20:06] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:20:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 22:20:53] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:20:54] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:21:23] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:21:23] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:22:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:22:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:23:10] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 22:23:10] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 22:23:10] [Info] Connect cdn.mathjax.org:443
+[2019-02-28 22:23:10] [Info] Connect cdnjs.cloudflare.com:443
+[2019-02-28 22:23:10] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 22:23:10] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 22:23:10] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 22:23:10] [Info] Direct connect cuiqingcai.com:443
+[2019-02-28 22:23:25] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:23:25] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:24:23] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-02-28 22:25:11] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-02-28 22:25:11] [Info] Disconnect cdn.mathjax.org:443
+[2019-02-28 22:25:19] [Info] Disconnect clients4.google.com:443
+[2019-02-28 22:25:28] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:25:28] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:27:30] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:27:30] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:27:46] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:27:46] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 22:27:46] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:27:57] [Info] Connect clients4.google.com:443
+[2019-02-28 22:29:31] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:29:31] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:29:48] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:29:48] [Info] Direct connect cdn.staticfile.org:443
+[2019-02-28 22:29:48] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:30:33] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:30:33] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:30:34] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:30:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:30:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:30:36] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:30:36] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-02-28 22:30:46] [Info] Direct connect qiniu.cuiqingcai.com:443
+[2019-02-28 22:31:34] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:31:34] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:32:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:32:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:32:43] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:32:44] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:33:13] [Info] Direct connect qiniu.cuiqingcai.com:443
+[2019-02-28 22:33:29] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:33:29] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:33:30] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:33:30] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:33:31] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:33:31] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:33:32] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:33:36] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:33:36] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:34:02] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:34:02] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:34:56] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:34:56] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:35:38] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:35:38] [Info] Connect mtalk.google.com:5228
+[2019-02-28 22:36:23] [Info] Direct connect qiniu.cuiqingcai.com:443
+[2019-02-28 22:36:29] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:36:29] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:36:45] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:36:45] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:37:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:37:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-02-28 22:37:22] [Info] Disconnect mtalk.google.com:5228
+[2019-02-28 22:37:22] [Info] Disconnect clients4.google.com:443
+[2019-02-28 22:37:34] [Info] Connect client.teamviewer.com:443
+[2019-02-28 22:37:36] [Info] Direct connect www.googletagmanager.com:443
+[2019-02-28 22:37:42] [Info] Disconnect client.teamviewer.com:443

@@ -1,0 +1,1804 @@
+[2019-05-21 18:43:42] ShadowsocksR started on port 1080
+[2019-05-21 18:43:49] [Info] Connect clients1.google.com:443
+[2019-05-21 18:43:49] [Info] Connect clients1.google.com:443
+[2019-05-21 18:43:50] [Info] Connect xshell.en.softonic.com:443
+[2019-05-21 18:43:50] [Info] Direct connect adservice.google.com:443
+[2019-05-21 18:43:51] [Info] Connect widget.us.criteo.com:443
+[2019-05-21 18:43:51] [Info] Direct connect www.googletagservices.com:443
+[2019-05-21 18:43:51] [Info] Direct connect www.googletagmanager.com:443
+[2019-05-21 18:43:51] [Info] Connect static.criteo.net:443
+[2019-05-21 18:43:51] [Info] Connect static.simonsignal.com:443
+[2019-05-21 18:43:51] [Info] Connect c.amazon-adsystem.com:443
+[2019-05-21 18:43:51] [Info] Connect images.sftcdn.net:443
+[2019-05-21 18:43:51] [Info] Connect a.optnmstr.com:443
+[2019-05-21 18:43:51] [Info] Connect connect.facebook.net:443
+[2019-05-21 18:43:51] [Info] Direct connect cdn.ampproject.org:443
+[2019-05-21 18:43:51] [Info] Connect www.facebook.com:443
+[2019-05-21 18:43:51] [Info] Connect aax.amazon-adsystem.com:443
+[2019-05-21 18:43:51] [Info] Connect sc.sftcdn.net:443
+[2019-05-21 18:43:51] [Info] Connect raw.githubusercontent.com:443
+[2019-05-21 18:43:52] [Info] Connect fastlane.rubiconproject.com:443
+[2019-05-21 18:43:52] [Info] Connect as-sec.casalemedia.com:443
+[2019-05-21 18:43:52] [Info] Connect bidder.criteo.com:443
+[2019-05-21 18:43:52] [Info] Connect ampcid.google.com:443
+[2019-05-21 18:43:52] [Info] Connect en.softonic.com:443
+[2019-05-21 18:43:53] [Info] Connect en.softonic.com:443
+[2019-05-21 18:43:53] [Info] Connect sslwidget.criteo.com:443
+[2019-05-21 18:43:53] [Info] Connect simonsignal.com:443
+[2019-05-21 18:43:53] [Info] Connect cdns.gigya.com:443
+[2019-05-21 18:43:53] [Info] Connect simonsignal.com:443
+[2019-05-21 18:43:53] [Info] Connect simonsignal.com:443
+[2019-05-21 18:43:53] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 18:43:53] [Info] Connect api.opmnstr.com:443
+[2019-05-21 18:43:53] [Info] Connect b-code.liadm.com:443
+[2019-05-21 18:43:54] [Info] Connect simonsignal.com:443
+[2019-05-21 18:43:54] [Info] Connect simonsignal.com:443
+[2019-05-21 18:43:54] [Info] Connect simonsignal.com:443
+[2019-05-21 18:43:54] [Info] Disconnect aax.amazon-adsystem.com:443
+[2019-05-21 18:43:54] [Info] Disconnect a.optnmstr.com:443
+[2019-05-21 18:43:55] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:43:55] [Info] Disconnect as-sec.casalemedia.com:443
+[2019-05-21 18:43:55] [Info] Connect cdns.eu1.gigya.com:443
+[2019-05-21 18:43:57] [Info] Connect c.liadm.com:443
+[2019-05-21 18:43:58] [Info] Connect eus.rubiconproject.com:443
+[2019-05-21 18:43:58] [Info] Disconnect bidder.criteo.com:443
+[2019-05-21 18:43:58] [Info] Connect p.rfihub.com:443
+[2019-05-21 18:43:58] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:43:58] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2019-05-21 18:43:58] [Info] Connect c1.adform.net:443
+[2019-05-21 18:43:58] [Info] Disconnect c.amazon-adsystem.com:443
+[2019-05-21 18:43:58] [Info] Disconnect cdns.eu1.gigya.com:443
+[2019-05-21 18:43:58] [Info] Disconnect cdns.gigya.com:443
+[2019-05-21 18:43:58] [Info] Disconnect connect.facebook.net:443
+[2019-05-21 18:43:58] [Info] Disconnect en.softonic.com:443
+[2019-05-21 18:43:58] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-05-21 18:43:58] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:43:58] [Info] Connect t.wayfair.com:443
+[2019-05-21 18:43:58] [Info] Connect ad.turn.com:443
+[2019-05-21 18:43:58] [Info] Disconnect sslwidget.criteo.com:443
+[2019-05-21 18:43:58] [Info] Connect dsum-sec.casalemedia.com:443
+[2019-05-21 18:43:59] [Info] Connect pixel-sync.sitescout.com:443
+[2019-05-21 18:43:59] [Info] Connect cdns2.gigya.com:443
+[2019-05-21 18:43:59] [Info] Connect ad.turn.com:443
+[2019-05-21 18:43:59] [Info] Disconnect static.criteo.net:443
+[2019-05-21 18:43:59] [Info] Connect um.simpli.fi:443
+[2019-05-21 18:43:59] [Info] Disconnect eus.rubiconproject.com:443
+[2019-05-21 18:43:59] [Info] Disconnect static.simonsignal.com:443
+[2019-05-21 18:43:59] [Info] Disconnect widget.us.criteo.com:443
+[2019-05-21 18:43:59] [Info] Disconnect clients1.google.com:443
+[2019-05-21 18:43:59] [Info] Connect c1.adform.net:443
+[2019-05-21 18:43:59] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:43:59] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:43:59] [Info] Connect p.rfihub.com:443
+[2019-05-21 18:43:59] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:43:59] [Info] Connect sync.ipredictive.com:443
+[2019-05-21 18:44:00] [Info] Disconnect xshell.en.softonic.com:443
+[2019-05-21 18:44:00] [Info] Disconnect en.softonic.com:443
+[2019-05-21 18:44:00] [Info] Disconnect b-code.liadm.com:443
+[2019-05-21 18:44:00] [Info] Disconnect sc.sftcdn.net:443
+[2019-05-21 18:44:00] [Info] Disconnect c.liadm.com:443
+[2019-05-21 18:44:00] [Info] Disconnect images.sftcdn.net:443
+[2019-05-21 18:44:00] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:44:00] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:44:00] [Info] Disconnect api.opmnstr.com:443
+[2019-05-21 18:44:00] [Info] Connect pixel-a.sitescout.com:443
+[2019-05-21 18:44:00] [Info] Connect i.liadm.com:443
+[2019-05-21 18:44:00] [Info] Disconnect ampcid.google.com:443
+[2019-05-21 18:44:00] [Info] Connect rbp.mxptint.net:443
+[2019-05-21 18:44:00] [Info] Connect laptop-updates.brave.com:443
+[2019-05-21 18:44:00] [Info] Connect laptop-updates.brave.com:443
+[2019-05-21 18:44:01] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:44:01] [Debug] DNS query fail: e1.emxdgt.com
+[2019-05-21 18:44:01] [Info] Connect e1.emxdgt.com:443
+[2019-05-21 18:44:01] [Info] Connect login.softonic.com:443
+[2019-05-21 18:44:01] [Info] Connect login.softonic.com:443
+[2019-05-21 18:44:02] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:44:02] [Info] Disconnect e1.emxdgt.com:443
+[2019-05-21 18:44:02] [Info] Direct connect match.adsrvr.org:443
+[2019-05-21 18:44:02] [Info] Connect x.bidswitch.net:443
+[2019-05-21 18:44:02] [Info] Connect x.bidswitch.net:443
+[2019-05-21 18:44:02] [Info] Disconnect ad.turn.com:443
+[2019-05-21 18:44:02] [Info] Connect trc.taboola.com:443
+[2019-05-21 18:44:02] [Info] Disconnect ad.turn.com:443
+[2019-05-21 18:44:02] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:44:02] [Info] Connect b1sync.zemanta.com:443
+[2019-05-21 18:44:03] [Info] Connect sync.alcmpn.com:443
+[2019-05-21 18:44:03] [Info] Disconnect c1.adform.net:443
+[2019-05-21 18:44:03] [Info] Disconnect cdns2.gigya.com:443
+[2019-05-21 18:44:03] [Info] Connect cdns3.gigya.com:443
+[2019-05-21 18:44:03] [Info] Connect i.liadm.com:443
+[2019-05-21 18:44:03] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2019-05-21 18:44:04] [Info] Connect referrals.bravesoftware.com:443
+[2019-05-21 18:44:04] [Info] Connect sc.sftcdn.net:443
+[2019-05-21 18:44:04] [Info] Disconnect laptop-updates.brave.com:443
+[2019-05-21 18:44:04] [Debug] DNS query fail: e1.emxdgt.com
+[2019-05-21 18:44:04] [Info] Connect e1.emxdgt.com:443
+[2019-05-21 18:44:04] [Info] Disconnect i.liadm.com:443
+[2019-05-21 18:44:04] [Info] Disconnect b1sync.zemanta.com:443
+[2019-05-21 18:44:05] [Info] Disconnect e1.emxdgt.com:443
+[2019-05-21 18:44:06] [Info] Disconnect pixel-sync.sitescout.com:443
+[2019-05-21 18:44:07] [Info] Disconnect pixel-a.sitescout.com:443
+[2019-05-21 18:44:08] [Info] Connect sb-ssl.google.com:443
+[2019-05-21 18:44:09] [Info] Disconnect p.rfihub.com:443
+[2019-05-21 18:44:10] [Info] Disconnect p.rfihub.com:443
+[2019-05-21 18:44:11] [Info] Disconnect sync.ipredictive.com:443
+[2019-05-21 18:44:23] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 101.227.212.107:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-05-21 18:44:28] [Info] Direct connect adservice.google.com:443
+[2019-05-21 18:44:28] [Info] Connect widget.us.criteo.com:443
+[2019-05-21 18:44:28] [Info] Direct connect www.googletagservices.com:443
+[2019-05-21 18:44:28] [Info] Connect xshell.en.softonic.com:443
+[2019-05-21 18:44:28] [Info] Direct connect www.googletagmanager.com:443
+[2019-05-21 18:44:28] [Info] Connect static.criteo.net:443
+[2019-05-21 18:44:28] [Info] Connect images.sftcdn.net:443
+[2019-05-21 18:44:28] [Info] Connect c.amazon-adsystem.com:443
+[2019-05-21 18:44:28] [Info] Connect a.optnmstr.com:443
+[2019-05-21 18:44:28] [Info] Connect static.simonsignal.com:443
+[2019-05-21 18:44:28] [Info] Connect connect.facebook.net:443
+[2019-05-21 18:44:28] [Info] Disconnect i.liadm.com:443
+[2019-05-21 18:44:28] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:44:28] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:44:28] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:44:28] [Info] Connect aax.amazon-adsystem.com:443
+[2019-05-21 18:44:28] [Info] Direct connect cdn.ampproject.org:443
+[2019-05-21 18:44:29] [Info] Connect fastlane.rubiconproject.com:443
+[2019-05-21 18:44:29] [Info] Connect as-sec.casalemedia.com:443
+[2019-05-21 18:44:29] [Info] Connect bidder.criteo.com:443
+[2019-05-21 18:44:29] [Info] Connect aax.amazon-adsystem.com:443
+[2019-05-21 18:44:29] [Info] Disconnect a.optnmstr.com:443
+[2019-05-21 18:44:29] [Info] Disconnect aax.amazon-adsystem.com:443
+[2019-05-21 18:44:29] [Info] Connect sslwidget.criteo.com:443
+[2019-05-21 18:44:29] [Info] Disconnect c.amazon-adsystem.com:443
+[2019-05-21 18:44:29] [Info] Connect simonsignal.com:443
+[2019-05-21 18:44:29] [Info] Connect c.liadm.com:443
+[2019-05-21 18:44:29] [Info] Connect api.opmnstr.com:443
+[2019-05-21 18:44:29] [Info] Disconnect cdns3.gigya.com:443
+[2019-05-21 18:44:29] [Info] Disconnect connect.facebook.net:443
+[2019-05-21 18:44:29] [Info] Disconnect images.sftcdn.net:443
+[2019-05-21 18:44:29] [Info] Connect images.sftcdn.net:443
+[2019-05-21 18:44:29] [Info] Disconnect laptop-updates.brave.com:443
+[2019-05-21 18:44:29] [Info] Connect simonsignal.com:443
+[2019-05-21 18:44:29] [Info] Connect simonsignal.com:443
+[2019-05-21 18:44:30] [Info] Disconnect login.softonic.com:443
+[2019-05-21 18:44:30] [Info] Disconnect as-sec.casalemedia.com:443
+[2019-05-21 18:44:30] [Info] Disconnect login.softonic.com:443
+[2019-05-21 18:44:30] [Info] Connect images.sftcdn.net:443
+[2019-05-21 18:44:30] [Info] Connect images.sftcdn.net:443
+[2019-05-21 18:44:30] [Info] Connect images.sftcdn.net:443
+[2019-05-21 18:44:30] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:44:30] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:44:30] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 18:44:30] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:44:30] [Info] Connect simonsignal.com:443
+[2019-05-21 18:44:30] [Info] Disconnect rbp.mxptint.net:443
+[2019-05-21 18:44:30] [Info] Disconnect images.sftcdn.net:443
+[2019-05-21 18:44:31] [Info] Connect simonsignal.com:443
+[2019-05-21 18:44:31] [Info] Connect i.liadm.com:443
+[2019-05-21 18:44:31] [Info] Disconnect aax.amazon-adsystem.com:443
+[2019-05-21 18:44:31] [Info] Disconnect bidder.criteo.com:443
+[2019-05-21 18:44:31] [Info] Connect simonsignal.com:443
+[2019-05-21 18:44:31] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-05-21 18:44:33] [Info] Connect en.softonic.com:443
+[2019-05-21 18:44:33] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:44:34] [Info] Connect en.softonic.com:443
+[2019-05-21 18:44:34] [Info] Connect pixel-sync.sitescout.com:443
+[2019-05-21 18:44:34] [Info] Connect dpm.demdex.net:443
+[2019-05-21 18:44:34] [Info] Connect aa.agkn.com:443
+[2019-05-21 18:44:34] [Info] Disconnect images.sftcdn.net:443
+[2019-05-21 18:44:34] [Info] Disconnect i.liadm.com:443
+[2019-05-21 18:44:34] [Info] Disconnect images.sftcdn.net:443
+[2019-05-21 18:44:34] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:44:34] [Info] Disconnect sslwidget.criteo.com:443
+[2019-05-21 18:44:34] [Info] Disconnect static.criteo.net:443
+[2019-05-21 18:44:34] [Info] Connect loadus.exelator.com:443
+[2019-05-21 18:44:34] [Info] Connect bcp.crwdcntrl.net:443
+[2019-05-21 18:44:34] [Info] Disconnect static.simonsignal.com:443
+[2019-05-21 18:44:34] [Info] Connect www.netsarang.com:80
+[2019-05-21 18:44:35] [Info] Connect fastlane.rubiconproject.com:443
+[2019-05-21 18:44:35] [Info] Connect c.amazon-adsystem.com:443
+[2019-05-21 18:44:35] [Info] Disconnect pixel-sync.sitescout.com:443
+[2019-05-21 18:44:35] [Info] Connect connect.facebook.net:443
+[2019-05-21 18:44:35] [Info] Connect static.criteo.net:443
+[2019-05-21 18:44:35] [Info] Disconnect widget.us.criteo.com:443
+[2019-05-21 18:44:35] [Info] Disconnect x.bidswitch.net:443
+[2019-05-21 18:44:35] [Info] Disconnect x.bidswitch.net:443
+[2019-05-21 18:44:35] [Info] Connect as-sec.casalemedia.com:443
+[2019-05-21 18:44:35] [Info] Disconnect en.softonic.com:443
+[2019-05-21 18:44:35] [Info] Connect cdn.onesignal.com:443
+[2019-05-21 18:44:35] [Info] Disconnect bcp.crwdcntrl.net:443
+[2019-05-21 18:44:35] [Info] Connect em.licasd.com:443
+[2019-05-21 18:44:35] [Info] Connect bidder.criteo.com:443
+[2019-05-21 18:44:35] [Info] Connect aax.amazon-adsystem.com:443
+[2019-05-21 18:44:35] [Info] Connect c.amazon-adsystem.com:443
+[2019-05-21 18:44:36] [Info] Disconnect aa.agkn.com:443
+[2019-05-21 18:44:36] [Info] Disconnect loadus.exelator.com:443
+[2019-05-21 18:44:36] [Info] Connect config.playwire.com:443
+[2019-05-21 18:44:36] [Info] Disconnect c.amazon-adsystem.com:443
+[2019-05-21 18:44:36] [Info] Connect cdn.playwire.com:443
+[2019-05-21 18:44:36] [Info] Disconnect as-sec.casalemedia.com:443
+[2019-05-21 18:44:36] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-05-21 18:44:36] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:36] [Info] Disconnect www.netsarang.com:80
+[2019-05-21 18:44:38] [Info] Connect sslwidget.criteo.com:443
+[2019-05-21 18:44:39] [Info] Connect i.liadm.com:443
+[2019-05-21 18:44:39] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:39] [Info] Disconnect aax.amazon-adsystem.com:443
+[2019-05-21 18:44:39] [Info] Disconnect bidder.criteo.com:443
+[2019-05-21 18:44:39] [Info] Connect js.searchlinks.com:443
+[2019-05-21 18:44:39] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:39] [Info] Connect config.playwire.com:443
+[2019-05-21 18:44:39] [Info] Disconnect config.playwire.com:443
+[2019-05-21 18:44:39] [Info] Connect onesignal.com:443
+[2019-05-21 18:44:39] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 18:44:39] [Info] Disconnect connect.facebook.net:443
+[2019-05-21 18:44:39] [Info] Disconnect dpm.demdex.net:443
+[2019-05-21 18:44:39] [Info] Connect cdn.intergi.com:443
+[2019-05-21 18:44:39] [Info] Connect widget.us.criteo.com:443
+[2019-05-21 18:44:39] [Info] Disconnect em.licasd.com:443
+[2019-05-21 18:44:40] [Info] Direct connect csi.gstatic.com:443
+[2019-05-21 18:44:40] [Info] Disconnect sslwidget.criteo.com:443
+[2019-05-21 18:44:40] [Info] Connect api.searchlinks.com:443
+[2019-05-21 18:44:41] [Info] Connect js.searchlinks.com:443
+[2019-05-21 18:44:41] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:44:41] [Info] Connect z.moatads.com:443
+[2019-05-21 18:44:41] [Info] Disconnect i.liadm.com:443
+[2019-05-21 18:44:41] [Info] Disconnect static.criteo.net:443
+[2019-05-21 18:44:41] [Info] Connect eus.rubiconproject.com:443
+[2019-05-21 18:44:41] [Info] Disconnect c.amazon-adsystem.com:443
+[2019-05-21 18:44:41] [Info] Connect tags.bkrtx.com:443
+[2019-05-21 18:44:41] [Info] Disconnect referrals.bravesoftware.com:443
+[2019-05-21 18:44:41] [Info] Disconnect clients1.google.com:443
+[2019-05-21 18:44:41] [Info] Disconnect en.softonic.com:443
+[2019-05-21 18:44:41] [Info] Disconnect www.facebook.com:443
+[2019-05-21 18:44:41] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2019-05-21 18:44:41] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:44:41] [Info] Disconnect t.wayfair.com:443
+[2019-05-21 18:44:41] [Info] Disconnect um.simpli.fi:443
+[2019-05-21 18:44:41] [Info] Disconnect c1.adform.net:443
+[2019-05-21 18:44:41] [Info] Disconnect sync.alcmpn.com:443
+[2019-05-21 18:44:41] [Info] Disconnect trc.taboola.com:443
+[2019-05-21 18:44:41] [Info] Connect api.searchlinks.com:443
+[2019-05-21 18:44:41] [Info] Disconnect api.opmnstr.com:443
+[2019-05-21 18:44:41] [Info] Disconnect xshell.en.softonic.com:443
+[2019-05-21 18:44:41] [Info] Disconnect sc.sftcdn.net:443
+[2019-05-21 18:44:41] [Info] Disconnect images.sftcdn.net:443
+[2019-05-21 18:44:41] [Info] Disconnect c.liadm.com:443
+[2019-05-21 18:44:41] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:44:41] [Info] Disconnect cdn.onesignal.com:443
+[2019-05-21 18:44:41] [Info] Disconnect config.playwire.com:443
+[2019-05-21 18:44:41] [Info] Disconnect onesignal.com:443
+[2019-05-21 18:44:42] [Info] Connect match.sharethrough.com:443
+[2019-05-21 18:44:42] [Info] Connect appnexus-partners.tremorhub.com:443
+[2019-05-21 18:44:42] [Info] Connect cdn.video.playwire.com:443
+[2019-05-21 18:44:43] [Info] Connect ad.360yield.com:443
+[2019-05-21 18:44:43] [Info] Disconnect eus.rubiconproject.com:443
+[2019-05-21 18:44:43] [Info] Connect eb2.3lift.com:443
+[2019-05-21 18:44:43] [Info] Connect pre-usermatch.targeting.unrulymedia.com:443
+[2019-05-21 18:44:43] [Info] Connect sync-tm.everesttech.net:443
+[2019-05-21 18:44:43] [Info] Connect api.searchlinks.com:443
+[2019-05-21 18:44:43] [Info] Connect cm.adform.net:443
+[2019-05-21 18:44:43] [Info] Connect images.sftcdn.net:443
+[2019-05-21 18:44:43] [Info] Disconnect js.searchlinks.com:443
+[2019-05-21 18:44:43] [Info] Connect onesignal.com:443
+[2019-05-21 18:44:43] [Info] Disconnect js.searchlinks.com:443
+[2019-05-21 18:44:43] [Info] Disconnect tags.bkrtx.com:443
+[2019-05-21 18:44:43] [Info] Disconnect widget.us.criteo.com:443
+[2019-05-21 18:44:43] [Info] Connect farm.plista.com:443
+[2019-05-21 18:44:44] [Info] Disconnect api.searchlinks.com:443
+[2019-05-21 18:44:44] [Info] Disconnect api.searchlinks.com:443
+[2019-05-21 18:44:44] [Info] Connect images.sftcdn.net:443
+[2019-05-21 18:44:44] [Info] Connect sync.extend.tv:443
+[2019-05-21 18:44:44] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:44:44] [Info] Connect sync-tm.everesttech.net:443
+[2019-05-21 18:44:45] [Info] Disconnect sync-tm.everesttech.net:443
+[2019-05-21 18:44:45] [Info] Disconnect api.searchlinks.com:443
+[2019-05-21 18:44:45] [Info] Disconnect ad.360yield.com:443
+[2019-05-21 18:44:45] [Info] Disconnect appnexus-partners.tremorhub.com:443
+[2019-05-21 18:44:45] [Info] Disconnect match.sharethrough.com:443
+[2019-05-21 18:44:45] [Info] Disconnect pre-usermatch.targeting.unrulymedia.com:443
+[2019-05-21 18:44:45] [Info] Disconnect z.moatads.com:443
+[2019-05-21 18:44:45] [Info] Disconnect cdn.video.playwire.com:443
+[2019-05-21 18:44:45] [Info] Disconnect onesignal.com:443
+[2019-05-21 18:44:45] [Info] Disconnect sync-tm.everesttech.net:443
+[2019-05-21 18:44:45] [Info] Disconnect eb2.3lift.com:443
+[2019-05-21 18:44:45] [Info] Disconnect cm.adform.net:443
+[2019-05-21 18:44:45] [Info] Connect cti.w55c.net:443
+[2019-05-21 18:44:45] [Info] Disconnect cdn.playwire.com:443
+[2019-05-21 18:44:45] [Info] Disconnect cdn.intergi.com:443
+[2019-05-21 18:44:45] [Info] Connect onetag-sys.com:443
+[2019-05-21 18:44:46] [Info] Connect login.softonic.com:443
+[2019-05-21 18:44:46] [Info] Connect sync.tidaltv.com:443
+[2019-05-21 18:44:46] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:46] [Info] Connect sync-dsp.ad-m.asia:443
+[2019-05-21 18:44:46] [Info] Connect sync.1rx.io:443
+[2019-05-21 18:44:46] [Info] Connect pxl.connexity.net:443
+[2019-05-21 18:44:46] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:44:46] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:47] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:47] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:47] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:47] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:47] [Info] Direct connect www.googletagmanager.com:443
+[2019-05-21 18:44:47] [Info] Connect config.playwire.com:443
+[2019-05-21 18:44:47] [Info] Connect mb.moatads.com:443
+[2019-05-21 18:44:47] [Info] Connect px.moatads.com:443
+[2019-05-21 18:44:47] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:47] [Info] Connect sync.search.spotxchange.com:443
+[2019-05-21 18:44:47] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:44:47] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:44:48] [Info] Connect px.moatads.com:443
+[2019-05-21 18:44:48] [Info] Disconnect sync-dsp.ad-m.asia:443
+[2019-05-21 18:44:48] [Info] Connect idsync.rlcdn.com:443
+[2019-05-21 18:44:48] [Info] Disconnect sync.search.spotxchange.com:443
+[2019-05-21 18:44:48] [Info] Connect i.w55c.net:443
+[2019-05-21 18:44:48] [Info] Connect cdn.playwire.com:443
+[2019-05-21 18:44:48] [Info] Connect cdn.playwire.com:443
+[2019-05-21 18:44:48] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:44:48] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:48] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:48] [Info] Connect sync-tapi.admatrix.jp:443
+[2019-05-21 18:44:48] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:48] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:48] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:44:48] [Info] Disconnect images.sftcdn.net:443
+[2019-05-21 18:44:48] [Info] Direct connect csi.gstatic.com:443
+[2019-05-21 18:44:48] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:48] [Info] Connect px.moatads.com:443
+[2019-05-21 18:44:48] [Info] Disconnect login.softonic.com:443
+[2019-05-21 18:44:48] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:48] [Info] Disconnect mb.moatads.com:443
+[2019-05-21 18:44:48] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:44:49] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:49] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:49] [Info] Direct connect match.adsrvr.org:443
+[2019-05-21 18:44:49] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:44:49] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:44:49] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:44:49] [Info] Disconnect pxl.connexity.net:443
+[2019-05-21 18:44:49] [Info] Connect d.turn.com:443
+[2019-05-21 18:44:49] [Info] Disconnect cdn.playwire.com:443
+[2019-05-21 18:44:49] [Info] Connect articles-img.sftcdn.net:443
+[2019-05-21 18:44:49] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:44:49] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:50] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:50] [Info] Connect pippio.com:443
+[2019-05-21 18:44:50] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:44:50] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:50] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:44:50] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:44:50] [Info] Connect tags.w55c.net:443
+[2019-05-21 18:44:50] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:51] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:51] [Info] Disconnect d.turn.com:443
+[2019-05-21 18:44:51] [Info] Connect sync-dsp.ad-m.asia:443
+[2019-05-21 18:44:51] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:51] [Info] Connect t8045287650423903645.id.amgdgt.com:443
+[2019-05-21 18:44:51] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:51] [Info] Disconnect sync-tapi.admatrix.jp:443
+[2019-05-21 18:44:51] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:44:51] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:51] [Info] Connect connect.facebook.net:443
+[2019-05-21 18:44:51] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:52] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:44:52] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:44:52] [Info] Disconnect i.w55c.net:443
+[2019-05-21 18:44:52] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:44:52] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:52] [Info] Connect tags.rd.linksynergy.com:443
+[2019-05-21 18:44:52] [Info] Connect cdn.video.playwire.com:443
+[2019-05-21 18:44:52] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:44:52] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:44:52] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:52] [Info] Direct connect imasdk.googleapis.com:443
+[2019-05-21 18:44:52] [Info] Direct connect fonts.googleapis.com:443
+[2019-05-21 18:44:52] [Info] Disconnect px.moatads.com:443
+[2019-05-21 18:44:52] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:52] [Info] Disconnect px.moatads.com:443
+[2019-05-21 18:44:52] [Info] Connect dpm.demdex.net:443
+[2019-05-21 18:44:52] [Info] Disconnect px.moatads.com:443
+[2019-05-21 18:44:52] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:52] [Info] Connect connect.facebook.net:443
+[2019-05-21 18:44:52] [Info] Disconnect sync.1rx.io:443
+[2019-05-21 18:44:52] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 18:44:52] [Info] Disconnect sync.extend.tv:443
+[2019-05-21 18:44:53] [Info] Disconnect sync.tidaltv.com:443
+[2019-05-21 18:44:53] [Info] Direct connect adservice.google.com:443
+[2019-05-21 18:44:53] [Info] Disconnect onetag-sys.com:443
+[2019-05-21 18:44:53] [Info] Disconnect tags.w55c.net:443
+[2019-05-21 18:44:53] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:44:53] [Info] Connect www.facebook.com:443
+[2019-05-21 18:44:53] [Info] Connect en.softonic.com:443
+[2019-05-21 18:44:53] [Info] Disconnect sync-dsp.ad-m.asia:443
+[2019-05-21 18:44:53] [Info] Disconnect t8045287650423903645.id.amgdgt.com:443
+[2019-05-21 18:44:53] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:54] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:54] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:44:54] [Info] Connect search.spotxchange.com:443
+[2019-05-21 18:44:54] [Info] Connect search.spotxchange.com:443
+[2019-05-21 18:44:54] [Info] Connect fastlane.rubiconproject.com:443
+[2019-05-21 18:44:54] [Info] Disconnect dpm.demdex.net:443
+[2019-05-21 18:44:54] [Info] Connect sc.sftcdn.net:443
+[2019-05-21 18:44:54] [Info] Connect sc.sftcdn.net:443
+[2019-05-21 18:44:54] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:44:54] [Info] Connect sslwidget.criteo.com:443
+[2019-05-21 18:44:54] [Info] Connect simonsignal.com:443
+[2019-05-21 18:44:54] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:44:54] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:44:54] [Info] Connect static.hotjar.com:443
+[2019-05-21 18:44:54] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:44:54] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:44:54] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:44:54] [Info] Disconnect idsync.rlcdn.com:443
+[2019-05-21 18:44:54] [Info] Disconnect articles-img.sftcdn.net:443
+[2019-05-21 18:44:54] [Info] Disconnect config.playwire.com:443
+[2019-05-21 18:44:54] [Info] Disconnect tags.rd.linksynergy.com:443
+[2019-05-21 18:44:54] [Info] Disconnect cti.w55c.net:443
+[2019-05-21 18:44:54] [Info] Disconnect cdn.video.playwire.com:443
+[2019-05-21 18:44:54] [Info] Disconnect farm.plista.com:443
+[2019-05-21 18:44:54] [Info] Connect c.liadm.com:443
+[2019-05-21 18:44:54] [Info] Connect api.opmnstr.com:443
+[2019-05-21 18:44:54] [Info] Connect sc.sftcdn.net:443
+[2019-05-21 18:44:54] [Info] Connect www.facebook.com:443
+[2019-05-21 18:44:54] [Info] Disconnect connect.facebook.net:443
+[2019-05-21 18:44:54] [Info] Disconnect pippio.com:443
+[2019-05-21 18:44:55] [Info] Disconnect cdn.playwire.com:443
+[2019-05-21 18:44:55] [Info] Connect sc.sftcdn.net:443
+[2019-05-21 18:44:55] [Info] Disconnect en.softonic.com:443
+[2019-05-21 18:44:55] [Info] Disconnect connect.facebook.net:443
+[2019-05-21 18:44:55] [Info] Connect sc.sftcdn.net:443
+[2019-05-21 18:44:55] [Info] Connect simonsignal.com:443
+[2019-05-21 18:44:55] [Info] Connect simonsignal.com:443
+[2019-05-21 18:44:55] [Info] Disconnect images.sftcdn.net:443
+[2019-05-21 18:44:55] [Info] Disconnect www.facebook.com:443
+[2019-05-21 18:44:55] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:55] [Info] Connect articles-img.sftcdn.net:443
+[2019-05-21 18:44:55] [Info] Connect connect.facebook.net:443
+[2019-05-21 18:44:55] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:55] [Info] Connect c.amazon-adsystem.com:443
+[2019-05-21 18:44:55] [Info] Connect connect.facebook.net:443
+[2019-05-21 18:44:55] [Info] Disconnect search.spotxchange.com:443
+[2019-05-21 18:44:55] [Info] Connect static.criteo.net:443
+[2019-05-21 18:44:55] [Info] Connect as-sec.casalemedia.com:443
+[2019-05-21 18:44:55] [Info] Connect articles-img.sftcdn.net:443
+[2019-05-21 18:44:55] [Info] Connect articles-img.sftcdn.net:443
+[2019-05-21 18:44:55] [Info] Connect articles-img.sftcdn.net:443
+[2019-05-21 18:44:55] [Info] Connect www.facebook.com:443
+[2019-05-21 18:44:56] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 18:44:56] [Info] Connect simonsignal.com:443
+[2019-05-21 18:44:56] [Info] Connect simonsignal.com:443
+[2019-05-21 18:44:56] [Info] Disconnect articles-img.sftcdn.net:443
+[2019-05-21 18:44:56] [Info] Connect simonsignal.com:443
+[2019-05-21 18:44:56] [Info] Connect script.hotjar.com:443
+[2019-05-21 18:44:56] [Info] Disconnect c.amazon-adsystem.com:443
+[2019-05-21 18:44:56] [Info] Disconnect connect.facebook.net:443
+[2019-05-21 18:44:56] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-05-21 18:44:56] [Info] Disconnect articles-img.sftcdn.net:443
+[2019-05-21 18:44:56] [Info] Disconnect sc.sftcdn.net:443
+[2019-05-21 18:44:56] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:56] [Info] Disconnect sc.sftcdn.net:443
+[2019-05-21 18:44:56] [Info] Disconnect search.spotxchange.com:443
+[2019-05-21 18:44:56] [Info] Disconnect static.criteo.net:443
+[2019-05-21 18:44:56] [Info] Disconnect articles-img.sftcdn.net:443
+[2019-05-21 18:44:56] [Info] Connect vars.hotjar.com:443
+[2019-05-21 18:44:56] [Info] Disconnect www.facebook.com:443
+[2019-05-21 18:44:56] [Info] Connect t.myvisualiq.net:443
+[2019-05-21 18:44:56] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:56] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:56] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:56] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:56] [Info] Connect articles-images.sftcdn.net:443
+[2019-05-21 18:44:56] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 18:44:56] [Info] Connect t.myvisualiq.net:443
+[2019-05-21 18:44:56] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 18:44:56] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:44:57] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:57] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:44:57] [Info] Connect img.playbuzz.com:443
+[2019-05-21 18:44:58] [Info] Connect xshell.en.softonic.com:443
+[2019-05-21 18:44:58] [Info] Direct connect adservice.google.com:443
+[2019-05-21 18:44:58] [Info] Direct connect www.googletagservices.com:443
+[2019-05-21 18:44:59] [Info] Connect static.criteo.net:443
+[2019-05-21 18:44:59] [Info] Connect widget.us.criteo.com:443
+[2019-05-21 18:44:59] [Info] Connect images.sftcdn.net:443
+[2019-05-21 18:44:59] [Info] Connect c.amazon-adsystem.com:443
+[2019-05-21 18:44:59] [Info] Connect static.simonsignal.com:443
+[2019-05-21 18:44:59] [Info] Connect connect.facebook.net:443
+[2019-05-21 18:44:59] [Info] Direct connect www.googletagmanager.com:443
+[2019-05-21 18:44:59] [Info] Direct connect cdn.ampproject.org:443
+[2019-05-21 18:44:59] [Info] Connect aax.amazon-adsystem.com:443
+[2019-05-21 18:44:59] [Info] Disconnect articles-images.sftcdn.net:443
+[2019-05-21 18:44:59] [Info] Disconnect as-sec.casalemedia.com:443
+[2019-05-21 18:44:59] [Info] Disconnect img.playbuzz.com:443
+[2019-05-21 18:44:59] [Info] Disconnect script.hotjar.com:443
+[2019-05-21 18:44:59] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:44:59] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:44:59] [Info] Disconnect sslwidget.criteo.com:443
+[2019-05-21 18:44:59] [Info] Disconnect t.myvisualiq.net:443
+[2019-05-21 18:44:59] [Info] Disconnect t.myvisualiq.net:443
+[2019-05-21 18:44:59] [Info] Connect a.optnmstr.com:443
+[2019-05-21 18:44:59] [Info] Disconnect aax.amazon-adsystem.com:443
+[2019-05-21 18:44:59] [Info] Connect fastlane.rubiconproject.com:443
+[2019-05-21 18:44:59] [Info] Connect as-sec.casalemedia.com:443
+[2019-05-21 18:44:59] [Info] Connect c.amazon-adsystem.com:443
+[2019-05-21 18:44:59] [Info] Connect connect.facebook.net:443
+[2019-05-21 18:44:59] [Info] Direct connect adservice.google.com:443
+[2019-05-21 18:44:59] [Info] Connect c.amazon-adsystem.com:443
+[2019-05-21 18:45:00] [Info] Connect bidder.criteo.com:443
+[2019-05-21 18:45:00] [Info] Disconnect c.amazon-adsystem.com:443
+[2019-05-21 18:45:00] [Info] Disconnect images.sftcdn.net:443
+[2019-05-21 18:45:00] [Info] Disconnect connect.facebook.net:443
+[2019-05-21 18:45:00] [Info] Connect aax.amazon-adsystem.com:443
+[2019-05-21 18:45:00] [Info] Disconnect static.simonsignal.com:443
+[2019-05-21 18:45:00] [Info] Disconnect vars.hotjar.com:443
+[2019-05-21 18:45:00] [Info] Connect en.softonic.com:443
+[2019-05-21 18:45:00] [Info] Disconnect c.amazon-adsystem.com:443
+[2019-05-21 18:45:00] [Info] Connect en.softonic.com:443
+[2019-05-21 18:45:00] [Info] Connect sslwidget.criteo.com:443
+[2019-05-21 18:45:00] [Info] Disconnect bidder.criteo.com:443
+[2019-05-21 18:45:00] [Info] Disconnect a.optnmstr.com:443
+[2019-05-21 18:45:00] [Info] Connect js.searchlinks.com:443
+[2019-05-21 18:45:01] [Info] Connect js.searchlinks.com:443
+[2019-05-21 18:45:01] [Info] Disconnect en.softonic.com:443
+[2019-05-21 18:45:01] [Info] Connect i.liadm.com:443
+[2019-05-21 18:45:01] [Info] Disconnect aax.amazon-adsystem.com:443
+[2019-05-21 18:45:01] [Info] Disconnect connect.facebook.net:443
+[2019-05-21 18:45:01] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-05-21 18:45:01] [Info] Connect a.opmnstr.com:443
+[2019-05-21 18:45:02] [Info] Connect api.searchlinks.com:443
+[2019-05-21 18:45:02] [Info] Connect api.searchlinks.com:443
+[2019-05-21 18:45:03] [Info] Disconnect as-sec.casalemedia.com:443
+[2019-05-21 18:45:03] [Info] Disconnect js.searchlinks.com:443
+[2019-05-21 18:45:03] [Info] Connect js.searchlinks.com:443
+[2019-05-21 18:45:03] [Info] Connect ajax.googleapis.com:443
+[2019-05-21 18:45:03] [Info] Disconnect i.liadm.com:443
+[2019-05-21 18:45:03] [Info] Disconnect sslwidget.criteo.com:443
+[2019-05-21 18:45:04] [Info] Connect api.searchlinks.com:443
+[2019-05-21 18:45:04] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:45:04] [Info] Disconnect static.criteo.net:443
+[2019-05-21 18:45:04] [Info] Disconnect widget.us.criteo.com:443
+[2019-05-21 18:45:04] [Info] Direct connect fonts.googleapis.com:443
+[2019-05-21 18:45:04] [Info] Connect api.searchlinks.com:443
+[2019-05-21 18:45:04] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:45:04] [Info] Disconnect js.searchlinks.com:443
+[2019-05-21 18:45:04] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:45:04] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:05] [Info] Disconnect js.searchlinks.com:443
+[2019-05-21 18:45:05] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:05] [Info] Disconnect api.searchlinks.com:443
+[2019-05-21 18:45:05] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:05] [Info] Connect eus.rubiconproject.com:443
+[2019-05-21 18:45:05] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:45:05] [Info] Connect login.softonic.com:443
+[2019-05-21 18:45:05] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:45:05] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:05] [Info] Disconnect api.searchlinks.com:443
+[2019-05-21 18:45:05] [Info] Disconnect api.searchlinks.com:443
+[2019-05-21 18:45:05] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:05] [Info] Connect beacon.krxd.net:443
+[2019-05-21 18:45:06] [Info] Connect ads.stickyadstv.com:443
+[2019-05-21 18:45:06] [Info] Connect pixel.advertising.com:443
+[2019-05-21 18:45:06] [Info] Connect pm.w55c.net:443
+[2019-05-21 18:45:06] [Info] Disconnect sc.sftcdn.net:443
+[2019-05-21 18:45:06] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:06] [Info] Disconnect c.amazon-adsystem.com:443
+[2019-05-21 18:45:06] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:06] [Info] Disconnect xshell.en.softonic.com:443
+[2019-05-21 18:45:06] [Info] Disconnect www.facebook.com:443
+[2019-05-21 18:45:06] [Info] Disconnect a.opmnstr.com:443
+[2019-05-21 18:45:06] [Info] Disconnect en.softonic.com:443
+[2019-05-21 18:45:06] [Info] Disconnect ajax.googleapis.com:443
+[2019-05-21 18:45:06] [Info] Disconnect api.opmnstr.com:443
+[2019-05-21 18:45:06] [Info] Disconnect c.liadm.com:443
+[2019-05-21 18:45:06] [Info] Disconnect connect.facebook.net:443
+[2019-05-21 18:45:06] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:06] [Info] Disconnect sc.sftcdn.net:443
+[2019-05-21 18:45:06] [Info] Disconnect sc.sftcdn.net:443
+[2019-05-21 18:45:06] [Info] Connect sync.teads.tv:443
+[2019-05-21 18:45:06] [Info] Connect x.dlx.addthis.com:443
+[2019-05-21 18:45:06] [Info] Connect rtb-csync.smartadserver.com:443
+[2019-05-21 18:45:06] [Info] Connect s.thebrighttag.com:443
+[2019-05-21 18:45:06] [Info] Disconnect static.hotjar.com:443
+[2019-05-21 18:45:06] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:06] [Info] Disconnect articles-img.sftcdn.net:443
+[2019-05-21 18:45:06] [Info] Connect prod.y-medialink.com:443
+[2019-05-21 18:45:06] [Info] Connect login.softonic.com:443
+[2019-05-21 18:45:06] [Info] Connect um2.eqads.com:443
+[2019-05-21 18:45:06] [Info] Connect a.tribalfusion.com:443
+[2019-05-21 18:45:06] [Info] Connect bh.contextweb.com:443
+[2019-05-21 18:45:06] [Info] Connect dmp.brand-display.com:443
+[2019-05-21 18:45:06] [Info] Connect bttrack.com:443
+[2019-05-21 18:45:06] [Info] Connect solutions-assets.sftcdn.net:443
+[2019-05-21 18:45:06] [Info] Connect match.adsby.bidtheatre.com:443
+[2019-05-21 18:45:07] [Info] Connect assets.validclick.com:443
+[2019-05-21 18:45:07] [Info] Connect token.rubiconproject.com:443
+[2019-05-21 18:45:08] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:45:08] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:45:08] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:45:08] [Info] Connect sync-tm.everesttech.net:443
+[2019-05-21 18:45:08] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:45:08] [Info] Disconnect ads.stickyadstv.com:443
+[2019-05-21 18:45:09] [Info] Connect ads.stickyadstv.com:443
+[2019-05-21 18:45:09] [Info] Disconnect api.searchlinks.com:443
+[2019-05-21 18:45:09] [Info] Connect www.facebook.com:443
+[2019-05-21 18:45:09] [Info] Connect xshell.en.softonic.com:443
+[2019-05-21 18:45:09] [Info] Direct connect adservice.google.com:443
+[2019-05-21 18:45:09] [Info] Connect widget.us.criteo.com:443
+[2019-05-21 18:45:09] [Info] Connect c.amazon-adsystem.com:443
+[2019-05-21 18:45:09] [Info] Connect sc.sftcdn.net:443
+[2019-05-21 18:45:09] [Info] Connect a.opmnstr.com:443
+[2019-05-21 18:45:09] [Info] Connect aax.amazon-adsystem.com:443
+[2019-05-21 18:45:09] [Info] Connect ajax.googleapis.com:443
+[2019-05-21 18:45:09] [Info] Direct connect fonts.googleapis.com:443
+[2019-05-21 18:45:09] [Info] Direct connect www.googletagservices.com:443
+[2019-05-21 18:45:09] [Info] Direct connect www.googletagmanager.com:443
+[2019-05-21 18:45:09] [Info] Connect images.sftcdn.net:443
+[2019-05-21 18:45:09] [Info] Connect static.criteo.net:443
+[2019-05-21 18:45:09] [Info] Connect a.optnmstr.com:443
+[2019-05-21 18:45:09] [Info] Connect dis.us.criteo.com:443
+[2019-05-21 18:45:09] [Info] Disconnect assets.validclick.com:443
+[2019-05-21 18:45:09] [Info] Connect c.liadm.com:443
+[2019-05-21 18:45:09] [Info] Disconnect beacon.krxd.net:443
+[2019-05-21 18:45:09] [Info] Disconnect um2.eqads.com:443
+[2019-05-21 18:45:09] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:45:09] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:45:09] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:45:09] [Info] Disconnect bh.contextweb.com:443
+[2019-05-21 18:45:09] [Info] Disconnect eus.rubiconproject.com:443
+[2019-05-21 18:45:09] [Info] Disconnect bttrack.com:443
+[2019-05-21 18:45:09] [Info] Disconnect login.softonic.com:443
+[2019-05-21 18:45:09] [Info] Disconnect match.adsby.bidtheatre.com:443
+[2019-05-21 18:45:09] [Info] Disconnect login.softonic.com:443
+[2019-05-21 18:45:09] [Info] Disconnect pm.w55c.net:443
+[2019-05-21 18:45:09] [Info] Disconnect rtb-csync.smartadserver.com:443
+[2019-05-21 18:45:09] [Info] Disconnect token.rubiconproject.com:443
+[2019-05-21 18:45:09] [Info] Disconnect x.dlx.addthis.com:443
+[2019-05-21 18:45:10] [Info] Connect b-code.liadm.com:443
+[2019-05-21 18:45:10] [Info] Disconnect a.opmnstr.com:443
+[2019-05-21 18:45:10] [Info] Connect cdns.gigya.com:443
+[2019-05-21 18:45:10] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 101.227.212.107:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-05-21 18:45:10] [Info] Disconnect aax.amazon-adsystem.com:443
+[2019-05-21 18:45:10] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:45:10] [Info] Disconnect ads.stickyadstv.com:443
+[2019-05-21 18:45:10] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:45:10] [Info] Connect fastlane.rubiconproject.com:443
+[2019-05-21 18:45:10] [Info] Connect as-sec.casalemedia.com:443
+[2019-05-21 18:45:10] [Info] Connect connect.facebook.net:443
+[2019-05-21 18:45:10] [Info] Direct connect adservice.google.com:443
+[2019-05-21 18:45:10] [Info] Connect c.amazon-adsystem.com:443
+[2019-05-21 18:45:10] [Info] Connect bidder.criteo.com:443
+[2019-05-21 18:45:10] [Info] Connect aax.amazon-adsystem.com:443
+[2019-05-21 18:45:10] [Info] Disconnect a.optnmstr.com:443
+[2019-05-21 18:45:10] [Info] Connect sslwidget.criteo.com:443
+[2019-05-21 18:45:10] [Info] Connect simonsignal.com:443
+[2019-05-21 18:45:11] [Info] Connect api.opmnstr.com:443
+[2019-05-21 18:45:11] [Info] Disconnect a.tribalfusion.com:443
+[2019-05-21 18:45:11] [Info] Disconnect ajax.googleapis.com:443
+[2019-05-21 18:45:11] [Info] Disconnect b-code.liadm.com:443
+[2019-05-21 18:45:11] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:45:11] [Info] Disconnect c.amazon-adsystem.com:443
+[2019-05-21 18:45:11] [Info] Connect simonsignal.com:443
+[2019-05-21 18:45:11] [Info] Connect simonsignal.com:443
+[2019-05-21 18:45:11] [Info] Connect i.liadm.com:443
+[2019-05-21 18:45:11] [Info] Disconnect images.sftcdn.net:443
+[2019-05-21 18:45:11] [Info] Disconnect as-sec.casalemedia.com:443
+[2019-05-21 18:45:11] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:11] [Info] Connect js.searchlinks.com:443
+[2019-05-21 18:45:11] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 18:45:12] [Info] Disconnect aax.amazon-adsystem.com:443
+[2019-05-21 18:45:12] [Info] Connect simonsignal.com:443
+[2019-05-21 18:45:12] [Info] Disconnect bidder.criteo.com:443
+[2019-05-21 18:45:12] [Info] Connect simonsignal.com:443
+[2019-05-21 18:45:12] [Info] Connect simonsignal.com:443
+[2019-05-21 18:45:13] [Info] Disconnect cdns.gigya.com:443
+[2019-05-21 18:45:13] [Info] Disconnect connect.facebook.net:443
+[2019-05-21 18:45:13] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:13] [Info] Connect api.searchlinks.com:443
+[2019-05-21 18:45:14] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:45:15] [Info] Disconnect api.searchlinks.com:443
+[2019-05-21 18:45:16] [Info] Connect login.softonic.com:443
+[2019-05-21 18:45:16] [Info] Disconnect dis.us.criteo.com:443
+[2019-05-21 18:45:16] [Info] Connect eus.rubiconproject.com:443
+[2019-05-21 18:45:16] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-05-21 18:45:17] [Info] Connect pxl.connexity.net:443
+[2019-05-21 18:45:17] [Info] Connect um.simpli.fi:443
+[2019-05-21 18:45:17] [Info] Connect loadm.exelator.com:443
+[2019-05-21 18:45:17] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:45:17] [Info] Connect sync.tidaltv.com:443
+[2019-05-21 18:45:17] [Info] Connect cm.adgrx.com:443
+[2019-05-21 18:45:17] [Info] Disconnect i.liadm.com:443
+[2019-05-21 18:45:17] [Info] Disconnect js.searchlinks.com:443
+[2019-05-21 18:45:17] [Info] Connect jadserve.postrelease.com:443
+[2019-05-21 18:45:17] [Info] Connect cm.adgrx.com:443
+[2019-05-21 18:45:17] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:45:17] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:45:17] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:45:17] [Info] Disconnect sslwidget.criteo.com:443
+[2019-05-21 18:45:17] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:17] [Info] Connect match.rundsp.com:443
+[2019-05-21 18:45:17] [Info] Connect px.adhigh.net:443
+[2019-05-21 18:45:17] [Info] Connect d5p.de17a.com:443
+[2019-05-21 18:45:17] [Info] Disconnect eus.rubiconproject.com:443
+[2019-05-21 18:45:17] [Info] Disconnect static.criteo.net:443
+[2019-05-21 18:45:17] [Info] Disconnect widget.us.criteo.com:443
+[2019-05-21 18:45:17] [Info] Disconnect c.amazon-adsystem.com:443
+[2019-05-21 18:45:17] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:17] [Info] Connect apnx-match.dotomi.com:443
+[2019-05-21 18:45:17] [Info] Connect cr-p16.ladsp.jp:443
+[2019-05-21 18:45:17] [Info] Connect mpp.vindicosuite.com:443
+[2019-05-21 18:45:17] [Info] Connect adventori.com:443
+[2019-05-21 18:45:17] [Info] Connect dis.us.criteo.com:443
+[2019-05-21 18:45:18] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:45:18] [Info] Connect s.amazon-adsystem.com:443
+[2019-05-21 18:45:18] [Info] Disconnect login.softonic.com:443
+[2019-05-21 18:45:18] [Debug] DNS query fail: pixel.jumptap.com
+[2019-05-21 18:45:18] [Info] Connect pixel.jumptap.com:443
+[2019-05-21 18:45:18] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:45:18] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:45:19] [Info] Disconnect sync.tidaltv.com:443
+[2019-05-21 18:45:19] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:45:19] [Info] Disconnect cm.adgrx.com:443
+[2019-05-21 18:45:19] [Info] Connect android.clients.google.com:443
+[2019-05-21 18:45:19] [Info] Disconnect d5p.de17a.com:443
+[2019-05-21 18:45:20] [Info] Disconnect cm.adgrx.com:443
+[2019-05-21 18:45:20] [Info] Connect apnx-match.dotomi.com:443
+[2019-05-21 18:45:20] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:45:20] [Info] Connect cr-pall.ladsp.com:443
+[2019-05-21 18:45:20] [Info] Disconnect apnx-match.dotomi.com:443
+[2019-05-21 18:45:20] [Info] Disconnect adventori.com:443
+[2019-05-21 18:45:20] [Info] Connect en.softonic.com:443
+[2019-05-21 18:45:20] [Info] Disconnect dis.us.criteo.com:443
+[2019-05-21 18:45:20] [Info] Disconnect pxl.connexity.net:443
+[2019-05-21 18:45:20] [Info] Connect en.softonic.com:443
+[2019-05-21 18:45:20] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:45:20] [Info] Connect id5-sync.com:443
+[2019-05-21 18:45:21] [Info] Disconnect en.softonic.com:443
+[2019-05-21 18:45:21] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:21] [Info] Connect fastlane.rubiconproject.com:443
+[2019-05-21 18:45:21] [Info] Connect c.amazon-adsystem.com:443
+[2019-05-21 18:45:21] [Info] Connect config.playwire.com:443
+[2019-05-21 18:45:21] [Info] Connect connect.facebook.net:443
+[2019-05-21 18:45:21] [Info] Disconnect pixel.jumptap.com:443
+[2019-05-21 18:45:21] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:45:21] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:45:21] [Info] Disconnect s.amazon-adsystem.com:443
+[2019-05-21 18:45:21] [Info] Disconnect px.adhigh.net:443
+[2019-05-21 18:45:21] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:21] [Info] Disconnect jadserve.postrelease.com:443
+[2019-05-21 18:45:21] [Info] Disconnect sc.sftcdn.net:443
+[2019-05-21 18:45:21] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:21] [Info] Disconnect um.simpli.fi:443
+[2019-05-21 18:45:21] [Info] Disconnect c.liadm.com:443
+[2019-05-21 18:45:21] [Info] Disconnect xshell.en.softonic.com:443
+[2019-05-21 18:45:21] [Info] Disconnect android.clients.google.com:443
+[2019-05-21 18:45:21] [Info] Disconnect mpp.vindicosuite.com:443
+[2019-05-21 18:45:21] [Info] Connect as-sec.casalemedia.com:443
+[2019-05-21 18:45:21] [Info] Disconnect www.facebook.com:443
+[2019-05-21 18:45:21] [Info] Disconnect cr-p16.ladsp.jp:443
+[2019-05-21 18:45:21] [Info] Disconnect loadm.exelator.com:443
+[2019-05-21 18:45:21] [Info] Connect bidder.criteo.com:443
+[2019-05-21 18:45:21] [Info] Connect sc.sftcdn.net:443
+[2019-05-21 18:45:21] [Info] Connect aax.amazon-adsystem.com:443
+[2019-05-21 18:45:21] [Info] Connect mb.moatads.com:443
+[2019-05-21 18:45:21] [Info] Connect c.amazon-adsystem.com:443
+[2019-05-21 18:45:21] [Info] Connect px.moatads.com:443
+[2019-05-21 18:45:21] [Info] Connect config.playwire.com:443
+[2019-05-21 18:45:21] [Info] Disconnect sync-tm.everesttech.net:443
+[2019-05-21 18:45:21] [Info] Disconnect match.rundsp.com:443
+[2019-05-21 18:45:21] [Info] Disconnect api.opmnstr.com:443
+[2019-05-21 18:45:21] [Info] Disconnect prod.y-medialink.com:443
+[2019-05-21 18:45:21] [Info] Disconnect solutions-assets.sftcdn.net:443
+[2019-05-21 18:45:21] [Info] Disconnect s.thebrighttag.com:443
+[2019-05-21 18:45:21] [Info] Connect sslwidget.criteo.com:443
+[2019-05-21 18:45:21] [Info] Disconnect sync.teads.tv:443
+[2019-05-21 18:45:21] [Info] Connect simonsignal.com:443
+[2019-05-21 18:45:21] [Info] Connect sc.sftcdn.net:443
+[2019-05-21 18:45:21] [Info] Connect c.liadm.com:443
+[2019-05-21 18:45:21] [Info] Connect api.opmnstr.com:443
+[2019-05-21 18:45:21] [Info] Disconnect dmp.brand-display.com:443
+[2019-05-21 18:45:21] [Info] Disconnect pixel.advertising.com:443
+[2019-05-21 18:45:22] [Info] Connect www.facebook.com:443
+[2019-05-21 18:45:22] [Info] Connect simonsignal.com:443
+[2019-05-21 18:45:22] [Info] Connect simonsignal.com:443
+[2019-05-21 18:45:22] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:22] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:22] [Info] Connect js.searchlinks.com:443
+[2019-05-21 18:45:23] [Info] Connect js.searchlinks.com:443
+[2019-05-21 18:45:23] [Info] Connect simonsignal.com:443
+[2019-05-21 18:45:23] [Info] Connect i.liadm.com:443
+[2019-05-21 18:45:23] [Info] Connect widget.us.criteo.com:443
+[2019-05-21 18:45:23] [Info] Connect simonsignal.com:443
+[2019-05-21 18:45:23] [Info] Connect simonsignal.com:443
+[2019-05-21 18:45:23] [Info] Direct connect adservice.google.com:443
+[2019-05-21 18:45:23] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:24] [Info] Connect api.searchlinks.com:443
+[2019-05-21 18:45:24] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:24] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:24] [Info] Disconnect aax.amazon-adsystem.com:443
+[2019-05-21 18:45:24] [Info] Disconnect apnx-match.dotomi.com:443
+[2019-05-21 18:45:24] [Info] Disconnect as-sec.casalemedia.com:443
+[2019-05-21 18:45:24] [Info] Connect sync.search.spotxchange.com:443
+[2019-05-21 18:45:24] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:24] [Info] Disconnect bidder.criteo.com:443
+[2019-05-21 18:45:24] [Info] Connect api.searchlinks.com:443
+[2019-05-21 18:45:25] [Info] Connect connect.facebook.net:443
+[2019-05-21 18:45:25] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 18:45:25] [Info] Disconnect c.amazon-adsystem.com:443
+[2019-05-21 18:45:25] [Info] Disconnect config.playwire.com:443
+[2019-05-21 18:45:25] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:25] [Info] Disconnect connect.facebook.net:443
+[2019-05-21 18:45:25] [Info] Disconnect cr-pall.ladsp.com:443
+[2019-05-21 18:45:25] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-05-21 18:45:25] [Info] Disconnect sync.search.spotxchange.com:443
+[2019-05-21 18:45:26] [Info] Connect api.searchlinks.com:443
+[2019-05-21 18:45:26] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:26] [Info] Connect search.spotxchange.com:443
+[2019-05-21 18:45:26] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:45:26] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:26] [Info] Connect staticxx.facebook.com:443
+[2019-05-21 18:45:26] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:26] [Info] Disconnect i.liadm.com:443
+[2019-05-21 18:45:26] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:26] [Info] Connect api.searchlinks.com:443
+[2019-05-21 18:45:26] [Info] Disconnect id5-sync.com:443
+[2019-05-21 18:45:26] [Info] Disconnect js.searchlinks.com:443
+[2019-05-21 18:45:26] [Info] Disconnect mb.moatads.com:443
+[2019-05-21 18:45:26] [Info] Disconnect sc.sftcdn.net:443
+[2019-05-21 18:45:26] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:26] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:26] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:26] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:26] [Info] Disconnect js.searchlinks.com:443
+[2019-05-21 18:45:26] [Info] Disconnect sslwidget.criteo.com:443
+[2019-05-21 18:45:26] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:26] [Info] Disconnect widget.us.criteo.com:443
+[2019-05-21 18:45:26] [Info] Disconnect c.amazon-adsystem.com:443
+[2019-05-21 18:45:26] [Info] Connect login.softonic.com:443
+[2019-05-21 18:45:26] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:26] [Info] Connect eus.rubiconproject.com:443
+[2019-05-21 18:45:27] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:27] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:27] [Info] Disconnect px.moatads.com:443
+[2019-05-21 18:45:27] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:45:27] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:45:27] [Info] Disconnect api.searchlinks.com:443
+[2019-05-21 18:45:27] [Info] Disconnect api.searchlinks.com:443
+[2019-05-21 18:45:27] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:27] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:27] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:45:28] [Info] Connect idsync.rlcdn.com:443
+[2019-05-21 18:45:28] [Info] Connect sync.1rx.io:443
+[2019-05-21 18:45:28] [Info] Connect mpp.vindicosuite.com:443
+[2019-05-21 18:45:28] [Info] Connect trc.taboola.com:443
+[2019-05-21 18:45:28] [Info] Connect beacon.searchlinks.com:443
+[2019-05-21 18:45:28] [Debug] DNS query fail: sy.eu.angsrvr.com
+[2019-05-21 18:45:28] [Info] Connect sy.eu.angsrvr.com:443
+[2019-05-21 18:45:28] [Info] Connect ads.yahoo.com:443
+[2019-05-21 18:45:28] [Info] Connect cm.adsafety.net:443
+[2019-05-21 18:45:28] [Info] Connect rp.gwallet.com:443
+[2019-05-21 18:45:28] [Info] Disconnect api.searchlinks.com:443
+[2019-05-21 18:45:28] [Info] Disconnect api.searchlinks.com:443
+[2019-05-21 18:45:28] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:28] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:28] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:28] [Info] Disconnect www.facebook.com:443
+[2019-05-21 18:45:28] [Info] Disconnect c.liadm.com:443
+[2019-05-21 18:45:28] [Info] Disconnect api.opmnstr.com:443
+[2019-05-21 18:45:28] [Info] Disconnect en.softonic.com:443
+[2019-05-21 18:45:28] [Info] Disconnect connect.facebook.net:443
+[2019-05-21 18:45:28] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:28] [Info] Disconnect simonsignal.com:443
+[2019-05-21 18:45:28] [Info] Disconnect sc.sftcdn.net:443
+[2019-05-21 18:45:28] [Info] Disconnect config.playwire.com:443
+[2019-05-21 18:45:28] [Info] Connect contextual.media.net:443
+[2019-05-21 18:45:28] [Info] Connect t.a3cloud.net:443
+[2019-05-21 18:45:28] [Info] Connect cdn.playwire.com:443
+[2019-05-21 18:45:28] [Info] Connect rc2waycm-atl.netmng.com:443
+[2019-05-21 18:45:28] [Info] Connect pix.impdesk.com:443
+[2019-05-21 18:45:28] [Info] Connect track.eyeviewads.com:443
+[2019-05-21 18:45:28] [Info] Disconnect eus.rubiconproject.com:443
+[2019-05-21 18:45:28] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:28] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:28] [Info] Connect ads.creative-serving.com:443
+[2019-05-21 18:45:28] [Info] Disconnect search.spotxchange.com:443
+[2019-05-21 18:45:28] [Info] Connect rubicon.dsp.adboost.sk:443
+[2019-05-21 18:45:28] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:28] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:28] [Info] Connect gu.dyntrk.com:443
+[2019-05-21 18:45:28] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:28] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:28] [Info] Connect green.erne.co:443
+[2019-05-21 18:45:28] [Info] Disconnect sy.eu.angsrvr.com:443
+[2019-05-21 18:45:28] [Info] Connect map.media6degrees.com:443
+[2019-05-21 18:45:28] [Debug] DNS query fail: sy.eu.angsrvr.com
+[2019-05-21 18:45:28] [Info] Connect sy.eu.angsrvr.com:443
+[2019-05-21 18:45:28] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:28] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:28] [Info] Disconnect login.softonic.com:443
+[2019-05-21 18:45:29] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:29] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:29] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:45:29] [Info] Connect cdn.spotxcdn.com:443
+[2019-05-21 18:45:29] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:45:29] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:45:29] [Info] Disconnect cdn.playwire.com:443
+[2019-05-21 18:45:29] [Info] Disconnect idsync.rlcdn.com:443
+[2019-05-21 18:45:29] [Info] Disconnect mpp.vindicosuite.com:443
+[2019-05-21 18:45:29] [Info] Disconnect sy.eu.angsrvr.com:443
+[2019-05-21 18:45:29] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:29] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:45:29] [Info] Connect match.taboola.com:443
+[2019-05-21 18:45:29] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:29] [Info] Disconnect ads.yahoo.com:443
+[2019-05-21 18:45:30] [Info] Connect dis.us.criteo.com:443
+[2019-05-21 18:45:30] [Info] Connect www.siliconanalytics.com:443
+[2019-05-21 18:45:30] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:45:30] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:45:30] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:30] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:30] [Info] Disconnect map.media6degrees.com:443
+[2019-05-21 18:45:31] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:31] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:31] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 18:45:31] [Info] Connect pixeltrack.eyeviewads.com:443
+[2019-05-21 18:45:31] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:31] [Info] Connect en.softonic.com:443
+[2019-05-21 18:45:31] [Info] Connect sync.search.spotxchange.com:443
+[2019-05-21 18:45:31] [Info] Connect sync.search.spotxchange.com:443
+[2019-05-21 18:45:31] [Info] Connect sync.search.spotxchange.com:443
+[2019-05-21 18:45:31] [Info] Connect ad.turn.com:443
+[2019-05-21 18:45:31] [Info] Connect us-u.openx.net:443
+[2019-05-21 18:45:32] [Info] Disconnect ads.creative-serving.com:443
+[2019-05-21 18:45:32] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:45:32] [Info] Disconnect cdn.spotxcdn.com:443
+[2019-05-21 18:45:32] [Info] Disconnect beacon.searchlinks.com:443
+[2019-05-21 18:45:32] [Info] Disconnect contextual.media.net:443
+[2019-05-21 18:45:32] [Info] Disconnect cm.adsafety.net:443
+[2019-05-21 18:45:32] [Info] Disconnect dis.us.criteo.com:443
+[2019-05-21 18:45:32] [Info] Connect sxp.mxptint.net:443
+[2019-05-21 18:45:32] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:32] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:32] [Info] Connect ima3vpaid.appspot.com:443
+[2019-05-21 18:45:32] [Info] Connect sync.search.spotxchange.com:443
+[2019-05-21 18:45:32] [Info] Connect sync.search.spotxchange.com:443
+[2019-05-21 18:45:32] [Info] Connect vop.sundaysky.com:443
+[2019-05-21 18:45:32] [Info] Disconnect green.erne.co:443
+[2019-05-21 18:45:32] [Info] Disconnect gu.dyntrk.com:443
+[2019-05-21 18:45:32] [Info] Connect beacon.krxd.net:443
+[2019-05-21 18:45:32] [Info] Connect idsync.rlcdn.com:443
+[2019-05-21 18:45:32] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:45:32] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:45:32] [Info] Connect gu.dyntrk.com:443
+[2019-05-21 18:45:32] [Info] Connect log.adap.tv:443
+[2019-05-21 18:45:33] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:45:33] [Info] Connect pixel-sync.sitescout.com:443
+[2019-05-21 18:45:33] [Info] Direct connect imasdk.googleapis.com:443
+[2019-05-21 18:45:33] [Info] Direct connect match.adsrvr.org:443
+[2019-05-21 18:45:33] [Info] Disconnect ad.turn.com:443
+[2019-05-21 18:45:33] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:33] [Info] Disconnect rc2waycm-atl.netmng.com:443
+[2019-05-21 18:45:33] [Info] Disconnect rp.gwallet.com:443
+[2019-05-21 18:45:33] [Info] Disconnect sync.1rx.io:443
+[2019-05-21 18:45:33] [Info] Connect spotx-match.dotomi.com:443
+[2019-05-21 18:45:34] [Info] Connect usersync.videoamp.com:443
+[2019-05-21 18:45:34] [Info] Connect sync.1rx.io:443
+[2019-05-21 18:45:34] [Info] Connect dsp.adfarm1.adition.com:443
+[2019-05-21 18:45:34] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 18:45:34] [Info] Disconnect sxp.mxptint.net:443
+[2019-05-21 18:45:34] [Info] Disconnect sync.search.spotxchange.com:443
+[2019-05-21 18:45:34] [Info] Connect ad.sxp.smartclip.net:443
+[2019-05-21 18:45:34] [Info] Connect bh.contextweb.com:443
+[2019-05-21 18:45:34] [Info] Connect sync.adaptv.advertising.com:443
+[2019-05-21 18:45:35] [Info] Disconnect log.adap.tv:443
+[2019-05-21 18:45:35] [Info] Disconnect beacon.krxd.net:443
+[2019-05-21 18:45:35] [Info] Disconnect raw.githubusercontent.com:443
+[2019-05-21 18:45:36] [Info] Connect spotx-match.dotomi.com:443
+[2019-05-21 18:45:36] [Info] Disconnect spotx-match.dotomi.com:443
+[2019-05-21 18:45:36] [Info] Connect sync.tidaltv.com:443
+[2019-05-21 18:45:36] [Info] Disconnect bh.contextweb.com:443
+[2019-05-21 18:45:36] [Info] Connect csync.loopme.me:443
+[2019-05-21 18:45:36] [Info] Disconnect gu.dyntrk.com:443
+[2019-05-21 18:45:36] [Info] Connect match.prod.bidr.io:443
+[2019-05-21 18:45:36] [Info] Disconnect dsp.adfarm1.adition.com:443
+[2019-05-21 18:45:36] [Info] Connect loadm.exelator.com:443
+[2019-05-21 18:45:36] [Info] Connect ad.sxp.smartclip.net:443
+[2019-05-21 18:45:37] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:37] [Info] Disconnect ad.sxp.smartclip.net:443
+[2019-05-21 18:45:37] [Info] Disconnect pixel-sync.sitescout.com:443
+[2019-05-21 18:45:37] [Info] Connect rtb.gumgum.com:443
+[2019-05-21 18:45:37] [Info] Direct connect match.adsrvr.org:443
+[2019-05-21 18:45:37] [Info] Disconnect sync.1rx.io:443
+[2019-05-21 18:45:38] [Info] Connect d.turn.com:443
+[2019-05-21 18:45:38] [Info] Disconnect spotx-match.dotomi.com:443
+[2019-05-21 18:45:38] [Info] Connect cm.adgrx.com:443
+[2019-05-21 18:45:38] [Info] Connect c1.adform.net:443
+[2019-05-21 18:45:38] [Info] Disconnect csync.loopme.me:443
+[2019-05-21 18:45:38] [Info] Disconnect match.prod.bidr.io:443
+[2019-05-21 18:45:38] [Info] Connect pixel.tapad.com:443
+[2019-05-21 18:45:38] [Info] Disconnect sync.adaptv.advertising.com:443
+[2019-05-21 18:45:38] [Info] Connect sync.crwdcntrl.net:443
+[2019-05-21 18:45:38] [Info] Disconnect sync.search.spotxchange.com:443
+[2019-05-21 18:45:38] [Info] Connect cdn.spotxcdn.com:443
+[2019-05-21 18:45:39] [Info] Disconnect sync.search.spotxchange.com:443
+[2019-05-21 18:45:39] [Info] Connect t8045287650423903645.id.amgdgt.com:443
+[2019-05-21 18:45:39] [Info] Disconnect ad.sxp.smartclip.net:443
+[2019-05-21 18:45:39] [Info] Connect sync.search.spotxchange.com:443
+[2019-05-21 18:45:40] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:40] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:40] [Info] Direct connect www.googletagmanager.com:443
+[2019-05-21 18:45:40] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 18:45:40] [Info] Disconnect cdn.spotxcdn.com:443
+[2019-05-21 18:45:40] [Info] Connect sync.search.spotxchange.com:443
+[2019-05-21 18:45:40] [Info] Connect sync.search.spotxchange.com:443
+[2019-05-21 18:45:40] [Info] Disconnect d.turn.com:443
+[2019-05-21 18:45:40] [Info] Disconnect t.a3cloud.net:443
+[2019-05-21 18:45:40] [Info] Disconnect sync.tidaltv.com:443
+[2019-05-21 18:45:40] [Info] Disconnect usersync.videoamp.com:443
+[2019-05-21 18:45:40] [Info] Connect load77.exelator.com:443
+[2019-05-21 18:45:40] [Info] Disconnect vop.sundaysky.com:443
+[2019-05-21 18:45:40] [Info] Connect sync.search.spotxchange.com:443
+[2019-05-21 18:45:40] [Info] Disconnect sync.crwdcntrl.net:443
+[2019-05-21 18:45:40] [Info] Connect aa.agkn.com:443
+[2019-05-21 18:45:40] [Info] Connect dpm.demdex.net:443
+[2019-05-21 18:45:40] [Info] Disconnect www.siliconanalytics.com:443
+[2019-05-21 18:45:40] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:40] [Info] Connect mid.rkdms.com:443
+[2019-05-21 18:45:40] [Info] Disconnect sync.search.spotxchange.com:443
+[2019-05-21 18:45:40] [Info] Disconnect sync.search.spotxchange.com:443
+[2019-05-21 18:45:41] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:41] [Info] Connect event.spotxchange.com:443
+[2019-05-21 18:45:41] [Info] Connect sync.tidaltv.com:443
+[2019-05-21 18:45:41] [Info] Connect event.spotxchange.com:443
+[2019-05-21 18:45:41] [Info] Connect csyn.cxense.com:443
+[2019-05-21 18:45:41] [Info] Disconnect cm.adgrx.com:443
+[2019-05-21 18:45:41] [Info] Disconnect sync.search.spotxchange.com:443
+[2019-05-21 18:45:41] [Info] Connect d.agkn.com:443
+[2019-05-21 18:45:41] [Info] Disconnect aa.agkn.com:443
+[2019-05-21 18:45:42] [Info] Connect event.spotxchange.com:443
+[2019-05-21 18:45:42] [Info] Disconnect dpm.demdex.net:443
+[2019-05-21 18:45:42] [Info] Connect event.spotxchange.com:443
+[2019-05-21 18:45:42] [Info] Connect event.spotxchange.com:443
+[2019-05-21 18:45:42] [Info] Direct connect adservice.google.com:443
+[2019-05-21 18:45:42] [Info] Connect sync.search.spotxchange.com:443
+[2019-05-21 18:45:42] [Info] Disconnect sync.search.spotxchange.com:443
+[2019-05-21 18:45:42] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:42] [Info] Disconnect sync.search.spotxchange.com:443
+[2019-05-21 18:45:43] [Info] Disconnect sync.search.spotxchange.com:443
+[2019-05-21 18:45:43] [Info] Disconnect sync.tidaltv.com:443
+[2019-05-21 18:45:43] [Info] Disconnect t8045287650423903645.id.amgdgt.com:443
+[2019-05-21 18:45:43] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:43] [Info] Disconnect event.spotxchange.com:443
+[2019-05-21 18:45:43] [Info] Connect event.spotxchange.com:443
+[2019-05-21 18:45:44] [Info] Disconnect d.agkn.com:443
+[2019-05-21 18:45:44] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:44] [Info] Connect search.spotxchange.com:443
+[2019-05-21 18:45:44] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:44] [Info] Disconnect sync.search.spotxchange.com:443
+[2019-05-21 18:45:44] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:45:44] [Info] Connect clients1.google.com:443
+[2019-05-21 18:45:44] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:44] [Info] Disconnect event.spotxchange.com:443
+[2019-05-21 18:45:45] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:46] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:47] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:45:54] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 101.227.212.107:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-05-21 18:45:55] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:55] [Info] Connect cdn.playwire.com:443
+[2019-05-21 18:45:55] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:45:56] [Info] Disconnect event.spotxchange.com:443
+[2019-05-21 18:45:56] [Info] Disconnect event.spotxchange.com:443
+[2019-05-21 18:45:57] [Info] Connect config.playwire.com:443
+[2019-05-21 18:45:58] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 101.227.212.107:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-05-21 18:45:59] [Info] Connect cdn.video.playwire.com:443
+[2019-05-21 18:46:01] [Info] Connect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:46:05] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:46:05] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:46:05] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 18:46:05] [Info] Direct connect www.googletagmanager.com:443
+[2019-05-21 18:46:05] [Info] Disconnect csyn.cxense.com:443
+[2019-05-21 18:46:08] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:46:08] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:46:09] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:46:09] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-05-21 18:46:09] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:46:11] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:46:19] [Info] Disconnect search.spotxchange.com:443
+[2019-05-21 18:46:28] [Info] Disconnect kinesis.us-east-1.amazonaws.com:443
+[2019-05-21 18:46:30] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:46:32] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:46:32] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:46:33] [Info] Disconnect track.eyeviewads.com:443
+[2019-05-21 18:46:34] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:46:34] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:46:34] [Info] Direct connect www.googletagmanager.com:443
+[2019-05-21 18:46:34] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 18:46:34] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:46:35] [Info] Disconnect pixeltrack.eyeviewads.com:443
+[2019-05-21 18:46:35] [Info] Disconnect staticxx.facebook.com:443
+[2019-05-21 18:46:37] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:46:38] [Info] Disconnect rtb.gumgum.com:443
+[2019-05-21 18:46:42] [Info] Disconnect mid.rkdms.com:443
+[2019-05-21 18:46:45] [Info] Direct connect rescdn.qqmail.com:443
+[2019-05-21 18:46:45] [Info] Direct connect rescdn.qqmail.com:443
+[2019-05-21 18:46:47] [Info] Connect cn.gravatar.com:443
+[2019-05-21 18:46:47] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:46:50] [Info] Direct connect translate.googleapis.com:443
+[2019-05-21 18:46:51] [Info] Connect translate.google.com:443
+[2019-05-21 18:46:51] [Info] Connect translate.google.com:443
+[2019-05-21 18:46:51] [Info] Connect www.googleapis.com:443
+[2019-05-21 18:46:54] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:46:54] [Info] Direct connect www.googletagmanager.com:443
+[2019-05-21 18:46:54] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 18:46:54] [Info] Connect www.netsarang.com:443
+[2019-05-21 18:46:57] [Info] Disconnect cdn.playwire.com:443
+[2019-05-21 18:46:57] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:46:58] [Info] Disconnect www.netsarang.com:443
+[2019-05-21 18:46:58] [Info] Connect cdn.netsarang.net:443
+[2019-05-21 18:47:00] [Info] Disconnect config.playwire.com:443
+[2019-05-21 18:47:01] [Info] Connect cdn.netsarang.net:443
+[2019-05-21 18:47:01] [Info] Disconnect cdn.video.playwire.com:443
+[2019-05-21 18:47:05] [Info] Connect clients4.google.com:443
+[2019-05-21 18:47:05] [Info] Connect clients4.google.com:443
+[2019-05-21 18:47:05] [Info] Disconnect translate.google.com:443
+[2019-05-21 18:48:10] [Info] Disconnect sb-ssl.google.com:443
+[2019-05-21 18:48:34] [Info] Connect sb-ssl.google.com:443
+[2019-05-21 18:48:39] [Info] Disconnect c1.adform.net:443
+[2019-05-21 18:48:40] [Info] Disconnect loadm.exelator.com:443
+[2019-05-21 18:48:41] [Info] Disconnect load77.exelator.com:443
+[2019-05-21 18:48:51] [Info] Connect raw.githubusercontent.com:443
+[2019-05-21 18:49:15] [Info] Direct connect ocsp2.globalsign.com:80
+[2019-05-21 18:49:16] [Info] Direct connect ocsp2.globalsign.com:80
+[2019-05-21 18:49:29] [Info] Disconnect rubicon.dsp.adboost.sk:443
+[2019-05-21 18:49:30] [Info] Disconnect pix.impdesk.com:443
+[2019-05-21 18:49:32] [Info] Disconnect en.softonic.com:443
+[2019-05-21 18:49:33] [Info] Disconnect ima3vpaid.appspot.com:443
+[2019-05-21 18:49:34] [Info] Disconnect idsync.rlcdn.com:443
+[2019-05-21 18:49:39] [Info] Disconnect pixel.tapad.com:443
+[2019-05-21 18:49:49] [Info] Disconnect cn.gravatar.com:443
+[2019-05-21 18:50:08] [Info] Disconnect clients1.google.com:443
+[2019-05-21 18:50:29] [Info] Disconnect trc.taboola.com:443
+[2019-05-21 18:50:31] [Info] Disconnect match.taboola.com:443
+[2019-05-21 18:50:33] [Info] Disconnect raw.githubusercontent.com:443
+[2019-05-21 18:50:33] [Info] Disconnect us-u.openx.net:443
+[2019-05-21 18:50:44] [Info] Disconnect event.spotxchange.com:443
+[2019-05-21 18:50:44] [Info] Disconnect event.spotxchange.com:443
+[2019-05-21 18:50:52] [Info] Disconnect translate.google.com:443
+[2019-05-21 18:50:54] [Info] Disconnect cdn.netsarang.net:443
+[2019-05-21 18:50:54] [Info] Disconnect clients4.google.com:443
+[2019-05-21 18:50:54] [Info] Connect transact.netsarang.com:443
+[2019-05-21 18:50:54] [Info] Connect transact.netsarang.com:443
+[2019-05-21 18:50:56] [Info] Disconnect transact.netsarang.com:443
+[2019-05-21 18:50:57] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:50:59] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:50:59] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:50:59] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:50:59] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:50:59] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:00] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:00] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:00] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:00] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:01] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:01] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:01] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:01] [Info] Direct connect fonts.googleapis.com:443
+[2019-05-21 18:51:01] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:01] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 18:51:01] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:01] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:02] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:02] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:02] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:02] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:03] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:03] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:03] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:03] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:03] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:04] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:04] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:04] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:04] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:04] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:04] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:04] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:04] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:04] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:04] [Info] Connect clients1.google.com:443
+[2019-05-21 18:51:05] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:05] [Debug] DNS query fail: wordpress.netsarang.com
+[2019-05-21 18:51:05] [Info] Connect wordpress.netsarang.com:443
+[2019-05-21 18:51:05] [Info] Disconnect www.googleapis.com:443
+[2019-05-21 18:51:05] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:05] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:05] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:05] [Info] Disconnect wordpress.netsarang.com:443
+[2019-05-21 18:51:06] [Debug] DNS query fail: wordpress.netsarang.com
+[2019-05-21 18:51:06] [Info] Connect wordpress.netsarang.com:443
+[2019-05-21 18:51:06] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:06] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:06] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:06] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:06] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:06] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:06] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:06] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:06] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:06] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:06] [Info] Disconnect wordpress.netsarang.com:443
+[2019-05-21 18:51:07] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:07] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:07] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:08] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:09] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:10] [Info] Connect sales.netsarang.com:443
+[2019-05-21 18:51:10] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:10] [Info] Disconnect transact.netsarang.com:443
+[2019-05-21 18:51:12] [Info] Disconnect sales.netsarang.com:443
+[2019-05-21 18:51:50] [Info] Connect www.google.com:443
+[2019-05-21 18:51:50] [Info] Connect www.google.com:443
+[2019-05-21 18:51:50] [Info] Connect www.google.com:443
+[2019-05-21 18:51:51] [Info] Connect s2.googleusercontent.com:443
+[2019-05-21 18:51:51] [Info] Disconnect www.google.com:443
+[2019-05-21 18:51:52] [Info] Connect t0.gstatic.com:443
+[2019-05-21 18:51:52] [Info] Direct connect www.xiaoxiaoming.net:80
+[2019-05-21 18:51:52] [Info] Direct connect www.xiaoxiaoming.net:80
+[2019-05-21 18:51:52] [Info] Direct connect www.xiaoxiaoming.net:80
+[2019-05-21 18:51:52] [Info] Connect avatars1.githubusercontent.com:443
+[2019-05-21 18:51:52] [Info] Direct connect www.xiaoxiaoming.net:80
+[2019-05-21 18:51:52] [Info] Direct connect www.xiaoxiaoming.net:80
+[2019-05-21 18:51:52] [Info] Direct connect ssl.gstatic.com:443
+[2019-05-21 18:51:52] [Info] Connect lh3.googleusercontent.com:443
+[2019-05-21 18:51:52] [Info] Direct connect www.xiaoxiaoming.net:80
+[2019-05-21 18:51:53] [Info] Direct connect www.gstatic.com:443
+[2019-05-21 18:51:53] [Info] Direct connect www.xiaoxiaoming.net:80
+[2019-05-21 18:52:36] [Info] Disconnect sb-ssl.google.com:443
+[2019-05-21 18:53:30] [Info] Disconnect cdn.netsarang.net:443
+[2019-05-21 18:53:54] [Info] Connect clients2.google.com:443
+[2019-05-21 18:53:56] [Info] Connect clients2.googleusercontent.com:443
+[2019-05-21 18:55:17] [Info] Connect android.clients.google.com:443
+[2019-05-21 18:55:51] [Info] Disconnect www.google.com:443
+[2019-05-21 18:55:51] [Info] Disconnect clients1.google.com:443
+[2019-05-21 18:55:53] [Info] Disconnect t0.gstatic.com:443
+[2019-05-21 18:55:53] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-05-21 18:55:53] [Info] Disconnect s2.googleusercontent.com:443
+[2019-05-21 18:55:54] [Info] Disconnect www.google.com:443
+[2019-05-21 18:56:53] [Info] Disconnect avatars1.githubusercontent.com:443
+[2019-05-21 18:57:56] [Info] Disconnect clients2.google.com:443
+[2019-05-21 18:58:00] [Info] Disconnect clients2.googleusercontent.com:443
+[2019-05-21 18:58:08] [Info] Disconnect clients4.google.com:443
+[2019-05-21 18:59:18] [Info] Disconnect android.clients.google.com:443
+[2019-05-21 19:02:15] [Info] Connect clients4.google.com:443
+[2019-05-21 19:03:42] [Info] Connect clients1.google.com:443
+[2019-05-21 19:03:43] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:03:44] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:03:44] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-05-21 19:03:45] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-05-21 19:03:45] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:03:45] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-05-21 19:03:45] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:03:46] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:03:46] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:03:46] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:03:47] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:03:48] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:03:49] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:03:55] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:07:43] [Info] Disconnect clients1.google.com:443
+[2019-05-21 19:08:07] [Info] Disconnect clients4.google.com:443
+[2019-05-21 19:08:21] [Info] Connect www.google.com:443
+[2019-05-21 19:08:21] [Info] Connect www.google.com:443
+[2019-05-21 19:08:23] [Info] Connect clients4.google.com:443
+[2019-05-21 19:08:34] [Info] Direct connect www.baidupcs.com:443
+[2019-05-21 19:08:36] [Debug] DNS query fail: nj.baidupcs.com
+[2019-05-21 19:08:36] [Info] Connect nj.baidupcs.com:443
+[2019-05-21 19:08:37] [Info] Disconnect nj.baidupcs.com:443
+[2019-05-21 19:08:39] [Debug] DNS query fail: nj.baidupcs.com
+[2019-05-21 19:08:39] [Info] Connect nj.baidupcs.com:443
+[2019-05-21 19:08:40] [Info] Disconnect nj.baidupcs.com:443
+[2019-05-21 19:08:40] [Info] Direct connect bj.baidupcs.com:443
+[2019-05-21 19:08:40] [Info] Direct connect qd.baidupcs.com:443
+[2019-05-21 19:09:18] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:09:19] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:09:19] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:09:25] [Info] Connect config.playwire.com:443
+[2019-05-21 19:10:26] [Info] Disconnect config.playwire.com:443
+[2019-05-21 19:12:22] [Info] Disconnect www.google.com:443
+[2019-05-21 19:12:23] [Info] Disconnect www.google.com:443
+[2019-05-21 19:13:35] [Info] Disconnect clients4.google.com:443
+[2019-05-21 19:14:13] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2019-05-21 19:14:13] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2019-05-21 19:14:13] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2019-05-21 19:14:13] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2019-05-21 19:14:13] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2019-05-21 19:14:13] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2019-05-21 19:15:41] [Info] Connect clients4.google.com:443
+[2019-05-21 19:16:26] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-05-21 19:19:43] [Info] Disconnect clients4.google.com:443
+[2019-05-21 19:21:39] [Info] Connect mtalk.google.com:5228
+[2019-05-21 19:22:02] [Info] Direct connect updatem.360safe.com:80
+[2019-05-21 19:22:03] [Info] Direct connect src.dl.360safe.com:80
+[2019-05-21 19:26:40] [Info] Disconnect mtalk.google.com:5228
+[2019-05-21 19:26:40] [Info] Connect mtalk.google.com:5228
+[2019-05-21 19:28:06] [Info] Connect www.google.com:443
+[2019-05-21 19:28:06] [Info] Connect www.google.com:443
+[2019-05-21 19:28:08] [Info] Connect s2.googleusercontent.com:443
+[2019-05-21 19:28:09] [Info] Direct connect ssl.gstatic.com:443
+[2019-05-21 19:28:09] [Info] Direct connect www.gstatic.com:443
+[2019-05-21 19:28:10] [Info] Connect apis.google.com:443
+[2019-05-21 19:28:10] [Info] Connect clients5.google.com:443
+[2019-05-21 19:28:11] [Info] Connect play.google.com:443
+[2019-05-21 19:28:12] [Info] Connect play.google.com:443
+[2019-05-21 19:28:12] [Info] Connect accounts.google.com:443
+[2019-05-21 19:28:14] [Info] Connect github.com:443
+[2019-05-21 19:28:14] [Info] Connect github.com:443
+[2019-05-21 19:28:15] [Info] Connect ocsp.digicert.com:80
+[2019-05-21 19:28:15] [Info] Disconnect ocsp.digicert.com:80
+[2019-05-21 19:28:16] [Info] Connect clients4.google.com:443
+[2019-05-21 19:28:16] [Info] Connect github.githubassets.com:443
+[2019-05-21 19:28:16] [Info] Connect github.githubassets.com:443
+[2019-05-21 19:28:16] [Info] Connect github.githubassets.com:443
+[2019-05-21 19:28:16] [Info] Connect github.githubassets.com:443
+[2019-05-21 19:28:16] [Info] Connect github.githubassets.com:443
+[2019-05-21 19:28:16] [Info] Connect github.githubassets.com:443
+[2019-05-21 19:28:16] [Info] Connect github.githubassets.com:443
+[2019-05-21 19:28:18] [Info] Connect customer-stories-feed.github.com:443
+[2019-05-21 19:28:18] [Info] Connect customer-stories-feed.github.com:443
+[2019-05-21 19:28:18] [Info] Connect clients1.google.com:443
+[2019-05-21 19:28:18] [Info] Connect customer-stories-feed.github.com:443
+[2019-05-21 19:28:18] [Info] Connect customer-stories-feed.github.com:443
+[2019-05-21 19:28:18] [Info] Connect customer-stories-feed.github.com:443
+[2019-05-21 19:28:18] [Info] Connect customer-stories-feed.github.com:443
+[2019-05-21 19:28:19] [Info] Connect collector.githubapp.com:443
+[2019-05-21 19:28:19] [Info] Connect collector.githubapp.com:443
+[2019-05-21 19:28:27] [Info] Direct connect account-cn.alibabacloud.com:443
+[2019-05-21 19:28:27] [Info] Disconnect github.com:443
+[2019-05-21 19:28:29] [Info] Connect sb-ssl.google.com:443
+[2019-05-21 19:28:30] [Info] Disconnect customer-stories-feed.github.com:443
+[2019-05-21 19:28:30] [Info] Disconnect customer-stories-feed.github.com:443
+[2019-05-21 19:28:30] [Info] Disconnect customer-stories-feed.github.com:443
+[2019-05-21 19:28:30] [Info] Disconnect customer-stories-feed.github.com:443
+[2019-05-21 19:28:30] [Info] Disconnect github.githubassets.com:443
+[2019-05-21 19:28:30] [Info] Disconnect github.githubassets.com:443
+[2019-05-21 19:28:30] [Info] Disconnect github.githubassets.com:443
+[2019-05-21 19:28:30] [Info] Disconnect customer-stories-feed.github.com:443
+[2019-05-21 19:28:30] [Info] Direct connect ynuf.aliapp.org:443
+[2019-05-21 19:28:30] [Info] Disconnect github.githubassets.com:443
+[2019-05-21 19:28:30] [Info] Disconnect github.githubassets.com:443
+[2019-05-21 19:29:16] [Info] Disconnect github.com:443
+[2019-05-21 19:29:26] [Info] Disconnect collector.githubapp.com:443
+[2019-05-21 19:29:26] [Info] Disconnect collector.githubapp.com:443
+[2019-05-21 19:29:39] [Info] Connect local.alipcsec.com:6691
+[2019-05-21 19:30:10] [Info] Disconnect local.alipcsec.com:6691
+[2019-05-21 19:30:10] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2019-05-21 19:30:10] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2019-05-21 19:30:10] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2019-05-21 19:30:10] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2019-05-21 19:30:10] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2019-05-21 19:30:10] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2019-05-21 19:31:41] [Info] Disconnect mtalk.google.com:5228
+[2019-05-21 19:31:41] [Info] Connect mtalk.google.com:5228
+[2019-05-21 19:32:10] [Info] Disconnect s2.googleusercontent.com:443
+[2019-05-21 19:32:11] [Info] Disconnect apis.google.com:443
+[2019-05-21 19:32:12] [Info] Disconnect clients5.google.com:443
+[2019-05-21 19:32:12] [Info] Disconnect play.google.com:443
+[2019-05-21 19:32:13] [Info] Disconnect play.google.com:443
+[2019-05-21 19:32:13] [Info] Disconnect accounts.google.com:443
+[2019-05-21 19:32:23] [Info] Disconnect www.google.com:443
+[2019-05-21 19:32:25] [Info] Disconnect www.google.com:443
+[2019-05-21 19:32:30] [Info] Disconnect sb-ssl.google.com:443
+[2019-05-21 19:33:19] [Info] Disconnect github.githubassets.com:443
+[2019-05-21 19:33:22] [Info] Disconnect github.githubassets.com:443
+[2019-05-21 19:33:22] [Info] Disconnect customer-stories-feed.github.com:443
+[2019-05-21 19:34:33] [Info] Disconnect clients1.google.com:443
+[2019-05-21 19:34:59] [Info] Disconnect clients4.google.com:443
+[2019-05-21 19:36:42] [Info] Disconnect mtalk.google.com:5228
+[2019-05-21 19:36:42] [Info] Connect mtalk.google.com:5228
+[2019-05-21 19:38:11] [Info] Connect clients4.google.com:443
+[2019-05-21 19:39:24] [Info] Connect www.google.com:443
+[2019-05-21 19:39:24] [Info] Connect www.google.com:443
+[2019-05-21 19:39:25] [Info] Direct connect www.xiaoxiaoming.net:80
+[2019-05-21 19:39:25] [Info] Connect s2.googleusercontent.com:443
+[2019-05-21 19:39:25] [Info] Connect avatars1.githubusercontent.com:443
+[2019-05-21 19:39:32] [Info] Connect xiaoxiaoming.com:80
+[2019-05-21 19:39:33] [Info] Disconnect xiaoxiaoming.com:80
+[2019-05-21 19:39:34] [Info] Connect status.geotrust.com:80
+[2019-05-21 19:39:34] [Info] Connect name.200.net:80
+[2019-05-21 19:39:34] [Info] Disconnect status.geotrust.com:80
+[2019-05-21 19:39:35] [Info] Disconnect name.200.net:80
+[2019-05-21 19:39:35] [Info] Connect xiaoxiaoming.com:80
+[2019-05-21 19:39:36] [Info] Disconnect xiaoxiaoming.com:80
+[2019-05-21 19:39:38] [Info] Connect partner.domaining.com:443
+[2019-05-21 19:39:39] [Info] Connect seal.geotrust.com:443
+[2019-05-21 19:39:42] [Info] Connect ocsp.digicert.com:80
+[2019-05-21 19:39:43] [Info] Disconnect ocsp.digicert.com:80
+[2019-05-21 19:40:01] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2019-05-21 19:40:03] [Info] Connect clients1.google.com:443
+[2019-05-21 19:40:33] [Info] Direct connect oss.aliyuncs.com:443
+[2019-05-21 19:40:44] [Info] Direct connect ynuf.aliapp.org:443
+[2019-05-21 19:41:42] [Info] Disconnect clients4.google.com:443
+[2019-05-21 19:41:42] [Info] Connect clients4.google.com:443
+[2019-05-21 19:41:44] [Info] Connect www.google.com:443
+[2019-05-21 19:41:44] [Info] Disconnect www.google.com:443
+[2019-05-21 19:41:44] [Info] Connect www.googleapis.com:443
+[2019-05-21 19:41:44] [Info] Disconnect mtalk.google.com:5228
+[2019-05-21 19:41:44] [Info] Connect mtalk.google.com:5228
+[2019-05-21 19:41:47] [Info] Connect clients4.google.com:443
+[2019-05-21 19:41:49] [Info] Connect www.google.com:443
+[2019-05-21 19:41:49] [Info] Connect www.googleapis.com:443
+[2019-05-21 19:41:49] [Info] Connect mtalk.google.com:5228
+[2019-05-21 19:41:53] [Info] Connect clients4.google.com:443
+[2019-05-21 19:41:54] [Info] Connect www.google.com:443
+[2019-05-21 19:41:54] [Info] Disconnect www.google.com:443
+[2019-05-21 19:41:54] [Info] Connect www.googleapis.com:443
+[2019-05-21 19:41:55] [Info] Connect mtalk.google.com:5228
+[2019-05-21 19:41:59] [Info] Disconnect www.google.com:443
+[2019-05-21 19:42:00] [Info] Disconnect www.googleapis.com:443
+[2019-05-21 19:42:01] [Info] Connect www.googleapis.com:443
+[2019-05-21 19:42:03] [Info] Disconnect clients4.google.com:443
+[2019-05-21 19:42:03] [Info] Connect clients4.google.com:443
+[2019-05-21 19:42:05] [Info] Disconnect mtalk.google.com:5228
+[2019-05-21 19:42:06] [Info] Connect www.googleapis.com:443
+[2019-05-21 19:42:11] [Info] Disconnect clients4.google.com:443
+[2019-05-21 19:42:16] [Info] Disconnect www.googleapis.com:443
+[2019-05-21 19:43:38] [Info] Connect clients4.google.com:443
+[2019-05-21 19:43:54] [Info] Disconnect s2.googleusercontent.com:443
+[2019-05-21 19:44:27] [Info] Disconnect avatars1.githubusercontent.com:443
+[2019-05-21 19:44:30] [Info] Disconnect clients1.google.com:443
+[2019-05-21 19:44:42] [Info] Disconnect partner.domaining.com:443
+[2019-05-21 19:44:45] [Info] Disconnect seal.geotrust.com:443
+[2019-05-21 19:46:06] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-05-21 19:46:07] [Info] Connect www.googleapis.com:443
+[2019-05-21 19:46:08] [Info] Disconnect www.googleapis.com:443
+[2019-05-21 19:47:58] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-05-21 19:47:58] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-05-21 19:47:59] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:47:59] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-05-21 19:47:59] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:00] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:01] [Info] Direct connect huatuo.weiyun.com:443
+[2019-05-21 19:48:01] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:02] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:04] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:09] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:12] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:13] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:13] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:14] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:14] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:16] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:16] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:16] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:17] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-05-21 19:48:18] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:48:22] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:49:07] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 19:49:53] [Info] Connect www.google.com:443
+[2019-05-21 19:49:53] [Info] Connect www.google.com:443
+[2019-05-21 19:49:54] [Info] Connect s2.googleusercontent.com:443
+[2019-05-21 19:49:55] [Info] Connect www.google.com:443
+[2019-05-21 19:49:55] [Info] Connect www.google.com:443
+[2019-05-21 19:49:55] [Info] Connect t0.gstatic.com:443
+[2019-05-21 19:49:56] [Info] Connect t0.gstatic.com:443
+[2019-05-21 19:49:56] [Info] Connect www.google.com:443
+[2019-05-21 19:50:02] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 19:50:03] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 19:50:03] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 19:50:06] [Info] Disconnect www.google.com:443
+[2019-05-21 19:50:07] [Info] Disconnect www.google.com:443
+[2019-05-21 19:50:07] [Info] Disconnect www.google.com:443
+[2019-05-21 19:50:11] [Info] Connect www.googleapis.com:443
+[2019-05-21 19:50:11] [Info] Disconnect t0.gstatic.com:443
+[2019-05-21 19:50:13] [Info] Direct connect ss0.bdstatic.com:443
+[2019-05-21 19:50:19] [Info] Direct connect www.jianshu.com:443
+[2019-05-21 19:50:19] [Info] Direct connect www.jianshu.com:443
+[2019-05-21 19:50:19] [Info] Direct connect events.jianshu.io:4006
+[2019-05-21 19:50:19] [Info] Direct connect cdn2.jianshu.io:443
+[2019-05-21 19:50:19] [Info] Direct connect upload.jianshu.io:443
+[2019-05-21 19:50:19] [Info] Direct connect upload-images.jianshu.io:443
+[2019-05-21 19:50:19] [Info] Direct connect zz.bdstatic.com:443
+[2019-05-21 19:50:20] [Info] Direct connect oimagec7.ydstatic.com:443
+[2019-05-21 19:50:20] [Info] Direct connect cdn2.jianshu.io:443
+[2019-05-21 19:50:20] [Info] Direct connect upload.jianshu.io:443
+[2019-05-21 19:50:20] [Info] Direct connect upload.jianshu.io:443
+[2019-05-21 19:50:20] [Info] Direct connect upload.jianshu.io:443
+[2019-05-21 19:50:20] [Info] Direct connect upload.jianshu.io:443
+[2019-05-21 19:50:20] [Info] Direct connect upload.jianshu.io:443
+[2019-05-21 19:50:21] [Info] Direct connect events.jianshu.io:4006
+[2019-05-21 19:51:05] [Info] Direct connect tr.jianshu.com:443
+[2019-05-21 19:51:15] [Info] Direct connect ss1.bdstatic.com:443
+[2019-05-21 19:51:24] [Info] Direct connect events.jianshu.io:4006
+[2019-05-21 19:51:24] [Info] Direct connect zz.bdstatic.com:443
+[2019-05-21 19:51:24] [Info] Direct connect events.jianshu.io:4006
+[2019-05-21 19:51:40] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 19:51:40] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 19:51:40] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 19:51:40] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 19:52:26] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 19:52:26] [Info] Direct connect ss0.bdstatic.com:443
+[2019-05-21 19:52:26] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 19:52:26] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 19:52:26] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 19:52:26] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 19:52:47] [Info] Connect clients1.google.com:443
+[2019-05-21 19:52:47] [Info] Direct connect ss1.bdstatic.com:443
+[2019-05-21 19:53:57] [Info] Disconnect t0.gstatic.com:443
+[2019-05-21 19:54:13] [Info] Disconnect www.googleapis.com:443
+[2019-05-21 19:55:25] [Info] Disconnect www.google.com:443
+[2019-05-21 19:55:27] [Info] Disconnect s2.googleusercontent.com:443
+[2019-05-21 19:55:27] [Info] Disconnect www.google.com:443
+[2019-05-21 19:56:48] [Info] Disconnect clients1.google.com:443
+[2019-05-21 19:56:56] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 19:56:56] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 19:57:01] [Info] Direct connect www.googletagservices.com:443
+[2019-05-21 19:57:01] [Info] Direct connect adservice.google.com:443
+[2019-05-21 19:57:02] [Info] Connect clients1.google.com:443
+[2019-05-21 20:00:59] [Info] Connect www.google.com:443
+[2019-05-21 20:00:59] [Info] Connect www.google.com:443
+[2019-05-21 20:01:05] [Info] Connect www.google.com:443
+[2019-05-21 20:01:05] [Info] Connect www.google.com:443
+[2019-05-21 20:01:05] [Info] Connect clients4.google.com:443
+[2019-05-21 20:01:06] [Info] Disconnect clients4.google.com:443
+[2019-05-21 20:01:06] [Info] Connect clients4.google.com:443
+[2019-05-21 20:01:09] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 20:01:09] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 20:01:09] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 20:01:10] [Info] Connect www.google.com:443
+[2019-05-21 20:01:10] [Info] Connect www.google.com:443
+[2019-05-21 20:01:11] [Info] Connect clients4.google.com:443
+[2019-05-21 20:01:11] [Info] Connect clients4.google.com:443
+[2019-05-21 20:01:15] [Info] Disconnect www.google.com:443
+[2019-05-21 20:01:15] [Info] Disconnect www.google.com:443
+[2019-05-21 20:01:16] [Info] Connect clients4.google.com:443
+[2019-05-21 20:01:16] [Info] Connect clients4.google.com:443
+[2019-05-21 20:01:21] [Info] Disconnect clients4.google.com:443
+[2019-05-21 20:01:21] [Info] Disconnect clients4.google.com:443
+[2019-05-21 20:01:28] [Info] Direct connect www.googletagservices.com:443
+[2019-05-21 20:01:28] [Info] Direct connect cdn.ampproject.org:443
+[2019-05-21 20:02:36] [Info] Connect clients4.google.com:443
+[2019-05-21 20:02:51] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:02:52] [Info] Direct connect gh.bdstatic.com:443
+[2019-05-21 20:02:52] [Info] Connect android.clients.google.com:443
+[2019-05-21 20:02:52] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:02:52] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:02:52] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:02:52] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:03:04] [Info] Direct connect www.jianshu.com:443
+[2019-05-21 20:03:04] [Info] Direct connect events.jianshu.io:4006
+[2019-05-21 20:03:04] [Info] Direct connect cdn2.jianshu.io:443
+[2019-05-21 20:03:04] [Info] Direct connect upload.jianshu.io:443
+[2019-05-21 20:03:04] [Info] Direct connect upload-images.jianshu.io:443
+[2019-05-21 20:03:04] [Info] Direct connect zz.bdstatic.com:443
+[2019-05-21 20:03:04] [Info] Direct connect upload.jianshu.io:443
+[2019-05-21 20:03:04] [Info] Direct connect upload.jianshu.io:443
+[2019-05-21 20:03:04] [Info] Direct connect upload.jianshu.io:443
+[2019-05-21 20:03:04] [Info] Direct connect upload.jianshu.io:443
+[2019-05-21 20:03:04] [Info] Direct connect upload.jianshu.io:443
+[2019-05-21 20:03:05] [Info] Direct connect events.jianshu.io:4006
+[2019-05-21 20:04:00] [Info] Direct connect sofire.bdstatic.com:443
+[2019-05-21 20:04:00] [Info] Direct connect fex.bdstatic.com:443
+[2019-05-21 20:04:01] [Info] Direct connect gh.bdstatic.com:443
+[2019-05-21 20:04:02] [Info] Direct connect gss0.bdstatic.com:443
+[2019-05-21 20:04:02] [Info] Direct connect gss0.bdstatic.com:443
+[2019-05-21 20:04:02] [Info] Direct connect gss0.bdstatic.com:443
+[2019-05-21 20:04:02] [Info] Direct connect gss0.bdstatic.com:443
+[2019-05-21 20:04:02] [Info] Direct connect gss0.bdstatic.com:443
+[2019-05-21 20:04:22] [Info] Direct connect www.googletagservices.com:443
+[2019-05-21 20:04:22] [Info] Direct connect cdn.ampproject.org:443
+[2019-05-21 20:04:25] [Info] Direct connect api.geetest.com:443
+[2019-05-21 20:04:28] [Info] Direct connect api.geetest.com:443
+[2019-05-21 20:04:29] [Info] Direct connect static.geetest.com:443
+[2019-05-21 20:04:30] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:04:30] [Info] Direct connect gh.bdstatic.com:443
+[2019-05-21 20:04:31] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:04:31] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:04:31] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:04:31] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:05:53] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 20:06:09] [Info] Direct connect adservice.google.com:443
+[2019-05-21 20:06:09] [Info] Direct connect www.googletagservices.com:443
+[2019-05-21 20:06:09] [Info] Direct connect cdn.ampproject.org:443
+[2019-05-21 20:06:53] [Info] Disconnect android.clients.google.com:443
+[2019-05-21 20:08:03] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 20:08:06] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:08:07] [Info] Direct connect gh.bdstatic.com:443
+[2019-05-21 20:08:07] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:08:07] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:08:07] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:08:07] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:08:08] [Info] Direct connect www.googletagservices.com:443
+[2019-05-21 20:08:09] [Info] Connect t.myvisualiq.net:443
+[2019-05-21 20:08:24] [Info] Disconnect clients1.google.com:443
+[2019-05-21 20:09:20] [Info] Disconnect t.myvisualiq.net:443
+[2019-05-21 20:09:34] [Info] Direct connect tr.jianshu.com:443
+[2019-05-21 20:09:55] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 20:10:12] [Info] Direct connect s1.shucaixiaoshuo.com:443
+[2019-05-21 20:10:12] [Info] Direct connect s3m.milkjpg.com:443
+[2019-05-21 20:10:13] [Info] Direct connect fonts.googleapis.com:443
+[2019-05-21 20:10:14] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 20:10:14] [Info] Connect d.agkn.com:443
+[2019-05-21 20:10:14] [Info] Connect token.rubiconproject.com:443
+[2019-05-21 20:10:14] [Info] Connect e.dlx.addthis.com:443
+[2019-05-21 20:10:14] [Info] Connect rtb.openx.net:443
+[2019-05-21 20:10:17] [Info] Connect pixel.rubiconproject.com:443
+[2019-05-21 20:10:17] [Info] Connect fcmatch.google.com:443
+[2019-05-21 20:10:33] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:10:33] [Info] Disconnect fcmatch.google.com:443
+[2019-05-21 20:10:33] [Info] Disconnect pixel.rubiconproject.com:443
+[2019-05-21 20:10:33] [Info] Direct connect gh.bdstatic.com:443
+[2019-05-21 20:10:34] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:10:34] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:10:34] [Info] Direct connect s3m.milkjpg.com:443
+[2019-05-21 20:10:34] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:10:35] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 20:10:36] [Info] Connect t.myvisualiq.net:443
+[2019-05-21 20:10:45] [Info] Direct connect fonts.gstatic.com:443
+[2019-05-21 20:10:48] [Info] Direct connect exp.bdstatic.com:443
+[2019-05-21 20:10:48] [Info] Direct connect exp.bdstatic.com:443
+[2019-05-21 20:10:48] [Info] Direct connect exp.bdstatic.com:443
+[2019-05-21 20:10:48] [Info] Direct connect exp.bdstatic.com:443
+[2019-05-21 20:10:52] [Info] Disconnect d.agkn.com:443
+[2019-05-21 20:11:20] [Info] Direct connect clientservices.googleapis.com:443
+[2019-05-21 20:11:23] [Info] Disconnect e.dlx.addthis.com:443
+[2019-05-21 20:11:47] [Info] Disconnect t.myvisualiq.net:443
+[2019-05-21 20:12:13] [Info] Disconnect token.rubiconproject.com:443
+[2019-05-21 20:15:18] [Info] Disconnect rtb.openx.net:443
+[2019-05-21 20:16:01] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-05-21 20:17:33] [Info] Direct connect exp.bdstatic.com:443
+[2019-05-21 20:17:35] [Info] Connect www.google.com:443
+[2019-05-21 20:17:35] [Info] Connect www.google.com:443
+[2019-05-21 20:17:40] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 20:17:48] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 20:17:48] [Info] Direct connect ss0.bdstatic.com:443
+[2019-05-21 20:17:48] [Info] Direct connect ss2.bdstatic.com:443
+[2019-05-21 20:17:48] [Info] Direct connect ss2.bdstatic.com:443
+[2019-05-21 20:17:48] [Info] Direct connect ss2.bdstatic.com:443
+[2019-05-21 20:17:48] [Info] Direct connect ss2.bdstatic.com:443
+[2019-05-21 20:21:37] [Info] Disconnect www.google.com:443
+[2019-05-21 20:21:38] [Info] Disconnect www.google.com:443
+[2019-05-21 20:23:07] [Info] Direct connect updatem.360safe.com:80
+[2019-05-21 20:23:07] [Info] Direct connect src.dl.360safe.com:80
+[2019-05-21 20:24:58] [Info] Disconnect clients4.google.com:443
+[2019-05-21 20:44:17] [Info] Connect clients4.google.com:443
+[2019-05-21 20:45:46] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-05-21 20:48:26] [Info] Disconnect clients4.google.com:443
+[2019-05-21 20:48:51] [Info] Connect raw.githubusercontent.com:443
+[2019-05-21 20:50:34] [Info] Disconnect raw.githubusercontent.com:443
+[2019-05-21 21:06:09] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-05-21 21:06:09] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-05-21 21:06:10] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-05-21 21:06:10] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 21:06:10] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 21:06:11] [Info] Direct connect huatuo.weiyun.com:443
+[2019-05-21 21:06:11] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 21:06:12] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 21:06:12] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 21:06:12] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 21:06:14] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 21:06:17] [Info] Connect clients4.google.com:443
+[2019-05-21 21:06:19] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 21:06:20] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 21:06:21] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 21:06:24] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 21:06:26] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-05-21 21:06:27] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 21:07:19] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-05-21 21:09:33] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 21:11:49] [Info] Disconnect clients4.google.com:443
+[2019-05-21 21:15:57] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-05-21 21:17:45] [Info] Connect www.google.com:443
+[2019-05-21 21:17:45] [Info] Connect www.google.com:443
+[2019-05-21 21:17:48] [Info] Connect clients4.google.com:443
+[2019-05-21 21:17:49] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 21:17:51] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 21:17:52] [Info] Direct connect adservice.google.com:443
+[2019-05-21 21:17:52] [Info] Direct connect www.googletagservices.com:443
+[2019-05-21 21:17:52] [Info] Direct connect gh.bdstatic.com:443
+[2019-05-21 21:17:53] [Info] Direct connect jx.cdn.qhstatic.com:443
+[2019-05-21 21:17:53] [Info] Direct connect s3m.milkjpg.com:443
+[2019-05-21 21:17:53] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 21:17:53] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 21:17:53] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 21:17:53] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 21:17:54] [Info] Direct connect huatuocode.weiyun.com:443
+[2019-05-21 21:18:47] [Info] Direct connect adservice.google.com:443
+[2019-05-21 21:18:47] [Info] Connect stackoverflow.com:443
+[2019-05-21 21:18:47] [Info] Connect stackoverflow.com:443
+[2019-05-21 21:18:47] [Info] Direct connect www.googletagservices.com:443
+[2019-05-21 21:18:48] [Info] Connect www.gravatar.com:443
+[2019-05-21 21:18:48] [Info] Connect rules.quantcount.com:443
+[2019-05-21 21:18:48] [Info] Connect cdn.sstatic.net:443
+[2019-05-21 21:18:48] [Info] Direct connect translate.googleapis.com:443
+[2019-05-21 21:18:48] [Info] Direct connect www.gstatic.com:443
+[2019-05-21 21:18:48] [Info] Connect ajax.googleapis.com:443
+[2019-05-21 21:18:48] [Info] Connect clc.stackoverflow.com:443
+[2019-05-21 21:18:48] [Info] Connect i.stack.imgur.com:443
+[2019-05-21 21:18:48] [Info] Connect translate.google.com:443
+[2019-05-21 21:18:48] [Info] Direct connect cdn.ampproject.org:443
+[2019-05-21 21:18:51] [Info] Connect clients1.google.com:443
+[2019-05-21 21:18:55] [Info] Connect www.googleapis.com:443
+[2019-05-21 21:19:03] [Info] Connect rules.quantcount.com:443
+[2019-05-21 21:19:03] [Info] Disconnect rules.quantcount.com:443
+[2019-05-21 21:19:03] [Info] Disconnect i.stack.imgur.com:443
+[2019-05-21 21:19:03] [Info] Disconnect stackoverflow.com:443
+[2019-05-21 21:19:52] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 21:19:53] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 21:19:53] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 21:19:53] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 21:19:53] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-05-21 21:19:53] [Info] Direct connect gh.bdstatic.com:443
+[2019-05-21 21:19:59] [Info] Connect t.myvisualiq.net:443
+[2019-05-21 21:20:01] [Info] Direct connect csi.gstatic.com:443
+[2019-05-21 21:21:07] [Info] Disconnect t.myvisualiq.net:443
+[2019-05-21 21:21:46] [Info] Disconnect www.google.com:443
+[2019-05-21 21:21:48] [Info] Disconnect www.google.com:443
+[2019-05-21 21:21:51] [Info] Disconnect www.gravatar.com:443
+[2019-05-21 21:22:52] [Info] Disconnect ajax.googleapis.com:443
+[2019-05-21 21:22:52] [Info] Disconnect clients1.google.com:443
+[2019-05-21 21:22:56] [Info] Disconnect translate.google.com:443
+[2019-05-21 21:22:56] [Info] Disconnect www.googleapis.com:443
+[2019-05-21 21:23:11] [Info] Disconnect rules.quantcount.com:443
+[2019-05-21 21:23:53] [Info] Disconnect clc.stackoverflow.com:443
+[2019-05-21 21:23:53] [Info] Disconnect stackoverflow.com:443
+[2019-05-21 21:24:00] [Info] Direct connect updatem.360safe.com:80
+[2019-05-21 21:24:00] [Info] Direct connect src.dl.360safe.com:80
+[2019-05-21 21:24:35] [Info] Disconnect clients4.google.com:443
+[2019-05-21 21:24:39] [Info] Disconnect cdn.sstatic.net:443
+[2019-05-21 21:25:29] [Info] Connect cdn.mysql.com:443
+[2019-05-21 21:25:29] [Info] Connect cdn.mysql.com:443
+[2019-05-21 21:25:40] [Info] Connect clients4.google.com:443
+[2019-05-21 21:25:52] [Info] Disconnect cdn.mysql.com:443
+[2019-05-21 21:31:12] [Info] Connect www.google.com:443
+[2019-05-21 21:31:12] [Info] Connect www.google.com:443
+[2019-05-21 21:31:21] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 21:31:21] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 21:31:29] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-05-21 21:31:47] [Info] Direct connect adservice.google.com:443
+[2019-05-21 21:31:47] [Info] Direct connect e.topthink.com:443
+[2019-05-21 21:31:48] [Info] Direct connect e.topthink.com:80
+[2019-05-21 21:31:48] [Info] Direct connect e.topthink.com:80
+[2019-05-21 21:31:48] [Info] Direct connect e.topthink.com:80
+[2019-05-21 21:31:48] [Info] Direct connect e.topthink.com:80
+[2019-05-21 21:31:48] [Info] Direct connect e.topthink.com:80
+[2019-05-21 21:31:48] [Info] Direct connect e.topthink.com:80
+[2019-05-21 21:31:48] [Info] Connect clients1.google.com:443
+[2019-05-21 21:31:49] [Info] Direct connect e.topthink.com:443
+[2019-05-21 21:31:49] [Info] Direct connect e.topthink.com:443
+[2019-05-21 21:31:49] [Info] Direct connect e.topthink.com:443
+[2019-05-21 21:31:49] [Info] Direct connect e.topthink.com:443
+[2019-05-21 21:31:49] [Info] Direct connect e.topthink.com:443
+[2019-05-21 21:31:49] [Info] Direct connect e.topthink.com:80
+[2019-05-21 21:31:50] [Info] Direct connect e.topthink.com:80
+[2019-05-21 21:31:50] [Info] Direct connect www.googletagservices.com:80
+[2019-05-21 21:31:51] [Info] Connect t.myvisualiq.net:443
+[2019-05-21 21:32:59] [Info] Disconnect t.myvisualiq.net:443
+[2019-05-21 21:33:00] [Info] Connect s2.googleusercontent.com:443
+[2019-05-21 21:33:00] [Info] Connect s2.googleusercontent.com:443
+[2019-05-21 21:33:05] [Info] Connect play.google.com:443
+[2019-05-21 21:33:07] [Info] Connect www.googleapis.com:443
+[2019-05-21 21:33:08] [Info] Connect play.google.com:443
+[2019-05-21 21:35:51] [Info] Disconnect clients1.google.com:443
+[2019-05-21 21:35:54] [Info] Disconnect clients4.google.com:443
+[2019-05-21 21:37:04] [Info] Disconnect s2.googleusercontent.com:443
+[2019-05-21 21:37:05] [Info] Disconnect s2.googleusercontent.com:443
+[2019-05-21 21:37:07] [Info] Disconnect play.google.com:443
+[2019-05-21 21:37:08] [Info] Disconnect www.googleapis.com:443
+[2019-05-21 21:37:09] [Info] Disconnect www.google.com:443
+[2019-05-21 21:37:12] [Info] Disconnect play.google.com:443
+[2019-05-21 21:37:12] [Info] Disconnect www.google.com:443
+[2019-05-21 21:41:53] [Info] Direct connect mini.flash.2144.com:80
+[2019-05-21 21:41:54] [Info] Direct connect mini.flash.2144.com:80
+[2019-05-21 21:41:54] [Info] Direct connect mini.flash.2144.com:80
+[2019-05-21 21:41:56] [Info] Direct connect mini.flash.2144.com:80
+[2019-05-21 21:41:56] [Info] Direct connect mini.flash.2144.com:80
+[2019-05-21 21:41:57] [Info] Direct connect mini.flash.2144.com:80

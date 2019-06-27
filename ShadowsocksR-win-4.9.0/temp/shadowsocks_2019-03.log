@@ -1,0 +1,494 @@
+[2019-03-04 21:35:05] ShadowsocksR started on port 1080
+[2019-03-04 21:35:14] [Info] Connect accounts.google.com:443
+[2019-03-04 21:35:15] [Info] Connect raw.githubusercontent.com:443
+[2019-03-04 21:35:40] [Info] Direct connect update.googleapis.com:443
+[2019-03-04 21:35:47] [Info] Connect www.googleapis.com:443
+[2019-03-04 21:35:47] [Info] Disconnect www.googleapis.com:443
+[2019-03-04 21:35:52] [Info] Disconnect raw.githubusercontent.com:443
+[2019-03-04 21:35:52] [Info] Disconnect accounts.google.com:443
+[2019-03-04 21:35:55] [Info] Connect www.googleapis.com:443
+[2019-03-04 21:35:57] [Info] Connect clients4.google.com:443
+[2019-03-04 21:35:58] [Info] Connect www.google.com:443
+[2019-03-04 21:35:58] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-03-04 21:35:58] [Info] Connect id.google.com:443
+[2019-03-04 21:35:58] [Info] Direct connect ssl.gstatic.com:443
+[2019-03-04 21:35:58] [Info] Direct connect www.gstatic.com:443
+[2019-03-04 21:35:58] [Info] Connect lh3.googleusercontent.com:443
+[2019-03-04 21:35:58] [Info] Connect apis.google.com:443
+[2019-03-04 21:36:00] [Info] Connect clients5.google.com:443
+[2019-03-04 21:36:00] [Info] Connect ogs.google.com:443
+[2019-03-04 21:36:01] [Info] Connect www.fsf.org:443
+[2019-03-04 21:36:01] [Info] Connect www.fsf.org:443
+[2019-03-04 21:36:01] [Info] Connect clients1.google.com:443
+[2019-03-04 21:36:02] [Info] Direct connect adservice.google.com:443
+[2019-03-04 21:36:03] [Info] Connect accounts.google.com:443
+[2019-03-04 21:36:05] [Info] Connect notifications.google.com:443
+[2019-03-04 21:36:06] [Info] Connect static.fsf.org:443
+[2019-03-04 21:36:06] [Info] Connect static.fsf.org:443
+[2019-03-04 21:36:07] [Info] Connect static.fsf.org:443
+[2019-03-04 21:36:13] [Info] Disconnect static.fsf.org:443
+[2019-03-04 21:36:14] [Info] Disconnect static.fsf.org:443
+[2019-03-04 21:36:14] [Info] Disconnect static.fsf.org:443
+[2019-03-04 21:37:30] [Info] Connect android.clients.google.com:443
+[2019-03-04 21:37:30] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-03-04 21:37:30] [Info] Disconnect www.fsf.org:443
+[2019-03-04 21:38:03] [Info] Disconnect www.fsf.org:443
+[2019-03-04 21:38:12] [Info] Direct connect cdn.staticfile.org:443
+[2019-03-04 21:38:12] [Info] Connect github.githubassets.com:443
+[2019-03-04 21:38:12] [Info] Connect github.com:443
+[2019-03-04 21:38:12] [Info] Connect github.com:443
+[2019-03-04 21:38:12] [Info] Connect avatars0.githubusercontent.com:443
+[2019-03-04 21:38:12] [Info] Connect avatars2.githubusercontent.com:443
+[2019-03-04 21:38:12] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-03-04 21:38:12] [Info] Connect collector.githubapp.com:443
+[2019-03-04 21:38:12] [Info] Connect api.github.com:443
+[2019-03-04 21:38:12] [Info] Connect live.github.com:443
+[2019-03-04 21:38:14] [Info] Direct connect cuiqingcai.com:443
+[2019-03-04 21:38:14] [Info] Direct connect www.xiaoxiaoming.net:80
+[2019-03-04 21:38:14] [Info] Direct connect cuiqingcai.com:443
+[2019-03-04 21:38:14] [Info] Connect ajax.googleapis.com:443
+[2019-03-04 21:38:14] [Info] Connect pixabay.com:443
+[2019-03-04 21:38:14] [Info] Direct connect www.xiaoxiaoming.net:80
+[2019-03-04 21:38:16] [Info] Direct connect www.googletagservices.com:443
+[2019-03-04 21:38:17] [Info] Connect adman.henghost.com:443
+[2019-03-04 21:38:17] [Info] Connect cdn.pixabay.com:443
+[2019-03-04 21:38:20] [Info] Disconnect adman.henghost.com:443
+[2019-03-04 21:38:28] [Info] Disconnect github.com:443
+[2019-03-04 21:38:28] [Info] Disconnect github.com:443
+[2019-03-04 21:38:31] [Info] Disconnect avatars0.githubusercontent.com:443
+[2019-03-04 21:38:31] [Info] Disconnect avatars2.githubusercontent.com:443
+[2019-03-04 21:38:31] [Info] Disconnect github.githubassets.com:443
+[2019-03-04 21:38:32] [Info] Connect pixabay.com:443
+[2019-03-04 21:38:32] [Info] Connect pixabay.com:443
+[2019-03-04 21:38:32] [Info] Connect cdn.carbonads.com:443
+[2019-03-04 21:38:32] [Info] Connect connect.facebook.net:443
+[2019-03-04 21:38:32] [Info] Connect image.shutterstock.com:443
+[2019-03-04 21:38:32] [Info] Connect image.shutterstock.com:443
+[2019-03-04 21:38:32] [Info] Connect image.shutterstock.com:443
+[2019-03-04 21:38:32] [Info] Connect image.shutterstock.com:443
+[2019-03-04 21:38:34] [Info] Disconnect image.shutterstock.com:443
+[2019-03-04 21:38:34] [Info] Connect staticxx.facebook.com:443
+[2019-03-04 21:38:37] [Info] Connect srv.carbonads.net:443
+[2019-03-04 21:38:38] [Info] Connect cdn4.buysellads.net:443
+[2019-03-04 21:38:39] [Info] Disconnect cdn.carbonads.com:443
+[2019-03-04 21:38:41] [Info] Connect www.facebook.com:443
+[2019-03-04 21:38:44] [Info] Disconnect image.shutterstock.com:443
+[2019-03-04 21:38:44] [Info] Disconnect image.shutterstock.com:443
+[2019-03-04 21:38:47] [Info] Disconnect pixabay.com:443
+[2019-03-04 21:38:48] [Info] Disconnect srv.carbonads.net:443
+[2019-03-04 21:38:48] [Info] Direct connect www.gstatic.com:443
+[2019-03-04 21:38:53] [Info] Direct connect fonts.gstatic.com:443
+[2019-03-04 21:39:15] [Info] Disconnect api.github.com:443
+[2019-03-04 21:39:20] [Info] Disconnect collector.githubapp.com:443
+[2019-03-04 21:39:29] [Info] Direct connect oth.ludashi.com:80
+[2019-03-04 21:39:33] [Info] Disconnect pixabay.com:443
+[2019-03-04 21:39:39] [Info] Disconnect connect.facebook.net:443
+[2019-03-04 21:39:40] [Info] Disconnect staticxx.facebook.com:443
+[2019-03-04 21:39:42] [Info] Disconnect cdn4.buysellads.net:443
+[2019-03-04 21:39:45] [Info] Disconnect image.shutterstock.com:443
+[2019-03-04 21:39:48] [Info] Disconnect www.facebook.com:443
+[2019-03-04 21:39:57] [Info] Disconnect www.googleapis.com:443
+[2019-03-04 21:40:04] [Info] Disconnect accounts.google.com:443
+[2019-03-04 21:40:09] [Info] Disconnect notifications.google.com:443
+[2019-03-04 21:40:09] [Info] Disconnect apis.google.com:443
+[2019-03-04 21:40:15] [Info] Connect raw.githubusercontent.com:443
+[2019-03-04 21:40:19] [Info] Connect accounts.google.com:443
+[2019-03-04 21:40:20] [Info] Direct connect intf-pc.ludashi.com:80
+[2019-03-04 21:40:23] [Info] Connect t3.ftcdn.net:443
+[2019-03-04 21:40:23] [Info] Connect srv.carbonads.net:443
+[2019-03-04 21:40:23] [Info] Connect t4.ftcdn.net:443
+[2019-03-04 21:40:23] [Info] Connect t3.ftcdn.net:443
+[2019-03-04 21:40:24] [Info] Connect t4.ftcdn.net:443
+[2019-03-04 21:40:26] [Info] Connect cdn4.buysellads.net:443
+[2019-03-04 21:40:27] [Info] Connect www.facebook.com:443
+[2019-03-04 21:40:36] [Info] Disconnect srv.carbonads.net:443
+[2019-03-04 21:40:42] [Info] Disconnect t4.ftcdn.net:443
+[2019-03-04 21:40:42] [Info] Disconnect t3.ftcdn.net:443
+[2019-03-04 21:40:59] [Info] Connect pixabay.com:443
+[2019-03-04 21:40:59] [Info] Disconnect pixabay.com:443
+[2019-03-04 21:41:41] [Info] Disconnect cdn4.buysellads.net:443
+[2019-03-04 21:41:47] [Info] Disconnect android.clients.google.com:443
+[2019-03-04 21:41:48] [Info] Disconnect www.facebook.com:443
+[2019-03-04 21:41:49] [Info] Connect pixabay.com:443
+[2019-03-04 21:41:49] [Info] Disconnect pixabay.com:443
+[2019-03-04 21:41:50] [Info] Connect pixabay.com:443
+[2019-03-04 21:41:52] [Info] Connect image.shutterstock.com:443
+[2019-03-04 21:41:52] [Info] Disconnect pixabay.com:443
+[2019-03-04 21:41:52] [Info] Connect image.shutterstock.com:443
+[2019-03-04 21:41:52] [Info] Connect image.shutterstock.com:443
+[2019-03-04 21:41:52] [Info] Connect image.shutterstock.com:443
+[2019-03-04 21:41:52] [Info] Connect image.shutterstock.com:443
+[2019-03-04 21:41:52] [Info] Connect image.shutterstock.com:443
+[2019-03-04 21:41:57] [Info] Disconnect raw.githubusercontent.com:443
+[2019-03-04 21:42:03] [Info] Connect srv.carbonads.net:443
+[2019-03-04 21:42:04] [Info] Disconnect image.shutterstock.com:443
+[2019-03-04 21:42:04] [Info] Disconnect image.shutterstock.com:443
+[2019-03-04 21:42:04] [Info] Disconnect image.shutterstock.com:443
+[2019-03-04 21:42:04] [Info] Disconnect image.shutterstock.com:443
+[2019-03-04 21:42:04] [Info] Disconnect image.shutterstock.com:443
+[2019-03-04 21:42:05] [Info] Connect cdn4.buysellads.net:443
+[2019-03-04 21:42:11] [Info] Connect www.facebook.com:443
+[2019-03-04 21:42:16] [Info] Disconnect ajax.googleapis.com:443
+[2019-03-04 21:42:16] [Info] Disconnect srv.carbonads.net:443
+[2019-03-04 21:42:54] [Info] Disconnect www.google.com:443
+[2019-03-04 21:43:17] [Info] Disconnect www.facebook.com:443
+[2019-03-04 21:44:16] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-03-04 21:44:51] [Info] Connect srv.carbonads.net:443
+[2019-03-04 21:45:00] [Info] Connect www.facebook.com:443
+[2019-03-04 21:45:03] [Info] Direct connect updatem.360safe.com:80
+[2019-03-04 21:45:04] [Info] Direct connect src.dl.360safe.com:80
+[2019-03-04 21:45:09] [Info] Disconnect srv.carbonads.net:443
+[2019-03-04 21:45:23] [Info] Connect srv.carbonads.net:443
+[2019-03-04 21:45:36] [Info] Disconnect srv.carbonads.net:443
+[2019-03-04 21:46:33] [Info] Disconnect www.facebook.com:443
+[2019-03-04 21:46:35] [Info] Disconnect pixabay.com:443
+[2019-03-04 21:46:59] [Info] Disconnect image.shutterstock.com:443
+[2019-03-04 21:47:58] [Info] Connect dev.xiaoxiaoming.net:80
+[2019-03-04 21:47:58] [Info] Direct connect cdn.staticfile.org:443
+[2019-03-04 21:47:59] [Info] Disconnect dev.xiaoxiaoming.net:80
+[2019-03-04 21:48:05] [Info] Connect www.google.com:443
+[2019-03-04 21:48:05] [Info] Connect www.google.com:443
+[2019-03-04 21:48:08] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 21:48:08] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 21:48:08] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 21:48:08] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 21:48:16] [Info] Disconnect www.google.com:443
+[2019-03-04 21:48:24] [Info] Disconnect cdn.pixabay.com:443
+[2019-03-04 21:48:26] [Info] Disconnect cdn4.buysellads.net:443
+[2019-03-04 21:52:07] [Info] Disconnect www.google.com:443
+[2019-03-04 21:54:16] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-03-04 21:55:11] [Info] Disconnect clients4.google.com:443
+[2019-03-04 21:55:32] [Info] Connect www.google.com:443
+[2019-03-04 21:55:32] [Info] Connect www.google.com:443
+[2019-03-04 21:55:32] [Info] Direct connect www.gstatic.com:443
+[2019-03-04 21:55:32] [Info] Direct connect ssl.gstatic.com:443
+[2019-03-04 21:55:32] [Info] Connect www.google.com:443
+[2019-03-04 21:55:32] [Info] Connect s2.googleusercontent.com:443
+[2019-03-04 21:55:32] [Info] Connect s2.googleusercontent.com:443
+[2019-03-04 21:55:35] [Info] Direct connect demo.dmfly.xin:80
+[2019-03-04 21:55:35] [Info] Direct connect demo.dmfly.xin:80
+[2019-03-04 21:55:35] [Info] Connect clients4.google.com:443
+[2019-03-04 21:55:37] [Info] Direct connect demo.dmfly.xin:80
+[2019-03-04 21:55:37] [Info] Direct connect demo.dmfly.xin:80
+[2019-03-04 21:55:38] [Info] Direct connect demo.dmfly.xin:80
+[2019-03-04 21:55:38] [Info] Direct connect demo.dmfly.xin:80
+[2019-03-04 21:55:39] [Info] Direct connect demo.dmfly.xin:80
+[2019-03-04 21:55:39] [Info] Direct connect demo.dmfly.xin:80
+[2019-03-04 21:55:39] [Info] Direct connect demo.dmfly.xin:80
+[2019-03-04 21:55:39] [Info] Direct connect demo.dmfly.xin:80
+[2019-03-04 21:55:39] [Info] Direct connect demo.dmfly.xin:80
+[2019-03-04 21:55:39] [Info] Direct connect demo.dmfly.xin:80
+[2019-03-04 21:55:43] [Info] Disconnect www.google.com:443
+[2019-03-04 21:55:43] [Info] Connect ogs.google.com:443
+[2019-03-04 21:55:44] [Info] Disconnect s2.googleusercontent.com:443
+[2019-03-04 21:55:44] [Info] Disconnect clients5.google.com:443
+[2019-03-04 21:55:44] [Info] Disconnect ogs.google.com:443
+[2019-03-04 21:55:45] [Info] Direct connect demo.dmfly.xin:80
+[2019-03-04 21:55:45] [Info] Direct connect demo.dmfly.xin:80
+[2019-03-04 21:55:47] [Info] Direct connect www.gstatic.com:443
+[2019-03-04 21:55:47] [Info] Connect apis.google.com:443
+[2019-03-04 21:55:47] [Info] Direct connect ssl.gstatic.com:443
+[2019-03-04 21:55:49] [Info] Connect clients5.google.com:443
+[2019-03-04 21:55:54] [Info] Connect notifications.google.com:443
+[2019-03-04 21:55:55] [Info] Direct connect www.xiaoxiaoming.net:80
+[2019-03-04 21:55:55] [Info] Direct connect cdn.bootcss.com:443
+[2019-03-04 21:55:55] [Info] Connect avatars1.githubusercontent.com:443
+[2019-03-04 21:55:55] [Info] Direct connect cdn.bootcss.com:443
+[2019-03-04 21:55:56] [Info] Connect play.google.com:443
+[2019-03-04 21:56:10] [Info] Direct connect www.xiaoxiaoming.net:80
+[2019-03-04 21:56:22] [Info] Direct connect www.googletagservices.com:443
+[2019-03-04 21:56:28] [Info] Direct connect www.gstatic.com:443
+[2019-03-04 21:56:28] [Info] Direct connect ssl.gstatic.com:443
+[2019-03-04 21:56:34] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-03-04 21:56:34] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-03-04 21:58:33] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 21:58:33] [Info] Direct connect cdn.staticfile.org:443
+[2019-03-04 21:58:34] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 21:58:34] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 21:58:34] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 21:58:34] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 21:59:50] [Info] Disconnect clients5.google.com:443
+[2019-03-04 21:59:56] [Info] Disconnect apis.google.com:443
+[2019-03-04 21:59:56] [Info] Disconnect notifications.google.com:443
+[2019-03-04 21:59:58] [Info] Disconnect play.google.com:443
+[2019-03-04 22:00:28] [Info] Disconnect www.google.com:443
+[2019-03-04 22:00:28] [Info] Disconnect s2.googleusercontent.com:443
+[2019-03-04 22:00:30] [Info] Disconnect ogs.google.com:443
+[2019-03-04 22:00:31] [Info] Disconnect www.google.com:443
+[2019-03-04 22:02:45] [Info] Disconnect clients4.google.com:443
+[2019-03-04 22:03:48] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-03-04 22:04:16] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-03-04 22:11:44] [Info] Connect clients4.google.com:443
+[2019-03-04 22:11:44] [Info] Disconnect avatars1.githubusercontent.com:443
+[2019-03-04 22:12:10] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:12:11] [Info] Direct connect cdn.staticfile.org:443
+[2019-03-04 22:12:11] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:12:11] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:12:11] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:12:11] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:13:01] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:13:01] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:13:39] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:13:39] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:13:41] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:13:41] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:14:16] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-03-04 22:14:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:14:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:16:44] [Info] Connect www.googleapis.com:443
+[2019-03-04 22:16:46] [Info] Connect lh4.googleusercontent.com:443
+[2019-03-04 22:17:44] [Info] Direct connect www.gstatic.com:443
+[2019-03-04 22:18:05] [Info] Connect www.google.com:443
+[2019-03-04 22:18:05] [Info] Connect www.google.com:443
+[2019-03-04 22:18:05] [Info] Direct connect ssl.gstatic.com:443
+[2019-03-04 22:18:05] [Info] Direct connect www.gstatic.com:443
+[2019-03-04 22:18:05] [Info] Connect s2.googleusercontent.com:443
+[2019-03-04 22:18:06] [Info] Connect s2.googleusercontent.com:443
+[2019-03-04 22:18:07] [Info] Connect ogs.google.com:443
+[2019-03-04 22:18:09] [Info] Direct connect ss0.bdstatic.com:443
+[2019-03-04 22:18:11] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-03-04 22:18:13] [Info] Connect cc-collab.adobe.io:443
+[2019-03-04 22:18:14] [Info] Direct connect cuiqingcai.com:443
+[2019-03-04 22:18:14] [Info] Direct connect cuiqingcai.com:443
+[2019-03-04 22:18:25] [Info] Connect cc-collab.adobe.io:443
+[2019-03-04 22:20:48] [Info] Disconnect lh4.googleusercontent.com:443
+[2019-03-04 22:22:06] [Info] Disconnect www.google.com:443
+[2019-03-04 22:22:07] [Info] Disconnect s2.googleusercontent.com:443
+[2019-03-04 22:22:07] [Info] Disconnect s2.googleusercontent.com:443
+[2019-03-04 22:22:08] [Info] Disconnect ogs.google.com:443
+[2019-03-04 22:22:09] [Info] Disconnect www.google.com:443
+[2019-03-04 22:22:39] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:22:39] [Info] Direct connect cdn.staticfile.org:443
+[2019-03-04 22:22:39] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:22:39] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:22:39] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:22:39] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:22:41] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:22:42] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:22:42] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:11] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:11] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:11] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:11] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:11] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:14] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:14] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:14] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:14] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:14] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:14] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:14] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:14] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:14] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:15] [Info] Disconnect cc-collab.adobe.io:443
+[2019-03-04 22:23:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:16] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:17] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:18] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:19] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:19] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:19] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:19] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:19] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:19] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:19] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:19] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:19] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:19] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:19] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:19] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:19] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:19] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:23:35] [Info] Disconnect cc-collab.adobe.io:443
+[2019-03-04 22:24:03] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:04] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:04] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:04] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:04] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:04] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:04] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:04] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:05] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:06] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:06] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:06] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:24:16] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-03-04 22:24:30] [Info] Connect lh4.googleusercontent.com:443
+[2019-03-04 22:25:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:25:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:25:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:25:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:25:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:25:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:25:36] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:25:36] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:25:38] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:26:27] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:26:27] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:26:27] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:26:27] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:26:28] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:27:36] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:27:36] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:27:36] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:27:36] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:27:36] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:28:32] [Info] Disconnect lh4.googleusercontent.com:443
+[2019-03-04 22:28:50] [Info] Connect www.google.com:443
+[2019-03-04 22:28:50] [Info] Connect www.google.com:443
+[2019-03-04 22:28:50] [Info] Direct connect www.gstatic.com:443
+[2019-03-04 22:28:50] [Info] Direct connect ssl.gstatic.com:443
+[2019-03-04 22:28:50] [Info] Connect s2.googleusercontent.com:443
+[2019-03-04 22:28:50] [Info] Connect s2.googleusercontent.com:443
+[2019-03-04 22:28:51] [Info] Connect t0.gstatic.com:443
+[2019-03-04 22:28:51] [Info] Connect t0.gstatic.com:443
+[2019-03-04 22:28:52] [Info] Connect ogs.google.com:443
+[2019-03-04 22:28:55] [Info] Direct connect www.yangfan.cc:80
+[2019-03-04 22:28:56] [Info] Direct connect www.yangfan.cc:80
+[2019-03-04 22:28:58] [Info] Direct connect www.yangfan.cc:80
+[2019-03-04 22:28:59] [Info] Direct connect www.yangfan.cc:80
+[2019-03-04 22:28:59] [Info] Direct connect www.yangfan.cc:80
+[2019-03-04 22:28:59] [Info] Direct connect www.yangfan.cc:80
+[2019-03-04 22:29:58] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:29:58] [Info] Direct connect cdn.staticfile.org:443
+[2019-03-04 22:29:58] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:29:58] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:29:59] [Info] Disconnect s2.googleusercontent.com:443
+[2019-03-04 22:29:59] [Info] Disconnect t0.gstatic.com:443
+[2019-03-04 22:29:59] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:29:59] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:32:51] [Info] Disconnect www.google.com:443
+[2019-03-04 22:32:52] [Info] Disconnect t0.gstatic.com:443
+[2019-03-04 22:32:52] [Info] Disconnect s2.googleusercontent.com:443
+[2019-03-04 22:32:53] [Info] Disconnect ogs.google.com:443
+[2019-03-04 22:32:54] [Info] Disconnect www.google.com:443
+[2019-03-04 22:33:36] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-03-04 22:34:04] [Info] Connect www.google.com:443
+[2019-03-04 22:34:04] [Info] Connect www.google.com:443
+[2019-03-04 22:34:04] [Info] Direct connect ssl.gstatic.com:443
+[2019-03-04 22:34:04] [Info] Direct connect www.gstatic.com:443
+[2019-03-04 22:34:04] [Info] Connect apis.google.com:443
+[2019-03-04 22:34:04] [Info] Connect s2.googleusercontent.com:443
+[2019-03-04 22:34:05] [Info] Connect www.google.com:443
+[2019-03-04 22:34:05] [Info] Connect s2.googleusercontent.com:443
+[2019-03-04 22:34:08] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-03-04 22:34:08] [Info] Direct connect ss0.bdstatic.com:443
+[2019-03-04 22:34:14] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-03-04 22:34:14] [Info] Direct connect ss2.bdstatic.com:443
+[2019-03-04 22:34:15] [Info] Disconnect www.google.com:443
+[2019-03-04 22:34:16] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-03-04 22:34:20] [Info] Direct connect sofire.bdstatic.com:443
+[2019-03-04 22:34:20] [Info] Direct connect fex.bdstatic.com:443
+[2019-03-04 22:34:20] [Info] Direct connect gss0.bdstatic.com:443
+[2019-03-04 22:34:20] [Info] Disconnect s2.googleusercontent.com:443
+[2019-03-04 22:34:20] [Info] Disconnect apis.google.com:443
+[2019-03-04 22:34:21] [Info] Direct connect gh.bdstatic.com:443
+[2019-03-04 22:34:32] [Info] Direct connect exp.bdstatic.com:443
+[2019-03-04 22:38:05] [Info] Disconnect s2.googleusercontent.com:443
+[2019-03-04 22:38:06] [Info] Disconnect www.google.com:443
+[2019-03-04 22:38:07] [Info] Disconnect www.google.com:443
+[2019-03-04 22:38:34] [Info] Disconnect clients4.google.com:443
+[2019-03-04 22:44:16] [Info] Direct connect cdn-file.ludashi.com:80
+[2019-03-04 22:44:21] [Info] Connect hbrcv.adobe.com:443
+[2019-03-04 22:44:25] [Info] Disconnect hbrcv.adobe.com:443
+[2019-03-04 22:44:41] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:44:41] [Info] Direct connect cdn.staticfile.org:443
+[2019-03-04 22:44:41] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:44:41] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:44:41] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:44:41] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:44:43] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:44:43] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:44:44] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:44:44] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:44:44] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:44:52] [Info] Connect clients4.google.com:443
+[2019-03-04 22:45:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:45:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:45:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:45:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:45:35] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:46:06] [Info] Direct connect updatem.360safe.com:80
+[2019-03-04 22:46:06] [Info] Direct connect src.dl.360safe.com:80
+[2019-03-04 22:46:12] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:46:12] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:46:12] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:46:12] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:46:12] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:47:58] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:47:58] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:47:58] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:47:58] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:47:58] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:48:08] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:48:08] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:48:20] [Info] Direct connect qiniu.cuiqingcai.com:443
+[2019-03-04 22:48:20] [Info] Direct connect qiniu.cuiqingcai.com:443
+[2019-03-04 22:48:20] [Info] Direct connect qiniu.cuiqingcai.com:443
+[2019-03-04 22:48:32] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:48:32] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:48:32] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:48:32] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:48:32] [Info] Direct connect dev.xiaoxiaoming.net:80
+[2019-03-04 22:48:56] [Info] Disconnect live.github.com:443
+[2019-03-04 22:48:56] [Info] Disconnect t4.ftcdn.net:443
+[2019-03-04 22:48:56] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-03-04 22:48:56] [Info] Disconnect id.google.com:443
+[2019-03-04 22:48:56] [Info] Disconnect www.googleapis.com:443
+[2019-03-04 22:48:56] [Info] Disconnect clients1.google.com:443
+[2019-03-04 22:48:56] [Info] Disconnect t3.ftcdn.net:443
+[2019-03-04 22:48:56] [Info] Disconnect clients4.google.com:443
+[2019-03-04 22:48:56] [Info] Disconnect accounts.google.com:443
